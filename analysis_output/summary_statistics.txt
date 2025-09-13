@@ -1,0 +1,37 @@
+
+AMSTERDAM INSECT OBSERVATION ANALYSIS
+=====================================
+
+OVERALL STATISTICS
+------------------
+Total Observations: 15,650
+Total Species: 685
+Total Locations: 487
+Total Observers: 1,738
+Date Range: 2025-08-14 00:00:00 to 2025-09-13 00:00:00
+
+OBSERVATIONS BY INSECT GROUP
+----------------------------
+Moths: 7,121 observations (45.5%)
+Flies: 1,969 observations (12.6%)
+Bees_Wasps_and_Ants: 1,815 observations (11.6%)
+Butterflies: 1,535 observations (9.8%)
+Bugs_Plant_Lice_and_Cicadas: 1,200 observations (7.7%)
+Beetles: 599 observations (3.8%)
+Dragonflies: 575 observations (3.7%)
+Other_Insects: 493 observations (3.2%)
+Locusts_and_Crickets: 343 observations (2.2%)
+
+
+TOP 10 MOST OBSERVED SPECIES
+----------------------------
+Vine's Rustic: 316 observations
+Large Yellow Underwing: 299 observations
+Setaceous Hebrew Character: 295 observations
+Common Carder Bumblebee: 291 observations
+Speckled Wood: 209 observations
+Common Drone Fly: 200 observations
+Small Dusty Wave: 185 observations
+Asian Hornet: 171 observations
+Double-striped Pug: 163 observations
+Box-tree Moth: 158 observations

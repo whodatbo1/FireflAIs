@@ -1,0 +1,538 @@
+id,common_name,scientific_name,date,time,count,longitude,latitude,location,observer,group_name,date_only
+369702607,Red Admiral,Vanessa atalanta,2025-08-21,15:45,4,4.812505,52.44324,Zaandam - Zaandam-West,ewoud de beeldvanger,Butterflies,2025-08-21
+369674942,Southern Small White,Pieris mannii,2025-08-21,12:42,1,4.802839569747448,52.45686788370572,Koog aan de Zaan,Marieke Stam,Butterflies,2025-08-21
+369730750,Small White,Pieris rapae,2025-08-21,16:09,1,5.043678499999942,52.312247,Weesp - Bloemendalerpolder,Jeroen Hoek,Butterflies,2025-08-21
+369826933,Speckled Wood,Pararge aegeria,2025-08-21,11:39,1,4.94067371,52.34146717,Amsterdam - Nieuwe Oosterbegraafplaats,Els Velzing,Butterflies,2025-08-21
+369783574,Speckled Wood,Pararge aegeria,2025-08-21,15:57,1,4.879430294036865,52.457820892333984,Oostzaan - Het Twiske - Smaal,Pauline Klinkenberg,Butterflies,2025-08-21
+369678524,Small White,Pieris rapae,2025-08-21,15:33,1,4.82347093,52.4670578,Zaandam - Het Kalf,Mick Brinkkemper,Butterflies,2025-08-21
+369750176,Red Admiral,Vanessa atalanta,2025-08-21,15:37,1,4.8847448,52.35924419972223,Amsterdam - Rijksmuseum en Museumkwartier,Himbie,Butterflies,2025-08-21
+369731224,Painted Lady,Vanessa cardui,2025-08-21,16:52,1,4.894264340400696,52.44583534656791,Oostzaan - Het Twiske - De Blokken,Tineke Prins,Butterflies,2025-08-21
+369701688,Clouded Yellow,Colias crocea,2025-08-21,16:53,1,4.893978595733643,52.446441650390625,Oostzaan - Het Twiske - De Blokken,Tineke Prins,Butterflies,2025-08-21
+369690705,Clouded Yellow,Colias crocea,2025-08-21,16:52,1,4.893971666666666,52.44645333333333,Oostzaan - Het Twiske - De Blokken,Agnes Noordermeer,Butterflies,2025-08-21
+369704162,Painted Lady,Vanessa cardui,2025-08-21,16:52,1,4.894264340400696,52.44583534656791,Oostzaan - Het Twiske - De Blokken,Agnes Noordermeer,Butterflies,2025-08-21
+369702501,Swallowtail,Papilio machaon,2025-08-21,15:15,1,4.81250524520874,52.443240376199626,Zaandam - Zaandam-West,ewoud de beeldvanger,Butterflies,2025-08-21
+369703007,Speckled Wood,Pararge aegeria,2025-08-21,14:45,2,4.812784194946289,52.44363807176393,Zaandam - Zaandam-West,ewoud de beeldvanger,Butterflies,2025-08-21
+369702770,Cabbage White unknown,Pieris spec.,2025-08-21,15:45,1,4.812505,52.44324,Zaandam - Zaandam-West,ewoud de beeldvanger,Butterflies,2025-08-21
+369694018,Clouded Yellow,Colias crocea,2025-08-21,11:58,1,4.776590347290039,52.47259521484375,A8 - Westzaan,Cor Wouda,Butterflies,2025-08-21
+369684989,Comma,Polygonia c-album,2025-08-21,16:15,1,4.945593775898894,52.35842024795542,Amsterdam - Flevopark,juliette,Butterflies,2025-08-21
+369680844,Small White,Pieris rapae,2025-08-21,15:48,1,4.8339605,52.4439789,Zaandam - Rosmolenwijk,Anne,Butterflies,2025-08-21
+369675182,Comma,Polygonia c-album,2025-08-21,15:11,1,4.743983681267457,52.26925404005508,Aalsmeer,Mariska,Butterflies,2025-08-21
+369674948,Small White,Pieris rapae,2025-08-21,12:41,1,4.802862033247948,52.45687850747889,Koog aan de Zaan,Marieke Stam,Butterflies,2025-08-21
+369673210,Large White,Pieris brassicae,2025-08-21,14:56,1,4.9162478,52.3655073,Amsterdam - ARTIS,Cornelis Splinter,Butterflies,2025-08-21
+369672143,Red Admiral,Vanessa atalanta,2025-08-21,14:48,1,4.929113,52.3894408,Amsterdam - Vliegenbos,Bchoetjes,Butterflies,2025-08-21
+369671882,Large White,Pieris brassicae,2025-08-21,14:46,1,4.917728424072266,52.399471282958984,Amsterdam - Noord,Stan v. Remmerden,Butterflies,2025-08-21
+369671727,Comma,Polygonia c-album,2025-08-21,14:44,1,4.9284836,52.3883538,Amsterdam - Vliegenbos,Bchoetjes,Butterflies,2025-08-21
+369668988,Map,Araschnia levana,2025-08-21,14:30,1,4.9767341,52.2876359,Amsterdam - De Hoge Dijk,snapology,Butterflies,2025-08-21
+369668897,Map,Araschnia levana,2025-08-21,14:29,1,4.9768863,52.287539,Amsterdam - De Hoge Dijk,snapology,Butterflies,2025-08-21
+369666297,Large White,Pieris brassicae,2025-08-21,14:01,1,4.8690182,52.202007299722226,Mijdrecht,hpouw,Butterflies,2025-08-21
+369660112,Swallowtail,Papilio machaon,2025-08-21,13:16,1,4.812256813049316,52.4526481628418,Zaandam - Zaandam-West,Huib Versloot,Butterflies,2025-08-21
+369657414,Map,Araschnia levana,2025-08-21,10:30,1,4.849783420562744,52.330814361572266,Amsterdamse Bos - Koenenbos,Han Jacobs,Butterflies,2025-08-21
+369657411,Small Copper,Lycaena phlaeas,2025-08-21,10:30,1,4.849781036376953,52.330806732177734,Amsterdamse Bos - Koenenbos,Han Jacobs,Butterflies,2025-08-21
+369657405,Painted Lady,Vanessa cardui,2025-08-21,11:08,1,4.849856376647949,52.33074569702149,Amsterdamse Bos - Koenenbos,Han Jacobs,Butterflies,2025-08-21
+369653970,Speckled Wood,Pararge aegeria,2025-08-21,12:36,1,4.9936366,52.4907297,Purmerend - Purmerbos,Nature_is_fabulous_nl,Butterflies,2025-08-21
+369651042,Green-veined White,Pieris napi,2025-08-21,12:03,1,4.909166666666667,52.33111111111111,Amsterdam - Volkstuincomplex Amstelglorie,Jon Silber,Butterflies,2025-08-21
+369635323,Map,Araschnia levana,2025-08-21,10:30,1,5.01432,52.343204,Diemen - Vijfhoek,Wim van der Schot,Butterflies,2025-08-21
+369626591,Map,Araschnia levana,2025-08-21,09:55,1,4.999842960392125,52.48113545128408,Purmerend - Polder de Purmer - Zuid,rick molenaar,Butterflies,2025-08-21
+369826907,Western Willow Spreadwing,Chalcolestes viridis,2025-08-21,11:39,1,4.94067371,52.34146717,Amsterdam - Nieuwe Oosterbegraafplaats,Els Velzing,Dragonflies,2025-08-21
+369826783,Blue Emperor,Anax imperator,2025-08-21,11:31,1,4.94220793,52.34384978,Amsterdam - Nieuwe Oosterbegraafplaats,Els Velzing,Dragonflies,2025-08-21
+369715874,Southern Hawker,Aeshna cyanea,2025-08-21,16:06,1,4.762071132659912,52.39617538452149,Amsterdam - Geuzenbos,Han Jacobs,Dragonflies,2025-08-21
+369684767,Common Bluetail,Ischnura elegans,2025-08-21,16:14,1,4.9767598,52.485087,Purmerend - Purmerbos,Z.Burghout,Dragonflies,2025-08-21
+369680449,Moustached Darter,Sympetrum vulgatum,2025-08-21,15:46,1,4.9820541,52.4828156,Purmerend - Purmerbos,Z.Burghout,Dragonflies,2025-08-21
+369679275,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-21,15:39,1,4.9812225,52.4830892,Purmerend - Purmerbos,Z.Burghout,Dragonflies,2025-08-21
+369677734,Western Willow Spreadwing,Chalcolestes viridis,2025-08-21,15:26,1,4.9791666,52.4850566,Purmerend - Purmerbos,Z.Burghout,Dragonflies,2025-08-21
+369668353,Ruddy Darter,Sympetrum sanguineum,2025-08-21,14:26,1,4.9764422,52.2883661,Amsterdam - De Hoge Dijk,snapology,Dragonflies,2025-08-21
+369668240,Ruddy Darter,Sympetrum sanguineum,2025-08-21,14:24,1,4.9760983,52.2884837,Amsterdam - De Hoge Dijk,snapology,Dragonflies,2025-08-21
+369664606,Migrant Hawker,Aeshna mixta,2025-08-21,10:49,1,4.959682345324836,52.493789704024366,Purmerend - Gors,Mats,Dragonflies,2025-08-21
+369657425,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-21,10:10,1,4.849990367889404,52.330787658691406,Amsterdamse Bos - Koenenbos,Han Jacobs,Dragonflies,2025-08-21
+369657423,Common Darter,Sympetrum striolatum,2025-08-21,10:10,1,4.849989414215088,52.33078384399414,Amsterdamse Bos - Koenenbos,Han Jacobs,Dragonflies,2025-08-21
+369657416,Common Bluetail,Ischnura elegans,2025-08-21,10:11,1,4.849987983703613,52.33076858520508,Amsterdamse Bos - Koenenbos,Han Jacobs,Dragonflies,2025-08-21
+369648477,Common Darter,Sympetrum striolatum,2025-08-21,12:22,1,4.880916666666667,52.35161166666666,Amsterdam - Oud-Zuid,joep rooijmans,Dragonflies,2025-08-21
+369637853,Common Winter Damsel,Sympecma fusca,2025-08-21,11:33,1,4.757441996062618,52.263764070148625,Aalsmeer,liesbeth schuit,Dragonflies,2025-08-21
+369628253,Common Winter Damsel,Sympecma fusca,2025-08-21,10:13,1,4.952732579929508,52.33205342029238,Diemen,Bruce,Dragonflies,2025-08-21
+369676485,Locust gall midge,Obolodiplosis robiniae,2025-08-21,15:20,1,4.9141122,52.3681587,Amsterdam - ARTIS,Cornelis Splinter,Flies,2025-08-21
+369702289,,Dolichopodidae indet.,2025-08-21,18:03,1,4.882741666666667,52.375703333333334,Amsterdam - noord-Jordaan,Pieter Hiddema,Flies,2025-08-21
+369611272,,Tipula marginella,2025-08-21,06:51,1,4.8980523,52.4110197,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Flies,2025-08-21
+370696012,,Rhagio tringarius,2025-08-21,06:02,1,5.095828325,52.31516303888888,Muiden - Zuidpolder beoosten Muiden,Jorf,Flies,2025-08-21
+370006252,Furry Drone Fly,Eristalis intricaria,2025-08-21,16:14,1,4.962588,52.287184,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Flies,2025-08-21
+370250796,Hornet Plumehorn,Volucella zonaria,2025-08-21,13:39,1,4.827619,52.234889,Uithoorn,Car Nuijens,Flies,2025-08-21
+369635007,,Macquartia grisea,2025-08-21,09:53,1,5.014320015907288,52.34320392440099,Diemen - Vijfhoek,Wim van der Schot,Flies,2025-08-21
+370008811,,Sarcophaga spec.,2025-08-21,16:28,1,4.962682,52.287042,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Flies,2025-08-21
+370007672,Stripe-faced Drone Fly,Eristalis nemorum,2025-08-21,16:35,1,4.962653,52.287199,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Flies,2025-08-21
+370007621,Stripe-winged Drone Fly,Eristalis horticola,2025-08-21,16:06,1,4.962653,52.287199,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Flies,2025-08-21
+370007528,,Melanomya nana,2025-08-21,16:34,1,4.962653,52.287199,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Flies,2025-08-21
+370007178,,Carcelia spec.,2025-08-21,16:31,1,4.962653,52.287199,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Flies,2025-08-21
+370006933,,Sarcophaga spec.,2025-08-21,16:28,1,4.962803,52.287051,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Flies,2025-08-21
+370006652,Marmalade Hoverfly,Episyrphus balteatus,2025-08-21,16:23,1,4.962803,52.287051,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Flies,2025-08-21
+370006139,Hornet Plumehorn,Volucella zonaria,2025-08-21,16:14,1,4.962588250637054,52.287184489213345,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Flies,2025-08-21
+369998687,Stripe-winged Drone Fly,Eristalis horticola,2025-08-21,16:04,1,4.962725,52.287109,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Flies,2025-08-21
+369998271,Parsley Blacklet,Cheilosia pagana,2025-08-21,15:59,1,4.962725043296814,52.287109016121825,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Flies,2025-08-21
+369998165,Common Drone Fly,Eristalis tenax,2025-08-21,16:02,1,4.962797,52.28707,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Flies,2025-08-21
+369997608,,Rhagio tringarius,2025-08-21,15:55,1,4.962687492370605,52.28699252429268,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Flies,2025-08-21
+369803834,,Clogmia albipunctata,2025-08-21,08:29,1,4.953814744949341,52.49343892220982,Purmerend - Gorsebos,Barend de Boer,Flies,2025-08-21
+369730756,Black-horned Gem,Microchrysa polita,2025-08-21,16:09,1,5.0436878,52.3122456,Weesp - Bloemendalerpolder,Jeroen Hoek,Flies,2025-08-21
+369713737,,Nephrotoma scurra,2025-08-21,18:45,1,4.829603333333333,52.245095,Uithoorn,Fred Scholte,Flies,2025-08-21
+369682990,,Psychoda spec.,2025-08-21,15:52,1,4.808363299722222,52.4562402,Koog aan de Zaan,Linda Melk,Flies,2025-08-21
+369702333,,Sciapus spec.,2025-08-21,18:03,1,4.88313,52.375728333333335,Amsterdam - noord-Jordaan,Pieter Hiddema,Flies,2025-08-21
+369697564,Unidentified Non-biting Midge,Chironomidae indet.,2025-08-21,17:32,1,4.9380255,52.4067511,A10 - Amsterdam,Peter,Flies,2025-08-21
+369686047,Common Batman Fly,Myathropa florea,2025-08-21,16:03,1,4.916416666666667,52.36697,Amsterdam - ARTIS,thijs de zeeuw,Flies,2025-08-21
+369685205,,Minettia longipennis,2025-08-21,15:47,1,4.916186666666666,52.36551333333333,Amsterdam - ARTIS,thijs de zeeuw,Flies,2025-08-21
+369684986,,Neoascia spec.,2025-08-21,15:46,1,4.916136666666667,52.36548666666667,Amsterdam - ARTIS,thijs de zeeuw,Flies,2025-08-21
+369681708,Common Batman Fly,Myathropa florea,2025-08-21,15:52,1,4.808363299722222,52.4562402,Koog aan de Zaan,Linda Melk,Flies,2025-08-21
+369681119,,Stomorhina lunata,2025-08-21,15:47,1,4.758051,52.233758972222226,Kudelstaart,Laurens Pronk,Flies,2025-08-21
+369680198,Black-thighed Flower Fly,Syrphus vitripennis,2025-08-21,15:44,1,4.9224432,52.3669346,Amsterdam - Kadijken,Cornelis Splinter,Flies,2025-08-21
+369673517,Stripe-winged Drone Fly,Eristalis horticola,2025-08-21,14:58,1,5.013543887960459,52.31370133514184,Driemond - Volkstuincomplex Linnaeus en Frankendael,Lies Opdam,Flies,2025-08-21
+369671304,Orange-belted Leafwalker,Xylota segnis,2025-08-21,14:41,1,4.9263237,52.3885682,Amsterdam - Vliegenbos,Bchoetjes,Flies,2025-08-21
+369669835,,Coenosia spec.,2025-08-21,14:34,1,4.9169519,52.3651917,Amsterdam - ARTIS,Cornelis Splinter,Flies,2025-08-21
+369668378,Common Globetail,Sphaerophoria scripta,2025-08-21,14:26,1,4.9208126,52.3950907,Amsterdam - Noorderpark,Bchoetjes,Flies,2025-08-21
+369668038,,Sarcophaga spec.,2025-08-21,14:24,1,4.8183521,52.4975458,Wormer,Gerard Mak,Flies,2025-08-21
+369667859,,Dexiosoma caninum,2025-08-21,11:45,1,4.95816,52.494151,Purmerend - Gors,Frank Reurs,Flies,2025-08-21
+369667552,Hornet Plumehorn,Volucella zonaria,2025-08-21,14:20,1,4.92058,52.3953533,Amsterdam - Noorderpark,Bchoetjes,Flies,2025-08-21
+369666882,Common Drone Fly,Eristalis tenax,2025-08-21,14:15,1,4.9705762,52.2889349,Amsterdam - Zuidoost,snapology,Flies,2025-08-21
+369666621,Yellow-barred Pond Fly,Sericomyia silentis,2025-08-21,11:52,1,4.958739,52.49419,Purmerend - Gors,Mats,Flies,2025-08-21
+369666545,,Agromyzidae indet.,2025-08-21,11:50,1,4.958739,52.49419,Purmerend - Gors,Mats,Flies,2025-08-21
+369666266,,Liriomyza eupatorii,2025-08-21,14:09,1,4.916347,52.365415,Amsterdam - ARTIS,Cornelis Splinter,Flies,2025-08-21
+369666183,,Lucilia spec.,2025-08-21,14:03,1,4.8691259,52.202027999722226,Mijdrecht,hpouw,Flies,2025-08-21
+369666058,Tapered Drone Fly,Eristalis pertinax,2025-08-21,14:08,1,4.9163404,52.365491,Amsterdam - ARTIS,Cornelis Splinter,Flies,2025-08-21
+369665860,,Coenosia tigrina,2025-08-21,14:06,1,4.9163132,52.3654036,Amsterdam - ARTIS,Cornelis Splinter,Flies,2025-08-21
+369665632,Common Batman Fly,Myathropa florea,2025-08-21,12:49,1,4.95884120464325,52.49415746672461,Purmerend - Gors,Mats,Flies,2025-08-21
+369665560,,Rhagio tringarius,2025-08-21,12:47,1,4.95912,52.493981,Purmerend - Gors,Mats,Flies,2025-08-21
+369665529,,Dexiosoma caninum,2025-08-21,12:42,1,4.95912,52.493981,Purmerend - Gors,Mats,Flies,2025-08-21
+369664916,,Fannia spec.,2025-08-21,12:33,1,4.959474205970764,52.49386351811495,Purmerend - Gors,Mats,Flies,2025-08-21
+369664634,Common Drone Fly,Eristalis tenax,2025-08-21,12:21,1,4.959682,52.49379,Purmerend - Gors,Mats,Flies,2025-08-21
+369658515,,Suillia spec.,2025-08-21,13:16,1,4.8336171,52.4517477,Zaandam - Burgemeester in 't Veldpark,Laoness,Flies,2025-08-21
+369658397,Common Drone Fly,Eristalis tenax,2025-08-21,13:13,1,4.909444444444444,52.33111111111111,Amsterdam - Volkstuincomplex Amstelglorie,Jon Silber,Flies,2025-08-21
+369658368,Stripe-winged Drone Fly,Eristalis horticola,2025-08-21,13:13,1,4.908888888888889,52.33166666666667,Amsterdam - Volkstuincomplex Amstelglorie,Jon Silber,Flies,2025-08-21
+369657357,Common Drone Fly,Eristalis tenax,2025-08-21,13:06,1,4.842313333333333,52.440575,Zaandam - Poelenburg,Fred Roovers,Flies,2025-08-21
+369655069,Marmalade Hoverfly,Episyrphus balteatus,2025-08-21,12:34,1,4.863960742950439,52.20588341242389,Mijdrecht,Gijs van der Voet,Flies,2025-08-21
+369655110,Hornet Plumehorn,Volucella zonaria,2025-08-21,12:42,1,4.863392114639282,52.20619133631733,Mijdrecht,Gijs van der Voet,Flies,2025-08-21
+369654991,Long-winged Duskyface,Melanostoma scalare,2025-08-21,12:37,1,4.863851666477785,52.20627790509784,Mijdrecht,Gijs van der Voet,Flies,2025-08-21
+369653397,Hornet Plumehorn,Volucella zonaria,2025-08-21,12:36,1,4.8265136,52.3550456,Amsterdam - Slotervaart,Loez,Flies,2025-08-21
+369652204,,Lucilia spec.,2025-08-21,12:33,1,4.892605547634727,52.34937334431627,Amsterdam - De Pijp,rob,Flies,2025-08-21
+369645228,Fly unknown/Mosquito unknown/Midge unknown,Diptera indet.,2025-08-21,12:12,1,4.797362399722222,52.4589517,Koog aan de Zaan,Alex Rieff,Flies,2025-08-21
+369645044,,Clogmia albipunctata,2025-08-21,07:57,1,4.765445,52.26463,Aalsmeer,Len,Flies,2025-08-21
+369644989,Common Batman Fly,Myathropa florea,2025-08-21,12:15,1,4.880958333333333,52.351533333333336,Amsterdam - Oud-Zuid,joep rooijmans,Flies,2025-08-21
+369641998,,Cheilosia spec.,2025-08-21,12:02,1,4.7608971,52.340427,Amsterdam - Airport Schiphol,iris,Flies,2025-08-21
+369635211,Yellow-winged Blacklet,Cheilosia impressa,2025-08-21,10:22,1,5.01432,52.343204,Diemen - Vijfhoek,Wim van der Schot,Flies,2025-08-21
+369635156,,Ptychoptera contaminata,2025-08-21,10:19,1,5.01432,52.343204,Diemen - Vijfhoek,Wim van der Schot,Flies,2025-08-21
+369635129,,Carcelia spec.,2025-08-21,10:12,1,5.01432,52.343204,Diemen - Vijfhoek,Wim van der Schot,Flies,2025-08-21
+369632642,,Iteomyia major,2025-08-21,10:52,1,4.7706619,52.470377,Westzaan - Polder Westzaan - Tussen Westzaan en Guisweg,Tamiira,Flies,2025-08-21
+369631476,Stripe-faced Drone Fly,Eristalis nemorum,2025-08-21,10:41,1,4.7717262,52.4721894,A8 - Westzaan,Tamiira,Flies,2025-08-21
+369629240,,Anthomyia procellaris,2025-08-21,10:22,1,4.804902055555555,52.44374463888889,Zaandam - Westerwatering,Nick Van der Bij,Flies,2025-08-21
+369619334,,Clogmia albipunctata,2025-08-21,08:46,1,4.96822,52.3015047,Amsterdam - Zuidoost,Els Trautwein,Flies,2025-08-21
+369797495,,Cloeon dipterum,2025-08-21,07:43,1,4.9353579,52.2155804,Vinkeveen,Roos,Other_Insects,2025-08-21
+370006993,,Panorpa vulgaris,2025-08-21,16:29,1,4.962803,52.287051,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Other_Insects,2025-08-21
+369718615,Grouse wing,Mystacides longicornis,2025-08-21,16:01,1,4.948767935029744,52.312107084361855,Amsterdam - Zuidoost,Sven Bontenbal,Other_Insects,2025-08-21
+369738570,,Limnephilus spec.,2025-08-21,23:39,1,4.9212915,52.3213389,Duivendrecht - Volkstuinen,Steven Roosendaal,Other_Insects,2025-08-21
+369738505,,Limnephilus flavicornis,2025-08-21,23:38,1,4.9212917,52.3213442,Duivendrecht - Volkstuinen,Philippe Moreau,Other_Insects,2025-08-21
+369738354,,Chrysoperla carnea s.l.,2025-08-21,23:34,1,4.9212753,52.3213282,Duivendrecht - Volkstuinen,Steven Roosendaal,Other_Insects,2025-08-21
+369738348,,Chrysoperla carnea s.l.,2025-08-21,23:35,1,4.9243207,52.3229556,Duivendrecht,Philippe Moreau,Other_Insects,2025-08-21
+369737432,Cinnamon sedge,Limnephilus marmoratus,2025-08-21,23:19,1,4.9212679,52.3213183,Duivendrecht - Volkstuinen,Steven Roosendaal,Other_Insects,2025-08-21
+369737296,,Limnephilus flavicornis,2025-08-21,23:16,1,4.9243207,52.3229556,Duivendrecht,Steven Roosendaal,Other_Insects,2025-08-21
+369619591,,Tinodes waeneri,2025-08-21,08:48,1,4.972858428955078,52.26775686486115,Abcoude,Ellen van Donk,Other_Insects,2025-08-21
+369688737,,Limnephilus affinis,2025-08-21,14:20,1,4.829999446868896,52.33750915527344,Amsterdam - Nieuwe Meer - Oeverlanden Noord,Ruud Jansen,Other_Insects,2025-08-21
+369672740,Gray Silverfish,Ctenolepisma longicaudatum,2025-08-21,14:50,1,4.8151496,52.3779084,Amsterdam - Geuzenveld-Slotermeer,jojtek,Other_Insects,2025-08-21
+369618975,Mottled sedge,Glyphotaelius pellucidus,2025-08-21,06:15,4,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Other_Insects,2025-08-21
+369612359,Cinnamon sedge,Limnephilus marmoratus,2025-08-21,07:26,1,4.778998331549745,52.46568793451561,Westzaan,kristel,Other_Insects,2025-08-21
+369611223,Cinnamon sedge,Limnephilus marmoratus,2025-08-21,06:41,5,4.8980354,52.4109845,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Other_Insects,2025-08-21
+369610071,Grouse wing,Mystacides longicornis,2025-08-21,06:40,10,4.975878333333333,52.336261666666665,Diemen - De Sniep,Annemieke Hondius,Other_Insects,2025-08-21
+369609815,Cinnamon sedge,Limnephilus marmoratus,2025-08-21,06:18,1,4.8647279,52.490846599722225,Wormerland - Polder Wijde Wormer,Hugo,Other_Insects,2025-08-21
+369996526,,Curculio betulae,2025-08-21,15:50,1,4.962655305862427,52.28708068634066,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Beetles,2025-08-21
+370006029,,Elateridae indet.,2025-08-21,16:12,1,4.962645,52.287181,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Beetles,2025-08-21
+369849001,,Silpha tristis,2025-08-21,19:06,1,5.034779071807861,52.32111740112305,Weespersluis,Michael van Beveren,Beetles,2025-08-21
+369848995,,Silpha tristis,2025-08-21,19:32,1,5.029022544622421,52.32108153069242,Weespersluis,Michael van Beveren,Beetles,2025-08-21
+369785999,,Anthocomus rufus,2025-08-21,16:38,1,5.005043029785156,52.3809928894043,Waterland - Polder IJdoorn,Stefan muller,Beetles,2025-08-21
+369778484,Unknown beetle,Coleoptera indet.,2025-08-21,21:45,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Beetles,2025-08-21
+369738175,,Calvia decemguttata,2025-08-21,23:32,1,4.9212246,52.3213583,Duivendrecht - Volkstuinen,Steven Roosendaal,Beetles,2025-08-21
+369685459,Alder Leaf Beetle,Agelastica alni,2025-08-21,16:19,1,4.9785085,52.4851081,Purmerend - Purmerbos,Z.Burghout,Beetles,2025-08-21
+369737635,,Lagria spec.,2025-08-21,23:23,1,4.9203162,52.3213376,Duivendrecht - Volkstuinen,Philippe Moreau,Beetles,2025-08-21
+369732174,,Calvia decemguttata,2025-08-21,22:10,1,4.9212803,52.3213468,Duivendrecht - Volkstuinen,Philippe Moreau,Beetles,2025-08-21
+369721343,,Lagria spec.,2025-08-21,19:46,1,4.981799124798272,52.487616645629984,Purmerend - Purmerbos,Ernest Vinje,Beetles,2025-08-21
+369691142,Black Vine Weevil,Otiorhynchus sulcatus,2025-08-21,16:57,1,4.80613420886873,52.34406718301001,Amsterdam - Nieuw Sloten,Ingwer,Beetles,2025-08-21
+369683677,Strawberry blossom weevil,Anthonomus rubi,2025-08-21,16:07,1,4.7617077,52.3955896,Amsterdam - Geuzenbos,Han Jacobs,Beetles,2025-08-21
+369670565,Weevils,Curculionidae indet.,2025-08-21,14:35,1,5.030575237367064,52.314663710492326,Weesp - Hogewey,WimBravo64,Beetles,2025-08-21
+369668196,Hollyhock Weevil,Rhopalapion longirostre,2025-08-21,14:25,1,4.9169707,52.3654538,Amsterdam - ARTIS,Cornelis Splinter,Beetles,2025-08-21
+369667968,,Longitarsus spec.,2025-08-21,11:57,1,4.958433508872986,52.494288109920426,Purmerend - Gors,Frank Reurs,Beetles,2025-08-21
+369624820,,Silphidae indet.,2025-08-21,09:39,1,4.832422201415822,52.47113678419309,Zaandam - Het Kalf,Braaktip,Beetles,2025-08-21
+369654307,Black Vine Weevil,Otiorhynchus sulcatus,2025-08-21,11:31,1,4.818232103040991,52.234468935013695,Uithoorn,Gert Ossenkoppele,Beetles,2025-08-21
+369651993,,Lagria spec.,2025-08-21,11:45,1,4.904722222222222,52.33166666666667,Amsterdam - Volkstuincomplex Amstelglorie,Jon Silber,Beetles,2025-08-21
+369635480,Blue Mint Beetle,Chrysolina coerulans,2025-08-21,11:15,1,4.8892756,52.364915099722225,Amsterdam - Herengracht Keurblok XI,M. Stolting,Beetles,2025-08-21
+369762091,Common Carder Bumblebee,Bombus pascuorum,2025-08-21,16:27,1,4.814327478488849,52.23002102377487,Uithoorn,SK,Bees_Wasps_and_Ants,2025-08-21
+369699919,,Caliadurgus fasciatellus,2025-08-21,15:39,1,4.76527,52.264496666666666,Aalsmeer,Len,Bees_Wasps_and_Ants,2025-08-21
+370006582,Common Carder Bumblebee,Bombus pascuorum,2025-08-21,16:17,1,4.962803,52.287051,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Bees_Wasps_and_Ants,2025-08-21
+369998974,Common Carder Bumblebee,Bombus pascuorum,2025-08-21,16:17,1,4.962644577026367,52.287181207777266,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Bees_Wasps_and_Ants,2025-08-21
+369735833,Hornet,Vespa crabro,2025-08-21,22:50,1,4.9212674,52.3213455,Duivendrecht - Volkstuinen,Philippe Moreau,Bees_Wasps_and_Ants,2025-08-21
+369729935,,Eumenes pedunculatus,2025-08-21,16:05,1,4.926745891571045,52.40933722998886,Amsterdam - Noord,Frank Schuring,Bees_Wasps_and_Ants,2025-08-21
+369729232,Asian Hornet,Vespa velutina,2025-08-21,18:00,1,4.749274849891663,52.2330708958381,Kudelstaart,Josine v.Erp,Bees_Wasps_and_Ants,2025-08-21
+369708113,Asian Hornet,Vespa velutina,2025-08-21,18:44,1,5.060552805771295,52.32966341996153,Muiden,Externe bron,Bees_Wasps_and_Ants,2025-08-21
+369705541,Asian Hornet,Vespa velutina,2025-08-21,,1,4.76259791837947,52.39747521750143,Amsterdam - Geuzenbos,Han Jacobs,Bees_Wasps_and_Ants,2025-08-21
+369705036,Common Carder Bumblebee,Bombus pascuorum,2025-08-21,18:17,1,4.736462972222222,52.457194972222226,Assendelft - Zuid,Linda Melk,Bees_Wasps_and_Ants,2025-08-21
+369700775,,Pontania proxima,2025-08-21,17:51,1,4.7995033,52.2356217,Uithoorn - Uithoornse Polder,Tinok van Hattum,Bees_Wasps_and_Ants,2025-08-21
+369688747,Knopper Oak Gall Wasp,Andricus quercuscalicis,2025-08-21,14:10,1,4.829971790313721,52.3375129699707,Amsterdam - Nieuwe Meer - Oeverlanden Noord,Ruud Jansen,Bees_Wasps_and_Ants,2025-08-21
+369686005,Large Red-tailed Bumblebee,Bombus lapidarius,2025-08-21,16:02,1,4.916421666666666,52.36698666666667,Amsterdam - ARTIS,thijs de zeeuw,Bees_Wasps_and_Ants,2025-08-21
+369685969,,Eumenes spec.,2025-08-21,16:02,1,4.916413333333333,52.36698833333333,Amsterdam - ARTIS,thijs de zeeuw,Bees_Wasps_and_Ants,2025-08-21
+369685683,,Athalia circularis/longifoliae,2025-08-21,15:58,1,4.916355,52.36615833333333,Amsterdam - ARTIS,thijs de zeeuw,Bees_Wasps_and_Ants,2025-08-21
+369685437,Common Carder Bumblebee,Bombus pascuorum,2025-08-21,15:50,1,4.916261666666667,52.36542166666667,Amsterdam - ARTIS,thijs de zeeuw,Bees_Wasps_and_Ants,2025-08-21
+369685306,Field Cuckoo Bee,Bombus campestris,2025-08-21,15:50,1,4.916286666666666,52.365395,Amsterdam - ARTIS,thijs de zeeuw,Bees_Wasps_and_Ants,2025-08-21
+369685049,,Lasioglossum spec.,2025-08-21,15:46,1,4.916203333333334,52.365503333333336,Amsterdam - ARTIS,thijs de zeeuw,Bees_Wasps_and_Ants,2025-08-21
+369682232,Honey Bee,Apis mellifera,2025-08-21,15:57,1,4.943634070534289,52.35338174134424,Amsterdam - Watergraafsmeer,Machiel van der Bijl,Bees_Wasps_and_Ants,2025-08-21
+369681679,Common Carder Bumblebee,Bombus pascuorum,2025-08-21,15:54,1,4.945454299614264,52.35227316491873,Amsterdam - Watergraafsmeer,Machiel van der Bijl,Bees_Wasps_and_Ants,2025-08-21
+369680056,,Athalia cornubiae/liberta,2025-08-21,15:43,1,4.757789972222223,52.233820972222226,Kudelstaart,Laurens Pronk,Bees_Wasps_and_Ants,2025-08-21
+369677814,,Ancistrocerus spec.,2025-08-21,10:30,1,4.849830865859985,52.33055181409485,Amsterdamse Bos - Koenenbos,Hans Niekus,Bees_Wasps_and_Ants,2025-08-21
+369673377,Honey Bee,Apis mellifera,2025-08-21,14:57,1,4.83106449131989,52.28991188605316,Amstelveen - Bovenkerk,Glenn Dinsbach,Bees_Wasps_and_Ants,2025-08-21
+369672494,,Lasioglossum spec.,2025-08-21,14:50,1,4.9165179,52.3652679,Amsterdam - ARTIS,Cornelis Splinter,Bees_Wasps_and_Ants,2025-08-21
+369667523,Common Carder Bumblebee,Bombus pascuorum,2025-08-21,14:20,1,4.8182065,52.4975784,Wormer,Gerard Mak,Bees_Wasps_and_Ants,2025-08-21
+369667388,Common Carder Bumblebee,Bombus pascuorum,2025-08-21,14:19,1,4.8183001,52.4975703,Wormer,Gerard Mak,Bees_Wasps_and_Ants,2025-08-21
+369660060,,Auplopus carbonarius,2025-08-21,13:06,1,4.807311666666667,52.457605,Koog aan de Zaan,Jan S. Beernink,Bees_Wasps_and_Ants,2025-08-21
+369666761,,Colletes daviesanus/fodiens/similis,2025-08-21,14:11,1,4.79643,52.34557,Amsterdam - Vrije Geer,R. Lutterlof,Bees_Wasps_and_Ants,2025-08-21
+369666727,Large-headed Resin Bee,Heriades truncorum,2025-08-21,14:12,1,4.796438333333334,52.34560833333333,Amsterdam - Vrije Geer,R. Lutterlof,Bees_Wasps_and_Ants,2025-08-21
+369665953,,Colletes daviesanus/fodiens/similis,2025-08-21,14:06,1,4.796388333333333,52.34558833333333,Amsterdam - Vrije Geer,R. Lutterlof,Bees_Wasps_and_Ants,2025-08-21
+369664759,Common Wasp,Vespula vulgaris,2025-08-21,12:23,1,4.959682,52.49379,Purmerend - Gors,Mats,Bees_Wasps_and_Ants,2025-08-21
+369656270,Bumblebee unknown,Bombus spec.,2025-08-21,12:58,1,4.918637699722223,52.39666859972222,Amsterdam - Noorderpark,LaaghangendFruit,Bees_Wasps_and_Ants,2025-08-21
+369655164,Tree Bumblebee,Bombus hypnorum,2025-08-21,12:12,1,4.863392,52.206191,Mijdrecht,Gijs van der Voet,Bees_Wasps_and_Ants,2025-08-21
+369654126,Common Carder Bumblebee,Bombus pascuorum,2025-08-21,12:41,1,4.892686502115806,52.349374061135194,Amsterdam - De Pijp,rob,Bees_Wasps_and_Ants,2025-08-21
+369651913,Large-headed Resin Bee,Heriades truncorum,2025-08-21,11:49,1,4.904444444444445,52.331944444444446,Amsterdam - Volkstuincomplex Amstelglorie,Jon Silber,Bees_Wasps_and_Ants,2025-08-21
+369651802,Large-headed Resin Bee,Heriades truncorum,2025-08-21,11:50,1,4.904444444444445,52.331944444444446,Amsterdam - Volkstuincomplex Amstelglorie,Jon Silber,Bees_Wasps_and_Ants,2025-08-21
+369636594,German Wasp,Vespula germanica,2025-08-21,11:23,1,4.9548326,52.3560597,Amsterdam - Science Park,Cornelis Splinter,Bees_Wasps_and_Ants,2025-08-21
+369635280,Common Carder Bumblebee,Bombus pascuorum,2025-08-21,10:22,1,5.01432,52.343204,Diemen - Vijfhoek,Wim van der Schot,Bees_Wasps_and_Ants,2025-08-21
+369634027,,Pimpla rufipes,2025-08-21,11:05,1,5.04158575015265,52.451150712436224,Monnickendam,peter,Bees_Wasps_and_Ants,2025-08-21
+369632160,Buff-tailed Bumblebee/White-tailed Bumblebee s.l. (Europe),Bombus terrestris/lucorum/magnus/cryptarum,2025-08-21,10:47,1,4.9082163,52.41523,Amsterdam - Kadoelen,Ineke Grosmann,Bees_Wasps_and_Ants,2025-08-21
+369631558,German Wasp,Vespula germanica,2025-08-21,10:42,1,4.8506164,52.3676273,Amsterdam - De Baarsjes,wu,Bees_Wasps_and_Ants,2025-08-21
+369624933,Common Carder Bumblebee,Bombus pascuorum,2025-08-21,09:41,1,4.9411824,52.3709781,Amsterdam - Oostelijk Havengebied,Suzan,Bees_Wasps_and_Ants,2025-08-21
+370007353,,Cicadella viridis,2025-08-21,16:33,1,4.962653,52.287199,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+370008869,Green Shieldbug,Palomena prasina,2025-08-21,16:42,1,4.962682,52.287042,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+370007056,,Fieberiella florii,2025-08-21,16:31,1,4.962652623653412,52.28719925567275,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369999140,Green Shieldbug,Palomena prasina,2025-08-21,16:12,1,4.962645,52.287181,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369997416,,Cixius spec.,2025-08-21,15:53,1,4.962687492370605,52.287190723921206,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369872638,,Lygus pratensis,2025-08-21,22:42,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369644510,,Arocatus roeselii,2025-08-21,12:12,1,4.765528333333333,52.26459166666667,Aalsmeer,Len,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369667272,,Arocatus melanocephalus,2025-08-21,14:17,1,4.845810499722222,52.2875043,Amstelveen - Keizer Karelpark,Elma Tulp,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369778482,,Lygus pratensis,2025-08-21,21:52,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369722130,Green Shieldbug,Palomena prasina,2025-08-21,20:03,1,4.981799,52.487617,Purmerend - Purmerbos,Ernest Vinje,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369736621,,Acericerus heydenii,2025-08-21,23:01,1,4.9212788,52.3213447,Duivendrecht - Volkstuinen,Philippe Moreau,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369723139,Green Shieldbug,Palomena prasina,2025-08-21,20:47,1,5.047475,52.257914999722225,Nederhorst den Berg,Evelyn Bouwman - Ernst,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369721528,,Cixius spec.,2025-08-21,19:51,1,4.981799,52.487617,Purmerend - Purmerbos,Ernest Vinje,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369721380,European alder spittlebug,Aphrophora alni,2025-08-21,19:47,1,4.981799,52.487617,Purmerend - Purmerbos,Ernest Vinje,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369619879,,Deraeocoris lutescens,2025-08-21,08:51,1,4.972847700119019,52.26778969359622,Abcoude,Ellen van Donk,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369656224,Dock Bug,Coreus marginatus,2025-08-21,12:58,1,4.9907955,52.490181,Purmerend - Purmerbos,Nature_is_fabulous_nl,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369706608,Green Shieldbug,Palomena prasina,2025-08-21,18:34,1,4.825687408333333,52.27901458722222,Amstelveen - Westwijk,SoFientje,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369683962,Dock Bug,Coreus marginatus,2025-08-21,16:09,1,4.7624332,52.3964324,Amsterdam - Geuzenbos,Han Jacobs,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369630830,Southern Green Stink Bug,Nezara viridula,2025-08-21,10:34,1,4.923434,52.3574319,Amsterdam - Oost,issa wild,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369663788,Birch Shield Bug,Elasmostethus interstinctus,2025-08-21,13:51,1,4.8049761,52.3783483,Amsterdam - Geuzenveld,Douwe,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369663951,Green Shieldbug,Palomena prasina,2025-08-21,13:51,1,5.070671821251589,52.32600818756275,Muiden - Mariahoeve,Ronald Hofmeester,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369665974,Green Shieldbug,Palomena prasina,2025-08-21,14:05,1,4.869014199722223,52.2019913,Mijdrecht,hpouw,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369672014,Green Shieldbug,Palomena prasina,2025-08-21,14:46,1,4.769196666666667,52.498203333333336,Krommenie,pieter,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369622918,Southern Green Stink Bug,Nezara viridula,2025-08-21,09:20,1,4.8045966,52.4916665,Wormer,Jane,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369633561,Firebug,Pyrrhocoris apterus,2025-08-21,11:00,1,4.868791316666207,52.29151397715249,Amstelveen - Groenelaan,Yola Houtenbos,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369633874,Southern Green Stink Bug,Nezara viridula,2025-08-21,10:32,1,4.923508899722223,52.3576276,Amsterdam - Oost,issa wild,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369634025,Southern Green Stink Bug,Nezara viridula,2025-08-21,10:32,1,4.923720361111111,52.35743410833334,Amsterdam - Oost,issa wild,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369634143,Southern Green Stink Bug,Nezara viridula,2025-08-21,10:36,1,4.923586166666667,52.35739634722222,Amsterdam - Oost,issa wild,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369658974,Firebug,Pyrrhocoris apterus,2025-08-21,13:20,1,4.7626092,52.2362778,Kudelstaart,Paul Venderbosch,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369670819,Green Shieldbug,Palomena prasina,2025-08-21,14:38,1,4.9170132,52.3654087,Amsterdam - ARTIS,Cornelis Splinter,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369688480,Mottled Shieldbug,Rhaphigaster nebulosa,2025-08-21,16:40,1,4.879946433769861,52.34855217603762,Amsterdam - Oud-Zuid,rob,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369688646,Vernal Shieldbug,Peribalus strictus,2025-08-21,16:41,1,4.7631982,52.398053,Amsterdam - Geuzenbos,Han Jacobs,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369685509,,Rhyparochromus vulgaris,2025-08-21,15:58,1,4.916361666666667,52.366141666666664,Amsterdam - ARTIS,thijs de zeeuw,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369676025,Rhododendron leafhopper,Graphocephala fennahi,2025-08-21,15:17,1,4.74438590792678,52.26887197503746,Aalsmeer,Mariska,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369651075,,Rhyparochromus vulgaris,2025-08-21,11:56,1,4.904722222222222,52.33166666666667,Amsterdam - Volkstuincomplex Amstelglorie,Jon Silber,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369630336,,Lygocoris pabulinus,2025-08-21,07:38,1,4.950325083552571,52.39283844489896,Amsterdam - Noord,Nina Verkaik-de Haan,Bugs_Plant_Lice_and_Cicadas,2025-08-21
+369998445,Field Grasshopper,Chorthippus brunneus,2025-08-21,16:01,1,4.962725,52.287109,Amsterdam - Heemtuin De Ruige Hof,Els Trautwein,Locusts_and_Crickets,2025-08-21
+369674719,Field Grasshopper,Chorthippus brunneus,2025-08-21,15:08,1,4.958756,52.39383409972222,Amsterdam - Noord,Paulus,Locusts_and_Crickets,2025-08-21
+369700593,Southern Oak Bush-cricket,Meconema meridionale,2025-08-21,17:48,1,5.043736166666666,52.29713,Weesp - Aetsveld,Max,Locusts_and_Crickets,2025-08-21
+369690058,Speckled Bush-cricket,Leptophyes punctatissima,2025-08-21,16:49,1,4.7607957,52.4973074,Krommenie,peter,Locusts_and_Crickets,2025-08-21
+369678568,Speckled Bush-cricket,Leptophyes punctatissima,2025-08-21,15:34,1,4.823431630022731,52.467053083270585,Zaandam - Het Kalf,Mick Brinkkemper,Locusts_and_Crickets,2025-08-21
+369660535,Southern Oak Bush-cricket,Meconema meridionale,2025-08-21,13:31,1,4.9122899,52.3577196,Amsterdam - Oost,Denny,Locusts_and_Crickets,2025-08-21
+369665568,Southern Oak Bush-cricket,Meconema meridionale,2025-08-21,14:03,1,4.9076773,52.4283681,Landsmeer,Jasper,Locusts_and_Crickets,2025-08-21
+369654790,Speckled Bush-cricket,Leptophyes punctatissima,2025-08-21,12:46,1,4.82963,52.446125,Zaandam - Rosmolenwijk,Loraine,Locusts_and_Crickets,2025-08-21
+369666079,Garden Rose Tortrix,Acleris variegana,2025-08-21,11:46,1,4.958739280700684,52.49419012755996,Purmerend - Gors,Mats,Moths,2025-08-21
+369667670,Garden Rose Tortrix,Acleris variegana,2025-08-21,11:46,1,4.958653450012207,52.494242384846046,Purmerend - Gors,Frank Reurs,Moths,2025-08-21
+369734084,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,22:27,1,4.9169699,52.323595,Duivendrecht - Volkstuinen,ave,Moths,2025-08-21
+369736151,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,22:54,1,4.9212655,52.3213312,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+370137377,Buff-tip,Phalera bucephala,2025-08-21,10:36,1,4.784108,52.3665157,Amsterdam - Osdorper Bovenpolder-Zuid,Trees Kaizer,Moths,2025-08-21
+369994373,Broad-barred White,Hecatera bicolorata,2025-08-21,18:46,6,4.769183432983908,52.27503867075373,Aalsmeer - Oosteinderweg,Christian Kooij,Moths,2025-08-21
+369872633,Bright-line Brown-eye,Lacanobia oleracea,2025-08-21,22:44,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369872635,Dark Fruit-tree Tortrix,Pandemis heparana,2025-08-21,22:43,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369872632,Bright-line Brown-eye,Lacanobia oleracea,2025-08-21,22:44,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369872631,Poplar Grey,Subacronicta megacephala,2025-08-21,22:45,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369872630,Scarce Chocolate-tip,Clostera anachoreta,2025-08-21,22:47,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369872629,Clouded Border,Lomaspilis marginata,2025-08-21,22:47,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369872628,Large Yellow Underwing,Noctua pronuba,2025-08-21,22:47,2,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369872627,Box-tree Moth,Cydalima perspectalis,2025-08-21,22:47,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369736299,Lime Hawk-moth,Mimas tiliae,2025-08-21,22:53,1,4.930670697670394,52.348205963450766,Amsterdam - Watergraafsmeer,Nicky Hoebe,Moths,2025-08-21
+369848988,Large Thorn,Ennomos autumnaria,2025-08-21,21:56,1,5.044752597808838,52.31295394897461,Weesp - Bloemendalerpolder,Michael van Beveren,Moths,2025-08-21
+369778491,Cloaked Minor,Mesoligia furuncula,2025-08-21,21:34,3,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778489,Orange Swift,Triodia sylvina,2025-08-21,21:35,2,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778478,Yellow Shell,Camptogramma bilineata,2025-08-21,21:56,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778475,Lesser Broad-bordered Yellow Underwing,Noctua janthe,2025-08-21,22:04,2,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778470,Burnished Brass,Diachrysia chrysitis,2025-08-21,22:05,4,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778468,,Prays ruficeps,2025-08-21,22:08,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778465,Dingy Footman,Eilema griseola,2025-08-21,22:10,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778460,Brimstone Moth,Opisthograptis luteolata,2025-08-21,22:12,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778458,Rusty Dot Pearl,Udea ferrugalis,2025-08-21,22:12,4,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778456,Vine's Rustic,Hoplodrina ambigua,2025-08-21,22:12,2,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778454,,Xanthorhoe ferrugata / spadicearia,2025-08-21,22:17,2,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778451,Clouded Border,Lomaspilis marginata,2025-08-21,22:19,2,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778449,Bright-line Brown-eye,Lacanobia oleracea,2025-08-21,22:23,2,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778446,Long-horned Flat-body,Carcina quercana,2025-08-21,22:29,2,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778443,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,22:31,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778442,Common Wainscot,Mythimna pallens,2025-08-21,22:34,2,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778440,,Acrobasis advenella,2025-08-21,22:38,8,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778437,,Argyresthia bonnetella,2025-08-21,22:41,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778432,Tree-lichen Beauty,Cryphia algae,2025-08-21,22:45,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778429,Beautiful Hook-tip,Laspeyria flexula,2025-08-21,22:45,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778426,,Evergestis forficalis,2025-08-21,22:48,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778422,Willow bent-wing,Phyllocnistis saligna,2025-08-21,23:17,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778419,Square-spot Rustic,Xestia xanthographa,2025-08-21,23:20,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778416,,Apotomis lineana,2025-08-21,23:24,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778413,Small Square-spot,Diarsia rubi,2025-08-21,23:30,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778410,Common White Wave,Cabera pusaria,2025-08-21,23:31,4,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778408,Snout,Hypena proboscidalis,2025-08-21,23:34,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778406,,Ethmia quadrillella,2025-08-21,23:36,2,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778401,White-point,Mythimna albipuncta,2025-08-21,23:38,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778398,,Argyresthia goedartella,2025-08-21,23:41,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778397,Peach Blossom,Thyatira batis,2025-08-21,23:41,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778395,Double-striped Pug,Gymnoscelis rufifasciata,2025-08-21,23:50,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778388,Swallow Prominent,Pheosia tremula,2025-08-21,23:54,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778384,Vine's Rustic,Hoplodrina ambigua,2025-08-21,23:56,1,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369778382,,Evergestis extimalis,2025-08-21,23:57,3,4.723943710327148,52.43500518798828,Zaanstad - Buitenhuizen,Ingmar van der Brugge,Moths,2025-08-21
+369776937,Clouded Border,Lomaspilis marginata,2025-08-21,23:08,1,4.921256989838587,52.32135562456554,Duivendrecht - Volkstuinen,DJ,Moths,2025-08-21
+369776656,,Ethmia quadrillella,2025-08-21,23:51,1,4.921298062740684,52.321375577068586,Duivendrecht - Volkstuinen,DJ,Moths,2025-08-21
+369776272,Common White Wave,Cabera pusaria,2025-08-21,23:57,1,4.921304466450851,52.321340186545605,Duivendrecht - Volkstuinen,DJ,Moths,2025-08-21
+369776032,,Yponomeuta spec.,2025-08-21,23:55,1,4.921290078241528,52.321336994124835,Duivendrecht - Volkstuinen,DJ,Moths,2025-08-21
+369762620,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,23:47,1,4.921283356707375,52.32135893735574,Duivendrecht - Volkstuinen,DJ,Moths,2025-08-21
+369762602,Dingy Footman,Eilema griseola,2025-08-21,23:45,1,4.921293537563874,52.32133435638475,Duivendrecht - Volkstuinen,DJ,Moths,2025-08-21
+369762585,Pale Prominent,Pterostoma palpina,2025-08-21,23:48,1,4.921319477481495,52.32135048233942,Duivendrecht - Volkstuinen,DJ,Moths,2025-08-21
+369762540,Sharp-angled Peacock,Macaria alternata,2025-08-21,23:42,1,4.921237969098892,52.32137589318627,Duivendrecht - Volkstuinen,DJ,Moths,2025-08-21
+369762498,Clouded Border,Lomaspilis marginata,2025-08-21,23:08,1,4.921256989838587,52.32135562456554,Duivendrecht - Volkstuinen,DJ,Moths,2025-08-21
+369762415,,Ethmia quadrillella,2025-08-21,23:51,1,4.921298062740684,52.321375577068586,Duivendrecht - Volkstuinen,DJ,Moths,2025-08-21
+369762368,Yellow Shell,Camptogramma bilineata,2025-08-21,20:45,1,4.959765672247158,52.49395905162862,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369761957,,Oncocera semirubella,2025-08-21,22:59,1,4.921296637471469,52.32133714392639,Duivendrecht - Volkstuinen,DJ,Moths,2025-08-21
+369739065,,Eupithecia spec.,2025-08-21,23:48,1,4.9200864,52.3224654,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369738972,Yellow Shell,Camptogramma bilineata,2025-08-21,23:47,1,4.9243207,52.3229556,Duivendrecht,Steven Roosendaal,Moths,2025-08-21
+369738881,Yellow Shell,Camptogramma bilineata,2025-08-21,23:46,1,4.9208629,52.3216047,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369738687,,Ethmia quadrillella,2025-08-21,23:42,1,4.9212799,52.3213515,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369738683,Mother of Pearl,Pleuroptya ruralis,2025-08-21,23:42,1,4.9213019,52.3213452,Duivendrecht - Volkstuinen,Steven Roosendaal,Moths,2025-08-21
+369738646,Dingy Footman,Eilema griseola,2025-08-21,23:41,1,4.9212878,52.3213489,Duivendrecht - Volkstuinen,Steven Roosendaal,Moths,2025-08-21
+369738633,,Xanthorhoe ferrugata / spadicearia,2025-08-21,23:41,1,4.9212822,52.321332,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369738588,Pale Prominent,Pterostoma palpina,2025-08-21,23:40,1,4.9212872,52.3213372,Duivendrecht - Volkstuinen,Steven Roosendaal,Moths,2025-08-21
+369738519,Pale Prominent,Pterostoma palpina,2025-08-21,23:39,1,4.9212818,52.3213457,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369738460,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,23:37,1,4.9200864,52.3224654,Duivendrecht - Volkstuinen,Steven Roosendaal,Moths,2025-08-21
+369738419,Small China-mark,Cataclysta lemnata,2025-08-21,23:36,1,4.9212952,52.3213478,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369738291,,Yponomeuta spec.,2025-08-21,23:34,1,4.9212813,52.3213432,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369738265,,Oncocera semirubella,2025-08-21,23:33,1,4.9212733,52.3213253,Duivendrecht - Volkstuinen,Steven Roosendaal,Moths,2025-08-21
+369738241,Common White Wave,Cabera pusaria,2025-08-21,23:33,1,4.9212789,52.3213353,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369738135,Clouded Border,Lomaspilis marginata,2025-08-21,23:31,1,4.9208476,52.3216098,Duivendrecht - Volkstuinen,Steven Roosendaal,Moths,2025-08-21
+369737815,,Agonopterix arenella,2025-08-21,23:26,1,4.7599967,52.2621593,Aalsmeer,Huskyneusp,Moths,2025-08-21
+369737807,Copper Underwing,Amphipyra pyramidea,2025-08-21,23:26,1,4.9208456,52.321591,Duivendrecht - Volkstuinen,Steven Roosendaal,Moths,2025-08-21
+369737513,Yellow Shell,Camptogramma bilineata,2025-08-21,23:21,1,4.9212583,52.3213138,Duivendrecht - Volkstuinen,Steven Roosendaal,Moths,2025-08-21
+369737473,Rusty Dot Pearl,Udea ferrugalis,2025-08-21,23:20,1,4.9169699,52.323595,Duivendrecht - Volkstuinen,ave,Moths,2025-08-21
+369737440,Rusty Dot Pearl,Udea ferrugalis,2025-08-21,23:19,1,4.9208585,52.3215986,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369737367,,Oncocera semirubella,2025-08-21,23:17,1,4.9212467,52.3213362,Duivendrecht - Volkstuinen,Steven Roosendaal,Moths,2025-08-21
+369737241,Dingy Footman,Eilema griseola,2025-08-21,23:15,1,4.9200864,52.3224654,Duivendrecht - Volkstuinen,Steven Roosendaal,Moths,2025-08-21
+369737169,Dingy Footman,Eilema griseola,2025-08-21,23:13,1,4.9169699,52.323595,Duivendrecht - Volkstuinen,ave,Moths,2025-08-21
+369737116,Double-striped Pug,Gymnoscelis rufifasciata,2025-08-21,23:12,1,4.9212742,52.3213824,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369736833,Clouded Border,Lomaspilis marginata,2025-08-21,23:06,1,4.9212902,52.3213043,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369736749,,Celypha lacunana,2025-08-21,23:04,1,4.921267,52.3213309,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369736692,Sharp-angled Peacock,Macaria alternata,2025-08-21,23:03,1,4.9212865,52.3213347,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369736675,,Agriphila straminella,2025-08-21,23:03,1,4.9243207,52.3229556,Duivendrecht,Philippe Moreau,Moths,2025-08-21
+369736297,,Oncocera semirubella,2025-08-21,22:57,1,4.9212898,52.3213357,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369735823,Large Yellow Underwing,Noctua pronuba,2025-08-21,22:50,1,4.9213866,52.3213158,Duivendrecht - Volkstuinen,ave,Moths,2025-08-21
+369735362,Old Lady,Mormo maura,2025-08-21,22:45,1,4.920609,52.3215941,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369735235,Pale Oak Beauty,Hypomecis punctinalis,2025-08-21,22:43,1,4.9208764,52.3216108,Duivendrecht - Volkstuinen,ave,Moths,2025-08-21
+369735229,Small Engrailed,Ectropis crepuscularia,2025-08-21,22:43,1,4.9208479,52.3216012,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369735206,Dingy Footman,Eilema griseola,2025-08-21,22:43,1,4.9208562,52.3216103,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369735172,,Acrobasis advenella,2025-08-21,22:42,1,4.9208583,52.3216148,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369735156,Dingy Footman,Eilema griseola,2025-08-21,22:42,1,4.9223213,52.3233721,Duivendrecht,ave,Moths,2025-08-21
+369735128,Sharp-angled Peacock,Macaria alternata,2025-08-21,22:42,1,4.9208543,52.3216197,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369734519,Unidentified Copper Underwing,Amphipyra pyramidea/berbera,2025-08-21,22:33,1,4.9208483,52.321577,Duivendrecht - Volkstuinen,ave,Moths,2025-08-21
+369734463,Copper Underwing,Amphipyra pyramidea,2025-08-21,22:33,1,4.9208563,52.3216112,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369734233,Vine's Rustic,Hoplodrina ambigua,2025-08-21,22:29,1,4.838307202530991,52.46824600943348,Zaandam - Het Kalf,Mick Brinkkemper,Moths,2025-08-21
+369734224,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,22:29,1,4.9212928,52.3212933,Duivendrecht - Volkstuinen,ave,Moths,2025-08-21
+369734125,Brown House Moth,Hofmannophila pseudospretella,2025-08-21,22:27,1,4.941987,52.28257039972222,Ouderkerk aan de Amstel - Holendrechter- en Bullewijkerpolder ,Arigje,Moths,2025-08-21
+369733317,Common Plume,Emmelina monodactyla,2025-08-21,22:19,1,4.9212753,52.3213457,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369733166,Beautiful Hook-tip,Laspeyria flexula,2025-08-21,22:18,1,4.9212782,52.321368,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369733018,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,22:17,1,4.9213109,52.3213212,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369732857,Large Yellow Underwing,Noctua pronuba,2025-08-21,22:15,1,4.9212492,52.3213566,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369732606,Vine's Rustic,Hoplodrina ambigua,2025-08-21,22:13,1,4.9212536,52.3213485,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369732570,Unidentified Copper Underwing,Amphipyra pyramidea/berbera,2025-08-21,22:13,1,4.9212578,52.3213437,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369732112,Vine's Rustic,Hoplodrina ambigua,2025-08-21,22:09,1,4.9212868,52.321354,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369731628,,Noctua janthe / janthina,2025-08-21,22:05,1,4.9213041,52.3213434,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369730733,,Celypha lacunana,2025-08-21,21:55,1,4.9212876,52.3213309,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369730661,Mother of Pearl,Pleuroptya ruralis,2025-08-21,21:54,1,4.9214712,52.3206019,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369729570,,Celypha lacunana,2025-08-21,21:47,1,4.9208623,52.3216003,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369729528,Barred Fruit-tree Tortrix,Pandemis cerasana,2025-08-21,21:46,1,4.9243207,52.3229556,Duivendrecht,Philippe Moreau,Moths,2025-08-21
+369729405,Vine's Rustic,Hoplodrina ambigua,2025-08-21,21:45,1,4.920852,52.3216163,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369729139,Orange Swift,Triodia sylvina,2025-08-21,21:43,1,4.9208551,52.3216055,Duivendrecht - Volkstuinen,Philippe Moreau,Moths,2025-08-21
+369721524,Orange Swift,Triodia sylvina,2025-08-21,20:32,1,5.0415805,52.30782,Weesp - Centrum,Wil Leurs,Moths,2025-08-21
+369721428,Herald,Scoliopteryx libatrix,2025-08-21,19:50,1,4.981799,52.487617,Purmerend - Purmerbos,Ernest Vinje,Moths,2025-08-21
+369716649,,Choreutis nemorana,2025-08-21,19:54,1,4.866557199722222,52.2020192,Mijdrecht,Marie-Lou Gommers,Moths,2025-08-21
+369620049,Yellow-backed Detritus Moth,Monopis obviella,2025-08-21,08:52,1,4.972901344299316,52.267763430610096,Abcoude,Ellen van Donk,Moths,2025-08-21
+369621560,Spotted Magpie,Anania coronata,2025-08-21,08:56,1,4.972944259643555,52.267724036101775,Abcoude,Ellen van Donk,Moths,2025-08-21
+369699071,Small Dusty Wave,Idaea seriata,2025-08-21,11:33,1,4.936460852622986,52.37021901597425,Amsterdam - Oostelijk Havengebied,Herman Bouwmeester,Moths,2025-08-21
+369695952,,Chrysoesthia drurella,2025-08-21,08:28,1,4.92655086517334,52.38847732543945,Amsterdam - Vliegenbos,Pierre van der Wielen,Moths,2025-08-21
+369695588,Poplar Grey,Subacronicta megacephala,2025-08-21,17:22,1,4.831095587600998,52.46834883621266,Zaandam - Het Kalf,Mick Brinkkemper,Moths,2025-08-21
+369690456,White Ermine,Spilosoma lubricipeda,2025-08-21,15:45,1,4.843651056289673,52.30225924704898,Amstelveen - De Poel ,Josine v.Erp,Moths,2025-08-21
+369684499,Buttoned Snout,Hypena rostralis,2025-08-21,13:36,1,5.05804,52.236218,Vreeland - Fort Kijkuit,Bart,Moths,2025-08-21
+369683431,Dark-barred Twin-spot Carpet,Xanthorhoe ferrugata,2025-08-21,00:44,1,4.785929918289185,52.239446167741896,De Kwakel,Ronald Ort,Moths,2025-08-21
+369677591,Large Yellow Underwing,Noctua pronuba,2025-08-21,15:25,1,4.808366666666666,52.342695,Amsterdam - Nieuw Sloten,Albert Keizer,Moths,2025-08-21
+369676224,Leaf Blotch Miner Moth,Macrosaccus robiniella,2025-08-21,15:18,2,4.9141074,52.3681962,Amsterdam - ARTIS,Cornelis Splinter,Moths,2025-08-21
+369673824,Orange Swift,Triodia sylvina,2025-08-21,14:51,1,4.85917329788208,52.294944763183594,Amstelveen - Keizer Karelpark,Eric Stockx,Moths,2025-08-21
+369665771,Unidentified Moth,Heterocera indet.,2025-08-21,13:12,1,4.974986713740691,52.27055023579484,Abcoude,Rudi Leenders,Moths,2025-08-21
+369660453,Bright-line Brown-eye,Lacanobia oleracea,2025-08-21,13:00,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369660351,Bright-line Brown-eye,Lacanobia oleracea,2025-08-21,12:59,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369660315,Small Square-spot,Diarsia rubi,2025-08-21,12:58,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369660259,Clouded Border,Lomaspilis marginata,2025-08-21,12:58,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369660214,Vine's Rustic,Hoplodrina ambigua,2025-08-21,12:56,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369660182,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,12:55,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369660157,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,12:54,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369660107,Vine's Rustic,Hoplodrina ambigua,2025-08-21,12:53,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369660085,,Celypha lacunana,2025-08-21,12:53,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369660030,Vine's Rustic,Hoplodrina ambigua,2025-08-21,12:52,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369659996,Vine's Rustic,Hoplodrina ambigua,2025-08-21,12:51,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369659965,,Celypha lacunana,2025-08-21,12:50,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369659940,Vine's Rustic,Hoplodrina ambigua,2025-08-21,12:49,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369659883,Heart and Dart,Agrotis exclamationis,2025-08-21,12:48,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369659823,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,12:48,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369659794,Vine's Rustic,Hoplodrina ambigua,2025-08-21,12:47,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369659757,Vine's Rustic,Hoplodrina ambigua,2025-08-21,12:47,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369659737,Vine's Rustic,Hoplodrina ambigua,2025-08-21,12:46,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369659714,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,12:45,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369659675,Vine's Rustic,Hoplodrina ambigua,2025-08-21,12:44,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369659575,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,12:43,1,4.959744,52.493979,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369659549,Vine's Rustic,Hoplodrina ambigua,2025-08-21,12:42,1,4.959744214575039,52.49397864822116,Purmerend - Gors,Ernest Vinje,Moths,2025-08-21
+369657419,Humming-bird Hawk Moth,Macroglossum stellatarum,2025-08-21,10:11,1,4.849990844726562,52.33077621459961,Amsterdamse Bos - Koenenbos,Han Jacobs,Moths,2025-08-21
+369657409,Blood-vein,Timandra comae,2025-08-21,11:02,1,4.848392009735107,52.33051681518555,Amsterdamse Bos - Koenenbos,Han Jacobs,Moths,2025-08-21
+369654692,Large Yellow Underwing,Noctua pronuba,2025-08-21,12:46,1,4.9127198,52.3407536,Amsterdam - Martin Luther Kingpark,Jan Punt,Moths,2025-08-21
+369651610,Silver Y,Autographa gamma,2025-08-21,12:31,1,4.799508083333333,52.44763563888888,Zaandam - Westerwatering,Nick Van der Bij,Moths,2025-08-21
+369649456,,Choreutis nemorana,2025-08-21,12:26,1,4.859783265976951,52.362579345703125,Amsterdam - Oud-West,Wybe,Moths,2025-08-21
+369645778,Red Underwing,Catocala nupta,2025-08-21,09:36,1,4.8229293,52.461056399722224,Zaandam - Kogerveld,Ronald Nijntjes,Moths,2025-08-21
+369640139,Ringed China-mark,Parapoynx stratiotata,2025-08-21,00:19,1,5.004816055297852,52.339900970458984,Diemen - Overdiemen,Sven Valkenburg,Moths,2025-08-21
+369640136,Small Dusty Wave,Idaea seriata,2025-08-21,00:41,1,5.003052711486816,52.340919494628906,Diemen - Overdiemen,Sven Valkenburg,Moths,2025-08-21
+369640135,Clouded Border,Lomaspilis marginata,2025-08-21,00:41,1,5.003052234649658,52.340919494628906,Diemen - Overdiemen,Sven Valkenburg,Moths,2025-08-21
+369640134,,Agriphila tristella,2025-08-21,00:41,1,5.003052234649658,52.340919494628906,Diemen - Overdiemen,Sven Valkenburg,Moths,2025-08-21
+369640133,Archer's Dart,Agrotis vestigialis,2025-08-21,00:41,1,5.003052234649658,52.340919494628906,Diemen - Overdiemen,Sven Valkenburg,Moths,2025-08-21
+369640132,Frosted Orange,Gortyna flavago,2025-08-21,00:41,1,5.003050804138184,52.3409538269043,Diemen - De Derde Diem,Sven Valkenburg,Moths,2025-08-21
+369639778,Ringed China-mark,Parapoynx stratiotata,2025-08-21,00:19,1,5.004816055297852,52.339900970458984,Diemen - Overdiemen,Rens Keijsers,Moths,2025-08-21
+369639774,Small Dusty Wave,Idaea seriata,2025-08-21,00:41,1,5.003052711486816,52.340919494628906,Diemen - Overdiemen,Rens Keijsers,Moths,2025-08-21
+369639772,Clouded Border,Lomaspilis marginata,2025-08-21,00:41,1,5.003052234649658,52.340919494628906,Diemen - Overdiemen,Rens Keijsers,Moths,2025-08-21
+369639770,,Agriphila tristella,2025-08-21,00:41,1,5.003052234649658,52.340919494628906,Diemen - Overdiemen,Rens Keijsers,Moths,2025-08-21
+369639768,Archer's Dart,Agrotis vestigialis,2025-08-21,00:41,1,5.003052234649658,52.340919494628906,Diemen - Overdiemen,Rens Keijsers,Moths,2025-08-21
+369639766,Frosted Orange,Gortyna flavago,2025-08-21,00:41,1,5.003050804138184,52.3409538269043,Diemen - De Derde Diem,Rens Keijsers,Moths,2025-08-21
+369636077,,Noctuidae indet.,2025-08-21,11:17,1,4.9390846,52.3257049,Duivendrecht,SanderWildLife,Moths,2025-08-21
+369634988,Flame Shoulder,Ochropleura plecta,2025-08-21,10:20,1,5.01221945,52.311375,Driemond - Volkstuincomplex Linnaeus en Frankendael,Ankie Koning,Moths,2025-08-21
+369634921,Small Square-spot,Diarsia rubi,2025-08-21,10:20,1,5.012216666666666,52.31138333333333,Driemond - Volkstuincomplex Linnaeus en Frankendael,Ankie Koning,Moths,2025-08-21
+369634783,Single-dotted Wave,Idaea dimidiata,2025-08-21,10:28,1,5.012186116666666,52.31135833333333,Driemond - Volkstuincomplex Linnaeus en Frankendael,Ankie Koning,Moths,2025-08-21
+369634718,,Celypha lacunana,2025-08-21,10:29,1,5.012197216666666,52.311366666666665,Driemond - Volkstuincomplex Linnaeus en Frankendael,Ankie Koning,Moths,2025-08-21
+369634631,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,10:26,1,5.01223055,52.311375,Driemond - Volkstuincomplex Linnaeus en Frankendael,Ankie Koning,Moths,2025-08-21
+369634536,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,10:29,1,5.012191666666666,52.31135833333333,Driemond - Volkstuincomplex Linnaeus en Frankendael,Ankie Koning,Moths,2025-08-21
+369634406,White-point,Mythimna albipuncta,2025-08-21,10:19,1,5.01220555,52.311395,Driemond - Volkstuincomplex Linnaeus en Frankendael,Ankie Koning,Moths,2025-08-21
+369634282,Chocolate-tip,Clostera curtula,2025-08-21,10:31,1,5.012197216666666,52.31137833333333,Driemond - Volkstuincomplex Linnaeus en Frankendael,Ankie Koning,Moths,2025-08-21
+369634042,,Mesapamea secalis / secalella,2025-08-21,10:17,1,5.012216666666666,52.31140833333333,Driemond - Volkstuincomplex Linnaeus en Frankendael,Ankie Koning,Moths,2025-08-21
+369633894,Dusky Hook-tip,Drepana curvatula,2025-08-21,10:16,1,5.01218055,52.311345,Driemond - Volkstuincomplex Linnaeus en Frankendael,Ankie Koning,Moths,2025-08-21
+369633122,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,10:39,1,4.863622784614563,52.20572013525653,Mijdrecht,Gijs van der Voet,Moths,2025-08-21
+369632601,Poplar Hawk-moth,Laothoe populi,2025-08-21,10:25,1,5.0122,52.31138333333333,Driemond - Volkstuincomplex Linnaeus en Frankendael,Ankie Koning,Moths,2025-08-21
+369632568,,Yponomeuta spec.,2025-08-21,10:52,1,4.7706869,52.470518,Westzaan - Polder Westzaan - Tussen Westzaan en Guisweg,Tamiira,Moths,2025-08-21
+369618970,Small Square-spot,Diarsia rubi,2025-08-21,06:22,2,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369626798,Rusty Dot Pearl,Udea ferrugalis,2025-08-21,09:32,1,4.829157,52.469088,Zaandam - Het Kalf,Rik mandjes,Moths,2025-08-21
+369626775,Single-dotted Wave,Idaea dimidiata,2025-08-21,09:40,1,4.829156618546222,52.46908775488188,Zaandam - Het Kalf,Rik mandjes,Moths,2025-08-21
+369625259,Knot Grass,Acronicta rumicis,2025-08-21,09:43,1,4.943916666666667,52.3203,Amsterdam - Venserpolder,shepherd Stories,Moths,2025-08-21
+369624040,Green Carpet,Colostygia pectinataria,2025-08-21,09:32,1,4.825906299722222,52.4608609,Zaandam - Kogerveld,Ronald Nijntjes,Moths,2025-08-21
+369621271,Single-dotted Wave,Idaea dimidiata,2025-08-21,09:04,1,4.989652175578495,52.38887613084305,Waterland - Liergouw,Marieke Schous,Moths,2025-08-21
+369620467,Spotted Magpie,Anania coronata,2025-08-21,08:56,1,4.992312873293102,52.385024242102936,Waterland - Liergouw,Marieke Schous,Moths,2025-08-21
+369620085,Large Yellow Underwing,Noctua pronuba,2025-08-21,08:52,1,4.972974169373863,52.267715878132975,Abcoude,Ellen van Donk,Moths,2025-08-21
+369619874,Rusty Dot Pearl,Udea ferrugalis,2025-08-21,08:23,1,4.830700399722222,52.460130399722225,Zaandam - Kogerveld,Ronald Nijntjes,Moths,2025-08-21
+369619862,Pretty Chalk Carpet,Melanthia procellata,2025-08-21,08:28,1,4.834275899722222,52.458896799722226,Zaandam - Kogerveld,Ronald Nijntjes,Moths,2025-08-21
+369619846,Brimstone Moth,Opisthograptis luteolata,2025-08-21,08:30,1,4.833913899722222,52.4588295,Zaandam - Kogerveld,Ronald Nijntjes,Moths,2025-08-21
+369619840,Small Dusty Wave,Idaea seriata,2025-08-21,08:36,1,4.828625699722222,52.459564899722224,Zaandam - Kogerveld,Ronald Nijntjes,Moths,2025-08-21
+369619831,Small Dusty Wave,Idaea seriata,2025-08-21,08:39,1,4.8275373,52.46062919972223,Zaandam - Kogerveld,Ronald Nijntjes,Moths,2025-08-21
+369619804,Common Wainscot,Mythimna pallens,2025-08-21,08:50,1,4.972958060802823,52.267697638632,Abcoude,Ellen van Donk,Moths,2025-08-21
+369619795,Snout,Hypena proboscidalis,2025-08-21,08:42,1,4.8280889,52.460618699722225,Zaandam - Kogerveld,Ronald Nijntjes,Moths,2025-08-21
+369619332,Willow Beauty,Peribatodes rhomboidaria,2025-08-21,08:46,1,4.972928461550463,52.26772978936254,Abcoude,Ellen van Donk,Moths,2025-08-21
+369619315,Feathered Gothic,Tholera decimalis,2025-08-21,08:45,1,4.993515171227756,52.384566928227365,Waterland - Durgerdammer Diepolder,Marieke Schous,Moths,2025-08-21
+369619076,Yellow Shell,Camptogramma bilineata,2025-08-21,08:44,1,4.9682158,52.3014929,Amsterdam - Zuidoost,Els Trautwein,Moths,2025-08-21
+369618996,Scarce Chocolate-tip,Clostera anachoreta,2025-08-21,06:02,3,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618993,Garden Tiger,Arctia caja,2025-08-21,06:04,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618990,Vine's Rustic,Hoplodrina ambigua,2025-08-21,06:04,8,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618989,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,06:04,12,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618988,Common White Wave,Cabera pusaria,2025-08-21,06:05,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618986,Box-tree Moth,Cydalima perspectalis,2025-08-21,06:05,8,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618984,,Notocelia uddmanniana,2025-08-21,06:05,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618983,,Celypha lacunana,2025-08-21,06:06,2,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618982,Large Yellow Underwing,Noctua pronuba,2025-08-21,06:09,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618981,Common White Wave,Cabera pusaria,2025-08-21,06:09,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618979,,Yponomeuta spec.,2025-08-21,06:09,2,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618977,Carnation Tortix,Cacoecimorpha pronubana,2025-08-21,06:10,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618976,Gypsy Moth,Lymantria dispar,2025-08-21,06:13,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618972,Pale Prominent,Pterostoma palpina,2025-08-21,06:21,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618968,Willow Beauty,Peribatodes rhomboidaria,2025-08-21,06:23,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618964,Flounced Rustic,Luperina testacea,2025-08-21,06:24,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369618961,Square-spot Rustic,Xestia xanthographa,2025-08-21,06:28,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Moths,2025-08-21
+369617927,Cyclamen Tortrix,Clepsis spectrana,2025-08-21,08:33,1,4.958042,52.4966,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369617699,Cabbage Moth,Mamestra brassicae,2025-08-21,08:31,1,4.838482042864444,52.468242736171206,Zaandam - Het Kalf,Mick Brinkkemper,Moths,2025-08-21
+369617405,Yellow Shell,Camptogramma bilineata,2025-08-21,08:27,1,4.958011,52.496625,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369617334,,Yponomeuta spec.,2025-08-21,08:26,1,4.958081,52.496594,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369617116,Cabbage Moth,Mamestra brassicae,2025-08-21,08:15,1,4.958047,52.496625,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369617066,Bright-line Brown-eye,Lacanobia oleracea,2025-08-21,08:15,2,4.958042,52.496619,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369617050,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,08:17,2,4.958036,52.496628,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369617015,Lesser Broad-bordered Yellow Underwing,Noctua janthe,2025-08-21,08:18,1,4.958053,52.496614,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369616893,,Noctua janthe / janthina,2025-08-21,08:18,1,4.958053,52.496614,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369616084,Vine's Rustic,Hoplodrina ambigua,2025-08-21,08:07,5,4.958047,52.496614,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369616058,Large Yellow Underwing,Noctua pronuba,2025-08-21,08:07,1,4.958044,52.496614,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369616029,Flounced Rustic,Luperina testacea,2025-08-21,08:08,1,4.958047,52.496614,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369616004,Small Dusty Wave,Idaea seriata,2025-08-21,08:11,1,4.957994,52.496575,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369615976,Small Square-spot,Diarsia rubi,2025-08-21,08:11,1,4.958044,52.496608,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369615630,,Clepsis dumicolana,2025-08-21,08:09,1,4.958058,52.496614,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369615462,Blood-vein,Timandra comae,2025-08-21,08:08,1,4.7813531,52.432802,Westzaan,Matty P. Berg,Moths,2025-08-21
+369615422,Small Dusty Wave,Idaea seriata,2025-08-21,08:07,1,4.780746944444444,52.49776075,Wormerveer,John van Loon,Moths,2025-08-21
+369615360,Small Dusty Wave,Idaea seriata,2025-08-21,08:07,1,4.7807367,52.4977048,Wormerveer,John van Loon,Moths,2025-08-21
+369615294,Square-spot Rustic,Xestia xanthographa,2025-08-21,08:06,1,4.7813531,52.432802,Westzaan,Matty P. Berg,Moths,2025-08-21
+369615291,,Mesapamea secalis / secalella,2025-08-21,08:04,1,4.7813531,52.432802,Westzaan,Matty P. Berg,Moths,2025-08-21
+369615289,Small Square-spot,Diarsia rubi,2025-08-21,08:03,1,4.7813531,52.432802,Westzaan,Matty P. Berg,Moths,2025-08-21
+369615286,Dark Sword-grass,Agrotis ipsilon,2025-08-21,08:02,1,4.7813531,52.432802,Westzaan,Matty P. Berg,Moths,2025-08-21
+369615283,,Hedya salicella,2025-08-21,08:00,1,4.7813531,52.432802,Westzaan,Matty P. Berg,Moths,2025-08-21
+369615280,Dusky Thorn,Ennomos fuscantaria,2025-08-21,07:59,1,4.7813531,52.432802,Westzaan,Matty P. Berg,Moths,2025-08-21
+369615276,,Evergestis extimalis,2025-08-21,07:58,1,4.7813531,52.432802,Westzaan,Matty P. Berg,Moths,2025-08-21
+369615074,Common Plume,Emmelina monodactyla,2025-08-21,06:58,1,4.959659814703627,52.49379950235948,Purmerend - Gors,Frank Reurs,Moths,2025-08-21
+369615051,Cyclamen Tortrix,Clepsis spectrana,2025-08-21,08:02,1,4.957956,52.496544,Purmerend - Gors,Guido Mattens,Moths,2025-08-21
+369612400,Ruby Tiger,Phragmatobia fuliginosa,2025-08-21,07:27,1,4.779019552291294,52.46568051830353,Westzaan,kristel,Moths,2025-08-21
+369612388,Box-tree Moth,Cydalima perspectalis,2025-08-21,07:27,1,4.779023074838383,52.46568646438908,Westzaan,kristel,Moths,2025-08-21
+369612373,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,07:26,1,4.779029617977954,52.46573093877469,Westzaan,kristel,Moths,2025-08-21
+369612333,,Endothenia ericetana,2025-08-21,07:25,1,4.779000179840072,52.46568760373892,Westzaan,kristel,Moths,2025-08-21
+369612317,Dark-barred Twin-spot Carpet,Xanthorhoe ferrugata,2025-08-21,07:25,1,4.779023192029236,52.465694873050055,Westzaan,kristel,Moths,2025-08-21
+369611267,Lesser Yellow Underwing,Noctua comes,2025-08-21,06:49,2,4.8980509,52.4110157,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611263,,Agriphila straminella,2025-08-21,06:47,1,4.8980509,52.4110157,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611257,Large Yellow Underwing,Noctua pronuba,2025-08-21,06:46,1,4.8980509,52.4110157,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611253,,Celypha striana,2025-08-21,06:46,1,4.8980509,52.4110157,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611250,Orange Swift,Triodia sylvina,2025-08-21,06:45,2,4.8980449,52.411013,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611247,Vine's Rustic,Hoplodrina ambigua,2025-08-21,06:44,12,4.8980403,52.4110138,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611243,Setaceous Hebrew Character,Xestia c-nigrum,2025-08-21,06:43,4,4.8980403,52.4110138,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611239,Iron Prominent,Notodonta dromedarius,2025-08-21,06:42,1,4.8980403,52.4110138,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611234,,Cochylis atricapitana,2025-08-21,06:42,1,4.8980404,52.4110134,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611233,Square-spot Rustic,Xestia xanthographa,2025-08-21,06:42,1,4.8980403,52.4110139,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611232,Flounced Rustic,Luperina testacea,2025-08-21,06:41,9,4.8980393,52.4110045,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611227,,Oegoconia deauratella,2025-08-21,06:41,2,4.8980344,52.410996,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611219,,Celypha lacunana,2025-08-21,06:41,3,4.8980354,52.4109845,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611216,Vine's Rustic,Hoplodrina ambigua,2025-08-21,06:40,1,4.898037,52.4109824,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611213,,Celypha lacunana,2025-08-21,06:40,1,4.898037,52.4109824,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611209,,Celypha striana,2025-08-21,06:39,1,4.8980403,52.4109842,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369611203,Flounced Rustic,Luperina testacea,2025-08-21,06:39,1,4.8980403,52.4109842,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Moths,2025-08-21
+369610099,Cyclamen Tortrix,Clepsis spectrana,2025-08-21,06:41,1,4.975896666666666,52.33628,Diemen - De Sniep,Annemieke Hondius,Moths,2025-08-21
+369610088,,Evergestis extimalis,2025-08-21,06:41,1,4.97588,52.33627166666667,Diemen - De Sniep,Annemieke Hondius,Moths,2025-08-21
+369610055,Large Yellow Underwing,Noctua pronuba,2025-08-21,06:40,1,4.975878333333333,52.33626666666667,Diemen - De Sniep,Annemieke Hondius,Moths,2025-08-21
+369610040,Bright-line Brown-eye,Lacanobia oleracea,2025-08-21,06:39,1,4.97587,52.336241666666666,Diemen - De Sniep,Annemieke Hondius,Moths,2025-08-21
+369610011,Turnip Moth,Agrotis segetum,2025-08-21,06:44,1,4.97589143531543,52.33627279253826,Diemen - De Sniep,Annemieke Hondius,Moths,2025-08-21
+369609929,,Acentria ephemerella,2025-08-21,06:41,6,4.975878333333333,52.33626666666667,Diemen - De Sniep,Annemieke Hondius,Moths,2025-08-21
+369607946,Bright-line Brown-eye,Lacanobia oleracea,2025-08-21,02:05,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21
+369607945,Olive-tree Pearl,Palpita vitrealis,2025-08-21,02:03,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21
+369607944,Common Wainscot,Mythimna pallens,2025-08-21,02:02,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21
+369607909,,Yponomeuta spec.,2025-08-21,01:57,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21
+369607874,Large Yellow Underwing,Noctua pronuba,2025-08-21,01:52,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21
+369607870,Clouded Border,Lomaspilis marginata,2025-08-21,01:52,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21
+369607810,Garden Carpet,Xanthorhoe fluctuata,2025-08-21,01:44,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21
+369607785,Riband Wave,Idaea aversata,2025-08-21,01:38,1,4.908856,52.349231,Amsterdam - Rivierenbuurt,Laura Musch,Moths,2025-08-21
+369607667,Large Fruit-tree Tortrix,Archips podana,2025-08-21,01:31,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21
+369607247,,Euzophera pinguis,2025-08-21,01:05,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21
+369607167,Cabbage Moth,Mamestra brassicae,2025-08-21,01:00,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21
+369607159,,Noctua janthe / janthina,2025-08-21,01:00,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21
+369606942,Vine's Rustic,Hoplodrina ambigua,2025-08-21,00:51,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21
+369606834,Dark-barred Twin-spot Carpet,Xanthorhoe ferrugata,2025-08-21,00:47,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21
+369606382,Common White Wave,Cabera pusaria,2025-08-21,00:30,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21
+369606124,Carnation Tortix,Cacoecimorpha pronubana,2025-08-21,00:24,1,4.785919,52.239446,De Kwakel,Ronald Ort,Moths,2025-08-21

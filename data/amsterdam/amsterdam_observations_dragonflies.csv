@@ -1,0 +1,576 @@
+id,common_name,scientific_name,date,time,count,longitude,latitude,location,observer,group_name
+371738904,Western Willow Spreadwing,Chalcolestes viridis,2025-09-03,17:16,1,4.749138057231903,52.23308075213953,Kudelstaart,Josine v.Erp,Dragonflies
+371738851,Common Darter,Sympetrum striolatum,2025-09-03,17:13,1,4.74920243024826,52.23311853470414,Kudelstaart,Josine v.Erp,Dragonflies
+371525668,Migrant Hawker,Aeshna mixta,2025-09-03,15:15,2,4.952451512217522,52.46362102178572,Ilpendam,René Beekvelt,Dragonflies
+371525674,Western Willow Spreadwing,Chalcolestes viridis,2025-09-03,15:15,2,4.952483363449574,52.46365002840304,Ilpendam,René Beekvelt,Dragonflies
+371525680,Common Darter,Sympetrum striolatum,2025-09-03,15:15,4,4.952403232455254,52.46353584027084,Ilpendam,René Beekvelt,Dragonflies
+371525677,Moustached Darter,Sympetrum vulgatum,2025-09-03,15:15,1,4.952455870807171,52.46363205247343,Ilpendam,René Beekvelt,Dragonflies
+371541157,Southern Hawker,Aeshna cyanea,2025-09-03,14:55,1,4.8290849,52.45191445,Zaandam - Heemtuin,niko brinkkemper,Dragonflies
+371540091,Southern Hawker,Aeshna cyanea,2025-09-03,15:00,1,4.82912689447403,52.451948556170784,Zaandam - Heemtuin,Rob van der Woude,Dragonflies
+371525695,Common Darter,Sympetrum striolatum,2025-09-03,13:58,1,4.952351935207844,52.46353032491527,Ilpendam,René Beekvelt,Dragonflies
+371509473,Common Darter,Sympetrum striolatum,2025-09-03,13:38,1,4.8667495,52.202021,Mijdrecht,Marie-Lou Gommers,Dragonflies
+371442244,Common Darter,Sympetrum striolatum,2025-09-02,17:12,1,5.018258999722222,52.3125532,Driemond - Volkstuincomplex Linnaeus en Frankendael,Els Timmerman,Dragonflies
+371467830,Darter spec.,Sympetrum spec.,2025-09-02,15:00,1,4.81221,52.443068,Zaandam - Zaandam-West,ewoud de beeldvanger,Dragonflies
+371464859,Small Redeye,Erythromma viridulum,2025-09-02,16:23,1,5.073694865649046,52.49640759742625,Volendam,Henk Kollée,Dragonflies
+371461179,Western Willow Spreadwing,Chalcolestes viridis,2025-09-02,14:53,1,4.803883551503532,52.25103074693554,Uithoorn,Peter Bruines,Dragonflies
+371450042,Western Willow Spreadwing,Chalcolestes viridis,2025-09-02,18:36,1,4.783266544342041,52.49799346923828,Wormerveer,Hans Boerma,Dragonflies
+371441382,Southern Hawker,Aeshna cyanea,2025-09-02,,1,4.962749183177948,52.28709698420119,Amsterdam - Heemtuin De Ruige Hof,Hans Niekus,Dragonflies
+371433213,Western Willow Spreadwing,Chalcolestes viridis,2025-09-02,16:29,1,4.9089455,52.3859187,Amsterdam - Noord,C.van Haagen,Dragonflies
+371421520,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-02,13:52,5,5.095086,52.21558,Kortenhoef - Kromme Rade,Paul Fennis,Dragonflies
+371415911,Common Darter,Sympetrum striolatum,2025-09-02,14:16,1,4.908145,52.36693,Amsterdam - Hortus Botanicus,Sofie van Rooij,Dragonflies
+371403689,Common Darter,Sympetrum striolatum,2025-09-02,12:35,1,4.86063,52.332413333333335,Amsterdam - Buitenveldert,Freek Wijnands,Dragonflies
+372130230,Common Bluetail,Ischnura elegans,2025-08-27,14:29,2,4.968427799722222,52.4490812,Waterland - Varkensland,Bibiche,Dragonflies
+371876946,Common Bluetail,Ischnura elegans,2025-08-26,11:19,1,4.728787422180176,52.26032257080078,Aalsmeer - Westeinderplas,Wouter van der Voort,Dragonflies
+371876934,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-26,12:59,1,4.715521335601807,52.24818801879883,Aalsmeer - Westeinderplas,Wouter van der Voort,Dragonflies
+370738735,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-27,16:18,1,4.912893120204017,52.24909947724291,Botshol - Fort,Hennie Miltenburg,Dragonflies
+371266015,Migrant Hawker,Aeshna mixta,2025-08-26,12:00,1,4.722886085510254,52.306270599365234,Amsterdam - Airport Schiphol,Izak37,Dragonflies
+370867965,Common Bluetail,Ischnura elegans,2025-08-27,17:29,1,5.055620670318604,52.21936717163741,Kortenhoef - Lambertszkade,Angela Eberhardt,Dragonflies
+370866931,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-27,17:07,1,5.05544900894165,52.219051670675015,Kortenhoef - Lambertszkade,Angela Eberhardt,Dragonflies
+370806065,Migrant Hawker,Aeshna mixta,2025-08-26,15:36,1,4.725099253714247,52.46075816106564,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370806054,Common Bluetail,Ischnura elegans,2025-08-26,15:19,1,4.718864972042456,52.46244859237244,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370806048,Migrant Hawker,Aeshna mixta,2025-08-26,15:15,1,4.718099039455081,52.46246711970009,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370806041,Migrant Hawker,Aeshna mixta,2025-08-26,15:12,1,4.718149067193045,52.462128183598914,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370806037,Migrant Hawker,Aeshna mixta,2025-08-26,15:06,1,4.718144044374537,52.461071531509994,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370806033,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-26,15:04,1,4.718151596880811,52.46110694257887,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370806027,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-26,14:57,1,4.718368332964138,52.45987715202887,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370806022,Migrant Hawker,Aeshna mixta,2025-08-26,14:37,2,4.718952241151575,52.45878080197585,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370806019,Western Willow Spreadwing,Chalcolestes viridis,2025-08-26,14:27,3,4.719344316550181,52.45811044251278,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370806014,Western Willow Spreadwing,Chalcolestes viridis,2025-08-26,14:14,1,4.719460323999208,52.45847870620636,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370806012,Western Willow Spreadwing,Chalcolestes viridis,2025-08-26,14:01,2,4.718591200323591,52.45977152917101,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370805995,Common Darter,Sympetrum striolatum,2025-08-26,13:40,1,4.718522947100503,52.4609455609089,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370805989,Western Willow Spreadwing,Chalcolestes viridis,2025-08-26,13:43,2,4.718459958974438,52.46087634861872,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370805984,Western Willow Spreadwing,Chalcolestes viridis,2025-08-26,13:40,3,4.718458040158985,52.460961518005526,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370805976,Migrant Hawker,Aeshna mixta,2025-08-26,13:32,1,4.718324274323514,52.462068246060305,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370582458,Common Darter,Sympetrum striolatum,2025-08-27,08:48,1,4.88677761,52.39061692,Amsterdam - westelijke eilanden,Han Jacobs,Dragonflies
+370793448,Migrant Hawker,Aeshna mixta,2025-08-26,18:26,3,4.975386,52.4900535,Purmerend - Purmer-Zuid,Maarten Hotting,Dragonflies
+370793444,Western Willow Spreadwing,Chalcolestes viridis,2025-08-26,18:25,1,4.9750483,52.490124,Purmerend - Purmer-Zuid,Maarten Hotting,Dragonflies
+370778228,Common Bluetail,Ischnura elegans,2025-08-27,12:36,2,4.969425,52.447562,Waterland - Varkensland,Agnes Noordermeer,Dragonflies
+370774584,Common Bluetail,Ischnura elegans,2025-08-27,10:41,1,4.968567,52.446803,Waterland - Varkensland,Agnes Noordermeer,Dragonflies
+370769379,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-27,10:28,1,4.968567,52.446803,Waterland - Varkensland,Agnes Noordermeer,Dragonflies
+370741365,Migrant Hawker,Aeshna mixta,2025-08-26,12:31,1,5.01034856,52.38320062,Waterland - Polder IJdoorn,Els Velzing,Dragonflies
+370741291,Migrant Hawker,Aeshna mixta,2025-08-26,12:29,1,5.0081706,52.38264398,Waterland - Polder IJdoorn,Els Velzing,Dragonflies
+370740893,Migrant Hawker,Aeshna mixta,2025-08-26,12:14,1,5.00741243,52.38010519,Waterland - Polder IJdoorn,Els Velzing,Dragonflies
+370616590,Common Darter,Sympetrum striolatum,2025-08-27,12:49,1,4.757754,52.233868,Kudelstaart,Laurens Pronk,Dragonflies
+370698994,Migrant Hawker,Aeshna mixta,2025-08-27,12:50,1,4.968691,52.448947,Waterland - Varkensland,Agnes Noordermeer,Dragonflies
+370612013,Migrant Hawker,Aeshna mixta,2025-08-27,12:23,1,4.958941787330673,52.44567794778961,Waterland - Varkensland,Agnes Noordermeer,Dragonflies
+370696840,Western Willow Spreadwing,Chalcolestes viridis,2025-08-27,15:45,1,4.764755725860596,52.411983489990234,Amsterdam - Amerikahaven,David Tempelman,Dragonflies
+370696822,Common Bluetail,Ischnura elegans,2025-08-27,17:18,1,4.805124759674072,52.41151809692383,Amsterdam - Westpoort,David Tempelman,Dragonflies
+370696818,Common Bluetail,Ischnura elegans,2025-08-27,17:43,1,4.801651477813721,52.39226531982422,Amsterdam - Sloterdijk,David Tempelman,Dragonflies
+370687755,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-27,17:07,1,5.055727958679199,52.21930801534958,Kortenhoef - Lambertszkade,Rosa Eberhardt,Dragonflies
+370641432,Common Bluetail,Ischnura elegans,2025-08-27,15:23,1,4.9372843,52.4386001,Waterland - Ilperveld,Jochem G,Dragonflies
+370442911,Migrant Hawker,Aeshna mixta,2025-08-26,08:09,1,4.990861415863037,52.421175115714696,Waterland - Volgermeerpolder,Frank Reurs,Dragonflies
+370469514,Common Darter,Sympetrum striolatum,2025-08-26,16:01,1,4.906551027252714,52.366668701171875,Amsterdam - Hortus Botanicus,Sjaan,Dragonflies
+370670807,Migrant Hawker,Aeshna mixta,2025-08-27,13:48,1,4.916124820709229,52.215301513671875,Mijdrecht - Polder Groot-Mijdrecht,Noud van den Berg,Dragonflies
+370666991,Common Bluetail,Ischnura elegans,2025-08-27,17:44,1,4.814655,52.229894,Uithoorn,SK,Dragonflies
+370588069,Darter spec.,Sympetrum spec.,2025-08-27,09:49,1,4.9399379,52.4057708,Amsterdam - Buikslotermeerpark,Paulus,Dragonflies
+370601035,Darter spec.,Sympetrum spec.,2025-08-26,13:50,1,4.956872463226318,52.48196470719112,Purmerend - Purmerbos,Peter Mudde,Dragonflies
+370655089,Common Darter,Sympetrum striolatum,2025-08-27,09:43,1,4.913405,52.367875,Amsterdam - ARTIS,Claudia D.,Dragonflies
+370651177,Western Willow Spreadwing,Chalcolestes viridis,2025-08-27,16:19,1,4.867485,52.2022771,Mijdrecht,EmeraldFalcon,Dragonflies
+370646424,Migrant Hawker,Aeshna mixta,2025-08-26,11:14,1,4.974024296025163,52.403449605393035,Waterland - Nieuwe Gouw,Joep (Instagram: @amsterdambirding),Dragonflies
+370643640,Common Bluetail,Ischnura elegans,2025-08-27,10:15,2,4.776786804199219,52.27949142456055,Aalsmeer - Oosteinderweg,Merijn Maas,Dragonflies
+370643545,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-27,11:44,1,4.72024393081665,52.25075149536133,Aalsmeer - Westeinderplas,Merijn Maas,Dragonflies
+370643516,Common Bluetail,Ischnura elegans,2025-08-27,12:18,1,4.719913482666016,52.25095748901367,Aalsmeer - Westeinderplas,Merijn Maas,Dragonflies
+370643471,Southern Hawker,Aeshna cyanea,2025-08-27,12:33,3,4.71885347366333,52.25633239746094,Aalsmeer - Westeinderplas,Merijn Maas,Dragonflies
+370637835,Common Bluetail,Ischnura elegans,2025-08-27,15:04,1,4.93745,52.438725,Waterland - Ilperveld,P. Bakker,Dragonflies
+370626684,Common Bluetail,Ischnura elegans,2025-08-27,13:55,1,4.9225303,52.2881635,Ouderkerk aan de Amstel - Ouderkerkerplas,Albert Vermeij,Dragonflies
+370619660,Common Winter Damsel,Sympecma fusca,2025-08-27,13:11,1,4.760773137216388,52.497954911587954,Krommenie,Karin van Genderen,Dragonflies
+370608269,Common Bluetail,Ischnura elegans,2025-08-27,11:59,1,5.0828715,52.2191914,Kortenhoefse Plassen - Het Hol,StevenBeumer,Dragonflies
+370607150,Darter spec.,Sympetrum spec.,2025-08-27,11:52,1,4.8039703,52.4418167,Zaandam - Westerwatering,Michiel Meekes,Dragonflies
+370604440,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-26,15:00,1,4.90333557,52.45977502,Oostzaan - Het Twiske - Klaas Dobbersdroogte,ewoud de beeldvanger,Dragonflies
+370604331,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-26,14:00,2,4.90625381,52.4645339,Oostzaan - Het Twiske - Twiske Noord,ewoud de beeldvanger,Dragonflies
+370604211,Broad Scarlet,Crocothemis erythraea,2025-08-26,14:00,1,4.90625381,52.4645339,Oostzaan - Het Twiske - Twiske Noord,ewoud de beeldvanger,Dragonflies
+370604009,Broad Scarlet,Crocothemis erythraea,2025-08-26,14:00,1,4.90625381,52.4645339,Oostzaan - Het Twiske - Twiske Noord,ewoud de beeldvanger,Dragonflies
+370603694,Broad Scarlet,Crocothemis erythraea,2025-08-26,14:00,2,4.90625381,52.4645339,Oostzaan - Het Twiske - Twiske Noord,ewoud de beeldvanger,Dragonflies
+370603265,Migrant Hawker,Aeshna mixta,2025-08-26,16:30,6,4.89870071,52.45810145,Oostzaan - Het Twiske - Klaas Dobbersdroogte,ewoud de beeldvanger,Dragonflies
+370600787,Western Willow Spreadwing,Chalcolestes viridis,2025-08-26,13:43,1,4.956464767456055,52.48167190221386,Purmerend - Polder de Purmer - Zuid,Peter Mudde,Dragonflies
+370586122,Western Willow Spreadwing,Chalcolestes viridis,2025-08-27,09:38,1,4.9198873,52.4012066,Amsterdam - Noord,fred van mourik,Dragonflies
+370521002,Ruddy Darter,Sympetrum sanguineum,2025-08-26,16:08,1,4.829018265008926,52.335171572489806,Amsterdam - Nieuwe Meer - Oeverlanden Noord,Hans Bootsma,Dragonflies
+370504907,Small Redeye,Erythromma viridulum,2025-08-26,15:05,1,4.893516898264352,52.44879800628455,Oostzaan - Het Twiske - De Blokken,Bart van der Woude,Dragonflies
+370483007,Ruddy Darter,Sympetrum sanguineum,2025-08-26,11:05,1,4.9387755,52.4522685,Waterland - Ilperveld,Ineke,Dragonflies
+370475046,Southern Hawker,Aeshna cyanea,2025-08-26,16:26,1,4.962530555555555,52.2929,Amsterdam - AMC,Ingmarz,Dragonflies
+370451149,Moustached Darter,Sympetrum vulgatum,2025-08-26,09:14,1,4.997706,52.419343,Waterland - Volgermeerpolder,Frank Reurs,Dragonflies
+370419066,Migrant Hawker,Aeshna mixta,2025-08-26,11:42,1,4.8968131,52.4501167,Oostzaan - Het Twiske - De Blokken,Petra Lodewijk,Dragonflies
+370443126,Ruddy Darter,Sympetrum sanguineum,2025-08-26,08:12,1,4.991019129720371,52.420694202189914,Waterland - Volgermeerpolder,Frank Reurs,Dragonflies
+370442760,Common Darter,Sympetrum striolatum,2025-08-26,12:31,1,4.8208111,52.3219184,Amsterdamse Bos - Bosbaan / Duizendmeterweg,A. Lepus,Dragonflies
+370425422,Common Darter,Sympetrum striolatum,2025-08-26,11:50,1,4.757619,52.233758972222226,Kudelstaart,Laurens Pronk,Dragonflies
+371360323,Migrant Hawker,Aeshna mixta,2025-08-24,15:41,1,4.932681620121002,52.38743465662361,Amsterdam - Vliegenbos,Inge D.,Dragonflies
+370973568,Southern Hawker,Aeshna cyanea,2025-08-24,12:18,3,5.004322685783267,52.34166188310654,Diemen - De Derde Diem,Cathy Wiersema,Dragonflies
+370805928,Small Redeye,Erythromma viridulum,2025-08-25,13:34,2,4.728486649277182,52.46043092434169,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370805970,Migrant Hawker,Aeshna mixta,2025-08-25,13:40,3,4.722102858163042,52.46192687255184,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370805921,Migrant Hawker,Aeshna mixta,2025-08-25,13:51,1,4.728486649277182,52.46043092434169,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370575223,Common Darter,Sympetrum striolatum,2025-08-25,14:24,1,4.77127075,52.36145815,Amsterdam - Westgaarde,Els Velzing,Dragonflies
+370517851,Common Bluetail,Ischnura elegans,2025-08-25,13:37,1,4.76060629,52.36393468,Amsterdam - Lutkemeerpolder,Els Velzing,Dragonflies
+370517788,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-25,13:37,1,4.76060629,52.36393468,Amsterdam - Lutkemeerpolder,Els Velzing,Dragonflies
+370516720,Common Darter,Sympetrum striolatum,2025-08-25,13:23,1,4.76077795,52.36686966,Amsterdam - Lutkemeerpolder,Els Velzing,Dragonflies
+370516674,Migrant Hawker,Aeshna mixta,2025-08-25,13:23,1,4.76077795,52.36686966,Amsterdam - Lutkemeerpolder,Els Velzing,Dragonflies
+370516475,Common Darter,Sympetrum striolatum,2025-08-25,13:19,1,4.76348162,52.36531048,Amsterdam - Lutkemeerpolder,Els Velzing,Dragonflies
+370515987,Ruddy Darter,Sympetrum sanguineum,2025-08-25,12:57,1,4.76036668,52.36252172,Amsterdam - Lutkemeerpolder,Els Velzing,Dragonflies
+370515963,Small Redeye,Erythromma viridulum,2025-08-25,12:57,1,4.76036668,52.36252172,Amsterdam - Lutkemeerpolder,Els Velzing,Dragonflies
+370515944,Common Darter,Sympetrum striolatum,2025-08-25,12:57,1,4.76036668,52.36252172,Amsterdam - Lutkemeerpolder,Els Velzing,Dragonflies
+370515802,Common Bluet,Enallagma cyathigerum,2025-08-25,12:57,1,4.75901842,52.36160557,Amsterdam - Lutkemeerpolder,Els Velzing,Dragonflies
+370515477,Small Redeye,Erythromma viridulum,2025-08-25,12:53,1,4.75810289,52.36125067,Amsterdam - Lutkemeerpolder,Els Velzing,Dragonflies
+370262049,Common Winter Damsel,Sympecma fusca,2025-08-24,16:36,1,4.789512559571369,52.34053497265872,Badhoevedorp,Lou Spoor,Dragonflies
+370415645,Lesser Emperor,Anax parthenope,2025-08-25,16:00,1,4.870033,52.42446,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+370415523,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-25,16:00,4,4.870033264160156,52.42445958211501,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+370415431,Western Willow Spreadwing,Chalcolestes viridis,2025-08-25,15:15,18,4.865312576293945,52.42110968561146,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+370415205,Migrant Hawker,Aeshna mixta,2025-08-25,14:52,3,4.864368438720703,52.42001044535863,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+370354546,Common Bluetail,Ischnura elegans,2025-08-25,16:49,1,4.840416312217712,52.329633881737365,Amsterdamse Bos - Koenenbos,JanSietse,Dragonflies
+370379068,Common Winter Damsel,Sympecma fusca,2025-08-25,16:25,1,4.99375105,52.32011185,Diemen - Over Bijlmer,Els Velzing,Dragonflies
+370355251,Ruddy Darter,Sympetrum sanguineum,2025-08-25,16:19,1,4.819484353065491,52.3143740842952,Amsterdam - Heemtuin Vogeleiland,JanSietse,Dragonflies
+370354108,Common Winter Damsel,Sympecma fusca,2025-08-25,19:43,1,4.9258033,52.393923299722225,Amsterdam - Noord,amkla,Dragonflies
+370348561,Common Darter,Sympetrum striolatum,2025-08-25,13:27,1,4.9082257,52.3669561,Amsterdam - Hortus Botanicus,Ivo Meijer,Dragonflies
+370158453,Common Winter Damsel,Sympecma fusca,2025-08-24,17:26,1,4.968063333333333,52.30158,Amsterdam - Zuidoost,ingrid1204,Dragonflies
+370329673,Migrant Hawker,Aeshna mixta,2025-08-25,14:21,1,5.087173087527125,52.215312318925015,Kortenhoef - Kromme Rade,Paul Fennis,Dragonflies
+370329660,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-25,14:08,1,5.096101711797844,52.215511135592145,Kortenhoef - Kromme Rade,Paul Fennis,Dragonflies
+370323721,Common Darter,Sympetrum striolatum,2025-08-25,12:38,1,4.895347083333333,52.33623502777778,Amsterdam - Rivierenbuurt,Jeroen Riemens,Dragonflies
+370312248,Western Willow Spreadwing,Chalcolestes viridis,2025-08-25,15:25,1,4.908721666666667,52.385371666666664,Amsterdam - Noord,thijs de zeeuw,Dragonflies
+370303977,Common Darter,Sympetrum striolatum,2025-08-25,14:35,1,4.8534515,52.38662039972222,Amsterdam - Volkstuincomplex Sloterdijkermeer / Nut en Genoegen,Annet,Dragonflies
+370292193,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-24,16:53,1,4.995496666666667,52.41818333333333,Waterland - Volgermeerpolder,dakriz,Dragonflies
+370282636,Common Darter,Sympetrum striolatum,2025-08-25,10:55,1,5.007916,52.224414,Amsterdam-Rijnkanaal - Loenersloot tot Breukelen,Mathijs Alta,Dragonflies
+370282582,Southern Hawker,Aeshna cyanea,2025-08-25,10:19,1,5.007916,52.224414,Amsterdam-Rijnkanaal - Loenersloot tot Breukelen,Mathijs Alta,Dragonflies
+370281904,Common Winter Damsel,Sympecma fusca,2025-08-25,10:10,1,5.007915973401396,52.22441356771199,Amsterdam-Rijnkanaal - Loenersloot tot Breukelen,Mathijs Alta,Dragonflies
+370229592,Western Willow Spreadwing,Chalcolestes viridis,2025-08-24,15:07,1,4.90727573633194,52.36654909154901,Amsterdam - Hortus Botanicus,Hans Bootsma,Dragonflies
+370211425,Common Winter Damsel,Sympecma fusca,2025-08-24,12:00,1,4.829753333333334,52.24518833333333,Uithoorn,Fred Scholte,Dragonflies
+370205775,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-24,15:15,1,4.82952118,52.46304354,Zaandam - Jagersplas / Jagersveld,ewoud de beeldvanger,Dragonflies
+370205535,Migrant Hawker,Aeshna mixta,2025-08-24,16:30,1,4.82668877,52.45488487,Zaandam - Kogerveld,ewoud de beeldvanger,Dragonflies
+370205270,Migrant Hawker,Aeshna mixta,2025-08-24,15:00,2,4.82919261,52.46267053,Zaandam - Jagersplas / Jagersveld,ewoud de beeldvanger,Dragonflies
+370175018,Western Willow Spreadwing,Chalcolestes viridis,2025-08-24,18:54,1,4.8068736,52.2981553,Amstelveen - Schinkelbos - Bosrandweg,Rob,Dragonflies
+370162655,Southern Hawker,Aeshna cyanea,2025-08-24,17:52,1,4.7014876,52.30151039972222,Hoofddorp,Chris,Dragonflies
+370160952,Western Willow Spreadwing,Chalcolestes viridis,2025-08-24,13:46,1,4.937000751495361,52.39152145385742,Amsterdam - Noord,Stan v. Remmerden,Dragonflies
+370154736,Western Willow Spreadwing,Chalcolestes viridis,2025-08-24,17:13,1,4.989531955295849,52.46201716976467,Waterland - Rietbroek,Melvin Stigter,Dragonflies
+370144280,Common Bluetail,Ischnura elegans,2025-08-24,16:30,1,5.075869066114398,52.43112561268709,Uitdam,Femke,Dragonflies
+370142970,Common Bluetail,Ischnura elegans,2025-08-24,14:24,1,4.894396304953261,52.46466921073165,Oostzaan - Het Twiske - Twiske Noordwest,Arjan Bakker,Dragonflies
+370137414,Common Bluetail,Ischnura elegans,2025-08-24,13:05,1,4.959721,52.493782,Purmerend - Gors,Frank Reurs,Dragonflies
+370126376,Common Bluetail,Ischnura elegans,2025-08-24,15:12,1,5.0366555,52.450505,Monnickendam,deMonnik,Dragonflies
+370123367,Blue Emperor,Anax imperator,2025-08-24,12:15,1,4.828889965901908,52.451521365975566,Zaandam - Heemtuin,Rob van der Woude,Dragonflies
+370119796,Moustached Darter,Sympetrum vulgatum,2025-08-24,13:09,1,4.762911535799503,52.465191028536765,Assendelft - Veenpolder,Marieke Stam,Dragonflies
+370119781,Common Bluetail,Ischnura elegans,2025-08-24,13:22,1,4.761690616607666,52.46601486206055,Assendelft - Veenpolder,Marieke Stam,Dragonflies
+370119772,Common Bluetail,Ischnura elegans,2025-08-24,13:27,1,4.761448383331299,52.46614837646485,Assendelft - Veenpolder,Marieke Stam,Dragonflies
+370119763,Common Bluetail,Ischnura elegans,2025-08-24,13:32,1,4.76099006831646,52.46644090670631,Assendelft - Veenpolder,Marieke Stam,Dragonflies
+370119752,Common Bluetail,Ischnura elegans,2025-08-24,13:35,2,4.760694354772568,52.46662167549286,Assendelft - Veenpolder,Marieke Stam,Dragonflies
+370119747,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-24,13:39,1,4.760380871593952,52.46682756717256,Assendelft - Veenpolder,Marieke Stam,Dragonflies
+370119744,Migrant Hawker,Aeshna mixta,2025-08-24,13:43,1,4.760272577404976,52.466818375600255,Assendelft - Veenpolder,Marieke Stam,Dragonflies
+370119737,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-24,13:52,2,4.759624823927879,52.46727325399792,Assendelft - Veenpolder,Marieke Stam,Dragonflies
+370119732,Common Bluetail,Ischnura elegans,2025-08-24,13:56,1,4.758941173553467,52.46770477294922,Assendelft - Veenpolder,Marieke Stam,Dragonflies
+370119711,Common Bluetail,Ischnura elegans,2025-08-24,13:58,1,4.758813381195068,52.4677848815918,Assendelft - Veenpolder,Marieke Stam,Dragonflies
+370117011,Common Darter,Sympetrum striolatum,2025-08-24,12:56,1,4.938609302043915,52.34048763722425,Amsterdam - Nieuwe Oosterbegraafplaats,Auke Jansen,Dragonflies
+370112205,Moustached Darter,Sympetrum vulgatum,2025-08-24,14:11,1,4.77735,52.44703333333333,Westzaan,Reinier Mees,Dragonflies
+370108676,Moustached Darter,Sympetrum vulgatum,2025-08-24,13:55,1,4.932616666666666,52.387413333333335,Amsterdam - Vliegenbos,Inge D.,Dragonflies
+370107934,Western Willow Spreadwing,Chalcolestes viridis,2025-08-24,13:29,1,4.964866666666667,52.384616666666666,Amsterdam - Schellingwoude,Lena,Dragonflies
+370091717,Western Willow Spreadwing,Chalcolestes viridis,2025-08-24,12:48,1,4.952699280453776,52.33205696862225,Diemen,Bruce,Dragonflies
+370067340,Western Willow Spreadwing,Chalcolestes viridis,2025-08-24,10:53,1,4.913611,52.4004279,Amsterdam - Noord,fred van mourik,Dragonflies
+370055513,Western Willow Spreadwing,Chalcolestes viridis,2025-08-24,09:43,1,4.9386331,52.3257606,Duivendrecht,SanderWildLife,Dragonflies
+369338228,Common Bluetail,Ischnura elegans,2025-08-19,10:15,3,4.792518138885498,52.453956604003906,Zaandam - Westerwatering,Glenn de Wolf,Dragonflies
+369338212,Common Bluetail,Ischnura elegans,2025-08-19,10:18,4,4.79218864440918,52.45393753051758,Westzaan - Polder Westzaan - Mallegatsloot e.o.,Glenn de Wolf,Dragonflies
+369338200,Common Bluetail,Ischnura elegans,2025-08-19,10:20,6,4.791873931884766,52.45392227172851,Westzaan - Polder Westzaan - Mallegatsloot e.o.,Glenn de Wolf,Dragonflies
+369338193,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-19,10:23,1,4.792086601257324,52.4540901184082,Westzaan - Polder Westzaan - Mallegatsloot e.o.,Glenn de Wolf,Dragonflies
+369338191,Common Bluetail,Ischnura elegans,2025-08-19,10:24,5,4.792270183563232,52.45415115356445,Westzaan - Polder Westzaan - Mallegatsloot e.o.,Glenn de Wolf,Dragonflies
+369338159,Common Bluetail,Ischnura elegans,2025-08-19,10:28,5,4.791737079620361,52.45513153076172,Westzaan - Polder Westzaan - Mallegatsloot e.o.,Glenn de Wolf,Dragonflies
+369338134,Common Bluetail,Ischnura elegans,2025-08-19,10:33,3,4.791328907012939,52.45596694946289,Westzaan - Polder Westzaan - Mallegatsloot e.o.,Glenn de Wolf,Dragonflies
+369338121,Darter spec.,Sympetrum spec.,2025-08-19,10:37,1,4.790712833404541,52.45735168457031,Koog aan de Zaan,Glenn de Wolf,Dragonflies
+369338119,Common Bluetail,Ischnura elegans,2025-08-19,10:38,2,4.790736675262451,52.45738983154297,Koog aan de Zaan,Glenn de Wolf,Dragonflies
+369338103,Blue Emperor,Anax imperator,2025-08-19,10:44,2,4.789531707763672,52.45936965942383,Westzaan - Polder Westzaan - Mallegatsloot e.o.,Glenn de Wolf,Dragonflies
+369338107,Common Bluetail,Ischnura elegans,2025-08-19,10:44,3,4.789553642272949,52.45937728881836,Westzaan - Polder Westzaan - Mallegatsloot e.o.,Glenn de Wolf,Dragonflies
+369338101,Southern Hawker,Aeshna cyanea,2025-08-19,10:45,1,4.789535999298096,52.4593620300293,Westzaan - Polder Westzaan - Mallegatsloot e.o.,Glenn de Wolf,Dragonflies
+369338095,Southern Hawker,Aeshna cyanea,2025-08-19,10:50,1,4.789117336273193,52.46038055419922,Westzaan - Polder Westzaan - Mallegatsloot e.o.,Glenn de Wolf,Dragonflies
+369338083,Common Bluetail,Ischnura elegans,2025-08-19,10:57,2,4.7899169921875,52.459129333496094,Koog aan de Zaan,Glenn de Wolf,Dragonflies
+369338076,Common Bluetail,Ischnura elegans,2025-08-19,10:59,1,4.790051460266113,52.4587287902832,Koog aan de Zaan,Glenn de Wolf,Dragonflies
+369338073,Common Bluetail,Ischnura elegans,2025-08-19,11:02,3,4.790215969085693,52.45846939086914,Koog aan de Zaan,Glenn de Wolf,Dragonflies
+369338059,Migrant Hawker,Aeshna mixta,2025-08-19,11:09,1,4.79039478302002,52.45826721191406,Koog aan de Zaan,Glenn de Wolf,Dragonflies
+369338052,Southern Hawker,Aeshna cyanea,2025-08-19,11:10,1,4.790396213531494,52.4582633972168,Koog aan de Zaan,Glenn de Wolf,Dragonflies
+369338055,Darter spec.,Sympetrum spec.,2025-08-19,11:10,1,4.790396213531494,52.4582633972168,Koog aan de Zaan,Glenn de Wolf,Dragonflies
+369338049,Darter spec.,Sympetrum spec.,2025-08-19,11:12,1,4.79057502746582,52.45771026611328,Koog aan de Zaan,Glenn de Wolf,Dragonflies
+369338037,Common Darter,Sympetrum striolatum,2025-08-19,11:17,1,4.790999412536621,52.45672607421875,Koog aan de Zaan,Glenn de Wolf,Dragonflies
+370805829,Common Darter,Sympetrum striolatum,2025-08-19,14:36,1,4.718285202479709,52.46210905360864,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370805846,Migrant Hawker,Aeshna mixta,2025-08-19,14:15,1,4.719485626303922,52.45869706145863,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370805843,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-19,14:52,1,4.726472618682499,52.4607349825916,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370805838,Migrant Hawker,Aeshna mixta,2025-08-19,14:50,1,4.726149266117226,52.460770649227214,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370805834,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-19,14:32,1,4.718074819691615,52.46135281514715,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370805823,Migrant Hawker,Aeshna mixta,2025-08-19,14:35,1,4.718292234469874,52.46209897571472,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+369751836,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-20,13:57,4,4.94106531,52.28679892,Ouderkerk aan de Amstel - Ouderkerkerplas,Els Velzing,Dragonflies
+369751821,Common Bluetail,Ischnura elegans,2025-08-20,13:57,2,4.94106531,52.28679892,Ouderkerk aan de Amstel - Ouderkerkerplas,Els Velzing,Dragonflies
+369484941,Ruddy Darter,Sympetrum sanguineum,2025-08-20,10:59,1,4.8948649,52.4592467,Oostzaan - Het Twiske - Klaas Dobbersdroogte,Petra Lodewijk,Dragonflies
+369603647,Migrant Hawker,Aeshna mixta,2025-08-20,16:31,1,5.015904981484753,52.316991945679085,Diemen - Diemerbos,Kees de Pater,Dragonflies
+369580391,Common Darter,Sympetrum striolatum,2025-08-19,13:19,1,4.78419,52.366703,Amsterdam - Osdorper Bovenpolder-Zuid,Trees Kaizer,Dragonflies
+369564930,Spotted Darter,Sympetrum depressiusculum,2025-08-20,09:48,1,4.849643111228943,52.33066980955462,Amsterdamse Bos - Koenenbos,JanSietse,Dragonflies
+369564223,Southern Hawker,Aeshna cyanea,2025-08-20,15:05,1,4.932789802987827,52.3885108092294,Amsterdam - Vliegenbos,Joep (Instagram: @amsterdambirding),Dragonflies
+369542646,Western Willow Spreadwing,Chalcolestes viridis,2025-08-20,13:55,4,4.7740638256073,52.36212814100711,Amsterdam - Westgaarde,Jan van Blanken,Dragonflies
+369542246,Western Willow Spreadwing,Chalcolestes viridis,2025-08-20,16:44,1,4.998555075674062,52.43335804226259,Broek In Waterland,carolien,Dragonflies
+369524051,Western Willow Spreadwing,Chalcolestes viridis,2025-08-20,13:43,1,4.702416,52.307115,Hoofddorp - De Heimanshof (Heemtuin),Diederik Smilde,Dragonflies
+369515756,Common Bluetail,Ischnura elegans,2025-08-20,14:16,1,4.985415,52.3610832,Amsterdam - Steigereiland,Cornelis Splinter,Dragonflies
+369513956,Migrant Hawker,Aeshna mixta,2025-08-20,14:04,1,5.018353684611907,52.31143244930632,Driemond - Volkstuincomplex Linnaeus en Frankendael,Kees de Pater,Dragonflies
+369511479,Southern Hawker,Aeshna cyanea,2025-08-20,13:50,1,4.93292,52.38742833333333,Amsterdam - Noord - Albemarle,Inge D.,Dragonflies
+369511039,Southern Hawker,Aeshna cyanea,2025-08-20,13:48,1,4.932913333333333,52.387366666666665,Amsterdam - Vliegenbos,martin goosens,Dragonflies
+369485469,Common Bluet,Enallagma cyathigerum,2025-08-19,13:34,1,5.001575,52.41806944444444,Waterland - Poppendammerweeren,FennyPenny,Dragonflies
+369483510,Common Bluetail,Ischnura elegans,2025-08-20,10:49,1,4.9942209,52.4173807,Waterland - Poppendammerweeren,Daniël Muide,Dragonflies
+369371216,Ruddy Darter,Sympetrum sanguineum,2025-08-19,14:53,1,4.799808,52.442367,Zaandam - Westerwatering,Thijs Koelemeijer,Dragonflies
+369386846,Darter spec.,Sympetrum spec.,2025-08-19,16:44,1,4.7880767,52.3828957,Amsterdam - Geuzenveld-Slotermeer,CCM,Dragonflies
+369453816,Migrant Hawker,Aeshna mixta,2025-08-20,01:01,1,4.828878333333334,52.337963333333335,A4 / A10 - Knooppunt de Nieuwe Meer,philipp conrad,Dragonflies
+369432626,Ruddy Darter,Sympetrum sanguineum,2025-08-19,12:59,1,4.82905849814415,52.335179767190446,Amsterdam - Nieuwe Meer - Oeverlanden Noord,Hans Bootsma,Dragonflies
+369413077,Migrant Hawker,Aeshna mixta,2025-08-19,10:27,1,4.889658093507023,52.446392495265215,Oostzaan - Het Twiske - Twiske Zuidwest,Bart van der Woude,Dragonflies
+369403022,Common Bluetail,Ischnura elegans,2025-08-19,18:13,1,5.0066831,52.43140079972222,Broek In Waterland,Mark Vriesenga,Dragonflies
+369402630,Common Bluetail,Ischnura elegans,2025-08-19,18:07,1,4.91257,52.345821666666666,Amstel - t.h.v. Amsterdam,Bartvdp,Dragonflies
+369356849,Moustached Darter,Sympetrum vulgatum,2025-08-19,13:27,1,5.000416666666666,52.416975,Waterland - Poppendammerweeren,FennyPenny,Dragonflies
+369386136,Darter spec.,Sympetrum spec.,2025-08-19,16:41,1,4.7762883,52.377725,Amsterdam - Geuzenveld-Slotermeer,CCM,Dragonflies
+369388621,Migrant Hawker,Aeshna mixta,2025-08-19,14:45,1,4.849201,52.346747,Amsterdam - Huis te Vraag,Jan van Blanken,Dragonflies
+369379001,,Aeshna spec.,2025-08-19,14:11,1,4.802540302276611,52.43802261352539,Zaandam - Westerwatering,Janine Elsinga,Dragonflies
+369378996,Common Bluetail,Ischnura elegans,2025-08-19,14:24,1,4.801682472229004,52.43940353393555,Zaandam - Westerwatering,Janine Elsinga,Dragonflies
+369378999,Common Bluetail,Ischnura elegans,2025-08-19,14:19,5,4.802122592926025,52.43878173828125,Zaandam - Westerwatering,Janine Elsinga,Dragonflies
+369378993,,Aeshna spec.,2025-08-19,14:41,1,4.80070686340332,52.44129180908203,Zaandam - Westerwatering,Janine Elsinga,Dragonflies
+369378989,Common Bluetail,Ischnura elegans,2025-08-19,14:43,2,4.800658226013184,52.44139099121094,Zaandam - Westerwatering,Janine Elsinga,Dragonflies
+369378985,Migrant Hawker,Aeshna mixta,2025-08-19,14:48,3,4.800042629241943,52.44203186035156,Zaandam - Westerwatering,Janine Elsinga,Dragonflies
+369378980,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-19,14:51,2,4.799846649169922,52.442115783691406,Zaandam - Westerwatering,Janine Elsinga,Dragonflies
+369378976,Ruddy Darter,Sympetrum sanguineum,2025-08-19,14:56,1,4.79980993270874,52.44235610961914,Zaandam - Westerwatering,Janine Elsinga,Dragonflies
+369378969,Common Bluetail,Ischnura elegans,2025-08-19,14:58,10,4.799829483032227,52.44247817993164,Zaandam - Westerwatering,Janine Elsinga,Dragonflies
+369373815,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-19,15:16,1,4.799858,52.442092,Zaandam - Westerwatering,Thijs Koelemeijer,Dragonflies
+369371772,Migrant Hawker,Aeshna mixta,2025-08-19,14:45,1,4.800058,52.442039,Zaandam - Westerwatering,Thijs Koelemeijer,Dragonflies
+369368484,Western Willow Spreadwing,Chalcolestes viridis,2025-08-19,09:51,1,4.9753736,52.4899217,Purmerend - Purmer-Zuid,Maarten Hotting,Dragonflies
+369368348,Common Winter Damsel,Sympecma fusca,2025-08-19,,1,4.938832,52.340969,Amsterdam - Nieuwe Oosterbegraafplaats,Hans Niekus,Dragonflies
+369361007,Common Darter,Sympetrum striolatum,2025-08-19,12:03,1,4.872747659683228,52.33295271949978,Amsterdam - Buitenveldert,B. Brink,Dragonflies
+369357132,Western Willow Spreadwing,Chalcolestes viridis,2025-08-19,13:31,1,4.7075432,52.3105789,Amsterdam - Airport Schiphol,sandra,Dragonflies
+369356814,Common Bluetail,Ischnura elegans,2025-08-19,13:28,1,4.9827434,52.4181507,Waterland - Broekergouw,Edward Sodderland,Dragonflies
+369356599,Common Bluetail,Ischnura elegans,2025-08-19,13:26,1,4.982828399722222,52.41816939972222,Waterland - Broekergouw,Edward Sodderland,Dragonflies
+369346285,Common Darter,Sympetrum striolatum,2025-08-19,12:13,1,4.757698,52.233750972222225,Kudelstaart,Laurens Pronk,Dragonflies
+369346021,Common Darter,Sympetrum striolatum,2025-08-19,12:13,1,4.757698,52.233750972222225,Kudelstaart,Laurens Pronk,Dragonflies
+369345183,Western Willow Spreadwing,Chalcolestes viridis,2025-08-19,12:10,1,4.810343699722222,52.4519601,Zaandam - Zaandam-West,A. Lepus,Dragonflies
+369343340,Southern Hawker,Aeshna cyanea,2025-08-19,12:05,1,4.8559926,52.30435719972222,Amstelveen - Stadshart,Aad van Paassen,Dragonflies
+369331903,Migrant Hawker,Aeshna mixta,2025-08-19,10:58,1,4.936852651397233,52.37308874154181,Amsterdam - Oostelijk Havengebied,Ketelbinkie,Dragonflies
+371793764,Common Winter Damsel,Sympecma fusca,2025-09-05,14:17,1,4.87822651884926,52.452913401053074,Oostzaan - Het Twiske - Smaal,Bart van der Woude,Dragonflies
+371866634,Common Darter,Sympetrum striolatum,2025-09-04,13:04,1,4.7841781,52.3666558,Amsterdam - Osdorper Bovenpolder-Zuid,Trees Kaizer,Dragonflies
+371866628,Migrant Hawker,Aeshna mixta,2025-09-04,13:04,1,4.7841958,52.3666517,Amsterdam - Osdorper Bovenpolder-Zuid,Trees Kaizer,Dragonflies
+371864699,Migrant Hawker,Aeshna mixta,2025-09-04,13:43,1,4.806134167112385,52.297442635711704,Amstelveen - Schinkelbos - Bosrandweg,Ankie Stiasny,Dragonflies
+371864697,Migrant Hawker,Aeshna mixta,2025-09-04,13:19,2,4.804151377324196,52.300349162909846,Amstelveen - Schinkelbos - Bosrandweg,Ankie Stiasny,Dragonflies
+371738152,Common Darter,Sympetrum striolatum,2025-09-05,17:10,1,4.701401972222222,52.30153897222222,Hoofddorp,Chris,Dragonflies
+371780097,Migrant Hawker,Aeshna mixta,2025-09-05,16:24,1,4.990931034088135,52.34233093261719,Diemen - De Tweede Diem,David Tempelman,Dragonflies
+371784841,Southern Hawker,Aeshna cyanea,2025-09-05,12:49,1,4.978036666666666,52.33976333333333,Diemen,Menno Boogaard,Dragonflies
+371780143,Banded Demoiselle,Calopteryx splendens,2025-09-05,14:51,1,5.021280288696289,52.3361701965332,Diemen - Overdiemen,David Tempelman,Dragonflies
+371780141,Migrant Hawker,Aeshna mixta,2025-09-05,14:51,1,5.021280288696289,52.3361701965332,Diemen - Overdiemen,David Tempelman,Dragonflies
+371780140,Common Bluetail,Ischnura elegans,2025-09-05,14:51,2,5.02127742767334,52.3361701965332,Diemen - Overdiemen,David Tempelman,Dragonflies
+371780120,Southern Hawker,Aeshna cyanea,2025-09-05,16:01,1,4.992246627807617,52.34401321411133,Diemen - Diemerpolder,David Tempelman,Dragonflies
+371769478,Ruddy Darter,Sympetrum sanguineum,2025-09-05,15:30,1,4.816276,52.430909,Zaandam - Westerspoor,ewoud de beeldvanger,Dragonflies
+371769199,Migrant Hawker,Aeshna mixta,2025-09-05,16:35,6,4.816276,52.430909,Zaandam - Westerspoor,ewoud de beeldvanger,Dragonflies
+371751626,Common Winter Damsel,Sympecma fusca,2025-09-05,,1,4.744409322738647,52.464507757695046,Assendelft - Zuid,g j Stoop,Dragonflies
+371751906,Migrant Hawker,Aeshna mixta,2025-09-05,15:05,25,4.775329828262329,52.362167451577434,Amsterdam - Westgaarde,Jan van Blanken,Dragonflies
+371737625,Western Willow Spreadwing,Chalcolestes viridis,2025-09-05,17:05,1,4.977103333333333,52.490986666666664,Purmerend - Purmer-Zuid,Martin Witteveldt,Dragonflies
+371734908,Common Winter Damsel,Sympecma fusca,2025-09-05,11:36,1,4.774053,52.362144,Amsterdam - Westgaarde,Jan van Blanken,Dragonflies
+371734807,Western Willow Spreadwing,Chalcolestes viridis,2025-09-05,11:35,1,4.774053,52.362144,Amsterdam - Westgaarde,Jan van Blanken,Dragonflies
+371734689,Western Willow Spreadwing,Chalcolestes viridis,2025-09-05,11:31,1,4.774053,52.362144,Amsterdam - Westgaarde,Jan van Blanken,Dragonflies
+371732239,Common Darter,Sympetrum striolatum,2025-09-05,16:28,1,4.9169089,52.3216988,Duivendrecht - Volkstuinen,Philippe Moreau,Dragonflies
+371730356,Western Willow Spreadwing,Chalcolestes viridis,2025-09-05,16:16,1,4.7973833,52.4590399,Koog aan de Zaan,GrAs,Dragonflies
+371725181,Darter spec.,Sympetrum spec.,2025-09-05,15:41,1,5.0381036,52.4483175,Monnickendam,Margo Reurs,Dragonflies
+371724904,Darter spec.,Sympetrum spec.,2025-09-05,15:39,1,5.0380336,52.4483564,Monnickendam,Margo Reurs,Dragonflies
+371724659,Dragonfly unknown,Anisoptera indet.,2025-09-05,15:37,1,5.038069,52.4483143,Monnickendam,Margo Reurs,Dragonflies
+371715868,Western Willow Spreadwing,Chalcolestes viridis,2025-09-05,14:28,1,4.9152721,52.3663353,Amsterdam - ARTIS,Cornelis Splinter,Dragonflies
+371706843,Common Darter,Sympetrum striolatum,2025-09-05,13:10,1,4.915164113044739,52.36632776757365,Amsterdam - ARTIS,Cornelis Splinter,Dragonflies
+371705130,Common Winter Damsel,Sympecma fusca,2025-09-05,12:47,1,4.775157799722222,52.35179529972223,Amsterdam - De Aker,Hondsroos,Dragonflies
+371702746,Migrant Hawker,Aeshna mixta,2025-09-05,,1,4.744422411931737,52.464516516678046,Assendelft - Zuid,g j Stoop,Dragonflies
+371698404,,Aeshnidae indet.,2025-09-05,12:00,1,5.0836975,52.2789247,Ankeveense Plassen,Frank,Dragonflies
+371632599,Common Darter,Sympetrum striolatum,2025-09-04,14:31,1,4.810515403747559,52.33101272583008,Amsterdam - Nieuwe Meer - Oeverlanden Noord,Ruud Jansen,Dragonflies
+371665988,Common Darter,Sympetrum striolatum,2025-09-04,13:06,1,4.911564588546753,52.40884309768354,Kadoelerscheg,Tello Neckheim,Dragonflies
+371644603,Ruddy Darter,Sympetrum sanguineum,2025-09-04,13:54,2,5.023605823516846,52.34428805762115,Diemen - Vijfhoek,Peter Corstiaans,Dragonflies
+371634105,Common Darter,Sympetrum striolatum,2025-09-04,14:34,1,4.91615,52.36548833333333,Amsterdam - ARTIS,thijs de zeeuw,Dragonflies
+371620079,Western Willow Spreadwing,Chalcolestes viridis,2025-09-04,11:32,1,5.02251148223877,52.347578248463144,Diemen - Vijfhoek,Peter Corstiaans,Dragonflies
+371617797,Western Willow Spreadwing,Chalcolestes viridis,2025-09-04,14:07,1,4.772425,52.376778333333334,Amsterdam - Volkstuincomplex Osdorp,Joep van den Elsen,Dragonflies
+371613602,Southern Hawker,Aeshna cyanea,2025-09-04,14:53,1,4.935889994087727,52.34954833984375,Amsterdam - Watergraafsmeer,Geert Timmermans,Dragonflies
+371609258,Common Darter,Sympetrum striolatum,2025-09-04,13:35,2,4.863907098770142,52.20623188122165,Mijdrecht,Gijs van der Voet,Dragonflies
+371582209,Common Darter,Sympetrum striolatum,2025-09-04,10:44,1,4.757748,52.23381497222222,Kudelstaart,Laurens Pronk,Dragonflies
+371601701,Common Winter Damsel,Sympecma fusca,2025-09-04,13:26,1,4.7739023835087,52.35101024516398,Amsterdam - De Aker,Roelof Jansen,Dragonflies
+371590119,Darter spec.,Sympetrum spec.,2025-09-04,12:01,1,4.9757131,52.3254143,Amsterdam - Zuidoost,maarten177,Dragonflies
+371602157,Common Darter,Sympetrum striolatum,2025-09-04,12:37,1,4.9078848,52.3669232,Amsterdam - Hortus Botanicus,Volker Hesse,Dragonflies
+371593554,Western Willow Spreadwing,Chalcolestes viridis,2025-09-04,12:32,1,4.859906588177052,52.332489013671875,Amsterdam - Buitenveldert,Freek Wijnands,Dragonflies
+371591783,Western Willow Spreadwing,Chalcolestes viridis,2025-09-04,12:14,1,4.966197500000021,52.3468283,Diemen - Spoorzicht,Dirk Eeuwes,Dragonflies
+371581004,Darter spec.,Sympetrum spec.,2025-09-04,10:29,1,5.082307163495217,52.29308894191311,Weesp - Fort Uitermeer,wzimmerman,Dragonflies
+369826907,Western Willow Spreadwing,Chalcolestes viridis,2025-08-21,11:39,1,4.94067371,52.34146717,Amsterdam - Nieuwe Oosterbegraafplaats,Els Velzing,Dragonflies
+369826783,Blue Emperor,Anax imperator,2025-08-21,11:31,1,4.94220793,52.34384978,Amsterdam - Nieuwe Oosterbegraafplaats,Els Velzing,Dragonflies
+369715874,Southern Hawker,Aeshna cyanea,2025-08-21,16:06,1,4.762071132659912,52.39617538452149,Amsterdam - Geuzenbos,Han Jacobs,Dragonflies
+369684767,Common Bluetail,Ischnura elegans,2025-08-21,16:14,1,4.9767598,52.485087,Purmerend - Purmerbos,Z.Burghout,Dragonflies
+369680449,Moustached Darter,Sympetrum vulgatum,2025-08-21,15:46,1,4.9820541,52.4828156,Purmerend - Purmerbos,Z.Burghout,Dragonflies
+369679275,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-21,15:39,1,4.9812225,52.4830892,Purmerend - Purmerbos,Z.Burghout,Dragonflies
+369677734,Western Willow Spreadwing,Chalcolestes viridis,2025-08-21,15:26,1,4.9791666,52.4850566,Purmerend - Purmerbos,Z.Burghout,Dragonflies
+369668353,Ruddy Darter,Sympetrum sanguineum,2025-08-21,14:26,1,4.9764422,52.2883661,Amsterdam - De Hoge Dijk,snapology,Dragonflies
+369668240,Ruddy Darter,Sympetrum sanguineum,2025-08-21,14:24,1,4.9760983,52.2884837,Amsterdam - De Hoge Dijk,snapology,Dragonflies
+369664606,Migrant Hawker,Aeshna mixta,2025-08-21,10:49,1,4.959682345324836,52.493789704024366,Purmerend - Gors,Mats,Dragonflies
+369657425,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-21,10:10,1,4.849990367889404,52.330787658691406,Amsterdamse Bos - Koenenbos,Han Jacobs,Dragonflies
+369657423,Common Darter,Sympetrum striolatum,2025-08-21,10:10,1,4.849989414215088,52.33078384399414,Amsterdamse Bos - Koenenbos,Han Jacobs,Dragonflies
+369657416,Common Bluetail,Ischnura elegans,2025-08-21,10:11,1,4.849987983703613,52.33076858520508,Amsterdamse Bos - Koenenbos,Han Jacobs,Dragonflies
+369648477,Common Darter,Sympetrum striolatum,2025-08-21,12:22,1,4.880916666666667,52.35161166666666,Amsterdam - Oud-Zuid,joep rooijmans,Dragonflies
+369637853,Common Winter Damsel,Sympecma fusca,2025-08-21,11:33,1,4.757441996062618,52.263764070148625,Aalsmeer,liesbeth schuit,Dragonflies
+369628253,Common Winter Damsel,Sympecma fusca,2025-08-21,10:13,1,4.952732579929508,52.33205342029238,Diemen,Bruce,Dragonflies
+370375684,Common Bluetail,Ischnura elegans,2025-08-23,14:33,1,5.088310385134037,52.26144410400848,Ankeveense Plassen - Bergse Pad,Gwenny en Elco,Dragonflies
+369952487,Common Darter,Sympetrum striolatum,2025-08-23,14:58,1,4.766805,52.46431333333334,Westzaan,dave,Dragonflies
+369985921,Common Bluetail,Ischnura elegans,2025-08-23,17:40,1,4.757939,52.233925972222224,Kudelstaart,Laurens Pronk,Dragonflies
+369996881,Western Willow Spreadwing,Chalcolestes viridis,2025-08-23,18:42,1,4.919176764528424,52.40234375,Amsterdam - Noord,Ilone,Dragonflies
+369993336,Common Bluet,Enallagma cyathigerum,2025-08-23,16:08,1,4.74043607711792,52.42631912231445,Amsterdam - Afrikahaven,Han Jacobs,Dragonflies
+369993332,Common Darter,Sympetrum striolatum,2025-08-23,16:09,1,4.740420818328857,52.42633056640625,Amsterdam - Afrikahaven,Han Jacobs,Dragonflies
+369958751,Western Willow Spreadwing,Chalcolestes viridis,2025-08-23,15:26,1,4.98013,52.483066666666666,Purmerend - Purmerbos,Arjan,Dragonflies
+369957041,Southern Hawker,Aeshna cyanea,2025-08-23,15:35,1,4.896771666666667,52.416145,Kadoelerscheg,Arjen,Dragonflies
+369927313,Moustached Darter,Sympetrum vulgatum,2025-08-23,13:06,1,4.793582916666667,52.45809552777778,Koog aan de Zaan,SvL,Dragonflies
+369951679,Moustached Darter,Sympetrum vulgatum,2025-08-23,15:10,1,4.96708,52.38498,Amsterdam - Schellingwoude,Lena,Dragonflies
+369951637,Western Willow Spreadwing,Chalcolestes viridis,2025-08-23,15:11,1,5.0106207,52.3145172,Driemond - Volkstuincomplex Linnaeus en Frankendael,Bertus Kloppenborg,Dragonflies
+369937633,Common Winter Damsel,Sympecma fusca,2025-08-23,13:59,1,4.701304,52.30143997222222,Hoofddorp,Chris,Dragonflies
+369916573,Common Bluetail,Ischnura elegans,2025-08-23,12:04,1,5.046911166666667,52.26891333333333,Nederhorst den Berg - Spiegel- en Blijkpolderplas,Katleen T.,Dragonflies
+369906430,Western Willow Spreadwing,Chalcolestes viridis,2025-08-23,11:06,1,4.9527807,52.4677411,Ilpendam,Edial Dekker,Dragonflies
+369820531,Southern Hawker,Aeshna cyanea,2025-08-22,17:06,1,4.709753333333333,52.299995,Hoofddorp,Hauye Beckmann®️,Dragonflies
+369767961,Western Willow Spreadwing,Chalcolestes viridis,2025-08-22,11:09,1,5.0460555,52.3136,Leeuwenveld,Rohan J,Dragonflies
+372644205,Southern Hawker,Aeshna cyanea,2025-09-06,18:50,1,4.98734951,52.30778547,Amsterdam - Gaasperpark,Els Velzing,Dragonflies
+372644150,Migrant Hawker,Aeshna mixta,2025-09-06,18:50,2,4.98734951,52.30778547,Amsterdam - Gaasperpark,Els Velzing,Dragonflies
+372644047,Southern Hawker,Aeshna cyanea,2025-09-06,18:43,1,4.98959899,52.30733284,Amsterdam - Gaasperpark,Els Velzing,Dragonflies
+372008437,Common Darter,Sympetrum striolatum,2025-09-07,14:40,1,4.82120779929005,52.21503167555669,Amstelhoek - Bovenlanden Kromme Mijdrecht,M.J. van der Meij,Dragonflies
+372604682,Common Darter,Sympetrum striolatum,2025-09-07,12:58,1,4.828147888183594,52.42976655456389,Zaandam - Oude Haven,Martijn Thieme,Dragonflies
+372604958,Darter spec.,Sympetrum spec.,2025-09-07,12:43,1,4.828148,52.429767,Zaandam - Oude Haven,Martijn Thieme,Dragonflies
+372605026,Migrant Hawker,Aeshna mixta,2025-09-07,12:54,1,4.828148,52.429767,Zaandam - Oude Haven,Martijn Thieme,Dragonflies
+372605540,Western Willow Spreadwing,Chalcolestes viridis,2025-09-07,12:54,1,4.828148,52.429767,Zaandam - Oude Haven,Martijn Thieme,Dragonflies
+372604805,Western Willow Spreadwing,Chalcolestes viridis,2025-09-07,12:25,1,4.828148,52.429767,Zaandam - Oude Haven,Martijn Thieme,Dragonflies
+372604718,Western Willow Spreadwing,Chalcolestes viridis,2025-09-07,12:27,1,4.828148,52.429767,Zaandam - Oude Haven,Martijn Thieme,Dragonflies
+372009001,Common Darter,Sympetrum striolatum,2025-09-07,14:56,1,4.89777,52.41704166666667,Amsterdam - Noord,Michiel de Goeje,Dragonflies
+372100566,Common Darter,Sympetrum striolatum,2025-09-07,16:35,1,4.95309054851532,52.46527906654955,Ilpendam,Grada Wals,Dragonflies
+372366207,Migrant Hawker,Aeshna mixta,2025-09-07,16:07,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Dragonflies
+372352172,Migrant Hawker,Aeshna mixta,2025-09-06,18:45,8,5.048679113388062,52.31276715888464,Weesp - Landscroon,tépé,Dragonflies
+371992993,Common Darter,Sympetrum striolatum,2025-09-07,11:33,1,5.003641666666667,52.341575,Diemen - De Derde Diem,Zita Boeren,Dragonflies
+371830849,Migrant Hawker,Aeshna mixta,2025-09-06,13:25,1,4.8670537,52.3597662,Amsterdam - Oud-West,Johannes Hettling,Dragonflies
+372101989,Moustached Darter,Sympetrum vulgatum,2025-09-07,17:17,2,4.953058362007141,52.465267300902845,Ilpendam,Grada Wals,Dragonflies
+372102073,Moustached Darter,Sympetrum vulgatum,2025-09-07,17:24,1,4.953058,52.465267,Ilpendam,Grada Wals,Dragonflies
+372100694,Migrant Hawker,Aeshna mixta,2025-09-07,17:30,8,4.953091,52.465279,Ilpendam,Grada Wals,Dragonflies
+372079452,Western Willow Spreadwing,Chalcolestes viridis,2025-09-07,16:09,1,4.82048574,52.49897424,Wormer,Kees Floris,Dragonflies
+372079367,Common Darter,Sympetrum striolatum,2025-09-07,15:50,1,4.82048574,52.49897424,Wormer,Kees Floris,Dragonflies
+372070900,Western Willow Spreadwing,Chalcolestes viridis,2025-09-07,15:00,1,4.822282791083126,52.46553550270913,Zaandam - Het Kalf,Elly de Koning-Kraan,Dragonflies
+372070416,Migrant Hawker,Aeshna mixta,2025-09-07,14:42,1,4.8981004,52.4110847,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Dragonflies
+372070401,Common Darter,Sympetrum striolatum,2025-09-07,12:44,1,4.8981351,52.4111233,Amsterdam - Tuindorp-Oostzaan,Daan Drukker,Dragonflies
+372058903,Western Willow Spreadwing,Chalcolestes viridis,2025-09-07,19:25,1,4.755856844056345,52.38604714657405,Halfweg,Thijs,Dragonflies
+372058536,Damselfly unknown,Zygoptera indet.,2025-09-07,19:22,1,4.755827885778737,52.38601966293963,Halfweg,Thijs,Dragonflies
+372058298,Damselfly unknown,Zygoptera indet.,2025-09-07,19:20,1,4.755836199780631,52.38603448865035,Halfweg,Thijs,Dragonflies
+372055196,Moustached Darter,Sympetrum vulgatum,2025-09-07,18:59,1,4.874582290649414,52.31983203779107,Amstelveen - Kronenburg en Uilenstede,Pjotr Meier,Dragonflies
+372055100,Moustached Darter,Sympetrum vulgatum,2025-09-07,18:58,1,4.8724523,52.3195061,Amstelveen - Kronenburg en Uilenstede,Pjotr Meier,Dragonflies
+372050561,Migrant Hawker,Aeshna mixta,2025-09-07,11:27,1,4.7841921,52.36671,Amsterdam - Osdorper Bovenpolder-Zuid,Trees Kaizer,Dragonflies
+372038630,Darter spec.,Sympetrum spec.,2025-09-07,17:23,1,4.871461666666667,52.39373333333333,Amsterdam - Westerpark (Stadsdeel),Miekepiek,Dragonflies
+372025468,Western Willow Spreadwing,Chalcolestes viridis,2025-09-07,15:05,1,4.811475276944444,52.43295669555555,Zaandam - Westerspoor,Susan Kerssens,Dragonflies
+372011378,Western Willow Spreadwing,Chalcolestes viridis,2025-09-07,15:10,1,4.8204579,52.498968,Wormer,Kees Floris,Dragonflies
+372017412,Common Darter,Sympetrum striolatum,2025-09-07,15:42,1,4.911871666666666,52.37659166666667,Amsterdam - Centrum,Mats,Dragonflies
+372004223,Migrant Hawker,Aeshna mixta,2025-09-07,13:30,1,4.97721434,52.28930698,Amsterdam - Zuidoost,Will Schep,Dragonflies
+372004618,,Aeshnidae indet.,2025-09-07,13:08,1,4.7035684,52.2264946,Leimuiden - Griet- en Vriesekoopsche Polder,Frans Jansen,Dragonflies
+372004541,Migrant Hawker,Aeshna mixta,2025-09-07,13:45,5,4.97706413,52.28813883,Amsterdam - De Hoge Dijk,Will Schep,Dragonflies
+372004087,Western Willow Spreadwing,Chalcolestes viridis,2025-09-07,14:29,1,4.8118982,52.4509915,Zaandam - Zaandam-West,WijZD,Dragonflies
+372003421,Western Willow Spreadwing,Chalcolestes viridis,2025-09-07,14:25,1,4.8032,52.455436666666664,Koog aan de Zaan,Jacco Konijn,Dragonflies
+371998646,Common Darter,Sympetrum striolatum,2025-09-07,13:57,1,4.872716666666666,52.36092,Amsterdam - Vondelpark,guido,Dragonflies
+371990443,Common Darter,Sympetrum striolatum,2025-09-07,13:04,1,4.769298106929881,52.27511150492572,Aalsmeer - Oosteinderweg,Christian Kooij,Dragonflies
+371990256,Dragonfly unknown,Anisoptera indet.,2025-09-07,10:02,1,4.795977390569603,52.29492766260914,Amstelveen - Schinkelbos,Christian Kooij,Dragonflies
+371978905,Southern Hawker,Aeshna cyanea,2025-09-07,12:17,1,4.809138333333333,52.468336666666666,Zaandijk,Ben Bosboom,Dragonflies
+371976338,Western Willow Spreadwing,Chalcolestes viridis,2025-09-07,11:02,1,4.8000784,52.487824,Wormerveer,lalalasaboe,Dragonflies
+371969313,Common Darter,Sympetrum striolatum,2025-09-07,11:24,1,4.9170523,52.3217066,Duivendrecht - Volkstuinen,Philippe Moreau,Dragonflies
+371968956,Common Darter,Sympetrum striolatum,2025-09-07,11:23,1,4.9170478,52.3216901,Duivendrecht - Volkstuinen,Philippe Moreau,Dragonflies
+371965236,Common Bluetail,Ischnura elegans,2025-09-07,10:15,1,5.046667457057993,52.48893076476568,Volendam - Polder Katwoude,René Beekvelt,Dragonflies
+371963482,Moustached Darter,Sympetrum vulgatum,2025-09-07,10:00,1,5.04525899887085,52.489131927490234,Volendam - Polder Katwoude,René Beekvelt,Dragonflies
+371935369,Migrant Hawker,Aeshna mixta,2025-09-06,18:00,3,4.95307981967926,52.46525292070798,Ilpendam,Grada Wals,Dragonflies
+371843635,Southern Hawker,Aeshna cyanea,2025-09-06,13:27,1,4.711191,52.306408,Hoofddorp,PaasHaas Groen,Dragonflies
+371894591,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-06,19:13,1,4.7498489,52.2309448,Kudelstaart,Wim,Dragonflies
+371880435,Western Willow Spreadwing,Chalcolestes viridis,2025-09-06,17:51,1,5.0182598857519,52.311359394411234,Driemond - Volkstuincomplex Linnaeus en Frankendael,Kees de Pater,Dragonflies
+371880432,Common Darter,Sympetrum striolatum,2025-09-06,14:08,1,5.018377398911712,52.31131422899753,Driemond - Volkstuincomplex Linnaeus en Frankendael,Kees de Pater,Dragonflies
+371880236,Common Darter,Sympetrum striolatum,2025-09-06,15:06,2,4.819390475749969,52.314332117925126,Amsterdam - Heemtuin Vogeleiland,Auke Jansen,Dragonflies
+371880004,Moustached Darter,Sympetrum vulgatum,2025-09-06,14:45,1,4.819976538419724,52.31480960473299,Amsterdam - Heemtuin Vogeleiland,Auke Jansen,Dragonflies
+371866641,Western Willow Spreadwing,Chalcolestes viridis,2025-09-06,16:43,1,4.7842574,52.366676,Amsterdam - Osdorper Bovenpolder-Zuid,Trees Kaizer,Dragonflies
+371844946,Western Willow Spreadwing,Chalcolestes viridis,2025-09-06,14:48,1,4.920426499722223,52.40281689972222,Amsterdam - Noord,H4rrison,Dragonflies
+371842889,Common Darter,Sympetrum striolatum,2025-09-06,12:56,1,4.812019765377045,52.451235850517335,Zaandam - Zaandam-West,Huib Versloot,Dragonflies
+371841680,Common Darter,Sympetrum striolatum,2025-09-06,12:10,1,4.93964553,52.34522675,Amsterdam - Nieuwe Oosterbegraafplaats,Els Velzing,Dragonflies
+371841198,Common Winter Damsel,Sympecma fusca,2025-09-06,14:28,1,4.908111,52.411731,Amsterdam - Wilmkebreek - Tuinen,Henk van Alst,Dragonflies
+371838167,Common Winter Damsel,Sympecma fusca,2025-09-06,12:33,1,4.907184541225433,52.3331290677259,Amsterdam - Volkstuincomplex Amstelglorie,Wim van der Schot,Dragonflies
+371833100,Common Darter,Sympetrum striolatum,2025-09-06,13:40,1,4.866858333333333,52.35957833333333,Amsterdam - Vondelpark,lode,Dragonflies
+371833018,Migrant Hawker,Aeshna mixta,2025-09-06,12:17,1,5.003173416880489,52.29775145451884,Amsterdam - Gaasperzoom,Kees de Pater,Dragonflies
+371833013,Southern Hawker,Aeshna cyanea,2025-09-06,12:03,1,4.999136253194973,52.2931252045297,Amsterdam - Gaasperzoom,Kees de Pater,Dragonflies
+371814633,Western Willow Spreadwing,Chalcolestes viridis,2025-09-06,11:50,1,5.030883333333334,52.27578333333333,Nigtevecht,Femke,Dragonflies
+371812025,Migrant Hawker,Aeshna mixta,2025-09-06,11:34,1,4.8122417,52.4527333,Zaandam - Zaandam-West,Huib Versloot,Dragonflies
+371802263,Broad Scarlet,Crocothemis erythraea,2025-09-06,10:17,1,4.994605779647827,52.41780504827977,Waterland - Volgermeerpolder,Manon Meester,Dragonflies
+369665752,Southern Hawker,Aeshna cyanea,2025-08-18,13:37,1,4.99056458,52.31560442,Amsterdam - Zuidoost,Els Velzing,Dragonflies
+369275762,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-18,18:15,1,4.829078614711761,52.335171572489806,Amsterdam - Nieuwe Meer - Oeverlanden Noord,Hans Bootsma,Dragonflies
+369286960,Lesser Emperor,Anax parthenope,2025-08-18,14:15,4,4.86419677734375,52.41985340879962,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+369430491,Western Willow Spreadwing,Chalcolestes viridis,2025-08-18,16:10,2,4.829928874969482,52.473376557823656,Zaandam - Het Kalf,Rolf Surink,Dragonflies
+369415641,Common Winter Damsel,Sympecma fusca,2025-08-18,13:38,1,4.773567676544189,52.474998474121094,A8 - Westzaan,Ingmar van der Brugge,Dragonflies
+369415602,Common Bluetail,Ischnura elegans,2025-08-18,14:43,1,4.776547431945801,52.47261428833008,A8 - Westzaan,Ingmar van der Brugge,Dragonflies
+369342238,Western Willow Spreadwing,Chalcolestes viridis,2025-08-18,12:57,1,4.917762637269334,52.399496082570494,Amsterdam - Noord,Stan v. Remmerden,Dragonflies
+369291095,Common Darter,Sympetrum striolatum,2025-08-18,12:30,1,4.926740527153015,52.40934377475047,Amsterdam - Noord,Frank Schuring,Dragonflies
+369287947,Southern Hawker,Aeshna cyanea,2025-08-18,17:05,1,4.862802028656006,52.419473901472955,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+369288143,Lesser Emperor,Anax parthenope,2025-08-18,17:04,1,4.862802,52.419474,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+369287835,Blue Emperor,Anax imperator,2025-08-18,14:37,1,4.864647,52.420167,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+369287725,Blue Emperor,Anax imperator,2025-08-18,14:37,2,4.864647388458252,52.42016748135835,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+369287597,Lesser Emperor,Anax parthenope,2025-08-18,14:37,2,4.864840507507324,52.42037686182127,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+369286832,Lesser Emperor,Anax parthenope,2025-08-18,16:00,2,4.86419677734375,52.4196440258509,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+369269031,Southern Hawker,Aeshna cyanea,2025-08-18,20:26,1,4.943078333333333,52.39020333333333,Amsterdam - Noord,Kirsten Adriani,Dragonflies
+369255905,Small Bluetail,Ischnura pumilio,2025-08-18,15:44,1,4.706211090087891,52.478912353515625,Beverwijk/Assendelft - Wijkermeerpolder,Han Jacobs,Dragonflies
+369233449,Western Willow Spreadwing,Chalcolestes viridis,2025-08-18,16:46,1,5.0167124,52.3115919,Driemond - Volkstuincomplex Linnaeus en Frankendael,Els Timmerman,Dragonflies
+369227281,Common Bluetail,Ischnura elegans,2025-08-18,09:43,1,4.940178394317627,52.48605356385658,Purmerend - Groengebied Purmerland,Frank Reurs,Dragonflies
+369223079,Western Willow Spreadwing,Chalcolestes viridis,2025-08-18,15:48,1,4.970322699722223,52.478265399722225,Purmerend - Purmerbos,Jurrian Boutsma,Dragonflies
+369219535,Common Darter,Sympetrum striolatum,2025-08-18,15:24,1,4.81213,52.38633333333333,Amsterdam - Geuzenveld-Slotermeer,Peter Siegel,Dragonflies
+369204937,Common Bluetail,Ischnura elegans,2025-08-18,13:56,1,4.805161439811689,52.43472741126205,Zaandam - Westerspoor,Philip Laan,Dragonflies
+371535066,Migrant Hawker,Aeshna mixta,2025-09-01,16:12,1,5.04998445,52.32675503,Weespersluis,Els Velzing,Dragonflies
+371337784,Common Winter Damsel,Sympecma fusca,2025-09-01,13:49,1,4.759601354598999,52.35682089293897,Amsterdam - Lutkemeerpolder,Jan van Blanken,Dragonflies
+371435347,Southern Hawker,Aeshna cyanea,2025-09-01,14:04,1,4.842261672019958,52.334957505904256,Amsterdam - Nieuwe Meer - Oeverlanden Noord,Chris van de Ven,Dragonflies
+371374097,Migrant Hawker,Aeshna mixta,2025-09-01,18:17,1,4.79058,52.49021666666667,Wormerveer,Hortusfreak,Dragonflies
+371357870,Common Bluetail,Ischnura elegans,2025-09-01,19:47,1,4.849356114864349,52.33052951200878,Amsterdamse Bos - Koenenbos,JanSietse,Dragonflies
+371330243,Common Darter,Sympetrum striolatum,2025-09-01,16:53,1,4.932595,52.38750833333334,Amsterdam - Vliegenbos,martin goosens,Dragonflies
+371330187,Common Darter,Sympetrum striolatum,2025-09-01,17:00,1,4.932741666666667,52.38747,Amsterdam - Noord - Albemarle,martin goosens,Dragonflies
+371328545,Migrant Hawker,Aeshna mixta,2025-09-01,17:26,1,4.915155,52.40308,Amsterdam - Noord,ka,Dragonflies
+371297583,Moustached Darter,Sympetrum vulgatum,2025-09-01,14:02,1,4.9664871,52.478408799722224,Purmerend - Purmerbos,Jurrian Boutsma,Dragonflies
+371309961,Western Willow Spreadwing,Chalcolestes viridis,2025-09-01,15:01,1,4.8931324,52.4486522,Oostzaan - Het Twiske - De Blokken,D. Lommerse,Dragonflies
+371307438,Ruddy Darter,Sympetrum sanguineum,2025-09-01,14:45,1,4.8932069,52.4485669,Oostzaan - Het Twiske - De Blokken,D. Lommerse,Dragonflies
+371303859,Migrant Hawker,Aeshna mixta,2025-09-01,14:33,1,4.9889272,52.485851699722225,Purmerend - Purmerbos,Jurrian Boutsma,Dragonflies
+371301100,Western Willow Spreadwing,Chalcolestes viridis,2025-09-01,14:28,1,4.7973812,52.4589432,Koog aan de Zaan,GrAs,Dragonflies
+371288709,Common Darter,Sympetrum striolatum,2025-09-01,12:45,1,4.772993419790321,52.466293312690986,Westzaan,Gaby,Dragonflies
+370873640,Migrant Hawker,Aeshna mixta,2025-08-28,12:52,1,4.8896158,52.37271,Amsterdam - zuidwestelijke grachtengordel,Jolanda Verweij,Dragonflies
+370806143,Common Darter,Sympetrum striolatum,2025-08-28,16:46,1,4.722170115825748,52.46203070975213,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370806136,Migrant Hawker,Aeshna mixta,2025-08-28,16:40,2,4.72213064385372,52.4619826781714,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370806133,Common Bluetail,Ischnura elegans,2025-08-28,16:36,4,4.722109715445857,52.462012290579786,Assendelft - Assendelver Zuiderpolder - West,Susan,Dragonflies
+370771833,Southern Hawker,Aeshna cyanea,2025-08-28,13:27,1,4.790476934433383,52.28082308709984,Aalsmeer - Oosteinderweg,alain1998,Dragonflies
+370764149,Western Willow Spreadwing,Chalcolestes viridis,2025-08-28,11:45,1,4.814955710317008,52.25476134255271,Uithoorn,Peter Bruines,Dragonflies
+372144102,Moustached Darter,Sympetrum vulgatum,2025-09-08,13:56,1,4.980297,52.476975,Purmerend - Purmerbos,Jose de Kleijn,Dragonflies
+372149037,Common Darter,Sympetrum striolatum,2025-09-08,15:21,1,4.79893,52.337046666666666,Amsterdam - Osdorp,Xander van der Sar,Dragonflies
+372300858,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-08,12:52,1,4.747822284698486,52.40275955200195,Amsterdam - Groene Stelling Brettenscheg,Frank Baars,Dragonflies
+372133197,Migrant Hawker,Aeshna mixta,2025-09-08,12:34,1,5.092796087265015,52.20755736293464,Oud-Loosdrecht,Angela Eberhardt,Dragonflies
+372173497,Common Darter,Sympetrum striolatum,2025-09-08,18:07,1,4.928691666666666,52.37258666666666,Amsterdam - oostelijke eilanden,Marijn,Dragonflies
+372205991,Migrant Hawker,Aeshna mixta,2025-09-08,11:31,1,5.092774629592896,52.20748832894039,Oud-Loosdrecht,Rosa Eberhardt,Dragonflies
+372194846,Southern Hawker,Aeshna cyanea,2025-09-08,15:14,1,4.933159442133578,52.38843678881706,Amsterdam - Vliegenbos,Sander Bos,Dragonflies
+372194843,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:14,1,4.933167772661731,52.388434680212406,Amsterdam - Vliegenbos,Sander Bos,Dragonflies
+372178394,Southern Hawker,Aeshna cyanea,2025-09-08,14:00,1,4.893162846674386,52.44805583426459,Oostzaan - Het Twiske - De Blokken,Bart van der Woude,Dragonflies
+372178036,Ruddy Darter,Sympetrum sanguineum,2025-09-08,13:30,1,4.895737767328683,52.449945569239475,Oostzaan - Het Twiske - De Blokken,Bart van der Woude,Dragonflies
+372174903,Southern Hawker,Aeshna cyanea,2025-09-08,14:17,1,4.997142866888908,52.3270087563727,Diemen - Diemerbos,Lucas de By,Dragonflies
+372157318,Southern Hawker,Aeshna cyanea,2025-09-08,16:21,1,4.943157027771333,52.38988654088137,Amsterdam - Noord - Rietland,maayke,Dragonflies
+372148258,Darter spec.,Sympetrum spec.,2025-09-08,15:19,1,4.798968078206764,52.337044969368975,Amsterdam - Osdorp,Madelon,Dragonflies
+372143555,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:51,1,4.980297,52.476975,Purmerend - Purmerbos,Jose de Kleijn,Dragonflies
+372133742,Common Winter Damsel,Sympecma fusca,2025-09-08,10:38,1,4.959649085867568,52.49380276847067,Purmerend - Gors,Frank Reurs,Dragonflies
+372133019,Ruddy Darter,Sympetrum sanguineum,2025-09-08,11:52,1,5.092828,52.207663,Oud-Loosdrecht,Angela Eberhardt,Dragonflies
+372132370,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:19,1,4.812011666666667,52.38635333333333,Amsterdam - Geuzenveld-Slotermeer,Peter Siegel,Dragonflies
+372127769,Ruddy Darter,Sympetrum sanguineum,2025-09-08,11:33,1,4.878993,52.449545,Oostzaan - Het Twiske - Twiske Zuidwest,Joppe en Josien,Dragonflies
+372127536,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,11:39,1,4.881148,52.44939,Oostzaan - Het Twiske - Twiske Zuidwest,Joppe en Josien,Dragonflies
+372384266,Moustached Darter,Sympetrum vulgatum,2025-09-10,14:40,1,5.090636014829215,52.21543940842428,Kortenhoef - Kromme Rade,Paul Fennis,Dragonflies
+372399958,Western Willow Spreadwing,Chalcolestes viridis,2025-09-10,15:06,65,4.753813147544861,52.20431131365636,Nieuwveen,joep kouwenhoven,Dragonflies
+372476702,Common Bluetail,Ischnura elegans,2025-09-11,12:12,1,4.959555,52.484544,Purmerend - Polder de Purmer - Zuid,Frank Reurs,Dragonflies
+372479225,Moustached Darter,Sympetrum vulgatum,2025-09-11,13:18,1,4.956411,52.482107,Purmerend - Purmerbos,Frank Reurs,Dragonflies
+372476696,Common Winter Damsel,Sympecma fusca,2025-09-11,14:11,1,4.773999,52.362167,Amsterdam - Westgaarde,Jan van Blanken,Dragonflies
+372477311,Common Darter,Sympetrum striolatum,2025-09-11,12:29,1,4.958385,52.483996,Purmerend - Purmerbos,Frank Reurs,Dragonflies
+372477031,Migrant Hawker,Aeshna mixta,2025-09-11,14:18,1,4.773999,52.362167,Amsterdam - Westgaarde,Jan van Blanken,Dragonflies
+372476655,Western Willow Spreadwing,Chalcolestes viridis,2025-09-11,14:11,1,4.773999452590942,52.362167451577434,Amsterdam - Westgaarde,Jan van Blanken,Dragonflies
+372463224,Common Darter,Sympetrum striolatum,2025-09-11,13:54,1,5.0281945,52.48278333333333,Volendam - Polder Katwoude - Lagedijk/Zedde,Frank Dutman,Dragonflies
+372459141,Western Willow Spreadwing,Chalcolestes viridis,2025-09-11,13:16,1,4.9097584,52.3861986,Amsterdam - Noord,Ellen B,Dragonflies
+372420290,Western Willow Spreadwing,Chalcolestes viridis,2025-09-10,16:00,20,4.86471176,52.42011514,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+372416594,Variable Bluet,Coenagrion pulchellum,2025-09-10,13:26,1,4.877249,52.449632,Oostzaan - Het Twiske - Twiske Zuidwest,Agnes Noordermeer,Dragonflies
+372416506,Common Bluetail,Ischnura elegans,2025-09-10,13:26,1,4.877249,52.449632,Oostzaan - Het Twiske - Twiske Zuidwest,Agnes Noordermeer,Dragonflies
+372416113,Variable Bluet,Coenagrion pulchellum,2025-09-10,13:15,1,4.877249,52.449632,Oostzaan - Het Twiske - Twiske Zuidwest,Agnes Noordermeer,Dragonflies
+372420260,Ruddy Darter,Sympetrum sanguineum,2025-09-10,16:00,2,4.86471176,52.42011514,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+372420199,Migrant Hawker,Aeshna mixta,2025-09-10,15:00,1,4.86471176,52.42011514,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+372420169,Migrant Hawker,Aeshna mixta,2025-09-10,15:00,3,4.86471176,52.42011514,Amsterdam - Noorder IJ-Plas,ewoud de beeldvanger,Dragonflies
+372417043,Large Red Damselfly,Pyrrhosoma nymphula,2025-09-10,13:29,1,4.877249,52.449632,Oostzaan - Het Twiske - Twiske Zuidwest,Agnes Noordermeer,Dragonflies
+372390144,Migrant Hawker,Aeshna mixta,2025-09-10,13:50,1,4.837464809417725,52.24360656738281,Uithoorn - Libellebos/Biezenwaard,adrie streefland,Dragonflies
+372382179,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-10,13:55,1,5.091660822393901,52.21539598355998,Kortenhoef - Kromme Rade,Paul Fennis,Dragonflies
+372382164,Migrant Hawker,Aeshna mixta,2025-09-10,13:48,1,5.09506185774571,52.21547498869649,Kortenhoef - Kromme Rade,Paul Fennis,Dragonflies
+372359884,Migrant Hawker,Aeshna mixta,2025-09-10,14:08,1,4.956687927246094,52.49330520629883,Purmerend - Gors,Tim Lamb,Dragonflies
+372343730,Migrant Hawker,Aeshna mixta,2025-09-10,11:52,1,4.829274415969849,52.450676801498325,Zaandam - Heemtuin,Rob van der Woude,Dragonflies
+372556158,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,17:40,1,5.0070015,52.43144089972222,Broek In Waterland,Mark Vriesenga,Dragonflies
+372303986,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,18:32,1,4.7691931,52.2751683,Aalsmeer - Oosteinderweg,Christian Kooij,Dragonflies
+372653589,Southern Hawker,Aeshna cyanea,2025-09-13,15:11,1,4.9050217,52.2075486,Mijdrecht - Polder Groot-Mijdrecht,Frans Kompier,Dragonflies
+372650233,Southern Hawker,Aeshna cyanea,2025-09-13,14:47,1,5.016392069155647,52.20688012891458,Loenen aan de Vecht (UT),Eric  Stam,Dragonflies
+372638628,Common Darter,Sympetrum striolatum,2025-09-13,13:18,1,4.9050355,52.2075637,Mijdrecht - Polder Groot-Mijdrecht,Frans Kompier,Dragonflies
+372636075,Common Darter,Sympetrum striolatum,2025-09-13,12:56,1,4.987321666666666,52.349803333333334,Amsterdam - Diemerpark,Tamara Borst,Dragonflies
+372629752,Southern Hawker,Aeshna cyanea,2025-09-12,14:33,1,4.77405846118927,52.36216878240344,Amsterdam - Westgaarde,Jan van Blanken,Dragonflies
+372626362,Common Darter,Sympetrum striolatum,2025-09-13,11:41,1,4.9050355,52.2075637,Mijdrecht - Polder Groot-Mijdrecht,Frans Kompier,Dragonflies
+372615830,Migrant Hawker,Aeshna mixta,2025-09-13,09:46,1,4.899775,52.40501166666667,Amsterdam - Tuindorp-Oostzaan,Kasper Kapteijn,Dragonflies
+372595612,Migrant Hawker,Aeshna mixta,2025-09-12,14:47,1,4.769911766052246,52.452838428592614,Westzaan - Polder Westzaan - De Reef,Tom Kisjes,Dragonflies
+372564275,Western Willow Spreadwing,Chalcolestes viridis,2025-09-12,15:55,15,4.980355,52.482821666666666,Purmerend - Purmerbos,Nancy Koot,Dragonflies
+372569515,Common Darter,Sympetrum striolatum,2025-09-12,16:31,2,5.017910499999971,52.3139064,Driemond - Volkstuincomplex Linnaeus en Frankendael,Marja van de Pol,Dragonflies
+372564881,Western Willow Spreadwing,Chalcolestes viridis,2025-09-12,15:58,1,4.9648753,52.4914333,Purmerend - Purmer-Zuid,L. Boersma,Dragonflies
+372563250,Western Willow Spreadwing,Chalcolestes viridis,2025-09-12,14:59,1,4.915388888888889,52.36626666666667,Amsterdam - ARTIS,Jan Jongejans,Dragonflies
+372556485,Western Willow Spreadwing,Chalcolestes viridis,2025-09-12,14:52,1,4.974838333333333,52.47356333333333,Purmerend - Purmerbos,Nancy Koot,Dragonflies
+372556269,Western Willow Spreadwing,Chalcolestes viridis,2025-09-12,14:51,1,4.9747433,52.4735707,Purmerend - Purmerbos,L. Boersma,Dragonflies
+372553656,Common Darter,Sympetrum striolatum,2025-09-12,14:27,1,4.9391359,52.3431609,Amsterdam - Nieuwe Oosterbegraafplaats,Cornelis Splinter,Dragonflies
+369326358,Southern Hawker,Aeshna cyanea,2025-08-17,18:07,1,4.749269485473633,52.23314974636369,Kudelstaart,Josine v.Erp,Dragonflies
+369255240,Dragonfly unknown,Anisoptera indet.,2025-08-17,18:59,1,4.769067206589566,52.25717141220906,Aalsmeer,Christian Kooij,Dragonflies
+369055578,Western Willow Spreadwing,Chalcolestes viridis,2025-08-17,15:49,1,4.961672782897949,52.490352630615234,Purmerend - Purmer-Zuid,Kerstin Monsanto,Dragonflies
+369060956,Common Winter Damsel,Sympecma fusca,2025-08-17,16:09,1,4.701399,52.30151097222222,Hoofddorp,Chris,Dragonflies
+369041243,Common Bluetail,Ischnura elegans,2025-08-17,14:44,1,5.000163,52.3430904,Amsterdam - Diemerpark,Cornelis Splinter,Dragonflies
+368998211,Western Willow Spreadwing,Chalcolestes viridis,2025-08-17,10:49,1,4.9753856,52.489859199722225,Purmerend - Purmer-Zuid,Maarten Hotting,Dragonflies
+368935328,Migrant Hawker,Aeshna mixta,2025-08-16,17:00,1,5.055713653564453,52.219276428222656,Kortenhoef - Lambertszkade,Veronica Smelt,Dragonflies
+368935417,Common Bluetail,Ischnura elegans,2025-08-16,15:00,15,5.065097222222222,52.217419444444445,Kortenhoef - Lambertszkade,Veronica Smelt,Dragonflies
+368881918,Southern Hawker,Aeshna cyanea,2025-08-16,10:23,1,4.829558730125427,52.45156670979309,Zaandam - Heemtuin,Rob van der Woude,Dragonflies
+368903802,Migrant Hawker,Aeshna mixta,2025-08-16,17:19,1,4.98031209825299,52.34981652216493,Diemen - Noord,Janneke van der Zwaan,Dragonflies
+368884325,Common Bluetail,Ischnura elegans,2025-08-16,15:50,1,4.851575568254347,52.49866469672885,Wormer - Wormer en Jisperveld - Zuid,Els Floris,Dragonflies
+368835398,Common Bluetail,Ischnura elegans,2025-08-16,11:35,1,4.8202674,52.4734848,Zaanstad - Zaanse Schans,Janine Elsinga,Dragonflies
+371756619,Blue Emperor,Anax imperator,2025-08-31,12:28,1,4.995321814799333,52.35206708765574,Amsterdam - IJburg,Rob Baars,Dragonflies
+371472390,Migrant Hawker,Aeshna mixta,2025-08-31,13:54,1,5.058806666666666,52.42841166666666,Waterland - Polder Opperwoud,victor van pieterson,Dragonflies
+371153205,Ruddy Darter,Sympetrum sanguineum,2025-08-31,14:16,1,4.9145636,52.2468499,De Ronde Venen - Waverhoek,LangeStijn,Dragonflies
+371154322,Common Bluetail,Ischnura elegans,2025-08-31,14:23,1,4.868325508328724,52.358366534687605,Amsterdam - Vondelpark,Niklas,Dragonflies
+371325444,Southern Hawker,Aeshna cyanea,2025-08-31,17:18,1,4.710940361022949,52.43855285644531,Zaanstad - Buitenhuizen,Theo de Nijs,Dragonflies
+371287682,Migrant Hawker,Aeshna mixta,2025-08-30,11:51,1,5.016808333333334,52.275475,Abcoude - Fort Nigtevecht,Chiel Bakkeren,Dragonflies
+371269962,Ruddy Darter,Sympetrum sanguineum,2025-08-31,12:02,1,5.018975,52.347017,Diemen - Vijfhoek,Peter Corstiaans,Dragonflies
+371228253,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-31,15:04,1,4.83964832,52.33010699,Amsterdamse Bos - Koenenkade,O.J. Goreng,Dragonflies
+371228290,Migrant Hawker,Aeshna mixta,2025-08-31,15:07,1,4.83960541,52.33015342,Amsterdamse Bos - Koenenkade,O.J. Goreng,Dragonflies
+371001789,Common Bluetail,Ischnura elegans,2025-08-30,10:46,1,5.017672,52.276056,Abcoude - Fort Nigtevecht,Marieke Klink,Dragonflies
+371248431,Common Bluetail,Ischnura elegans,2025-08-30,23:59,1,5.094364,52.314152,Muiden - Zuidpolder beoosten Muiden,Jeroen Brandjes,Dragonflies
+371245933,Common Bluetail,Ischnura elegans,2025-08-31,15:11,2,4.931796550750732,52.21995544433594,Vinkeveen,Johan Barth,Dragonflies
+371224991,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-30,15:04,1,4.99945164,52.41850614,Waterland - Poppendammerweeren,Els Velzing,Dragonflies
+371224867,Migrant Hawker,Aeshna mixta,2025-08-30,15:04,1,4.99964476,52.41812662,Waterland - Poppendammerweeren,Els Velzing,Dragonflies
+371224249,Migrant Hawker,Aeshna mixta,2025-08-31,11:21,2,4.808416805441016,52.2980100655928,Amstelveen - Schinkelbos - Bosrandweg,Christian Kooij,Dragonflies
+371222010,Western Willow Spreadwing,Chalcolestes viridis,2025-08-31,12:05,3,4.774171113967896,52.36207572685892,Amsterdam - Westgaarde,Jan van Blanken,Dragonflies
+371194019,Common Winter Damsel,Sympecma fusca,2025-08-31,,1,4.982106685638428,52.301745217863854,Amsterdam - Zuidoost,Hans Niekus,Dragonflies
+371165868,Moustached Darter,Sympetrum vulgatum,2025-08-31,15:26,1,4.7824821,52.2114179,Zevenhoven - Polder Zevenhoven,Erwin Bon,Dragonflies
+371041024,Migrant Hawker,Aeshna mixta,2025-08-30,11:51,1,5.017064094543457,52.275508880615234,Abcoude - Fort Nigtevecht,Johan Barth,Dragonflies
+371148099,Moustached Darter,Sympetrum vulgatum,2025-08-31,13:49,1,4.7012881,52.30140839972222,Hoofddorp,Chris,Dragonflies
+371141876,Common Darter,Sympetrum striolatum,2025-08-31,13:13,1,4.908506595819802,52.367015826292345,Amsterdam - Hortus Botanicus,Quinty,Dragonflies
+371141675,Migrant Hawker,Aeshna mixta,2025-08-31,12:10,1,5.031961438944563,52.34371913047785,Diemen - Vijfhoek,Peter Corstiaans,Dragonflies
+371124591,Western Willow Spreadwing,Chalcolestes viridis,2025-08-31,11:34,1,4.919104794792862,52.402313232421875,Amsterdam - Noord,Ilone,Dragonflies
+371107855,Common Bluetail,Ischnura elegans,2025-08-30,21:19,1,5.094359,52.314136,Muiden - Zuidpolder beoosten Muiden,Guido Band,Dragonflies
+371056395,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-30,16:28,1,4.8927,52.458486,Oostzaan - Het Twiske - Klaas Dobbersdroogte,Joppe en Josien,Dragonflies
+371040970,Migrant Hawker,Aeshna mixta,2025-08-30,15:23,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth,Dragonflies
+371036346,Common Darter,Sympetrum striolatum,2025-08-30,16:44,1,4.897778333333333,52.417071666666665,Amsterdam - Noord,Michiel de Goeje,Dragonflies
+371032715,Western Willow Spreadwing,Chalcolestes viridis,2025-08-30,16:28,1,4.999276963952553,52.47939224253934,Purmerend - Polder de Purmer - Zuid,Sandra van Oeffel-Slink,Dragonflies
+371032212,Migrant Hawker,Aeshna mixta,2025-08-30,16:23,1,4.750544972222222,52.47079847222222,Assendelft - Zuid,Marian,Dragonflies
+371020388,Western Willow Spreadwing,Chalcolestes viridis,2025-08-30,15:17,1,4.980351797436191,52.349815262037154,Diemen - Noord,Janneke van der Zwaan,Dragonflies
+370997834,Common Winter Damsel,Sympecma fusca,2025-08-30,12:45,1,4.893812041976961,52.34805888246077,Amsterdam - Rivierenbuurt,Caspar Janssen,Dragonflies
+370993684,Western Willow Spreadwing,Chalcolestes viridis,2025-08-30,12:24,1,4.9081931,52.4151883,Amsterdam - Kadoelen,Harry Moeskops,Dragonflies
+370888812,Common Winter Damsel,Sympecma fusca,2025-08-29,13:23,1,4.8667287,52.201971,Mijdrecht,Marie-Lou Gommers,Dragonflies
+370915782,Migrant Hawker,Aeshna mixta,2025-08-29,11:55,1,4.77332711,52.36077893,Amsterdam - Westgaarde,Els Velzing,Dragonflies
+370879017,Common Darter,Sympetrum striolatum,2025-08-29,12:05,1,4.9081,52.36676111111111,Amsterdam - Hortus Botanicus,F.L. Calsbeek,Dragonflies
+369666332,Common Winter Damsel,Sympecma fusca,2025-08-15,13:01,1,4.93883371,52.34099101,Amsterdam - Nieuwe Oosterbegraafplaats,Els Velzing,Dragonflies
+368532625,Dragonfly unknown,Anisoptera indet.,2025-08-14,15:21,1,5.002186116666667,52.434016666666665,Waterland - Atjehgouw,Tim,Dragonflies
+368478975,Common Winter Damsel,Sympecma fusca,2025-08-14,09:38,1,4.80717,52.45741666666667,Koog aan de Zaan,Jan S. Beernink,Dragonflies
+368494677,Western Willow Spreadwing,Chalcolestes viridis,2025-08-14,11:18,1,4.913692,52.366936,Amsterdam - ARTIS,Ilse vd Ploeg,Dragonflies
+368566553,Western Willow Spreadwing,Chalcolestes viridis,2025-08-14,10:37,2,4.77178216,52.36193862,Amsterdam - Westgaarde,Els Velzing,Dragonflies
+369056960,Migrant Hawker,Aeshna mixta,2025-08-15,20:00,1,4.7842561,52.366604,Amsterdam - Osdorper Bovenpolder-Zuid,Trees Kaizer,Dragonflies
+368946280,Western Willow Spreadwing,Chalcolestes viridis,2025-08-15,13:22,1,5.051016974247757,52.3095908485312,Vecht - Weesp tot Muiden,José M.R. Bakker,Dragonflies
+368946284,Common Bluetail,Ischnura elegans,2025-08-15,13:28,1,5.050750666218038,52.309252107180264,Vecht - Weesp tot Muiden,José M.R. Bakker,Dragonflies
+368913183,Western Willow Spreadwing,Chalcolestes viridis,2025-08-14,16:34,1,4.771649837493896,52.36105097682234,Amsterdam - Westgaarde,Rutger Rotscheid,Dragonflies
+368883783,Southern Hawker,Aeshna cyanea,2025-08-15,16:52,1,4.774273872375488,52.375606536865234,Amsterdam - Volkstuincomplex Osdorp,KD Dijkstra,Dragonflies
+368870609,Common Bluetail,Ischnura elegans,2025-08-15,,1,4.964033961296082,52.28872290909814,Amsterdam - De Hoge Dijk,Arnout-Jan Rossenaar,Dragonflies
+368494354,Common Darter,Sympetrum striolatum,2025-08-14,11:15,1,4.9069992,52.3665024,Amsterdam - Hortusplantsoen en -vijver,Matthias,Dragonflies
+368712831,Common Darter,Sympetrum striolatum,2025-08-15,16:41,1,4.758192,52.233974,Kudelstaart,Laurens Pronk,Dragonflies
+368701856,Western Willow Spreadwing,Chalcolestes viridis,2025-08-15,14:32,2,4.803500835942433,52.30014798572354,Amstelveen - Schinkelbos - Bosrandweg,Ankie Stiasny,Dragonflies
+368735838,Migrant Hawker,Aeshna mixta,2025-08-15,14:40,2,4.773132368281949,52.362347978076535,Amsterdam - Westgaarde,Edial Dekker,Dragonflies
+368728560,Common Darter,Sympetrum striolatum,2025-08-15,12:19,5,4.773206006575492,52.36066506303313,Amsterdam - Westgaarde,Edial Dekker,Dragonflies
+368721160,Common Bluetail,Ischnura elegans,2025-08-15,17:20,1,5.0631224,52.2325697,Wijdemeren - Vreelandseweg,Tinne96,Dragonflies
+368720317,Common Darter,Sympetrum striolatum,2025-08-15,13:07,1,4.811666250097915,52.3337459992784,Amsterdam - Nieuwe Meer - Oeverlanden Noord,Jochem G,Dragonflies
+368714298,Western Willow Spreadwing,Chalcolestes viridis,2025-08-15,16:51,1,4.8325696,52.4715364,Zaandam - Het Kalf,Rolf Surink,Dragonflies
+368709066,Western Willow Spreadwing,Chalcolestes viridis,2025-08-15,16:21,1,4.900070740470863,52.40220341935561,Kadoelerscheg,Lisa Linde,Dragonflies
+368709037,Western Willow Spreadwing,Chalcolestes viridis,2025-08-15,16:21,1,4.875470211760957,52.34712672305838,Amsterdam - Oud-Zuid,Nicolien,Dragonflies
+368706813,Western Willow Spreadwing,Chalcolestes viridis,2025-08-15,16:10,1,4.793583861111111,52.45804594444445,Koog aan de Zaan,SvL,Dragonflies
+368701858,Migrant Hawker,Aeshna mixta,2025-08-15,15:05,1,4.797230773136284,52.2933455004338,Amstelveen - Schinkelbos,Ankie Stiasny,Dragonflies
+368701852,Darter spec.,Sympetrum spec.,2025-08-15,14:20,1,4.80411696490238,52.30033063151083,Amstelveen - Schinkelbos - Bosrandweg,Ankie Stiasny,Dragonflies
+368701849,Darter spec.,Sympetrum spec.,2025-08-15,14:14,1,4.806599942971772,52.30134513699664,Amstelveen - Schinkelbos - Bosrandweg,Ankie Stiasny,Dragonflies
+368693606,Southern Hawker,Aeshna cyanea,2025-08-15,14:27,1,5.014531423892292,52.32418618327877,Diemen - Diemerbos,Kees de Pater,Dragonflies
+368684805,Western Willow Spreadwing,Chalcolestes viridis,2025-08-15,14:11,1,4.961672782897949,52.490211486816406,Purmerend - Purmer-Zuid,Kerstin Monsanto,Dragonflies
+368684741,Western Willow Spreadwing,Chalcolestes viridis,2025-08-15,10:59,3,4.760556221008301,52.36696574011068,Amsterdam - Lutkemeerpolder,Jan van Blanken,Dragonflies
+368683416,Ruddy Darter,Sympetrum sanguineum,2025-08-15,11:10,1,5.09293652051652,52.215490391966775,Kortenhoef - Kromme Rade,Paul Fennis,Dragonflies
+368679691,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-15,13:41,1,4.994455,52.3954,Ransdorp,Maartje,Dragonflies
+368676812,Migrant Hawker,Aeshna mixta,2025-08-15,12:37,1,5.027011871337891,52.46346282958984,Waterland - Rietbroek,René Beekvelt,Dragonflies
+368671391,Common Darter,Sympetrum striolatum,2025-08-15,11:55,1,4.811722040176392,52.44743745702035,Zaandam - Zaandam-West,Huib Versloot,Dragonflies
+368670568,Common Bluetail,Ischnura elegans,2025-08-15,11:43,1,4.812043905258179,52.44730340511429,Zaandam - Zaandam-West,Huib Versloot,Dragonflies
+368670378,Common Bluet,Enallagma cyathigerum,2025-08-15,11:16,1,4.809554815292358,52.45213228592706,Zaandam - Zaandam-West,Huib Versloot,Dragonflies
+368668680,Black-tailed Skimmer,Orthetrum cancellatum,2025-08-15,11:30,1,4.81277322769165,52.44651794433594,Zaandam - Zaandam-West,Huib Versloot,Dragonflies
+368662950,Common Winter Damsel,Sympecma fusca,2025-08-15,10:38,1,4.939078688621521,52.34083766116022,Amsterdam - Nieuwe Oosterbegraafplaats,Wim van der Schot,Dragonflies
+368641010,Western Willow Spreadwing,Chalcolestes viridis,2025-08-15,10:09,1,4.9817231,52.4905814,Purmerend - Purmerbos,Ton van Diepen,Dragonflies
+368635035,Western Willow Spreadwing,Chalcolestes viridis,2025-08-15,09:37,1,4.9071813,52.4047388,Amsterdam - Noord,ns,Dragonflies
+368531176,Common Darter,Sympetrum striolatum,2025-08-14,15:08,1,4.858411666666667,52.315605,Amstelveen - Randwijck,David R. de Vries,Dragonflies
+368572965,Banded Demoiselle,Calopteryx splendens,2025-08-14,11:06,1,5.017292358404188,52.33326165092864,Muiden - Muidertrekvaart,Onno Wildschut,Dragonflies
+368569667,Western Willow Spreadwing,Chalcolestes viridis,2025-08-14,19:50,1,4.768505,52.268245,Aalsmeer,Len,Dragonflies
+368567550,Small Redeye,Erythromma viridulum,2025-08-14,11:01,1,4.75931525,52.36183816,Amsterdam - Lutkemeerpolder,Els Velzing,Dragonflies
+368566767,Migrant Hawker,Aeshna mixta,2025-08-14,10:38,1,4.77144957,52.36155861,Amsterdam - Westgaarde,Els Velzing,Dragonflies
+368566703,Moustached Darter,Sympetrum vulgatum,2025-08-14,10:38,1,4.77144957,52.36155861,Amsterdam - Westgaarde,Els Velzing,Dragonflies
+368546338,Darter spec.,Sympetrum spec.,2025-08-14,16:59,1,4.9913678,52.420839,Waterland - Volgermeerpolder,Remco,Dragonflies
+368513546,Common Bluetail,Ischnura elegans,2025-08-14,13:18,1,4.758170972222223,52.233961,Kudelstaart,Laurens Pronk,Dragonflies
+368499111,Southern Hawker,Aeshna cyanea,2025-08-14,11:47,1,4.753858333333334,52.49813,Krommenie,Tineke,Dragonflies
+368480388,Western Willow Spreadwing,Chalcolestes viridis,2025-08-14,09:49,1,4.807341666666667,52.37596333333333,Amsterdam - Geuzenveld,Josje,Dragonflies

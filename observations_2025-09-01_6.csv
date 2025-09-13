@@ -1,0 +1,822 @@
+id,common_name,scientific_name,date,time,count,longitude,latitude,location,observer
+372642121,Tawny cockroach,Ectobius pallidus,2025-09-01,19:00,1,4.859246492385864,52.07613127533987,Woerden - Molenvliet,Bouwmeester
+372618380,,Chrysoperla carnea s.l.,2025-09-01,16:43,1,5.4400496,51.3217828,Valkenswaard - Schopschoorsche Heide,Wouter Oe
+372600543,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,09:51,2,4.635168313980103,52.39627781509796,Haarlem - Haarlemmer Kweektuin,Dik Vonk
+372532782,Tawny cockroach,Ectobius pallidus,2025-09-02,16:19,1,5.902972221374512,52.33086395263672,Tongeren - Tongerense Heide,Stuart van Baren
+372458105,,Tinodes waeneri,2025-09-02,23:36,1,6.714096,52.678748,Vossebelt - Dalervenen,Hendrik Jan Gommer
+372440325,,Valenzuela burmeisteri,2025-09-02,01:15,1,6.714096,52.678745,Vossebelt - Dalervenen,Hendrik Jan Gommer
+372440274,,Cloeon dipterum,2025-09-02,01:12,1,6.714096,52.678745,Vossebelt - Dalervenen,Hendrik Jan Gommer
+372440234,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,01:12,1,6.714096,52.678745,Vossebelt - Dalervenen,Hendrik Jan Gommer
+372439674,,Hemerobius humulinus,2025-09-02,01:07,1,6.714096,52.678745,Vossebelt - Dalervenen,Hendrik Jan Gommer
+372427110,,Valenzuela burmeisteri,2025-09-02,01:15,1,6.714099,52.678746,Vossebelt - Dalervenen,Hendrik Jan Gommer
+372401210,,Chrysoperla carnea s.l.,2025-09-02,22:10,1,5.924134,51.522733,Venray - Haag,geert custers
+372359011,,Cloeon dipterum,2025-09-02,11:45,1,4.7378758,51.829966599722226,Sliedrecht - Baanhoek West,Gerard
+371368653,Speckled Peter,Agrypnia varia,2025-09-01,21:18,4,4.359431278067433,51.42335035716599,Hoogerheide - Kortenhoeff oost,Teus Slagboom
+371605309,Speckled Peter,Agrypnia varia,2025-09-01,22:14,1,4.359461618599661,51.42334883321116,Hoogerheide - Kortenhoeff oost,Jolynn van Duffelen
+372290280,Insect unknown,Insecta indet.,2025-09-02,16:22,1,6.003167,53.192994,Burgum,Jeffrey Huizenga
+372246489,,Panorpa vulgaris,2025-09-02,12:39,1,6.64461761713028,52.318670594620485,Bornerbroek - Wolbeslanden,Linda Bongers
+371959206,,Hemerobius stigma,2025-09-01,08:18,1,5.7291644,51.9792673,Renkum,Jurriën van Deijk
+372014540,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-02,16:07,1,4.346326589584351,51.98054272614697,Delft - Tanthof,Aukje Gjaltema
+372220158,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,07:31,1,5.127466666666667,52.0822,Utrecht - Oost (wijk),Joke Stoop
+372217088,Common scorpionfly,Panorpa communis,2025-09-01,,1,5.909869372844696,52.12604171088986,Hoenderloo - Schenkenshul e.o.,Paul Cools
+371683015,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,07:27,1,6.17576,52.458685,Laag Zuthem,Martin Wolters
+371259751,,Polycentropodidae indet.,2025-09-01,08:55,1,5.403803333333333,52.1229055,Leusden - Maanweg / Ruitenbeeklaan / Schutterhoeflaan e.o.,Theo Klink
+371370486,,Cyrnus trimaculatus,2025-09-01,21:59,1,5.485728621180712,52.494954863960416,Lelystad - Waterwijk,Frank Böinck
+371387125,,Cyrnus trimaculatus,2025-09-02,08:10,1,5.287151634693146,51.7337321740423,'s-Hertogenbosch - Maaspoort,Titia van Heusden
+372094029,,Panorpa vulgaris,2025-09-01,18:02,1,6.641090512275696,52.640158545367264,De Krim - Vloeivelden,Hessel
+371295479,,Cloeon dipterum,2025-09-01,07:45,1,5.449577777777778,52.48716666666667,Lelystad - Warande West,Landschapsbeheer Flevoland LedEmmers
+371294984,,Cloeon dipterum,2025-09-01,07:46,1,5.449577777777778,52.48716666666667,Lelystad - Warande West,M van Os
+371289992,,Cloeon dipterum,2025-09-01,12:53,1,4.573188888888889,51.85610555555556,Ridderkerk - Polder Oud-Reijerwaard,Mieke
+371279085,,Cloeon dipterum,2025-09-01,11:41,1,6.0645945,52.09235833333334,Eerbeek - Wilhelminapark,Klaas den Dekker
+371271225,,Cloeon dipterum,2025-09-01,10:01,1,6.209512,52.1425055,Zutphen - Waterkwartier,Imelda Hanselman
+371265222,,Cloeon dipterum,2025-09-01,09:53,1,4.3904183,52.084359399722224,Leidschendam,Yolanda
+371263058,,Cloeon dipterum,2025-09-01,00:18,1,4.356598833333333,52.01208875,Delft - centrum,Nik Sethi
+371261751,,Cloeon dipterum,2025-09-01,07:42,1,4.456883333333334,51.825275,Westmaas - Polder het Westmaas Nieuwland-oost,AnjavdHoek
+371253317,,Cloeon dipterum,2025-09-01,06:59,1,3.605346666666667,51.493763333333334,Middelburg - 't Zand,Marcel Klootwijk
+371250451,,Cloeon dipterum,2025-09-01,01:12,3,5.715015,53.2250636,Ingelum (Engelum),Sander Bloemink
+372085996,,Planuncus tingitanus s.l.,2025-09-02,13:47,1,3.591293334960938,51.45519256591797,Vlissingen - Edisonpark e.o.,Roeland Sies
+372041507,,Planuncus tingitanus s.l.,2025-09-02,16:28,1,5.517378199722222,51.731301199722225,Heesch,Rubie
+371959267,,Limnephilus lunatus,2025-09-02,07:38,1,5.7290866,51.9792703,Renkum,Jurriën van Deijk
+371922442,,Chrysoperla carnea s.l.,2025-09-02,12:00,1,6.203544437885284,52.70068409516124,Meppel - Meppelerbos,Lia Douma
+371915546,Striped earwig,Labidura riparia,2025-09-02,10:46,1,5.290220737457275,52.151161193847656,Soest - Lange Duinen,P. Losekoot
+371906238,,Mystacides azurea,2025-09-02,13:39,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth
+371258724,Grouse wing,Mystacides longicornis,2025-09-01,08:06,1,4.456571666666667,51.823586666666664,Westmaas - Polder het Westmaas Nieuwland-oost,AnjavdHoek
+371263954,Grouse wing,Mystacides longicornis,2025-09-01,09:39,1,5.422495209915895,52.49678512083273,Lelystad - Haven,Landschapsbeheer Flevoland LedEmmers
+371605448,Grouse wing,Mystacides longicornis,2025-09-01,22:14,1,4.359461618599661,51.42334883321116,Hoogerheide - Kortenhoeff oost,Jolynn van Duffelen
+371854362,,Limnephilus affinis,2025-09-02,08:01,1,5.242213,53.373821,Terschelling,A.G. Oude Egbrink
+371314572,,Mystacides nigra,2025-09-01,10:47,1,5.623026371002197,51.62687683105469,Erp - Leijgraaf,Lesley Bezemer
+371359549,,Mystacides nigra,2025-09-01,21:30,1,5.832088333333333,50.96120833333333,Geleen,joost van koppen
+371386077,,Mystacides nigra,2025-09-02,09:33,1,5.369837260505123,52.18482071439289,Amersfoort - Hoogland,Erik van Bemmel
+371386102,,Mystacides nigra,2025-09-02,09:34,1,5.3697639,52.1848494,Amersfoort - Hoogland,Jos van Bemmel
+371386157,,Mystacides nigra,2025-09-02,09:34,1,5.3698304,52.1848306,Amersfoort - Hoogland,Ralph vb
+371387660,,Mystacides nigra,2025-09-02,09:53,1,5.3696586,52.1848627,Amersfoort - Hoogland,Jos van Bemmel
+371388497,,Mystacides nigra,2025-09-02,09:34,1,5.370104312896729,52.184765132374025,Amersfoort - Hoogland,Jos van Bemmel
+371441470,,Mystacides nigra,2025-09-02,15:42,1,4.642648264125455,52.38909994071301,Haarlem - de Bolwerken,Michael Inden
+371486620,,Mystacides nigra,2025-09-02,20:56,1,6.382162094116211,52.14009475708008,Lochem - Landgoed Ruijghenrode e.o.,Hans van Gasteren
+371342371,,Agrypnia pagetana,2025-09-01,19:20,1,6.196309462656558,52.691839722350494,Meppel - Centrum,thequietbuzz
+371798459,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,23:25,1,5.402767,52.186304,Amersfoort - Zielhorst,Alfred de Jonge
+371798092,,Limnephilus flavicornis,2025-09-01,23:44,1,5.4028,52.186271,Amersfoort - Zielhorst,Alfred de Jonge
+371790509,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,08:30,1,5.187524227151147,52.12909720898551,Bilthoven - De Leyen (bebouwde kom) ,Suus Baggen
+371790492,,Mystacides nigra,2025-09-02,08:16,1,5.187339296448608,52.12914871902978,Bilthoven - De Leyen (bebouwde kom) ,Suus Baggen
+371783275,,Oecetis lacustris,2025-09-01,22:48,1,5.841768,51.797798,Nijmegen - Elshof,Pieter Bruijsten
+371779868,,Limnephilus flavicornis,2025-09-01,,1,5.808895826121443,53.209523157332136,Leeuwarden - Tjerk Hiddes & Cambuursterhoek,Erik Pomp
+371770732,,Mystacides nigra,2025-09-01,10:54,1,5.627758651971817,51.62354925199988,Volkel - Knokerdweg,Lesley Bezemer
+371760058,,Panorpa cognata,2025-09-02,11:22,1,6.344368,52.133246,Vorden - Groote Veld,Hans van Gasteren
+371731504,,Baetis vernus,2025-09-02,15:14,1,7.032044,52.3282471,Losser - Dinkeldal,Pepijn Andelbeek
+371731508,,Heptagenia flava,2025-09-02,15:14,1,7.032044,52.3282471,Losser - Dinkeldal,Pepijn Andelbeek
+371428773,,Panorpa germanica,2025-09-01,12:15,1,5.61302661895752,51.717514072642956,Maashorst  - Schaijkse Heide ,Jennifer S-B
+371313902,,Stenopsocus immaculatus,2025-09-01,15:37,1,5.982467599722223,50.8718416,Heerlen - Douveweien,René Verhoeven
+371314431,,Coniopterygidae indet.,2025-09-01,15:42,1,5.9824051,50.871841099722225,Heerlen - Douveweien,René Verhoeven
+371315160,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-01,15:48,1,6.9474522,52.7937616,Emmen - Emmerhout,Eltjo Glas
+371315546,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-01,15:51,1,5.872699,51.963084,Arnhem - Elderveld (21),HenK de Jong
+371315605,,Chrysoperla carnea s.l.,2025-09-01,15:52,1,5.232588,53.3764308,Terschelling - Helmduin / Van Hunenplak,schylge
+371316160,,Panorpa vulgaris,2025-09-01,15:57,1,6.490895,52.4685702,Den Ham (OV),Anne Voorbergen
+371316712,,Chrysoperla carnea s.l.,2025-09-01,16:03,1,4.5421334,51.975217,Bergschenhoek - Hoge Bergse Bos,Vers
+371316837,,Chrysoperla carnea s.l.,2025-09-01,13:25,1,6.010229587554932,52.07482694517853,Veluwezoom,Jibbe
+371320751,,Chrysoperla carnea s.l.,2025-09-01,16:34,1,4.865167668723172,52.0755626131326,Woerden - Molenvliet,Sietske
+371322703,,Chrysoperla carnea s.l.,2025-09-01,16:44,1,4.91353,52.062216666666664,Linschoten,Dennis de Goederen
+371322971,Scorpion fly,Panorpa spec.,2025-09-01,13:12,1,5.3061879,52.3014265,A27 - Huizen - Stichtse Brug (NH),Frans van Lier
+371325666,,Cloeon dipterum,2025-09-01,17:08,1,5.325636666666667,52.31407166666666,Almere - Stichtsekant,Laurens
+371327828,,Chrysoperla carnea s.l.,2025-09-01,09:16,1,3.6015207,51.450184,Vlissingen - Buitenhaven,Japie
+371329328,,Panorpa vulgaris,2025-09-01,16:32,1,5.1785562,52.132235,Bilthoven - Beukenburg/ De Leyen,Leo Wiggers
+371329556,,Panorpa cognata,2025-09-01,15:07,1,5.7312269,52.27439259972222,Staverden - Leemputten,Dick Dooyewaard
+371329601,,Panorpa cognata,2025-09-01,14:32,1,5.732272148132324,52.273468017578125,Staverden - Leemputten,Dick Dooyewaard
+371336011,,Stenopsocus immaculatus,2025-09-01,17:10,1,4.260618,52.085578,Den Haag - Bosjes van Poot,Eric Wisse
+371331742,,Chrysoperla carnea s.l.,2025-09-01,17:59,1,6.5692247,52.1007059,Haarlo - Haarlosche Veld,John Brus
+371336465,,Chrysoperla carnea s.l.,2025-09-01,18:34,1,4.9795094,52.5463661,Zeevang - Hobrede (dorp e.o.),Martijn
+371336835,,Cloeon dipterum,2025-09-01,18:38,1,6.2005624,52.2659537,Schalkhaar,Tim Duchatteau
+371336973,,Chrysoperla carnea s.l.,2025-09-01,18:39,1,5.1772129,52.0226763,Houten,mees.8
+371338549,Common scorpionfly,Panorpa communis,2025-09-01,18:50,1,4.549144,51.8443865,Barendrecht,riekje
+371340205,,Stenopsocus stigmaticus,2025-09-01,13:57,1,4.8890590668816,52.448347909310506,Oostzaan - Het Twiske - Jachthaven/Schiereiland,Bart van der Woude
+371341016,,Hemerobiidae indet.,2025-09-01,15:59,1,5.42412,52.432525,A6 - Parkeerplaats / Benzinestation Aalscholver,Linde T
+371342899,,Loensia variegata,2025-09-01,19:22,1,4.645379,51.5506035,Etten-Leur - Koekoek,Anne Roovers
+371344170,,Chrysoperla carnea s.l.,2025-09-01,12:50,1,5.863223,51.975421,Oosterbeek - Rosande Polder,Simeon Klompmaker
+371346093,,Chrysoperla carnea s.l.,2025-09-01,05:59,1,6.44197,52.718525,Hoogeveen - Trasselt,Edwin De Weerd
+371349989,,Panorpa vulgaris,2025-09-01,20:12,1,5.842391699557978,51.79816884459197,Nijmegen - Elshof,Pleuntje van wijck
+371350311,,Panorpa cognata,2025-09-01,12:53,1,5.891432761272881,51.80421595131501,Groesbeek - Dekkerswald / Langeberg,All Creatures
+371350819,,Panorpa vulgaris,2025-09-01,14:58,1,6.649123191309627,53.35170406424846,Middelstum - Middelstumerbos,Simon Gorter
+371354038,,Ectopsocus petersi,2025-09-01,12:59,1,5.415285,52.455445,Oostvaardersplassen - Kijkscherm Blauwborst,Semm Wijnbergen
+371354321,,Panorpa cognata,2025-09-01,17:44,1,6.418516,52.671123,Zuidwolde - Vlindertuin,Joop Verburg
+371356872,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-01,16:10,1,6.446436666666667,52.94744166666667,Smilde,Esther
+371356963,,Chrysoperla carnea s.l.,2025-09-01,21:12,1,4.765275,52.26461333333334,Aalsmeer,Len
+371358983,,Caenis horaria,2025-09-01,21:15,1,5.869717597743147,50.867359516859864,Walem,Paul de Jong
+371359208,,Chrysoperla carnea s.l.,2025-09-01,21:16,1,4.323595,52.106013833333336,Den Haag - Benoordenhout,krijn
+371361057,,Cloeon dipterum,2025-09-01,21:32,1,5.396574,51.845729599722226,Ophemert,Matthias Koster
+371361228,,Ephemera glaucops,2025-09-01,21:42,1,4.8631706,51.6928744,Raamsdonksveer,francy
+371361287,,Chrysoperla carnea s.l.,2025-09-01,21:39,1,6.37069970369339,53.158633817737694,Leek,Joren van Schie
+371364341,,Cloeon dipterum,2025-09-01,22:19,1,6.415992,52.5241956,Ommen - West,Henk Hupkes
+371364911,,Chrysopidae indet.,2025-09-01,22:08,1,4.793241666666667,51.580055,Breda - Sportpark,Niels Visser
+371365281,,Chrysopidae indet.,2025-09-01,22:29,1,5.560714811252137,51.77372932842853,Berghem - De Geer,Marga
+371366533,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-01,22:46,1,4.705827777777778,52.01701666666666,Gouda - Station / Spoorzone,Niels de Zwarte
+371365950,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-01,22:36,1,6.0969512,52.5187916,Zwolle - Diezerpoort,Ineke
+371366994,,Cloeon dipterum,2025-09-01,22:46,1,5.769453048706055,53.4583580032847,Ameland - Briksduinen - Kobuspad,Rob Sennema
+371368968,,Cloeon dipterum,2025-09-01,23:10,1,5.275372996434587,51.68932319544574,'s-Hertogenbosch - De Schutskamp,Ronald van Genabeek
+371369085,,Chrysoperla carnea s.l.,2025-09-01,21:44,1,6.191538,52.683201,Meppel - Koedijkslanden,Dick Bekker
+371370470,,Sisyra nigra,2025-09-01,22:22,1,5.485728621180712,52.494954863960416,Lelystad - Waterwijk,Frank Böinck
+371371279,,Chrysopidae indet.,2025-09-02,00:07,1,5.074256,53.297572,Vlieland - Oost-Vlieland,Mic Barendsz
+371373510,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-02,04:48,1,5.3551077,51.6411978,Sint-Michielsgestel,Leen.b
+371373707,,Stenopsocus stigmaticus,2025-09-01,14:36,1,5.997177,52.196175,Apeldoorn - Heemtuin de Maten,Edo Kreuzen & Hilde Ham
+371373723,,Panorpa vulgaris,2025-09-01,18:00,1,5.357389842811187,51.799653680974046,Heerewaarden - uiterwaard,Leen.b
+371374171,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-02,06:24,1,5.700978,50.850591,Maastricht - Binnenstad Oost,Jos Bonnemayer
+371374823,,Cloeon dipterum,2025-09-02,06:53,1,4.8989037,52.0827522,Woerden - Snel en Polanen,mvg
+371375908,,Sisyra nigra,2025-09-02,07:23,1,5.07901235,52.76060726,Opperdoes,Gerard Kenter
+371375978,,Cloeon dipterum,2025-09-02,07:25,1,5.07903795,52.76061777,Opperdoes,Gerard Kenter
+371376018,,Cloeon dipterum,2025-09-02,07:26,1,4.821541666666667,51.87833888888889,Gijbeland,Anne-Wieke
+371376478,,Chrysopidae indet.,2025-09-02,06:46,1,5.664775371551514,52.004234313964844,Bennekom,Harm Hofman
+371376800,Common Silverfish,Lepisma saccharinum,2025-09-02,07:41,1,6.245018988539332,52.38944853386534,Raalte - Evenbelt,Christien
+371377019,,Sisyra nigra,2025-09-02,06:52,1,4.7206922,52.015301299722225,Gouda - Kort Haarlem,Hans van Gasteren
+371378111,,Cloeon dipterum,2025-09-02,08:02,1,5.0414488,52.0918026,Utrecht - Leidsche Rijn (wijk),Michel Braad
+371378957,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-01,23:00,1,5.996921666666667,51.841296666666665,Duffelt - Leuth dorp,Thom Schmitjes
+371380258,,Chrysoperla carnea s.l.,2025-09-02,08:30,1,5.993502444840232,52.81840717080659,Paasloo,Bert op den Dries
+371382711,,Chrysoperla carnea s.l.,2025-09-01,17:08,1,6.282112598200911,53.213081319215064,Grootegast,J.H.(Dimítrios) de Regt
+371384878,,Chrysoperla carnea s.l.,2025-09-01,22:31,1,4.610994,51.866292,Ridderkerk,Kees Verboom
+371385288,,Cloeon dipterum,2025-09-02,07:22,1,5.23785590940063,52.05480647604914,Odijk,Gerard de Jong
+371385931,,Cloeon dipterum,2025-09-02,07:25,5,4.683546666666667,51.78923833333333,Dordrecht - Sterrenburg I,Ineke Leentvaar
+371386069,,Chrysopidae indet.,2025-09-02,07:08,1,5.287151634693146,51.7337321740423,'s-Hertogenbosch - Maaspoort,Titia van Heusden
+371387357,,Chrysoperla carnea s.l.,2025-09-02,09:49,1,5.969173999722222,51.1212297,Montfort - Heinsbergerweg e.o.,Chris
+371387550,,Panorpa germanica,2025-09-02,09:49,1,5.9265343,53.1086454,Alde Feanen - Grutte Krite,Kees Wijnen
+371388483,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-02,10:02,1,5.1254856,52.0919564,Utrecht - Binnenstad (wijk),Emilie-May
+371392171,,Chrysoperla carnea s.l.,2025-09-02,09:59,1,6.596860885620117,52.07803231144569,Haarlo - Haarlosche Veld,Henk Lammers
+371393785,,Chrysoperla carnea s.l.,2025-09-02,10:32,1,5.515925,51.41876166666667,Eindhoven,Harrie Broeksteeg
+371395177,,Graphopsocus cruciatus,2025-09-02,07:45,1,6.087201108333333,51.56058321111111,Well (LI),Johan Muusers
+371395687,,Chrysopidae indet.,2025-09-02,09:22,1,4.529380555555555,51.775438888888885,Oudeland van Strijen - N2000,Dick van Houwelingen
+371396399,,Chrysoperla carnea s.l.,2025-09-02,09:12,1,4.399582,51.824154,Oud-Beijerland,arie den tuinder
+371396500,,Chrysoperla carnea s.l.,2025-09-02,11:28,1,3.4934452,51.3257594,Oostburg,Herman van de Voorde
+371397898,,Chrysoperla carnea s.l.,2025-09-01,13:49,1,4.599098,52.374811,Overveen - Buitenplaats Elswout,Ben Sleeman
+371398279,,Cloeon dipterum,2025-09-02,11:38,1,6.000730627777778,52.867589425,Wolvega,Alexander van der Sluis
+371399769,,Cloeon dipterum,2025-09-02,11:59,1,4.872480555555556,52.08345277777778,Woerden - Bomen- & Bloemenbuurt,Herrie 88
+371401253,,Cloeon dipterum,2025-09-02,12:13,1,5.153068550131707,52.10369712966829,A27 - Utrecht,Amor
+371402360,,Panorpa vulgaris,2025-09-02,11:27,1,6.111525,52.535758333333334,Zwolle - Aa-Landen,Margot
+371406538,,Chrysoperla carnea s.l.,2025-09-02,12:56,1,6.3584471,53.225357,Niekerk (Gem. Grootegast),Herman G. de Heer
+371407779,,Panorpa vulgaris,2025-09-02,13:04,1,5.709953333333333,51.93562166666667,Zetten - Veldstraat/Englaan e.o.,Annette Willemen
+371409276,,Chrysoperla carnea s.l.,2025-09-01,21:48,1,6.328079,52.611256,Balkbrug - Kievitshaar,Mieke
+371410434,,Chrysoperla carnea s.l.,2025-09-02,12:42,1,5.391331,52.177983,Amersfoort - Park Schothorst,Marieke Klink
+371411941,,Cloeon dipterum,2025-09-02,13:40,1,4.4604955,51.9152901,Rotterdam - Middelland,julia
+371415525,,Chrysopidae indet.,2025-09-02,14:14,1,6.189986775557655,53.11109913174939,Opsterland (gemeente) ,Jels
+371421626,,Chrysoperla carnea s.l.,2025-09-02,15:02,1,4.702272222222223,52.00140277777778,Gouda - De Korte Akkeren,Lein Heesters
+371702141,,Pseudomallada flavifrons,2025-09-02,01:18,1,6.160136,51.486557,Broekhuizen,Mariet Verbeek
+371421708,,Chrysoperla carnea s.l.,2025-09-02,14:53,1,5.31769635,51.36378351388889,Eersel,ben.mangnus
+371421964,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-02,15:05,1,6.595555,53.08694716666667,Tynaarlo - Bedrijventerrein,Arnold
+371422043,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-02,15:04,1,5.07743797,53.29745597,Vlieland - Staatsbosbeheer en Midgetgolfbaan,Carl Zuhorn
+371425077,,Panorpa vulgaris,2025-09-02,15:27,1,5.9759963,52.3533809,Epe,Gert
+371425835,,Chrysoperla carnea s.l.,2025-09-02,11:44,1,6.055591,52.442037,Wapenveld - Noord,Henk de Jonge
+371428306,,Chrysopidia ciliata,2025-09-02,13:25,1,4.612230062484741,52.40537092585129,Bloemendaal - Heemtuin Thijsse's Hof,Pauline Kelk
+371430868,,Cloeon dipterum,2025-09-02,15:57,1,5.895050027777777,51.96790311111111,Arnhem - Malburgen-West (16),Heidi
+371430965,,Chrysoperla carnea s.l.,2025-09-02,15:41,1,5.367997,52.155422,Amersfoort - zusterpark Groene Spoor,Marieke Klink
+371431593,,Sisyra nigra,2025-09-02,16:18,1,4.5214987,52.2829257,Landgoed Tespelduyn,Paul Venderbosch
+371432925,,Cloeon dipterum,2025-09-02,16:26,1,5.4331099,52.139879,Leusden,Sjuul Verhaegh
+371433343,,Panorpa germanica,2025-09-02,16:00,1,5.721825,52.21971111111111,Garderen - Nijkerkerweg,Meindert Reus
+371433385,,Cloeon dipterum,2025-09-02,07:52,1,4.838982,51.826948,Hardinxveld-Giessendam - Wielwijk,marianne den Boer
+371436810,,Panorpa vulgaris,2025-09-02,16:57,1,4.8491947,52.1664662,Nieuwkoopse Plassen - Binnenpolder,Jip121
+371437774,,Panorpa vulgaris,2025-09-01,19:56,1,5.991232861111111,50.90139005555555,Heerlen - Palenberger Beek,Petra Distelpluis
+371438102,,Cloeon dipterum,2025-09-02,15:57,1,5.895050027777777,51.96790311111111,Arnhem - Malburgen-West (16),Heidi
+371443395,,Panorpa vulgaris,2025-09-02,17:39,1,4.9492232,51.8194408,Sleeuwijk,Chris van Pelt
+371444563,,Cloeon dipterum,2025-09-02,13:34,1,6.596297,52.5678817,Hardenberg - Heemse,Gerko van den Akker
+371447548,,Graphopsocus cruciatus,2025-09-02,09:50,1,6.622270345469587,52.27877145602417,"Demmersblok, natuurontwikkelingsgebied",Jan Wessels
+371450657,Barkfly unknown,Psocoptera indet.,2025-09-02,15:20,1,6.917491257081565,52.27477936246575,Lonneker - Lonnekerberg,Job van Dieten
+371454055,,Cloeon dipterum,2025-09-02,09:33,1,5.770216941309627,51.703917055731594,Mill - De Gagel,Louis Geraets
+371454985,Barkfly unknown,Psocoptera indet.,2025-09-02,19:19,1,6.739892199722222,53.331458499722224,Loppersum,Lopster
+371457221,,Chrysoperla carnea s.l.,2025-09-02,19:35,1,5.637250214725952,53.42955153990223,Ameland - Duinen t.h.v. Westermieden,Rob Brinkhof
+371457735,Common scorpionfly,Panorpa communis,2025-09-02,16:44,1,4.317378333333333,51.911275,Vlaardingen - Heemtuin Westwijk,PyB
+371458253,Scorpion fly,Panorpa spec.,2025-09-02,13:37,1,6.470978476754681,52.74566556038461,Hoogeveen (gemeente) ,Willy Ronkes
+371458668,,Chrysoperla carnea s.l.,2025-09-02,19:50,1,6.584258316500961,53.226117588494276,Groningen - Bloemenbuurt,Hilly Kreuzen
+371459978,,Chrysoperla carnea s.l.,2025-09-02,14:22,1,5.173090934753418,52.04465866088867,Houten - Nieuw Wulven Zuid / Biezenvelden NO,Jan Ekke Wigboldus
+371460902,,Chrysoperla carnea s.l.,2025-09-01,12:08,1,5.797147,51.789346,Hatertse Vennen centraal,M van Bommel
+371461297,,Ephemera glaucops,2025-09-02,06:13,1,5.286029,51.517317,Oirschot - Hedel,Adrie Vermeeren
+371465700,,Panorpa cognata,2025-09-02,12:20,1,4.8045308,51.560363,Breda - Wolfslaar - Park,Janneke
+371465716,,Chrysopidae indet.,2025-09-02,08:20,1,5.285812,51.517237,Oirschot - Hedel,Adrie Vermeeren
+371467108,,Coniopterygidae indet.,2025-09-02,,1,5.903456211090088,51.95875407076524,Arnhem - Vredenburg/Kronenburg  (19),Kees van Oorde
+371468379,,Chrysopidae indet.,2025-09-02,21:31,1,5.6717281,51.238360299722224,Weert - IJzeren Man,Melvin de jong
+371468462,,Chrysoperla carnea s.l.,2025-09-02,21:32,1,5.671743681165164,51.238346878104345,Weert - IJzeren Man,Bram Houben
+371468990,,Chrysopidae indet.,2025-09-02,21:31,1,5.72449,52.838921972222224,Lemmer,Ellen Buurstra
+371469605,,Chrysopidae indet.,2025-09-02,21:42,1,5.67170151221947,51.23831197848973,Weert - IJzeren Man,Bram Houben
+371471500,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-02,22:02,1,5.9807595,51.9847733,Velp,Maarten
+371471885,,Chrysoperla carnea s.l.,2025-09-02,22:07,1,5.971117087394172,50.83132653973652,Simpelveld,user 179430
+371472486,,Loensia variegata,2025-09-02,19:24,1,6.054045,51.526279,Wanssum - Wanssumse Ven (Visvijver e.o.),Twan Martens
+371472885,,Lepismatidae indet.,2025-09-02,22:16,1,6.209630250672562,52.18606128780027,Gorssel - Quatre Bras,Maarten Kien
+371472772,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-02,21:58,1,6.061878204345703,52.02275848388672,De Steeg,Jan Tien
+371472963,,Chrysopidae indet.,2025-09-02,22:11,1,5.724499972222223,52.838951972222226,Lemmer,Ellen Buurstra
+371473619,,Chrysopidae indet.,2025-09-02,22:26,1,6.3649489,52.7430751,Hees,Jan Rolf Staal
+371474444,,Sisyra nigra,2025-09-02,21:35,1,6.070109972222222,53.096358,Drachten - De Drait,Joas
+371474452,,Cloeon dipterum,2025-09-02,21:32,1,6.070174972222222,53.096459,Drachten - De Drait,Joas
+371474459,,Chrysopidae indet.,2025-09-02,21:32,1,6.070174972222222,53.096459,Drachten - De Drait,Joas
+371474922,,Panorpa germanica,2025-09-02,12:49,1,6.373157,52.987412,Fochteloërveen - Bufferzone,Fred van der Poel
+371475008,,Sisyra nigra,2025-09-02,22:08,1,4.5000014,52.180474,Leiden - Merenwijk ,Johannes Müller
+371475014,,Cloeon dipterum,2025-09-02,22:42,1,4.5000534,52.1804917,Leiden - Merenwijk ,Johannes Müller
+371476081,Four-lined Silverfish,Ctenolepisma lineatum,2025-09-02,23:05,1,5.315705555555556,51.85384444444445,Est,Amber
+371476405,,Panorpa cognata,2025-09-02,11:26,1,6.342848530344991,52.1333794319788,Vorden - Groote Veld,Nico Kranenburg
+371478333,,Chrysoperla carnea s.l.,2025-09-02,22:44,1,5.282195,52.113213,Soesterberg,Martin van Gemeren
+371478811,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-02,19:21,1,5.953924972222223,51.727626972222225,Milsbeek - dorp,Henk Lemmen
+371480015,,Panorpa germanica,2025-09-01,14:37,1,5.504061,51.407722,Eindhoven - Stratumse heide - Karperven,ruut aussems
+371486876,,Metylophorus nebulosus,2025-09-02,22:18,1,4.3622056,52.0186615,Delft - algemeen,Kees Mostert
+371494588,,Panorpa cognata,2025-09-02,10:47,1,5.687999725341797,50.887603848660994,Borgharen - Oeverlanden Grensmaas,Fred L
+371695400,,Cerobasis guestfalica,2025-09-02,16:48,1,6.11583,52.747564,De Klosse - Gasthuisdijk,Joris Bolder
+371694401,Common Earwig,Forficula auricularia,2025-09-02,16:43,20,6.11583,52.747564,De Klosse - Gasthuisdijk,Joris Bolder
+371693696,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,22:53,1,6.3821741938591,52.14016468609432,Lochem - Landgoed Ruijghenrode e.o.,Hans van Gasteren
+371687985,,Cloeon dipterum,2025-09-01,,1,4.637475,52.621948,Egmond aan Zee,Willem Boomkens
+371686698,,Cloeon dipterum,2025-09-01,,1,4.63895,52.622023,Egmond aan Zee,Willem Boomkens
+371686665,,Chrysoperla carnea s.l.,2025-09-01,,5,4.63895,52.622023,Egmond aan Zee,Willem Boomkens
+371683615,,Cyrnus spec.,2025-09-02,07:29,1,6.175784,52.458696,Laag Zuthem,Martin Wolters
+371682989,,Euroleon nostras,2025-09-01,07:37,1,5.9363733,51.8235433,Stuwwal - SOVON veldstudiecentrum 'de Wylerberg',Rick Huigen
+371292777,,Drepanepteryx phalaenoides,2025-09-01,08:00,1,3.965034,51.627011,Ouwerkerk - Krekengebied Ouwerkerk noord,Rene van Loo
+371666617,Common Earwig,Forficula auricularia,2025-09-02,13:36,1,5.711725,51.93366666666667,Zetten,Annette Willemen
+371663978,,Panorpa germanica,2025-09-01,15:42,1,4.901221990585327,52.74877372304927,Winkel - Park de Meet,Jeffrey leguit
+371660405,,Planuncus tingitanus s.l.,2025-09-02,09:59,1,5.236551361859028,51.63385013247061,Helvoirt,Louise de Kort
+371508483,,Panorpa vulgaris,2025-09-02,16:12,1,5.618278384208679,51.93595130436882,Opheusden - Hamsestraat e.o.,Wil van Roekel
+371516657,,Chrysoperla carnea s.l.,2025-09-02,09:32,1,6.645809859037399,52.317275642021464,Bornerbroek - Wolbeslanden,Linda Bongers
+371535663,,Panorpa vulgaris,2025-09-02,15:33,1,6.002932973194445,51.8718308615,Duffelt - Millingerwaard,RobinGross
+371544645,,Cloeon dipterum,2025-09-02,22:30,1,5.924592,51.522616,Venray - Haag,geert custers
+371550107,,Chrysoperla carnea s.l.,2025-09-02,11:36,1,6.642998903989792,52.31724284994175,Bornerbroek - Wolbeslanden,Linda Bongers
+371556329,,Cloeon dipterum,2025-09-02,22:31,1,5.638864576003844,53.44996773597359,Ameland - Hollumerheide en huisjesterreinen,Rob Brinkhof
+371622975,,Cloeon dipterum,2025-09-02,09:09,1,5.290102,53.382179,Terschelling - Midsland,Piet Zumkehr
+371311225,,Xenos vesparum,2025-09-01,12:55,1,5.541731,52.016235,Veenendaal - Franse Gat,John Bouwmans
+371605754,Common Earwig,Forficula auricularia,2025-09-02,12:50,1,6.200570106506348,52.26606369018555,Schalkhaar,Tim Duchatteau
+371605392,,Oecetis lacustris,2025-09-01,22:14,1,4.359461618599661,51.42334883321116,Hoogerheide - Kortenhoeff oost,Jolynn van Duffelen
+371605330,Grouse wing,Mystacides longicornis,2025-09-01,22:14,1,4.359461618599661,51.42334883321116,Hoogerheide - Kortenhoeff oost,Jolynn van Duffelen
+371598710,,Panorpa vulgaris,2025-09-01,15:58,1,5.770753456950746,51.51011386617332,Milheeze - Kreytenberg,Anton Sijbers
+371572365,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,20:57,1,4.50197,52.0680195,Zoetermeer - Seghwaert,Pim Lebron
+371378804,,Euroleon nostras,2025-09-02,08:11,1,5.465349972222223,51.99909,Amerongen,Ben van As
+371386201,,Euroleon nostras,2025-09-02,07:28,1,5.287151634693146,51.7337321740423,'s-Hertogenbosch - Maaspoort,Titia van Heusden
+371408316,,Euroleon nostras,2025-09-02,13:10,1,5.6299474,51.4373571,Mierlo,Jan Rademakers
+371474352,,Euroleon nostras,2025-09-02,22:37,1,5.6711498,51.9709788,Wageningen - Benedenbuurt,Matthijs B.
+371427875,Common stick insect,Carausius morosus,2025-09-02,15:50,1,4.513960303590707,52.15070484697113,Leiden ,Rick
+371330629,,Heptagenia flava,2025-09-01,17:50,1,5.988958333333334,51.70558833333333,Ottersum - dorp,Peter
+371570174,,Oecetis ochracea,2025-09-02,10:19,1,4.598690602353463,51.75328101905062,Mookhoek - Mookhoekpolder,C. Mesker
+371567425,,Planuncus tingitanus s.l.,2025-09-02,17:02,1,5.463618993562704,51.430895644580175,Eindhoven,ruut aussems
+371567124,,Neureclipsis bimaculata,2025-09-02,02:11,1,5.463742,51.430822,Eindhoven,ruut aussems
+371566434,,Tinodes waeneri,2025-09-02,22:16,1,6.149530112743378,52.10094584405617,Brummen - Rhienderen,Harry van Galen
+371556251,,Limnephilus affinis,2025-09-02,22:17,1,5.638974885286887,53.44994862257797,Ameland - Hollumerheide en huisjesterreinen,Rob Brinkhof
+371556246,,Limnephilus flavicornis,2025-09-02,22:16,1,5.638958710098024,53.44997880208876,Ameland - Hollumerheide en huisjesterreinen,Rob Brinkhof
+371556228,,Limnephilus affinis,2025-09-02,22:14,1,5.638981951085944,53.44995498677112,Ameland - Hollumerheide en huisjesterreinen,Rob Brinkhof
+371556195,,Limnephilus flavicornis,2025-09-02,22:11,1,5.638878757918214,53.44992710211491,Ameland - Hollumerheide en huisjesterreinen,Rob Brinkhof
+371516547,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,,1,5.681108,50.832332,Maastricht - Sint-Pietersberg Noord en Encigroeve,paul n.m. vossen
+371516510,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,,1,5.681108,50.832332,Maastricht - Sint-Pietersberg Noord en Encigroeve,paul n.m. vossen
+371515787,,Polycentropodidae indet.,2025-09-02,09:04,1,4.470998640388871,51.487363090772604,Nispen - Heiblokken e.o.,Wanny Schelling
+371511967,,Planuncus tingitanus s.l.,2025-09-02,21:28,1,5.680896666666666,50.846396666666664,Maastricht - Binnenstad,Jan Joost Bakhuizen
+371498161,,Euroleon nostras,2025-09-02,15:52,1,5.063512326985261,53.295668703707264,Vlieland - Oost-Vlieland,Sjoukje Mulder
+371410626,Insect unknown,Insecta indet.,2025-09-02,13:36,1,6.9579803,52.424392,Ootmarsum - Ottershagen,Sybe
+371420335,Common Earwig,Forficula auricularia,2025-09-02,14:24,1,4.747413888888889,52.57530277777778,Limmen - Limmerpolder,Roy
+371493448,,Tinodes waeneri,2025-09-02,21:04,1,6.164351,51.416794,Velden,Henny Martens
+371491827,,Limnephilus lunatus,2025-09-02,,2,5.888342,53.242317,Gytsjerk,Freek Nijland
+371491816,,Tinodes waeneri,2025-09-02,,1,5.888342,53.242317,Gytsjerk,Freek Nijland
+371491797,,Oxyethira flavicornis,2025-09-02,,3,5.888342,53.242317,Gytsjerk,Freek Nijland
+371491785,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,,3,5.888342,53.242317,Gytsjerk,Freek Nijland
+371491769,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,,2,5.888342,53.242317,Gytsjerk,Freek Nijland
+371491757,,Limnephilus flavicornis,2025-09-02,,17,5.888342,53.242317,Gytsjerk,Freek Nijland
+371491732,,Cloeon dipterum,2025-09-02,,13,5.888342,53.242317,Gytsjerk,Freek Nijland
+371491674,,Chrysoperla carnea s.l.,2025-09-02,,1,5.888341963291168,53.24231655711704,Gytsjerk,Freek Nijland
+371491336,,Tinodes waeneri,2025-09-02,07:29,1,4.497652,52.193296,Warmond,Jan van Arkel
+371490950,,Oxyethira flavicornis,2025-09-02,07:30,2,4.497652,52.193296,Warmond,Jan van Arkel
+371489912,,Tinodes waeneri,2025-09-01,21:53,1,4.497652,52.193296,Warmond,Jan van Arkel
+371489454,,Oxyethira flavicornis,2025-09-01,21:54,30,4.497652,52.193296,Warmond,Jan van Arkel
+371373799,Grouse wing,Mystacides longicornis,2025-09-02,05:36,1,4.983649492132827,52.499264020308104,Purmerend - Purmer-Noord,David Verkaik
+371486875,,Agraylea spec.,2025-09-02,22:19,1,4.362329599722222,52.0186204,Delft - algemeen,Kees Mostert
+371486873,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,23:22,1,4.3622139,52.0186678,Delft - algemeen,Kees Mostert
+371483596,,Panorpa vulgaris,2025-09-02,16:39,1,6.401179313659668,52.37949752807617,Hellendoorn - Hellendoornse Broek,Hoopheggen
+371480066,,Planuncus tingitanus s.l.,2025-09-01,15:54,1,5.463624357980734,51.43087557763698,Eindhoven,ruut aussems
+371479660,,Planuncus tingitanus s.l.,2025-09-01,12:38,1,5.463592171472555,51.43089497574347,Eindhoven,ruut aussems
+371478872,,Agraylea spec.,2025-09-02,00:39,1,6.160192,51.486559,Broekhuizen,Mariet Verbeek
+371478735,,Limnephilus lunatus,2025-09-02,21:58,1,5.671683333333333,51.238371666666666,Weert - IJzeren Man,Thijmen van Heerde
+371478162,,Planuncus tingitanus s.l.,2025-09-02,23:56,1,5.8335908,50.8696318,Valkenburg (LI),JLJ Wolfs
+371477752,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,23:42,1,5.129799842834473,52.065508908751895,Utrecht - Lunetten,Paul Henricks
+371477690,Tawny cockroach,Ectobius pallidus,2025-09-02,23:37,1,5.870898881089854,51.98193720025463,Arnhem - Klingelbeek e.o. (15),ADB
+371477675,Common Earwig,Forficula auricularia,2025-09-02,23:39,1,5.658433333333333,52.17765833333333,Kootwijkerbroek - Grote Hegweg / Graafhorstweg e.o.,To van de Veluwe
+371477220,Common Earwig,Forficula auricularia,2025-09-02,23:28,1,6.315769690433171,53.16331558292738,Niebert - Buitengebied Noord,Dennis Kuizenga
+371476967,,Cerobasis guestfalica,2025-09-02,10:04,1,5.700164,50.771891,Eijsden - Laag Caestert e.o.,Paul de Jong
+371475877,,Planuncus tingitanus s.l.,2025-09-02,23:02,1,4.837167871253422,51.56767325323397,Bavel,Martin de Vetter
+371475332,,Hydropsyche spec.,2025-09-02,22:51,1,6.381996666666667,52.14016383333333,Lochem - Landgoed Ruijghenrode e.o.,Peter-Paul Schets
+371475084,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,22:47,1,6.381938333333333,52.14011383333333,Lochem - Landgoed Ruijghenrode e.o.,Peter-Paul Schets
+371474953,,Planuncus tingitanus s.l.,2025-09-02,22:47,1,6.2974448,51.963402799722225,Doetinchem,Tamara Wanders
+371474744,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,22:43,1,6.432342,52.521517,Ommen - Oost,Rombout Gerrits
+371474693,,Tinodes waeneri,2025-09-02,22:43,1,5.560715253631703,51.77372915357722,Berghem - De Geer,Marga
+371474663,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,22:39,1,6.939375,52.301984,Oldenzaal,Martin Bonte
+371474480,,Valenzuela gynapterus,2025-09-02,20:50,1,6.070011,53.096398,Drachten - De Drait,Joas
+371474464,,Ectobius vittiventris,2025-09-02,22:38,1,5.639162063598633,52.31565589262964,Ermelo - Tonsel,Joëlle T
+371474405,,Limnephilus flavicornis,2025-09-02,22:09,1,6.07007,53.096448,Drachten - De Drait,Joas
+371474355,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,22:07,1,6.070058972222222,53.096462,Drachten - De Drait,Joas
+371474234,Forest Cockroach,Ectobius sylvestris,2025-09-02,21:49,1,6.385688333333333,52.14007216666667,Lochem - Landgoed Ruijghenrode e.o.,Peter-Paul Schets
+371474124,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,22:07,1,5.671762466430664,51.23838806152344,Weert - IJzeren Man,Mignon vd Wittenboer
+371473956,,Planuncus tingitanus s.l.,2025-09-02,22:29,1,5.847096666666666,51.847795,Nijmegen - Biezen,Emma
+371473049,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,22:13,1,5.724512972222223,52.838959,Lemmer,Ellen Buurstra
+371472977,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,22:12,1,5.724503099722222,52.8389523,Lemmer,Ellen Buurstra
+371472900,,Limnephilus spec.,2025-09-02,22:10,1,5.724487972222223,52.83893197222223,Lemmer,Ellen Buurstra
+371472469,,Planuncus tingitanus s.l.,2025-09-02,13:45,1,3.591305499722222,51.4552161,Vlissingen - Edisonpark e.o.,Floor Arts
+371472182,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,07:11,1,4.263058,52.074089,Den Haag - Bomen- en Bloemenbuurt,Anna Kreffer
+371472101,Common Earwig,Forficula auricularia,2025-09-02,22:08,1,5.420054839205934,52.49969642330319,Lelystad - Haven,frank gerritse
+371471919,Forest Cockroach,Ectobius sylvestris,2025-09-02,22:06,1,6.624146099722223,51.9798637,Lichtenvoorde - Vragender,Emile Zwiggelaar
+371471584,,Planuncus tingitanus s.l.,2025-09-02,22:02,1,5.121083333333333,52.072002833333336,Utrecht - Hoograven - Noord,Jorne Grolleman
+371469981,,Planuncus tingitanus s.l.,2025-09-02,21:35,1,4.6631587,52.4278221,Velserbroek,Kim Takken
+371469805,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,21:43,1,6.517683333333333,52.30218833333333,Rijssen,Ruben Kikkert
+371469638,,Planuncus tingitanus s.l.,2025-09-02,21:40,1,4.6961643,52.5978072,Heiloo,Stevie
+371468975,,Ectobius vittiventris,2025-09-02,21:32,1,4.410512988142131,51.815544292944345,Oud-Beijerland,Sander
+371468604,,Panorpa vulgaris,2025-09-02,16:39,1,6.401179313659668,52.37949752807617,Hellendoorn - Hellendoornse Broek,Niek Otten
+371467987,Common Earwig,Forficula auricularia,2025-09-02,21:25,1,5.098916,52.1047932,Utrecht - Ondiep / Pijlsweerd,Bloemenfleur
+371467977,,Limnephilus spec.,2025-09-02,21:23,1,5.724492972222222,52.838923,Lemmer,Ellen Buurstra
+371467933,,Liposcelis spec.,2025-09-02,21:17,1,5.417538333333333,52.19905833333333,Amersfoort - Vathorst / Hooglanderveen,Dees
+371467720,,Planuncus tingitanus s.l.,2025-09-02,21:20,1,6.1146026,52.5009064,Zwolle - Pierik,Tjallie
+371467711,,Limnephilus flavicornis,2025-09-02,21:20,1,6.883427777777777,53.10411944444444,Veendam - Omgeving Station,thavince
+371467641,,Planuncus tingitanus s.l.,2025-09-02,21:19,1,4.256838333333334,52.07073333333334,Den Haag - Vruchtenbuurt,Koen Meershoek
+371466994,Common Earwig,Forficula auricularia,2025-09-02,21:09,1,6.091147166666667,53.25083,Twijzel (dorpsgebied),Joke Smith
+371466951,,Ecnomus tenellus,2025-09-02,21:11,1,5.707999084475148,52.513617500278734,Dronten,Jaap Lokker
+371466583,Grouse wing,Mystacides longicornis,2025-09-02,21:08,1,6.760190024049558,53.161991641201475,Hoogezand - Westerpark,Andre Sikkema
+371463448,,Agraylea spec.,2025-09-02,06:45,1,5.929645,52.003703,Arnhem - Monnikenhuizen (11),Joris Bolder
+371463365,,Panorpa vulgaris,2025-09-02,15:28,1,5.788727,51.705433,Tongelaar,Louis Geraets
+371462511,Insect unknown,Insecta indet.,2025-09-01,12:19,1,5.796456187963486,51.78946099120858,Hatertse Vennen centraal,M van Bommel
+371462301,,Cerobasis guestfalica,2025-09-02,20:21,1,4.769653333333333,52.49807833333333,Krommenie,pieter
+371460738,Common Earwig,Forficula auricularia,2025-09-02,19:28,1,6.141608238220215,52.299217224121094,Diepenveen,Ruben Bos
+371459567,,Panorpa vulgaris,2025-09-01,14:55,1,6.379912,52.008612,Zelhem - De Meene,RE Niks
+371458016,,Planuncus tingitanus s.l.,2025-09-02,19:39,1,5.1514783,51.5836302,Berkel-Enschot,Hans
+371457822,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,13:31,1,6.248281002044678,52.81060904901045,Holtinge - Holtingerveld,Roland Nagtegaal
+371449482,Tawny cockroach,Ectobius pallidus,2025-09-02,18:29,1,5.998921701355179,52.93817138671875,Mildam,Wiebe Nijlunsing
+371453171,,Limnephilus flavicornis,2025-09-02,09:55,1,5.775352,53.226763,Jelsumer Nieuwland,Koos Klijnsma
+371451868,"Short-winged earwig, hop-garden earwig",Apterygida media,2025-09-02,18:51,1,6.662317514419556,53.039987407481654,Gasteren - Gasterse Duinen,Ben Schoon
+371451363,,Planuncus tingitanus s.l.,2025-09-02,18:47,1,5.29333,51.73023333333333,'s-Hertogenbosch - Maaspoort,sanne
+371450889,,Panorpa vulgaris,2025-09-02,18:43,1,5.7080836,52.5323879,Dronten - Drieslag,🌸 Christa van Berkum
+371448402,,Panorpa vulgaris,2025-09-02,18:16,1,4.717283333333333,52.71024666666667,Schoorldam,Brigitte van der Sande
+371448261,,Hydropsyche spec.,2025-09-02,17:43,1,5.958012495260505,51.24157389542579,Haelen,Anita van der Schuit
+371444368,,Planuncus tingitanus s.l.,2025-09-02,17:50,1,5.5357428,52.03686,Veenendaal - West,koos roseboom
+371443728,Forest Cockroach,Ectobius sylvestris,2025-09-02,10:25,1,5.686413333333333,51.496055,Helmond,Fons
+371443308,,Hydropsyche spec.,2025-09-02,17:42,1,5.958119499722223,51.2416343,Haelen,Sjoerd van der Schuit
+371442815,Forest Cockroach,Ectobius sylvestris,2025-09-02,10:25,1,5.686413333333333,51.496055,Helmond,Fons
+371442680,,Planuncus tingitanus s.l.,2025-09-02,17:33,1,5.732599972222222,51.976658972222225,Renkum,Wilma Harmsen
+371441671,,Petrobius brevistylis,2025-09-02,13:51,10,6.940535545218154,53.32840422273301,Delfzijl - Havengebied,Simon Gorter
+371441233,,Planuncus tingitanus s.l.,2025-09-02,17:26,1,5.1307706,52.1103396,Utrecht - Tuindorp,Luuk Emmink
+371260743,,Pseudomallada flavifrons,2025-09-01,08:06,1,4.062729589641094,51.287338018487645,Hulst - Noord,Adrie van de Wiel
+371260856,,Pseudomallada flavifrons,2025-09-01,07:39,1,4.062736295163631,51.2873413734756,Hulst - Noord,Adrie van de Wiel
+371439968,,Panorpa vulgaris,2025-09-02,17:17,1,6.7218278,52.7570591,Oosterhesselen,Dunderbrau
+371439907,,Planuncus tingitanus s.l.,2025-09-02,17:15,1,5.180033333333333,52.1142055,De Bilt,Bart Specken
+371439221,,Planuncus tingitanus s.l.,2025-09-02,08:43,1,4.410363499722223,52.2079449,Katwijk aan Zee - Hoornes,JacquelineH
+371437879,Common Earwig,Forficula auricularia,2025-09-02,17:03,1,5.529726,51.7527894,Oss - Kortfoort,Samuel Eleonora
+371437411,Common Earwig,Forficula auricularia,2025-09-02,14:13,1,3.548986666666667,51.48032,Koudekerke,truus
+371436509,Aeolothrips unk.,Aeolothrips spec.,2025-09-02,16:54,1,4.6621513,51.7940952,Dordrecht - Crabbehof,Kylian
+371435266,Common Earwig,Forficula auricularia,2025-09-02,09:23,1,5.77012,51.703717,Mill - De Gagel,Louis Geraets
+371434572,Common Earwig,Forficula auricularia,2025-09-02,16:39,1,6.2448851,53.1980716,Doezum,Grietje
+371433088,,Panorpa vulgaris,2025-09-02,,1,6.087649844266707,52.54785104012205,Zwolle - Westerveldse Bos,Gerrit Reitsma
+371432340,Common Earwig,Forficula auricularia,2025-09-02,11:07,1,5.8648967,51.81520979972222,Nijmegen - Brakkenstein,Sandra
+371431856,,Agraylea spec.,2025-09-02,,1,5.783924,51.718117,Tongelaar,Louis Geraets
+371431811,Insect unknown,Insecta indet.,2025-09-02,16:20,1,5.319350230589061,51.80892134211621,Hurwenen,BugCatcherStef
+371429899,,Limnephilus lunatus,2025-09-02,,1,5.783924100687727,51.71811694548008,Tongelaar,Louis Geraets
+371428448,,Planuncus tingitanus s.l.,2025-09-02,15:56,1,5.981819944687888,51.18926082583593,Roermond,Josyne
+371428001,Common Earwig,Forficula auricularia,2025-09-02,15:52,1,5.9609543,52.1376339,Beekbergen - Kaapbergerweg / De Kaap e.o.,DH
+371427480,,Planuncus tingitanus s.l.,2025-09-02,13:20,1,6.051813833333333,51.362928333333336,Maasbree,sjaak gubbels
+371319016,,Stenopsocus stigmaticus,2025-09-01,13:37,1,5.997177,52.196175,Apeldoorn - Heemtuin de Maten,Edo Kreuzen & Hilde Ham
+371426638,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,15:39,1,6.200500847764453,52.255122037217134,Deventer - Douwelerkolk,Frens Westenbrink
+371425270,,Planuncus tingitanus s.l.,2025-09-02,15:27,1,5.670134299722222,51.97351559972223,Wageningen - De Buurt e.o.,Caroline van der Lugt
+371424876,Insect unknown,Insecta indet.,2025-09-02,15:18,1,5.11475,52.080239,Utrecht - Zuidwest (wijk),D. van der Baard
+371379865,,Agraylea spec.,2025-09-02,08:00,1,4.549487829208374,51.90103773132014,Rotterdam - Oud-IJsselmonde,Jan Plaisier
+371424769,,Planuncus tingitanus s.l.,2025-09-02,15:24,1,6.027578255461764,51.94055716560718,Duiven - Oost e.o.,Marcel van der Wielen
+371424376,,Panorpa germanica,2025-09-02,15:20,1,6.00462,51.356291,Helden - voormalige gemeente,Hans Meijer
+371424191,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,06:49,1,5.237809,51.43622,Middelbeers - Landschotsche Heide,geert sanders
+371424167,,Panorpa vulgaris,2025-09-02,15:18,1,4.5197494,51.92111649972222,Rotterdam - Trompenburg Tuinen en Arboretum,Elmer Niederberger
+371379624,,Agraylea spec.,2025-09-02,08:05,1,4.549477100372314,51.90104104128194,Rotterdam - Oud-IJsselmonde,Jan Plaisier
+371423436,,Panorpa vulgaris,2025-09-02,11:54,1,5.878,50.845908,Schoonbron - Geulbeemden en Camping,Regina Oors
+371422752,Insect unknown,Insecta indet.,2025-09-02,15:10,1,7.0321347,52.3282981,Losser - Dinkeldal,Luuk Kroone
+371420988,Welshman's button,Sericostoma personatum,2025-09-02,14:55,1,5.946160415193016,52.3102408508326,Emst - Hanendorp,tbos
+371313763,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,12:59,1,5.997553,52.194935,Apeldoorn - Heemtuin de Maten,Edo Kreuzen & Hilde Ham
+371373258,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,14:21,1,5.99767,52.195389,Apeldoorn - Heemtuin de Maten,Edo Kreuzen & Hilde Ham
+371419595,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,23:11,1,4.452186666666667,52.134475,Voorschoten - algemeen,Sjaak Schilperoort
+371417244,,Panorpa vulgaris,2025-09-02,14:29,1,5.5349652,52.4812381,Lelystad - Natuurpark Lelystad,Dide Hormes
+371416942,,Panorpa vulgaris,2025-09-02,10:43,1,6.641248092055321,52.63902938554255,De Krim - Vloeivelden,Bert Stegeman
+371416769,,Micromus variegatus,2025-09-02,12:36,1,4.67037,52.363596666666666,Haarlem - Poelpolder - natuurontwikkeling,A. Swart
+371412112,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,12:18,1,6.455203799722223,53.2541123,Aduard,Gert Jan Versteeg
+371252280,,Planuncus tingitanus s.l.,2025-09-01,06:25,15,5.815434373425893,51.81791545876961,Nijmegen - Winkelsteeg groen,Frank Derriks
+371414693,,Planuncus tingitanus s.l.,2025-09-02,14:10,1,4.3355749,52.0549036,Rijswijk (ZH) - Oud Rijswijk,Ann
+371414440,,Planuncus tingitanus s.l.,2025-09-02,14:08,1,5.689048468555185,51.550216097181114,Gemert,truus
+371414177,,Pseudomallada prasinus,2025-09-02,14:06,1,5.261015632491535,52.07339997800924,Zeist - Kerckebosch,Arthur Fransen
+371413194,,Panorpa vulgaris,2025-09-02,13:58,1,5.807088888888889,50.860841666666666,Vilt e.o.,Jurre
+371411754,Common Earwig,Forficula auricularia,2025-09-02,13:46,1,5.4453304,51.4550224,Eindhoven - Philips de Jongh Park,yakup
+371410480,Grouse wing,Mystacides longicornis,2025-09-02,13:34,1,5.260985618853283,52.073411498737734,Zeist - Kerckebosch,Arthur Fransen
+371409479,,Planuncus tingitanus s.l.,2025-09-02,13:24,1,5.362749784816532,52.14412827383522,Amersfoort - Bergkwartier,ruschol
+371408611,,Limnephilus flavicornis,2025-09-01,16:23,1,6.5676081,51.9344515,Aalten - Dale,Cato B
+371408370,,Leptoceridae indet.,2025-09-02,13:12,1,5.261001398667986,52.073408358514754,Zeist - Kerckebosch,Arthur Fransen
+371407919,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,06:50,2,4.347356557846069,51.81169570240066,Nieuw Beijerland,Martin Benard
+371407519,,Planuncus tingitanus s.l.,2025-09-02,13:03,1,4.0358794,51.4461828,Kruiningen - dorp e.o.,Indekijker
+371407278,,Agrypnia pagetana,2025-09-02,08:16,1,5.638880858338435,53.449925168368,Ameland - Hollumerheide en huisjesterreinen,Rob Brinkhof
+371407274,,Agraylea spec.,2025-09-02,08:14,1,5.638843645290643,53.449897573850826,Ameland - Hollumerheide en huisjesterreinen,Rob Brinkhof
+371406651,Common Earwig,Forficula auricularia,2025-09-02,12:57,1,6.214202280555556,52.41673104444444,Wijhe - Het Nijenhuis,Jenny
+371406141,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,22:41,1,4.362340999722222,52.0187333,Delft - algemeen,Kees Mostert
+371404509,,Agraylea spec.,2025-09-02,07:53,1,6.3799347,52.1474648,Lochem - Kijksteeg e.o.,Jacob Jan de Vries
+371403690,Common Earwig,Forficula auricularia,2025-09-02,10:00,1,5.912576,52.945894,Heerenveen - De Greiden,Karin Uilhoorn
+371370461,,Agraylea spec.,2025-09-01,22:34,1,5.485728621180712,52.494954863960416,Lelystad - Waterwijk,Frank Böinck
+371402725,,Planuncus tingitanus s.l.,2025-09-02,12:27,1,3.5855614,51.4667015,Vlissingen - West Souburg - Noorderbaan,Bram Hubregtsen
+371402181,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,12:22,1,4.7536458,52.0078456,Gouda - Goverwelle,Ton Bos
+371370474,,Ecnomus tenellus,2025-09-01,22:11,1,5.485728621180712,52.494954863960416,Lelystad - Waterwijk,Frank Böinck
+371400333,,Planuncus tingitanus s.l.,2025-09-02,12:04,1,4.352955805555555,52.009998305555555,Delft - west,Marleen vd Lee
+371370490,Common Earwig,Forficula auricularia,2025-09-01,21:56,1,5.485728621180712,52.494954863960416,Lelystad - Waterwijk,Frank Böinck
+371398495,,Panorpa vulgaris,2025-09-02,11:47,1,6.149982075467928,52.32728692600513,Olst - De Wolbroeken,Pieter Wind
+371398468,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,23:31,1,6.000641025,52.86762265833333,Wolvega,Alexander van der Sluis
+371397732,,Limnephilus lunatus,2025-09-02,06:50,2,6.053903,51.458083,Horst ,Wim Heijligers
+371397632,,Hydropsyche spec.,2025-09-02,06:50,1,6.053900972222222,51.458084972222224,Horst ,Wim Heijligers
+371396789,Common Earwig,Forficula auricularia,2025-09-02,11:28,1,5.576958194444444,51.96361158333334,Rhenen,Martine vd Klooster
+371396627,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,09:20,1,4.399582,51.824154,Oud-Beijerland,arie den tuinder
+371396200,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,09:57,1,4.805432,53.058104,Texel - Den Burg - De Mars,Onno Werkman
+371395912,,Limnephilus lunatus,2025-09-02,09:50,1,4.805432,53.058104,Texel - Den Burg - De Mars,Onno Werkman
+371395175,,Agraylea spec.,2025-09-02,07:45,1,6.087201108333333,51.56058321111111,Well (LI),Johan Muusers
+371395138,,Agraylea spec.,2025-09-02,07:51,1,6.087125419444444,51.56060563333333,Well (LI),Johan Muusers
+371395134,,Agraylea spec.,2025-09-02,07:52,1,6.087125838888888,51.560604963888885,Well (LI),Johan Muusers
+371394603,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,11:10,1,5.5596604347229,51.47919845581055,Nuenen,Carl Nolte
+371394508,Alder Fly,Sialis lutaria,2025-09-02,11:05,1,4.981821666666667,52.01514721666667,Benschop - Polder Benschop,Floris Kouters
+371393828,,Limnephilus lunatus,2025-09-02,09:37,3,4.805432,53.058104,Texel - Den Burg - De Mars,Onno Werkman
+371393791,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,09:38,1,4.618751108333334,52.39630637222222,Bloemendaal (gemeente) ,Dick M
+371393765,,Oecetis ochracea,2025-09-02,10:18,1,4.598671666666666,51.753258333333335,Mookhoek - Mookhoekpolder,Arie Verhoef
+371393742,Grouse wing,Mystacides longicornis,2025-09-02,10:09,1,4.59867,51.75324666666667,Mookhoek - Mookhoekpolder,Arie Verhoef
+371393726,,Cloeon dipterum,2025-09-02,02:05,1,5.001287973670308,52.16979071440724,Breukelen,Donny Dolman
+371393700,Grouse wing,Mystacides longicornis,2025-09-02,10:01,2,4.598658333333333,51.75324166666667,Mookhoek - Mookhoekpolder,Arie Verhoef
+371392844,Common Earwig,Forficula auricularia,2025-09-02,10:53,1,7.0144602,52.258061,Losser,Peter de Groot
+371392543,,Limnephilus sparsus,2025-09-02,08:54,1,4.760781899722223,53.072918,Texel - De Bremakker,Jaap de Jong
+371392538,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,08:56,1,4.760823799722222,53.072927999722225,Texel - De Bremakker,Jaap de Jong
+371392477,,Limnephilus affinis,2025-09-02,09:09,1,4.760880799722222,53.072896,Texel - De Bremakker,Jaap de Jong
+371392469,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,09:11,1,4.7608986,53.072944,Texel - De Bremakker,Jaap de Jong
+371392467,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,09:11,1,4.7608986,53.072944,Texel - De Bremakker,Jaap de Jong
+371392466,,Limnephilus affinis,2025-09-02,09:12,1,4.7608986,53.072944,Texel - De Bremakker,Jaap de Jong
+371392394,Grouse wing,Mystacides longicornis,2025-09-02,08:57,1,4.598810951274025,51.753208736136905,Mookhoek - Mookhoekpolder,C. Mesker
+371392030,,Planuncus tingitanus s.l.,2025-09-02,10:44,1,6.102572799722222,52.0475836,Dieren,GAB Zandsteeg
+371391892,,Panorpa vulgaris,2025-09-02,10:42,1,5.836046666666666,51.877811666666666,Oosterhout (GE) - nieuwbouw,Maurice Riekert
+371391633,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,10:31,1,4.598705229533795,51.75327441622972,Mookhoek - Mookhoekpolder,C. Mesker
+371391176,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,,2,5.888353,53.242317,Gytsjerk,Freek Nijland
+371391161,,Tinodes waeneri,2025-09-01,,1,5.888353,53.242317,Gytsjerk,Freek Nijland
+371391142,,Oxyethira flavicornis,2025-09-01,,5,5.888353,53.242317,Gytsjerk,Freek Nijland
+371391121,,Limnephilus flavicornis,2025-09-01,,6,5.888353,53.242317,Gytsjerk,Freek Nijland
+371391046,,Cloeon dipterum,2025-09-01,,7,5.888353,53.242317,Gytsjerk,Freek Nijland
+371390758,,Limnephilus lunatus,2025-09-01,23:59,2,5.671187,51.976388,Wageningen - De Buurt e.o.,André Nagelhout
+371390450,,Planuncus tingitanus s.l.,2025-09-02,10:24,1,4.385330555555556,52.00734166666667,Delfgauw,Elsa
+371390365,,Limnephilus lunatus,2025-09-02,10:24,1,5.9849852,51.2586102,Neer,Versteegen
+371390328,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,07:45,1,4.728828104306825,52.45466044127549,Assendelft - Zuid,Susan
+371390130,,Oecetis ochracea,2025-09-02,07:53,2,6.0871224,51.56059968333333,Well (LI),Johan Muusers
+371389927,,Oecetis ochracea,2025-09-01,22:12,1,5.964121805555556,51.51568983333333,Venray,Rien Eikmans
+371388936,Common Earwig,Forficula auricularia,2025-09-01,22:00,10,5.445169,51.609278,Schijndel,J. Kastelijn
+371388748,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,08:40,1,4.959776,52.493973,Purmerend - Gors,Ernest Vinje
+371388589,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,10:04,1,6.4158637,52.524124,Ommen - West,Henk Hupkes
+371388255,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,10:00,1,6.415692,52.5240609,Ommen - West,Henk Hupkes
+371388039,,Planuncus tingitanus s.l.,2025-09-02,09:57,1,5.215410142466148,52.124937099809735,Bilthoven,Jan van Tiggelen
+371387900,,Agraylea spec.,2025-09-02,09:00,1,5.523834242485464,52.906472563034804,Oudega,Andries Visser
+371387161,,Tinodes waeneri,2025-09-02,07:34,4,5.287151634693146,51.7337321740423,'s-Hertogenbosch - Maaspoort,Titia van Heusden
+371387153,Grouse wing,Mystacides longicornis,2025-09-02,07:36,2,5.287151634693146,51.7337321740423,'s-Hertogenbosch - Maaspoort,Titia van Heusden
+371387145,,Limnephilus lunatus,2025-09-02,07:42,1,5.287151634693146,51.7337321740423,'s-Hertogenbosch - Maaspoort,Titia van Heusden
+371387135,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,07:47,2,5.287151634693146,51.7337321740423,'s-Hertogenbosch - Maaspoort,Titia van Heusden
+371386987,,Planuncus tingitanus s.l.,2025-09-02,08:23,1,4.980802777777778,51.49095833333333,Alphen (NB) - Looneind,Ton de Groot
+371382854,,Agraylea spec.,2025-09-02,08:26,1,5.187757653526134,52.1290252257301,Bilthoven - De Leyen (bebouwde kom) ,Kees Greidanus
+371382849,,Mystacides azurea,2025-09-02,08:25,1,5.187757653526134,52.1290252257301,Bilthoven - De Leyen (bebouwde kom) ,Kees Greidanus
+371386705,,Oecetis ochracea,2025-09-02,08:58,1,5.376355201005936,52.18954181147156,Amersfoort - Hoogland,Patrick
+371382808,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,08:17,1,5.187757653526134,52.1290252257301,Bilthoven - De Leyen (bebouwde kom) ,Kees Greidanus
+371386445,Common Earwig,Forficula auricularia,2025-09-01,,1,5.110032,51.663827,Loonse en Drunense Duinen - Plantloon,Sonja & Lex
+371386434,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,06:23,3,5.17286,52.271437,Bussum,Conny Leijdekker-Winthorst
+371385567,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,08:39,1,5.287151634693146,51.7337321740423,'s-Hertogenbosch - Maaspoort,Titia van Heusden
+371385502,,Limnephilus lunatus,2025-09-02,09:27,1,4.3329866,52.1290459,Meijendel - Vallei Meijendel,JBKempkes
+371385311,,Leptoceridae indet.,2025-09-02,07:21,1,5.237814197542444,52.054796937007936,Odijk,Gerard de Jong
+371385308,,Limnephilus lunatus,2025-09-02,07:21,1,5.237841203109459,52.054798402650846,Odijk,Gerard de Jong
+371385286,,Planuncus tingitanus s.l.,2025-09-02,09:20,1,4.757850833333333,52.07349666666667,Bodegraven - Broekvelden,E. van Hees
+371385277,,Oecetis ochracea,2025-09-02,07:24,1,5.237838981027826,52.054802608493844,Odijk,Gerard de Jong
+371385019,,Limnephilus lunatus,2025-09-02,08:08,1,4.611056,51.866283,Ridderkerk,Kees Verboom
+371384581,,Ecnomus tenellus,2025-09-02,08:41,1,4.342495,51.81168,Nieuw Beijerland,Ton Schilperoord
+371383531,Grouse wing,Mystacides longicornis,2025-09-02,,1,5.160938,51.986766,Schalkwijk - 't Waal,ben de kruijff
+371383484,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,07:13,1,5.957046502453153,50.922763949888775,Heerlen - Heerlerheide,Paul de Rechter
+371383471,,Limnephilus lunatus,2025-09-02,07:10,1,5.957035588313403,50.92276782856692,Heerlen - Heerlerheide,Paul de Rechter
+371383340,,Limnephilus flavicornis,2025-09-02,08:49,1,5.125288833333333,52.3265,Muiderberg,jaan van Santen
+371381459,,Limnephilus flavicornis,2025-09-02,08:46,1,5.993511727294091,52.818407759032944,Paasloo,Bert op den Dries
+371381300,,Oecetis ochracea,2025-09-02,08:43,1,5.993522401673301,52.818407965898416,Paasloo,Bert op den Dries
+371380413,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,08:32,1,5.993539040924031,52.818404457683044,Paasloo,Bert op den Dries
+371381932,,Limnephilus flavicornis,2025-09-02,08:13,1,4.585617,52.33429399972223,"Heemstede - Leyduin, Vinkenduin en Oud Woestduin",Ineke
+371381583,Common Earwig,Forficula auricularia,2025-09-02,08:40,1,5.7850837,53.19271729972222,Leeuwarden - Huizum-west,gerdy
+371381074,Grouse wing,Mystacides longicornis,2025-09-02,08:40,1,5.422500739072796,52.49678934769697,Lelystad - Haven,Landschapsbeheer Flevoland LedEmmers
+371380353,,Limnephilus flavicornis,2025-09-02,08:31,1,6.006831933271267,53.329864949596214,Dokkum,Simon Spriensma
+371377173,,Agraylea spec.,2025-09-02,07:46,1,4.636788333333334,52.44765833333334,Driehuis (NH),Elly Stolwijk
+371380255,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,08:19,2,5.083375930786133,51.54542541503906,Tilburg - Oud Zuid,Martin Verbeeten
+371380196,Insect unknown,Insecta indet.,2025-09-01,12:57,1,6.09668,53.246543,Twijzel (dorpsgebied),Jeffrey Huizenga
+371380170,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,08:25,1,6.0996524,52.5872543,Hasselt,Jeroen Bredenbeek
+371379976,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,06:37,1,4.629903,52.341036,Heemstede,piet veel
+371379968,,Planuncus tingitanus s.l.,2025-09-02,08:04,1,5.520368083333334,51.87893675,Beneden-Leeuwen - dorp,Marianne Stam
+371379241,,Agraylea spec.,2025-09-02,07:19,3,4.547339379787445,52.07502872965522,Benthuizen,Reinier Gillissen
+371379102,,Planuncus tingitanus s.l.,2025-09-02,08:16,1,3.604612792077581,51.514434814453125,Middelburg - Brigdamme,Wim Davidse
+371378850,,Limnephilus lunatus,2025-09-02,07:05,1,5.30797828058968,52.351027598547546,Almere - Paradijsvogelweg e.o.,Victor Eggenhuizen
+371378834,,Limnephilus lunatus,2025-09-02,07:05,1,5.30797828058968,52.351027598547546,Almere - Paradijsvogelweg e.o.,Victor Eggenhuizen
+371378815,,Limnephilus flavicornis,2025-09-02,07:00,1,5.30797828058968,52.351027598547546,Almere - Paradijsvogelweg e.o.,Victor Eggenhuizen
+371378813,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,07:00,1,5.30797828058968,52.351027598547546,Almere - Paradijsvogelweg e.o.,Victor Eggenhuizen
+371378695,,Limnephilus lunatus,2025-09-02,07:26,1,5.651335676518556,51.972555407255356,Wageningen - Kortenoord,Tom van Noort
+371378327,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,08:06,1,5.0414371,52.0918309,Utrecht - Leidsche Rijn (wijk),Michel Braad
+371377666,Caddisfly unknown,Trichoptera indet.,2025-09-02,07:43,1,5.189186076863625,52.35954349115526,Almere - Literatuurwijk,Anita Riemersma
+371377552,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,07:21,12,4.346176,51.807106,Nieuw-Beijerland - Polder Nieuw Piershil-noord,Han Benard
+371377502,Grouse wing,Mystacides longicornis,2025-09-02,07:21,1,4.346176,51.807106,Nieuw-Beijerland - Polder Nieuw Piershil-noord,Han Benard
+371377423,,Tinodes waeneri,2025-09-01,06:22,1,4.699357097222222,52.57730006111112,Limmen,SW
+371377409,,Agrypnia pagetana,2025-09-02,07:22,1,4.346176,51.807106,Nieuw-Beijerland - Polder Nieuw Piershil-noord,Han Benard
+371377349,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,07:31,1,5.025575899722222,52.9310745,Den Oever - Dorp,Leon Kelder
+371377187,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,07:48,1,4.9197754,52.0925101,Woerden - Veldwijk,mvg
+371376395,Grouse wing,Mystacides longicornis,2025-09-02,07:10,2,4.986253380775452,52.503128486283345,Purmerend - Purmer-Noord,Jose de Kleijn
+371377138,,Ecnomus tenellus,2025-09-02,07:44,1,4.701955,52.82828,Zwanenwater,Freek Kalsbeek
+371377129,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,07:47,1,3.508947,51.379375,Groede,Huib van Iwaarden
+371377009,,Planuncus tingitanus s.l.,2025-09-02,06:53,1,4.720693699722222,52.0153078,Gouda - Kort Haarlem,Hans van Gasteren
+371376992,,Agraylea spec.,2025-09-02,06:55,5,4.7206948,52.015304999722225,Gouda - Kort Haarlem,Hans van Gasteren
+371376921,,Agraylea spec.,2025-09-02,07:05,1,5.293431,51.666353,Vught,Rob Martin
+371376893,,Planuncus tingitanus s.l.,2025-09-02,06:57,1,5.293431,51.666353,Vught,Rob Martin
+371376416,,Molanna angustata,2025-09-02,06:57,1,5.664716720581055,52.00421905517578,Bennekom,Harm Hofman
+371376372,Tawny cockroach,Ectobius pallidus,2025-09-02,07:05,1,4.8043409,52.4402803,Zaandam - Westerwatering,Janine
+371375859,,Limnephilus lunatus,2025-09-02,07:22,1,5.0413964,52.0918401,Utrecht - Leidsche Rijn (wijk),Michel Braad
+371375836,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,07:21,1,3.860189784321804,51.31429934413295,Terneuzen - bebouwing,Jaap Kolijn
+371375439,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,07:00,1,5.648752646771047,51.98015344632002,Wageningen - Noordwest,Jasper Lamers
+371375424,,Limnephilus lunatus,2025-09-02,06:57,1,5.648734862417098,51.98016721356001,Wageningen - Noordwest,Jasper Lamers
+371375414,,Planuncus tingitanus s.l.,2025-09-01,18:27,1,5.648720115428463,51.981936413843165,Wageningen - Noordwest,Jasper Lamers
+371375307,Caddisfly unknown,Trichoptera indet.,2025-09-02,07:05,1,5.471043005276704,52.496851551557654,Lelystad - Landstrekenwijk,Landschapsbeheer Flevoland LedEmmers
+371375242,Tawny cockroach,Ectobius pallidus,2025-09-02,07:05,1,4.8043409,52.4402803,Zaandam - Westerwatering,Janine
+371375181,,Tinodes waeneri,2025-09-02,06:50,1,5.261857509613037,52.388763427734375,Almere - Landgoederenbuurt,richard bosker
+371375162,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,06:59,1,5.261843681335449,52.38871383666992,Almere - Landgoederenbuurt,richard bosker
+371374590,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,06:05,2,5.48882357776165,52.49236271653209,Lelystad - Waterwijk,Ico Hoogendoorn
+371374589,Grouse wing,Mystacides longicornis,2025-09-02,06:05,3,5.48882357776165,52.49236271653209,Lelystad - Waterwijk,Ico Hoogendoorn
+371374588,,Agraylea spec.,2025-09-02,06:05,10,5.48882357776165,52.49236271653209,Lelystad - Waterwijk,Ico Hoogendoorn
+371374587,,Oecetis ochracea,2025-09-02,06:05,2,5.48882357776165,52.49236271653209,Lelystad - Waterwijk,Ico Hoogendoorn
+371374561,,Limnephilus flavicornis,2025-09-02,06:09,1,5.48882357776165,52.49236271653209,Lelystad - Waterwijk,Ico Hoogendoorn
+371374536,,Limnephilus lunatus,2025-09-02,06:23,1,5.48882357776165,52.49236271653209,Lelystad - Waterwijk,Ico Hoogendoorn
+371374533,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,06:26,1,5.48882357776165,52.49236271653209,Lelystad - Waterwijk,Ico Hoogendoorn
+371374517,,Ecnomus tenellus,2025-09-02,06:36,1,5.48882357776165,52.49236271653209,Lelystad - Waterwijk,Ico Hoogendoorn
+371374513,,Hydropsyche spec.,2025-09-02,06:37,1,5.48882357776165,52.49236271653209,Lelystad - Waterwijk,Ico Hoogendoorn
+371374378,,Hydropsyche spec.,2025-09-02,06:28,1,6.1123753,52.4881273,Zwolle - Zuid,Bram Borkent
+371374376,,Hydropsyche spec.,2025-09-02,06:33,1,6.1123753,52.4881273,Zwolle - Zuid,Bram Borkent
+371374333,,Limnephilus lunatus,2025-09-02,06:27,1,6.1123753,52.4881273,Zwolle - Zuid,Bram Borkent
+371374331,,Limnephilus lunatus,2025-09-02,06:27,1,6.1123753,52.4881273,Zwolle - Zuid,Bram Borkent
+371373841,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,05:42,1,4.5000268,52.1805046,Leiden - Merenwijk ,Johannes Müller
+371372777,Common Earwig,Forficula auricularia,2025-09-02,00:30,2,4.569901977391481,51.96906927974524,Rotterdam - Nieuw Verlaat,Maura
+371372680,Cinnamon sedge,Limnephilus marmoratus,2025-09-02,01:44,1,6.0792744,52.1000713,Eerbeek - Markvoortbossen,Arnold den Dekker
+371371982,,Oecetis lacustris,2025-09-01,22:55,1,5.8417595,51.7978144,Nijmegen - Elshof,José Walters
+371371977,,Panorpa vulgaris,2025-09-01,20:14,1,5.842362880706787,51.798179626464844,Nijmegen - Elshof,Pieter Bruijsten
+371371514,,Limnephilus lunatus,2025-09-02,00:05,1,4.876580536365509,51.548339959315086,Gilze - Golfclub Princenbosch,Erik-Jan Beenackers
+371371924,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,22:03,1,5.404053333333334,52.1230055,Leusden - Maanweg / Ruitenbeeklaan / Schutterhoeflaan e.o.,Theo Klink
+371371679,,Planuncus tingitanus s.l.,2025-09-02,00:21,1,6.1003951,52.5064152,Zwolle - Assendorp,Marienie
+371371660,Mottled sedge,Glyphotaelius pellucidus,2025-09-02,00:21,1,4.9170555,52.3218602,Duivendrecht - Volkstuinen,Philippe Moreau
+371371058,,Agraylea spec.,2025-09-01,23:25,1,5.641172924090529,53.45445157410469,Ameland - Hollumerheide en huisjesterreinen,Rob Brinkhof
+371370973,,Planuncus tingitanus s.l.,2025-09-01,23:54,1,5.665094444444445,51.477980555555554,Helmond,Thijsvm
+371370493,,Limnephilus flavicornis,2025-09-01,21:54,2,5.485728621180712,52.494954863960416,Lelystad - Waterwijk,Frank Böinck
+371370172,,Planuncus tingitanus s.l.,2025-09-01,23:39,1,5.23645337636936,51.63386928275036,Helvoirt,Ben van Drunen
+371370072,,Hydropsyche spec.,2025-09-01,21:43,1,5.534119,52.022547,Veenendaal - West,Wijnand van Buuren
+371369760,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,23:20,1,5.724535972222222,52.838923,Lemmer,Ellen Buurstra
+371369649,,Tinodes waeneri,2025-09-01,22:16,1,6.191538,52.683201,Meppel - Koedijkslanden,Dick Bekker
+371369645,,Oecetis ochracea,2025-09-01,23:17,1,5.724531972222223,52.838915972222225,Lemmer,Ellen Buurstra
+371369474,,Oecetis ochracea,2025-09-01,22:16,1,6.191538,52.683201,Meppel - Koedijkslanden,Dick Bekker
+371369158,Grouse wing,Mystacides longicornis,2025-09-01,23:05,1,5.769485235214233,53.458351615261584,Ameland - Briksduinen - Kobuspad,Rob Sennema
+371369110,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,21:12,1,6.105806,51.532113,Blitterswijck,Twan Martens
+371369040,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,21:44,1,6.191538,52.683201,Meppel - Koedijkslanden,Dick Bekker
+371368697,,Oecetis ochracea,2025-09-01,21:33,1,4.359431278067433,51.42335035716599,Hoogerheide - Kortenhoeff oost,Teus Slagboom
+371368683,Grouse wing,Mystacides longicornis,2025-09-01,21:29,1,4.359431278067433,51.42335035716599,Hoogerheide - Kortenhoeff oost,Teus Slagboom
+371368644,,Oecetis lacustris,2025-09-01,21:18,1,4.359431278067433,51.42335035716599,Hoogerheide - Kortenhoeff oost,Teus Slagboom
+371367951,,Planuncus tingitanus s.l.,2025-09-01,21:18,1,4.959676,52.493994,Purmerend - Gors,Ernest Vinje
+371367420,,Hydropsyche spec.,2025-09-01,08:55,2,6.3800274,52.1474895,Lochem - Kijksteeg e.o.,Jacob Jan de Vries
+371367415,,Planuncus tingitanus s.l.,2025-09-01,22:55,1,3.8576853,51.7561738,Brouwersdam - Grevelingen - Port Zeelande,Peter S.
+371367142,,Planuncus tingitanus s.l.,2025-09-01,22:51,1,6.091094123647663,52.501801827628974,Zwolle - Hanzeland,aroc
+371366000,,Planuncus tingitanus s.l.,2025-09-01,15:33,1,5.9700791,51.9817721,Arnhem - Lange Water,Suzan Ter Smitte
+371365911,,Planuncus tingitanus s.l.,2025-09-01,22:35,1,4.6293597,52.4230438,Santpoort-Zuid,Louis ten Hacken
+371365280,Tawny cockroach,Ectobius pallidus,2025-09-01,22:27,1,3.8576625,51.7561845,Brouwersdam - Grevelingen - Port Zeelande,Peter S.
+371364951,,Planuncus tingitanus s.l.,2025-09-01,22:25,1,6.0498887,51.1913833,Asenray e.o.,Paula Caspers
+371364732,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,21:47,1,5.641186999309724,53.454455061803216,Ameland - Hollumerheide en huisjesterreinen,Rob Brinkhof
+371364693,,Oecetis ochracea,2025-09-01,21:35,1,5.641172439669591,53.454448419984956,Ameland - Hollumerheide en huisjesterreinen,Rob Brinkhof
+371364083,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,22:16,1,6.095588207244873,52.80037647028054,Steenwijk - Tuk,Bjartur Swart
+371362847,,Planuncus tingitanus s.l.,2025-09-01,19:02,1,5.472494125366211,52.220401763916016,Nijkerk,Robin Drenth
+371362551,,Micromus variegatus,2025-09-01,00:38,1,5.953928972222222,51.727735,Milsbeek - dorp,Henk Lemmen
+371362467,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,21:55,1,6.38198,52.140116666666664,Lochem - Landgoed Ruijghenrode e.o.,Peter-Paul Schets
+371362290,,Ecnomus tenellus,2025-09-01,21:56,1,6.382003333333333,52.1401555,Lochem - Landgoed Ruijghenrode e.o.,Peter-Paul Schets
+371361607,,Oecetis ochracea,2025-09-01,21:50,1,5.3303358,51.5976951,Boxtel,Brent Hoogervorst
+371361402,,Tinodes waeneri,2025-09-01,21:49,1,4.5000946,52.1804568,Leiden - Merenwijk ,Johannes Müller
+371361230,,Oxyethira flavicornis,2025-09-01,21:47,1,5.406903,52.120805,Leusden,Marc Dijksterhuis
+371360688,,Limnephilus lunatus,2025-09-01,21:37,1,6.381978333333334,52.14012783333333,Lochem - Landgoed Ruijghenrode e.o.,Peter-Paul Schets
+371360088,,Planuncus tingitanus s.l.,2025-09-01,19:45,1,5.7147469,51.8087938,Wijchen west,Oebar
+371359982,,Planuncus tingitanus s.l.,2025-09-01,21:34,1,5.0867892,52.1018151,Utrecht - Schepenbuurt,André Kok
+371358931,Forest Cockroach,Ectobius sylvestris,2025-09-01,21:19,1,5.085676799999987,52.0894723,Utrecht - Oog In Al,Jeroen
+371358892,,Planuncus tingitanus s.l.,2025-09-01,21:24,1,3.54282426597217,51.56079682086632,Oostkapelle - Aagtekerkseweg / Landmetersweg,Ruud Okkerman
+371358808,,Oecetis lacustris,2025-09-01,21:25,1,5.3965737,51.845727099722225,Ophemert,Matthias Koster
+371358499,,Planuncus tingitanus s.l.,2025-09-01,21:23,1,5.9741157,51.9930217,Velp,zegerv
+371357981,,Planuncus tingitanus s.l.,2025-09-01,21:20,1,3.5367172,51.4008375,Breskens - Voormalig Fort Frederik Hendrik / 't Heem,Victor Bos
+371357902,,Planuncus tingitanus s.l.,2025-09-01,21:18,1,6.499566352000925,52.30698376898869,Rijssen,AnicaS
+371357509,,Hydropsyche spec.,2025-09-01,21:12,1,5.3965785,51.8457267,Ophemert,Matthias Koster
+371356268,,Planuncus tingitanus s.l.,2025-09-01,21:07,1,4.0330981,51.4465323,Kruiningen - dorp e.o.,Indekijker
+371355509,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,05:56,1,6.939479099999971,52.3020751,Oldenzaal,Martin Bonte
+371351187,Common Earwig,Forficula auricularia,2025-09-01,15:49,1,6.294648600748083,52.620284473572504,Boswachterij Staphorst,Karin Uilhoorn
+371349883,,Planuncus tingitanus s.l.,2025-09-01,20:03,1,4.347583333333334,52.00736945,Delft - west,francine
+371349449,,Planuncus tingitanus s.l.,2025-09-01,20:04,1,4.347463333333334,52.00726945,Delft - west,francine
+371348462,,Panorpa vulgaris,2025-09-01,15:11,1,4.395352005958557,52.17029166864281,Lentevreugd,Siebe Wiersma
+371347594,Common Earwig,Forficula auricularia,2025-09-01,19:58,1,6.5740734,51.9815704,Lichtenvoorde,Kian ten Haaff
+371347557,,Planuncus tingitanus s.l.,2025-09-01,19:57,1,5.8540155,51.7382085,"Cuijk - Raamweg, Van der Valk",Gonny
+371346827,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,06:02,1,6.44197,52.718525,Hoogeveen - Trasselt,Edwin De Weerd
+371346770,,Hydropsyche angustipennis,2025-09-01,06:02,1,6.44197,52.718525,Hoogeveen - Trasselt,Edwin De Weerd
+371346748,,Oxyethira flavicornis,2025-09-01,06:01,1,6.44197,52.718525,Hoogeveen - Trasselt,Edwin De Weerd
+371346444,,Ectobius spec.,2025-09-01,19:45,1,4.398236666666667,51.86380833333333,Poortugaal - Noord,Jan Lodder
+371346225,,Pseudomallada prasinus,2025-09-01,05:59,1,6.44197,52.718525,Hoogeveen - Trasselt,Edwin De Weerd
+371346044,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,05:58,1,6.44197,52.718525,Hoogeveen - Trasselt,Edwin De Weerd
+371345869,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,05:57,1,6.44197,52.718525,Hoogeveen - Trasselt,Edwin De Weerd
+371345824,,Limnephilus flavicornis,2025-09-01,05:56,1,6.44197,52.718525,Hoogeveen - Trasselt,Edwin De Weerd
+371345812,,Limnephilus lunatus,2025-09-01,05:56,4,6.44197,52.718525,Hoogeveen - Trasselt,Edwin De Weerd
+371345687,,Planuncus tingitanus s.l.,2025-09-01,19:44,1,5.6094587,51.4404186,Mierlo,Ducman
+371345280,,Planuncus tingitanus s.l.,2025-09-01,19:39,1,4.438853333333333,52.126152833333336,Voorschoten - algemeen,anne
+371344072,,Panorpa vulgaris,2025-09-01,12:50,1,5.863222897096421,51.97542140766809,Oosterbeek - Rosande Polder,Simeon Klompmaker
+371254411,,Euroleon nostras,2025-09-01,07:37,1,5.936610194444444,51.82309338888889,Stuwwal - SOVON veldstudiecentrum 'de Wylerberg',Dirk den Hollander
+371262680,,Euroleon nostras,2025-09-01,09:24,1,6.170936,51.38984597222222,Venlo,Marcel
+371263182,,Euroleon nostras,2025-09-01,09:31,1,5.902519617235197,51.177520751953125,Heel,Thea Francot
+371280210,,Euroleon nostras,2025-09-01,11:48,1,4.9966727,51.691062,Waalwijk - De Dullaard,Maud
+371288111,,Euroleon nostras,2025-09-01,12:39,1,4.9030465,51.5816851,Oosterhout (NB) - Boswachterij Dorst,Barbara van den Hout
+371339934,,Planuncus tingitanus s.l.,2025-09-01,19:00,1,5.0526276,52.1356258,Maarssen - Zandweg Oostwaard,Annelot
+371339349,,Panorpa germanica,2025-09-01,14:52,1,4.395083785057068,52.17035089016975,Lentevreugd,Siebe Wiersma
+371336635,,Panorpa vulgaris,2025-09-01,13:21,1,5.968177914619446,52.661117204562615,Kraggenburg - Kadoeler Bos,Hans Farenhorst
+371333665,,Planuncus tingitanus s.l.,2025-09-01,18:14,1,6.095713833333333,52.49254666666667,Zwolle - Zuid,eveline1986
+371332533,,Planuncus tingitanus s.l.,2025-09-01,18:07,1,3.861663,51.7575942,Brouwersdam - Grevelingen - Port Zeelande,rudi swinnen
+371329760,,Limnephilus flavicornis,2025-09-01,00:05,1,5.280943913888889,52.716469788888894,Enkhuizen,Karin lub
+371329054,,Polycentropodidae indet.,2025-09-01,17:38,1,5.808927,53.209621,Leeuwarden - Tjerk Hiddes & Cambuursterhoek,Erik Pomp
+371328776,,Leptoceridae indet.,2025-09-01,12:47,1,4.981532692909241,52.37424487225207,Waterland - Durgerdammerdijk,Edwin Kapitein
+371327691,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,17:27,1,5.808933,53.209621,Leeuwarden - Tjerk Hiddes & Cambuursterhoek,Erik Pomp
+371326669,,Planuncus tingitanus s.l.,2025-09-01,17:18,1,3.735477577454053,51.685613611719724,Haamstede - Polder Burgh- en Westland Midden,Wiep
+371326243,,Panorpa vulgaris,2025-09-01,17:12,1,4.549733519510482,51.892290975513426,Rotterdam - Groot-IJsselmonde,Leendert Visser
+371324894,,Micromus variegatus,2025-09-01,17:04,1,6.575321300878284,53.23846435546875,Groningen - De Hunze,Ton Bot
+371323970,Common Earwig,Forficula auricularia,2025-09-01,16:58,1,6.9540099,52.988905,Stadskanaal - Centrum,Mylene & Dyllan
+371323778,Common Earwig,Forficula auricularia,2025-09-01,15:36,1,6.757211666666667,51.991555,Winterswijk - Dottinkrade,Petra ten Damme
+371323314,,Planuncus tingitanus s.l.,2025-09-01,16:52,1,3.9615297,51.4778847,Biezelinge e.o.,Veronie van Eekelen
+371322090,,Planuncus tingitanus s.l.,2025-09-01,07:06,1,4.062737636268139,51.28733655068034,Hulst - Noord,Adrie van de Wiel
+371321028,,Panorpa vulgaris,2025-09-01,13:14,1,5.687997936984175,51.966045042655544,Wageningen - Arboretum Belmonte,Janneke Elderson
+371319374,Common Earwig,Forficula auricularia,2025-09-01,16:22,1,4.1259102,51.9873176,Hoek van Holland - Duinweg e.o.,Knuffelster
+371317984,,Panorpa vulgaris,2025-09-01,16:07,1,5.294095,51.68452833333333,Dommel - 's-Hertogenbosch,+ijs
+371317954,,Planuncus tingitanus s.l.,2025-09-01,16:11,1,6.0597713,52.52529429972222,Zwolle - Stadshagen,Henriette Doornebosch
+371317894,Common Earwig,Forficula auricularia,2025-09-01,16:12,1,6.900088555555556,52.23334703055556,Enschede - Roombeek Roomveldje,Dargno83
+371317591,Common Earwig,Forficula auricularia,2025-09-01,16:10,1,6.16098912381968,53.24044645753735,Polder Rohel,watmooi!
+371317200,Common Earwig,Forficula auricularia,2025-09-01,16:08,1,6.160786609299,53.24056816958906,Polder Rohel,wbremer
+371315914,,Planuncus tingitanus s.l.,2025-09-01,15:54,1,6.6063934,52.3862078,Almelo - Bedrijvenpark Twente,Brend Jansen
+371315659,,Planuncus tingitanus s.l.,2025-09-01,15:52,1,6.606515150323048,52.386098062516616,Almelo - Bedrijvenpark Twente,Edwin Smelt
+371314566,,Hydropsyche angustipennis,2025-09-01,10:48,1,5.623034000396729,51.62687301635742,Erp - Leijgraaf,Lesley Bezemer
+371314103,,Leptoceridae indet.,2025-09-01,15:39,1,5.612363333333334,52.18158,Voorthuizen,Jan van Middendorp
+371313714,Caddisfly unknown,Trichoptera indet.,2025-09-01,15:35,1,4.536848254506045,51.853221603717515,Barendrecht,Walibie
+371312897,Common Earwig,Forficula auricularia,2025-09-01,15:28,1,6.6099183,53.4016677,Usquert,Dick Veenendaal
+371310722,Common scorpionfly,Panorpa communis,2025-09-01,15:06,1,6.6516826,51.9740038,Winterswijk - Corle,Ivantb
+371309371,,Planuncus tingitanus s.l.,2025-09-01,14:57,1,5.672047199722223,51.9655423,Wageningen - Binnenstad,Bloemenmeisje
+371307391,,Planuncus tingitanus s.l.,2025-09-01,14:42,1,5.929361666666667,51.263036666666665,Roggel,Rob Schaareman
+371300822,,Tinodes waeneri,2025-09-01,08:07,1,4.89268159866333,51.73387908935547,Hank,jan braat
+371300777,,Oecetis furva,2025-09-01,10:24,1,4.892688274383545,51.73385238647461,Hank,jan braat
+371299875,Common Earwig,Forficula auricularia,2025-09-01,14:21,1,4.8789625,52.6013943,Schermerhorn,Jan Jonk
+371299858,,Sisyra nigra,2025-09-01,14:03,1,4.34755,51.811777,Nieuw Beijerland,Martin Benard
+371299506,,Chrysoperla carnea s.l.,2025-09-01,14:17,1,5.103740843015773,52.089155640971846,Utrecht - Zuidwest (wijk),Markus
+371299168,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,08:03,1,4.71337,52.00412,Gouderak - Polder Veerstalblok,Ronald Ykema
+371299004,,Panorpa germanica,2025-09-01,13:53,1,5.9232105,51.8667529,Ooijpolder - Bisonbaai,Dyl2006Nijh
+371298874,,Panorpa germanica,2025-09-01,14:12,1,6.2549153,53.0843329,Bakkeveen,Koert Scholten
+371298469,,Panorpa vulgaris,2025-09-01,14:11,1,5.662525954807332,51.99653575472976,Bennekom - De Kraats en Nergena,Hugo
+371298156,,Leptoceridae indet.,2025-09-01,07:36,1,4.7608544,53.0729581,Texel - De Bremakker,Jaap de Jong
+371297608,,Ectobius vittiventris,2025-09-01,14:02,1,6.0292624,50.90677759972222,Landgraaf - Centrum / Nieuwenhagen,Eric
+371296927,,Panorpa vulgaris,2025-09-01,13:57,1,5.86347,50.960296666666665,Puth,Mil van Helden
+371296427,,Cloeon dipterum,2025-09-01,13:52,1,4.701871,51.811311,Dordrecht - Jeugddorp en Sportvelden,Arjan Loeve
+371295513,,Oecetis lacustris,2025-09-01,07:47,1,5.449613888888889,52.487386111111114,Lelystad - Warande West,Landschapsbeheer Flevoland LedEmmers
+371295152,,Oecetis lacustris,2025-09-01,07:47,1,5.449613888888889,52.487386111111114,Lelystad - Warande West,M van Os
+371273469,,Planuncus tingitanus s.l.,2025-09-01,11:06,1,6.79779052734375,52.767877445040874,Sleen,J
+371294065,,Chrysoperla carnea s.l.,2025-09-01,13:31,1,5.495375716905346,52.510280713034675,Lelystad - Archipel,Jan
+371293560,,Panorpa vulgaris,2025-09-01,13:27,1,5.1018988,52.1689148,Tienhoven - Oostelijke Binnenpolder ,Stijn Bennink
+371293550,,Oecetis lacustris,2025-09-01,07:56,1,4.71337,52.00412,Gouderak - Polder Veerstalblok,Ronald Ykema
+371293493,,Planuncus tingitanus s.l.,2025-09-01,13:25,1,5.815571666666667,51.96169666666667,Driel,Levi
+371292685,Barkfly unknown,Psocoptera indet.,2025-09-01,13:17,1,5.3996826,52.1899235,Amersfoort - Kattenbroek,Alphonzo
+371292674,,Panorpa vulgaris,2025-09-01,13:17,1,5.910244883333334,52.55534655833333,Kampen - Groene Hart,Nelson Venema
+371292127,Gray Silverfish,Ctenolepisma longicaudatum,2025-09-01,13:10,1,5.9823306,51.9594972,Westervoort,DerZwaan
+371291949,,Chrysoperla carnea s.l.,2025-09-01,13:10,1,6.5247361,53.2326442,Groningen - Vinkhuizen Noord,Agricola
+371291510,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,07:01,1,6.105768,51.532117,Blitterswijck,Twan Martens
+371291340,Insect unknown,Insecta indet.,2025-09-01,13:00,1,4.6324614,51.7701774,Dordrecht - Industriegebied Dordtse Kil III,Kari de lange
+371291125,,Tinodes waeneri,2025-09-01,01:43,1,4.3622237,52.01859809972222,Delft - algemeen,Kees Mostert
+371291082,,Tinodes waeneri,2025-09-01,08:46,1,4.3623637,52.0186245,Delft - algemeen,Kees Mostert
+371288403,,Panorpa cognata,2025-09-01,12:42,1,5.0508471,51.5697197,Tilburg - West,Angel
+371288192,,Panorpa germanica,2025-09-01,12:39,1,5.926533199722223,53.1086431,Alde Feanen - Grutte Krite,Kees Wijnen
+371287797,,Panorpa cognata,2025-09-01,12:36,1,6.541474072222222,52.72172353333333,Hoogeveen (gemeente) ,Herm Jan
+371287749,,Tinodes waeneri,2025-09-01,12:31,1,5.84425,51.92407166666667,Elst (GE) - Noord,Marrit Verheijen
+371287073,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,09:44,1,5.842806,51.278393,Heythuysen - Hollander e.o.,Sillekens M
+371286033,,Limnephilus spec.,2025-09-01,09:45,1,5.858663,51.275905,Heythuysen - Hollander e.o.,Sillekens M
+371284557,,Planuncus tingitanus s.l.,2025-09-01,12:12,1,5.471076322222222,51.47746503333334,Eindhoven - Henri Dunantpark,Hugo Jansen
+371284513,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,09:34,1,4.529369444444445,51.77543055555555,Oudeland van Strijen - N2000,Dick van Houwelingen
+371284497,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,09:35,1,4.529369444444445,51.77543055555555,Oudeland van Strijen - N2000,Dick van Houwelingen
+371283589,Common Earwig,Forficula auricularia,2025-09-01,12:10,1,5.178005567364274,52.153055508110576,Maartensdijk,DHuismann
+371283135,,Planuncus tingitanus s.l.,2025-09-01,12:05,1,4.3354535,52.0022173,Den Hoorn (ZH),Rob
+371282530,,Panorpa vulgaris,2025-09-01,12:03,1,5.41745,52.077327833333335,Woudenberg,Rosalinde Donker
+371280807,,Limnephilus spec.,2025-09-01,11:51,1,5.945353613518718,52.94144138964871,Heerenveen - De Akkers,Anne Froukje Schotanus- van der Woude
+371267472,,Chrysoperla carnea s.l.,2025-09-01,10:19,1,5.993505489944499,52.81840538969543,Paasloo,Bert op den Dries
+371267436,,Agraylea spec.,2025-09-01,10:19,1,5.993510664555491,52.81839604194266,Paasloo,Bert op den Dries
+371267362,,Limnephilus flavicornis,2025-09-01,10:18,1,5.993528467995357,52.81838161584547,Paasloo,Bert op den Dries
+371267328,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,10:18,1,5.993516491731602,52.818391006491105,Paasloo,Bert op den Dries
+371266577,,Oecetis ochracea,2025-09-01,10:11,1,5.993508445130198,52.81839926270321,Paasloo,Bert op den Dries
+371266227,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,10:07,1,5.993492794701912,52.818401418333686,Paasloo,Bert op den Dries
+371266163,,Oxyethira flavicornis,2025-09-01,10:06,1,5.993506437098662,52.81838954045482,Paasloo,Bert op den Dries
+371265762,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,10:01,1,5.993504583635334,52.81839266501363,Paasloo,Bert op den Dries
+371278641,,Ephemera glaucops,2025-09-01,08:33,1,5.285809189081192,51.517238543165305,Oirschot - Hedel,Adrie Vermeeren
+371264205,,Oecetis ochracea,2025-09-01,09:42,1,5.993512043382003,52.818396558074625,Paasloo,Bert op den Dries
+371278311,,Chrysoperla carnea s.l.,2025-09-01,11:36,1,4.7859806,53.0057727,Texel - 't Horntje,Els
+371264000,,Planuncus tingitanus s.l.,2025-09-01,09:39,1,5.993485531254429,52.81839629332679,Paasloo,Bert op den Dries
+371277640,,Panorpa vulgaris,2025-09-01,11:31,1,6.726888333333333,53.001133333333335,Eext - Eexterhalte,Aafje Hoogeveen
+371255824,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,07:54,1,6.563708782196045,53.14617832476077,Paterswolde,Marleen Koning
+371277146,,Agrypnia pagetana,2025-09-01,11:28,2,7.0424651,53.037387,Onstwedde,Rik Wever
+371263913,,Agraylea spec.,2025-09-01,08:32,1,4.587376713752747,51.887938302669085,Ridderkerk - Huys ten Donck / Donckse Bos e.o.,Jan Plaisier
+371263577,,Ecnomus tenellus,2025-09-01,08:34,1,4.587387442588806,51.887938302669085,Ridderkerk - Huys ten Donck / Donckse Bos e.o.,Jan Plaisier
+371274214,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,07:16,1,5.4949816,51.6656077,Heeswijk - Bernisse Hoeve,leo Ballering
+371274203,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,07:16,1,5.495068999722222,51.66555799972222,Heeswijk - Bernisse Hoeve,leo Ballering
+371274002,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,07:28,1,5.4949525,51.66563519972222,Heeswijk - Bernisse Hoeve,leo Ballering
+371273841,,Chrysoperla carnea s.l.,2025-09-01,07:41,1,5.495040999722223,51.6656385,Heeswijk - Bernisse Hoeve,leo Ballering
+371273817,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,07:42,1,5.4951622,51.66565969972222,Heeswijk - Bernisse Hoeve,leo Ballering
+371263474,,Ecnomus tenellus,2025-09-01,08:35,1,4.587376713752747,51.887934991741986,Ridderkerk - Huys ten Donck / Donckse Bos e.o.,Jan Plaisier
+371263531,,Agraylea spec.,2025-09-01,08:35,1,4.587387442588806,51.887934991741986,Ridderkerk - Huys ten Donck / Donckse Bos e.o.,Jan Plaisier
+371263530,,Agraylea spec.,2025-09-01,09:27,1,6.678580799722223,53.41956079972222,Uithuizen - Oude Dijk e.o.,Arie Beemsterboer
+371272587,,Panorpa germanica,2025-09-01,10:59,1,5.6361009,52.3955226,Biddinghuizen - Harderbos Oost - Broekbos,Jos Houben
+371271153,,Ecnomus tenellus,2025-09-01,09:31,2,6.2095263,52.1425266,Zutphen - Waterkwartier,Imelda Hanselman
+371271150,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,09:29,3,6.2095263,52.1425266,Zutphen - Waterkwartier,Imelda Hanselman
+371271128,,Limnephilus flavicornis,2025-09-01,09:27,1,6.2094551,52.1425143,Zutphen - Waterkwartier,Imelda Hanselman
+371271116,,Oecetis lacustris,2025-09-01,09:22,1,6.2096193,52.1425329,Zutphen - Waterkwartier,Imelda Hanselman
+371271098,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,09:17,7,6.2096217,52.1425408,Zutphen - Waterkwartier,Imelda Hanselman
+371271093,,Limnephilus flavicornis,2025-09-01,09:15,1,6.2096217,52.1425408,Zutphen - Waterkwartier,Imelda Hanselman
+371271089,,Limnephilus lunatus,2025-09-01,09:14,2,6.2096321,52.1425467,Zutphen - Waterkwartier,Imelda Hanselman
+371269892,,Cloeon dipterum,2025-09-01,06:47,1,3.74467921257019,51.46916580200195,Nieuwdorp,Henk Huige
+371269883,,Hemerobius humulinus,2025-09-01,10:40,1,6.378044975005767,51.91064227519864,Silvolde,Roel Schwartz
+371269874,,Limnephilus flavicornis,2025-09-01,07:11,1,3.744744300842285,51.46916961669922,Nieuwdorp,Henk Huige
+371269847,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,08:15,1,3.7447503,51.4691369,Nieuwdorp,Henk Huige
+371269802,,Agraylea spec.,2025-09-01,10:39,1,6.378045807986734,51.91065420454241,Silvolde,Roel Schwartz
+371268152,,Hydropsyche spec.,2025-09-01,10:25,1,6.378039363987029,51.91063609245718,Silvolde,Roel Schwartz
+371267888,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,10:23,1,6.378071387856357,51.91064893250795,Silvolde,Roel Schwartz
+371263129,,Leptoceridae indet.,2025-09-01,08:38,1,4.587376713752747,51.887938302669085,Ridderkerk - Huys ten Donck / Donckse Bos e.o.,Jan Plaisier
+371262879,,Ecnomus tenellus,2025-09-01,08:44,1,4.587382078170776,51.88794161359595,Ridderkerk - Huys ten Donck / Donckse Bos e.o.,Jan Plaisier
+371266894,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,10:14,1,6.37809501142871,51.910710845328005,Silvolde,Roel Schwartz
+371266106,,Limnephilus lunatus,2025-09-01,08:44,1,4.805475,53.05795,Texel - Den Burg - De Mars,Onno Werkman
+371265859,,Planuncus tingitanus s.l.,2025-09-01,10:02,1,5.197442203080889,52.06895633403548,Bunnik,Durk de Vries
+371265700,,Planuncus tingitanus s.l.,2025-09-01,10:01,1,5.957080925226365,51.565292891042695,Overloonse Duinen,pmzandbergen
+371265564,Speckled Peter,Agrypnia varia,2025-09-01,08:32,1,4.805475,53.05795,Texel - Den Burg - De Mars,Onno Werkman
+371265452,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,08:29,1,4.805475,53.05795,Texel - Den Burg - De Mars,Onno Werkman
+371264826,,Agraylea spec.,2025-09-01,07:31,1,6.667166948318481,52.60282273175675,Gramsbergen,Jan Leferink
+371264601,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,07:54,1,6.095889,52.800367,Steenwijk - Tuk,Bjartur Swart
+371264261,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,09:43,1,5.260975420453178,52.073418505411354,Zeist - Kerckebosch,Arthur Fransen
+371264140,,Chrysoperla carnea s.l.,2025-09-01,09:41,1,4.9639476,52.4916454,Purmerend - Purmer-Zuid,ShariBrunt
+371264035,,Planuncus tingitanus s.l.,2025-09-01,09:39,1,4.270121666666666,52.0536945,Den Haag - Leyenburg,Marc Angel
+371264004,Grouse wing,Mystacides longicornis,2025-09-01,09:40,1,5.422501448028668,52.49678360584466,Lelystad - Haven,Landschapsbeheer Flevoland LedEmmers
+371263870,,Chrysoperla carnea s.l.,2025-09-01,00:13,6,6.127442,52.242863,Twello,Dini Hurenkamp
+371263837,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,07:49,1,6.095888614654541,52.80036749727751,Steenwijk - Tuk,Bjartur Swart
+371263709,,Oecetis ochracea,2025-09-01,09:36,1,5.422489382309459,52.496779102945645,Lelystad - Haven,Landschapsbeheer Flevoland LedEmmers
+371263151,,Limnephilus lunatus,2025-09-01,06:55,2,4.611064,51.866261,Ridderkerk,Kees Verboom
+371262708,,Oxyethira flavicornis,2025-09-01,,1,4.976313,51.874003,Hoogblokland,Jonathan Leeuwis
+371262673,,Leptoceridae indet.,2025-09-01,07:38,1,4.456875,51.825313333333334,Westmaas - Polder het Westmaas Nieuwland-oost,AnjavdHoek
+371262617,,Planuncus tingitanus s.l.,2025-09-01,09:23,1,5.294022499722222,51.6873305,'s-Hertogenbosch - Centrum,Teunis
+371262534,,Oecetis ochracea,2025-09-01,07:39,1,4.456891666666666,51.825305,Westmaas - Polder het Westmaas Nieuwland-oost,AnjavdHoek
+371262521,Micro-caddis unknown,Hydroptilidae indet.,2025-09-01,07:39,1,4.456891666666666,51.825305,Westmaas - Polder het Westmaas Nieuwland-oost,AnjavdHoek
+371262510,,Oecetis ochracea,2025-09-01,07:39,1,4.456891666666666,51.825305,Westmaas - Polder het Westmaas Nieuwland-oost,AnjavdHoek
+371262498,Grouse wing,Mystacides longicornis,2025-09-01,07:40,1,4.456875,51.825295,Westmaas - Polder het Westmaas Nieuwland-oost,AnjavdHoek
+371262343,,Limnephilus lunatus,2025-09-01,08:49,1,6.581829841929789,53.24897558104195,Groningen - Beijum,Jacob Bosma
+371262315,,Agraylea spec.,2025-09-01,08:42,1,6.581829841929789,53.24897558104195,Groningen - Beijum,Jacob Bosma
+371262312,,Leptoceridae indet.,2025-09-01,07:00,1,5.137051871813952,51.88332951020524,Acquoy,Berry Lucas
+371262308,Grouse wing,Mystacides longicornis,2025-09-01,07:00,1,5.137051871813952,51.88332951020524,Acquoy,Berry Lucas
+371262263,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,07:00,1,5.137051871813952,51.88332951020524,Acquoy,Berry Lucas
+371262261,,Oxyethira flavicornis,2025-09-01,08:34,1,6.581829841929789,53.24897558104195,Groningen - Beijum,Jacob Bosma
+371262256,,Hemerobius humulinus,2025-09-01,07:47,1,6.581829841929789,53.24897558104195,Groningen - Beijum,Jacob Bosma
+371262218,,Planuncus tingitanus s.l.,2025-09-01,09:18,1,4.770752147692527,51.61230665919032,Breda - Krogten,mats
+371262205,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,07:00,1,5.137051871813952,51.88332951020524,Acquoy,Berry Lucas
+371261824,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,09:07,1,6.250155,53.05625833333333,Duurswouderheide,Martin Manson
+371261817,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,07:42,1,4.456883333333334,51.825275,Westmaas - Polder het Westmaas Nieuwland-oost,AnjavdHoek
+371261717,,Agraylea spec.,2025-09-01,07:42,1,4.45688,51.82529666666667,Westmaas - Polder het Westmaas Nieuwland-oost,AnjavdHoek
+371261685,,Agraylea spec.,2025-09-01,07:43,1,4.45688,51.82529666666667,Westmaas - Polder het Westmaas Nieuwland-oost,AnjavdHoek
+371261587,,Oecetis ochracea,2025-09-01,07:43,1,4.456861666666667,51.825305,Westmaas - Polder het Westmaas Nieuwland-oost,AnjavdHoek
+371261553,,Oecetis ochracea,2025-09-01,07:43,1,4.456863333333334,51.82529666666667,Westmaas - Polder het Westmaas Nieuwland-oost,AnjavdHoek
+371261503,,Planuncus tingitanus s.l.,2025-09-01,,14,4.993041175666121,51.83496964009879,Gorinchem,f. walraven
+371261000,,Limnephilus stigma,2025-09-01,08:25,1,6.366394444444444,52.782069444444446,Ruinen - Vakantiepark De Wiltzangh,Alex en Marieke
+371260907,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,08:15,1,6.366563888888889,52.78210555555555,Ruinen - Vakantiepark De Wiltzangh,Alex en Marieke
+371260415,,Blaste spec.,2025-09-01,09:00,1,6.575060174547409,53.238525390625,Groningen - De Hunze,Ton Bot
+371258625,,Limnephilus lunatus,2025-09-01,08:44,1,6.4891727,52.715762,Hoogeveen - Zuid,Bert Hooijer
+371259001,,Hydropsyche spec.,2025-09-01,08:48,1,6.4892193,52.7158224,Hoogeveen - Zuid,Bert Hooijer
+371259074,,Agraylea spec.,2025-09-01,08:49,1,6.4892588,52.7157588,Hoogeveen - Zuid,Bert Hooijer
+371259161,,Limnephilus lunatus,2025-09-01,08:50,1,6.4892233,52.7156772,Hoogeveen - Zuid,Bert Hooijer
+371259184,,Agraylea spec.,2025-09-01,08:50,1,6.4892256,52.7157132,Hoogeveen - Zuid,Bert Hooijer
+371259500,,Peripsocus milleri,2025-09-01,08:52,1,6.575132340236822,53.238433837890625,Groningen - De Hunze,Ton Bot
+371259014,,Molanna angustata,2025-09-01,08:04,1,4.456583333333334,51.82359666666667,Westmaas - Polder het Westmaas Nieuwland-oost,AnjavdHoek
+371258636,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,08:44,1,5.403816666666667,52.122913833333335,Leusden - Maanweg / Ruitenbeeklaan / Schutterhoeflaan e.o.,Theo Klink
+371258501,Caddisfly unknown,Trichoptera indet.,2025-09-01,08:07,1,4.456608333333334,51.82358833333333,Westmaas - Polder het Westmaas Nieuwland-oost,AnjavdHoek
+371258418,,Chrysoperla carnea s.l.,2025-09-01,07:13,1,3.910902,51.523504,Goes - Golfbaan e.o.,Iris v't Bosch
+371257974,,Chrysoperla carnea s.l.,2025-09-01,08:31,1,4.9074396,51.549671,Gilze - Raakeind e.o.,Barbara Roozen
+371257880,Grouse wing,Mystacides longicornis,2025-09-01,08:14,1,6.673530221050896,53.39165688819421,Doodstil,Hilde van Heuveln
+371257721,,Limnephilus lunatus,2025-09-01,06:42,1,5.664829730987549,52.00419998168945,Bennekom,Harm Hofman
+371257145,,Chrysoperla carnea s.l.,2025-09-01,08:19,1,4.463482187763907,52.283885858787556,Noordwijk - Noordduinen - Noordwijkse Golfclub,heleen
+371256962,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,07:45,1,6.250146666666667,53.05627783333333,Duurswouderheide,Martin Manson
+371256785,,Chrysoperla carnea s.l.,2025-09-01,08:13,1,6.592248294082898,53.27239783570101,Noordwolde (GR),Arend Kruijer
+371256425,,Planuncus tingitanus s.l.,2025-09-01,08:06,1,4.31323,51.861713333333334,Spijkenisse - Hartelpark,Geco
+371256229,,Agraylea spec.,2025-09-01,07:41,1,6.4550153,53.2544125,Aduard,Gert Jan Versteeg
+371256220,,Agraylea spec.,2025-09-01,07:17,1,6.4550856,53.254103999722226,Aduard,Gert Jan Versteeg
+371256218,,Agraylea spec.,2025-09-01,07:15,1,6.4551588,53.254213,Aduard,Gert Jan Versteeg
+371255644,,Panorpa germanica,2025-09-01,07:56,1,5.9510015,52.2308158,Apeldoorn - Het Loo (woonwijk),Roos
+371255632,Common Earwig,Forficula auricularia,2025-09-01,07:55,1,5.6822723,51.999218,Bennekom,Fammaz
+371255591,Common Earwig,Forficula auricularia,2025-09-01,07:55,1,4.456978953146574,51.59658234655937,Oud Gastel,Bas
+371255519,,Panorpa germanica,2025-09-01,07:54,1,5.9510948,52.2308277,Apeldoorn - Het Loo (woonwijk),Roos
+371255369,,Limnephilus lunatus,2025-09-01,07:52,1,4.8640115,51.6644766,Oosterhout (NB) - Noord,jan
+371254954,,Molanna angustata,2025-09-01,07:44,1,6.292742,52.523547,Dalfsen - Welsum,Rutger Vinke
+371254761,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,07:42,1,5.070609201676341,52.04049404940194,Nieuwegein,M. Parmentier
+371254724,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,07:41,1,5.070555279648159,52.04050321259183,Nieuwegein,M. Parmentier
+371254677,,Cloeon dipterum,2025-09-01,06:57,1,4.931756593286991,52.22003246872937,Vinkeveen,Johan Barth
+371254633,,Tinodes waeneri,2025-09-01,07:39,1,5.0414157,52.0920228,Utrecht - Leidsche Rijn (wijk),Michel Braad
+371254334,Grouse wing,Mystacides longicornis,2025-09-01,07:36,1,5.070630274158505,52.04051372512786,Nieuwegein,M. Parmentier
+371254260,,Hemerobius stigma,2025-09-01,07:35,1,6.0963682,51.1386609,Etsberg,Jan Boeren
+371253965,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,07:20,1,6.292932,52.523883,Dalfsen - Welsum,Rutger Vinke
+371253706,,Ecnomus tenellus,2025-09-01,07:28,1,5.001041666666667,52.643096666666665,Berkhout,Ko van Gent
+371253386,,Limnephilus lunatus,2025-09-01,07:19,1,6.0756367,51.1365456,Vlodrop,Robert Knoops
+371253197,,Hemerobius humulinus,2025-09-01,06:55,1,6.609752161789426,53.17531649774464,Haren (GR),Ronald de Lange
+371253179,,Chrysoperla carnea s.l.,2025-09-01,07:14,1,6.8770934,52.8810009,Exloo - Oude Landen - Zuidvenen,Holterman
+371253073,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,07:11,1,4.778835778368675,52.465738971892904,Westzaan,kristel
+371252886,,Agraylea spec.,2025-09-01,06:07,1,4.720748,52.0152409,Gouda - Kort Haarlem,Hans van Gasteren
+371252875,,Tinodes waeneri,2025-09-01,06:08,1,4.720748,52.0152409,Gouda - Kort Haarlem,Hans van Gasteren
+371252315,,Planuncus tingitanus s.l.,2025-09-01,06:46,1,5.279962391666666,51.86445113333333,Meteren,Daan Cornelisse
+371252235,,Hydropsyche spec.,2025-09-01,06:38,1,6.636230797035751,52.57902762293848,Hardenberg - Baalder,Gerwin Plaggenmarsch
+371252174,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,06:30,1,3.860289661179762,51.3142751441387,Terneuzen - bebouwing,Jaap Kolijn
+371252109,,Tinodes waeneri,2025-09-01,06:22,1,4.699357097222222,52.57730006111112,Limmen,Folko
+371251985,Cinnamon sedge,Limnephilus marmoratus,2025-09-01,05:34,3,5.488809831440449,52.4923686365519,Lelystad - Waterwijk,Ico Hoogendoorn
+371251984,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,05:34,2,5.488809831440449,52.4923686365519,Lelystad - Waterwijk,Ico Hoogendoorn
+371251983,,Oecetis ochracea,2025-09-01,05:34,2,5.488809831440449,52.4923686365519,Lelystad - Waterwijk,Ico Hoogendoorn
+371251982,,Oecetis furva,2025-09-01,05:34,1,5.488809831440449,52.4923686365519,Lelystad - Waterwijk,Ico Hoogendoorn
+371251981,Grouse wing,Mystacides longicornis,2025-09-01,05:34,2,5.488809831440449,52.4923686365519,Lelystad - Waterwijk,Ico Hoogendoorn
+371251980,,Agraylea spec.,2025-09-01,05:34,1,5.488809831440449,52.4923686365519,Lelystad - Waterwijk,Ico Hoogendoorn
+371251979,,Sisyra nigra,2025-09-01,05:34,1,5.488809831440449,52.4923686365519,Lelystad - Waterwijk,Ico Hoogendoorn
+371250845,Mottled sedge,Glyphotaelius pellucidus,2025-09-01,00:54,1,6.296620444444445,52.396444072222224,Raalte,Benny Koerhuis
+371248658,,Chrysoperla carnea s.l.,2025-09-01,00:20,1,6.2686203,53.0772805,Mandeveld,Everard
+371248557,,Dorypteryx spec.,2025-09-01,00:18,1,5.4661812,51.451517799722225,Eindhoven,Esmee Vogels 🐦

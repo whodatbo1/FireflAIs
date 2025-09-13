@@ -1,0 +1,803 @@
+id,common_name,scientific_name,date,time,count,longitude,latitude,location,observer
+372129504,Darter spec.,Sympetrum spec.,2025-09-08,12:54,1,4.8408335,51.6532129,Oosterhout (NB) - Bedrijventerrein De Wijsterd,Carla
+372124487,Moustached Darter,Sympetrum vulgatum,2025-09-08,12:07,1,4.529878333333333,51.93123666666666,Rotterdam - Kralingsche Bos,Gert P
+372138323,Moustached Darter,Sympetrum vulgatum,2025-09-08,14:11,1,5.4069349,52.138727099722225,Heiligenbergerbeek - Amersfoort ,Katrijn
+372142851,Moustached Darter,Sympetrum vulgatum,2025-09-08,14:45,1,4.6864952,51.8387108,Papendrecht,Liv
+372599457,Common Darter,Sympetrum striolatum,2025-09-09,16:42,1,3.583717344445176,51.587988573028504,Oostkapelle - Oranjezon midden,Carrie Frederiks
+372144102,Moustached Darter,Sympetrum vulgatum,2025-09-08,13:56,1,4.980297,52.476975,Purmerend - Purmerbos,Jose de Kleijn
+372211578,Small Spreadwing,Lestes virens,2025-09-08,14:06,1,6.386162638664246,53.00027417542975,Fochteloërveen - Zuidoost - fietspad e.o.,Dick Bos
+372252470,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,15:17,1,6.4426388,52.66872479972222,Zuidwolde - Vlinderidylle,Elmer Lafeber
+372289557,Migrant Hawker,Aeshna mixta,2025-09-09,14:45,10,3.514327,51.497854,Biggekerke - Biggekerkse Bos,Niek Haak
+372290991,Migrant Hawker,Aeshna mixta,2025-09-09,17:21,1,6.5216861,53.3621699,Baflo,Lisanne
+372292966,Common Darter,Sympetrum striolatum,2025-09-09,17:38,1,4.323208280722545,52.09786771735373,Den Haag - Benoordenhout,Han D.  Feenstra
+372296920,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,18:14,1,4.3096583,52.10868,Meijendel,roel van marrewijk
+372304530,Common Bluet,Enallagma cyathigerum,2025-09-09,12:59,1,4.339171666666667,52.13581383333333,Meijendel - Sparregat,Eva
+372309779,Migrant Hawker,Aeshna mixta,2025-09-09,17:25,1,4.70899,51.947148,Berkenwoude,Jannie Monhemius
+372316436,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:15,2,5.332339,52.149054,Soest - Monnikenbos,Henny de Bruin
+372329696,Common Darter,Sympetrum striolatum,2025-09-09,15:54,1,4.583048599722222,52.3148944,Hillegom - Lokhorsterduin,robbert bons
+372332894,Common Darter,Sympetrum striolatum,2025-09-09,17:57,1,4.332991666666667,52.1377555,Meijendel - Helmduinen,krijn
+372377603,Moustached Darter,Sympetrum vulgatum,2025-09-09,11:42,1,4.344575,52.130768,Meijendel - Kijfhoek,Stan de Jongh
+372585232,Common Bluet,Enallagma cyathigerum,2025-09-08,15:52,1,4.592267036437988,52.400875091552734,Nationaal Park Zuid-Kennemerland - Koevlak,Stan v. Remmerden
+372556158,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,17:40,1,5.0070015,52.43144089972222,Broek In Waterland,Mark Vriesenga
+372550983,Darter spec.,Sympetrum spec.,2025-09-08,12:26,8,5.659940801560879,51.98389766728718,Wageningen - Campus,Thomas Goutbeek
+372513247,Common Spreadwing,Lestes sponsa,2025-09-09,15:50,1,5.504210470535327,51.40805643790226,Eindhoven - Stratumse heide - Karperven,ruut aussems
+372513243,Common Spreadwing,Lestes sponsa,2025-09-09,15:32,1,5.503965853858972,51.40838569908262,Eindhoven - Stratumse Heide,ruut aussems
+372491083,Common Darter,Sympetrum striolatum,2025-09-08,13:37,1,5.947779715061188,51.64268354084833,Boxmeer,Daan van Boxmeer
+372156120,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-08,13:37,1,5.651607513427734,51.403971261398404,Strabrechtse Heide - Beuven,Jo van der Heijden
+372431765,Hairy Hawker,Brachytron pratense,2025-09-08,14:28,1,5.561413,52.927195,It Swin,Bram Koese
+372474118,Migrant Hawker,Aeshna mixta,2025-09-08,16:41,1,5.632402896881104,51.94870235294097,Wageningen - Grebbedijk (GE),Jarno vdB
+372473604,Migrant Hawker,Aeshna mixta,2025-09-08,13:50,1,6.571283340454102,52.31756945799151,Enter - Waterhoek en Leijerweerdslanden,Bertus Slagers
+372464567,Southern Hawker,Aeshna cyanea,2025-09-08,17:33,1,5.897510973009048,51.254645158920496,Heythuysen,Miriam Scha
+372445789,Migrant Hawker,Aeshna mixta,2025-09-09,08:48,1,6.622496666666667,53.17632166666667,Haren (GR) - Oosterhaar,Mark Verschut
+372419537,Red-veined Darter,Sympetrum fonscolombii,2025-09-08,11:50,1,5.147500276434585,53.293702810022474,Vlieland - Richel (eiland),Gijs Bouwmeester
+372425290,Common Darter,Sympetrum striolatum,2025-09-08,13:26,1,5.502279280044604,51.4105994498668,Eindhoven - Stratumse Heide,ruut aussems
+372426238,Ruddy Darter,Sympetrum sanguineum,2025-09-08,14:44,1,5.504125714105612,51.4078161827174,Eindhoven - Stratumse heide - Karperven,ruut aussems
+372426007,Ruddy Darter,Sympetrum sanguineum,2025-09-08,14:21,1,5.503609655715991,51.40838302200929,Eindhoven - Stratumse Heide,ruut aussems
+372425028,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:18,1,5.502592562843347,51.41085106635552,Eindhoven - Stratumse Heide,ruut aussems
+372113052,Spotted Darter,Sympetrum depressiusculum,2025-09-08,10:23,2,5.997436666666667,52.7839,Weerribben - Woldlakebos,Ellen van Knippenberg
+372420467,Common Darter,Sympetrum striolatum,2025-09-08,13:29,1,5.147922,53.294067,Vlieland - Richel (eiland),Gijs Bouwmeester
+372419743,Common Darter,Sympetrum striolatum,2025-09-08,12:02,1,5.145648478937801,53.294354342380764,Vlieland - Richel (eiland),Gijs Bouwmeester
+372418615,Blue-eye,Erythromma lindenii,2025-09-08,15:52,1,5.686766,50.817096,Maastricht - Sint-Pietersberg Zuid,Ellis Prinse
+372418440,,Erythromma spec.,2025-09-08,15:51,1,5.686765909194946,50.81709610231851,Maastricht - Sint-Pietersberg Zuid,Ellis Prinse
+372149037,Common Darter,Sympetrum striolatum,2025-09-08,15:21,1,4.79893,52.337046666666666,Amsterdam - Osdorp,Xander van der Sar
+372414188,Common Darter,Sympetrum striolatum,2025-09-08,13:54,1,5.681980848312378,50.817641764970475,Maastricht - Sint-Pietersberg Zuid,Ellis Prinse
+372416957,Migrant Hawker,Aeshna mixta,2025-09-08,14:22,1,5.678564,50.817547,Maastricht - Sint-Pietersberg Zuid,Ellis Prinse
+372416879,Common Darter,Sympetrum striolatum,2025-09-08,14:20,1,5.678563714027405,50.81754686757596,Maastricht - Sint-Pietersberg Zuid,Ellis Prinse
+372414069,Common Darter,Sympetrum striolatum,2025-09-08,13:51,1,5.682029128074646,50.81782817000546,Maastricht - Sint-Pietersberg Zuid,Ellis Prinse
+372414037,Moustached Darter,Sympetrum vulgatum,2025-09-08,13:38,1,5.663609027862549,51.98394012451172,Wageningen - Campus,Wilson Westdijk
+372412999,Common Darter,Sympetrum striolatum,2025-09-08,13:02,1,5.681390762329102,50.81556075642622,Maastricht - Sint-Pietersberg Zuid,Ellis Prinse
+372393019,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-08,09:48,1,3.69177371263504,51.68911610750433,Boswachterij Westerschouwen - Boompjesput e.o.,W. de Jonge
+372392309,Southern Hawker,Aeshna cyanea,2025-09-08,15:49,1,6.156646013259888,52.85936750609285,Wilhelminaoord - Buitengebied,Jan Anplus
+372377773,Common Darter,Sympetrum striolatum,2025-09-09,11:42,1,4.344575,52.130768,Meijendel - Kijfhoek,Stan de Jongh
+372129806,Common Darter,Sympetrum striolatum,2025-09-08,12:57,1,6.002171024609511,52.77695148780909,Weerribben - Woldlakebos,Henk Snel
+372137021,Moustached Darter,Sympetrum vulgatum,2025-09-08,13:59,1,4.871506599722223,52.0308433,Oudewater,Paul Voorhaar
+372136600,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:55,1,5.2139074,52.2179319,Hilversum - Anna's Hoeve,Matthijs Beekhoven
+372136871,Common Winter Damsel,Sympecma fusca,2025-09-08,13:57,1,6.269338333333334,52.18257166666667,Gorssel - De Huurne,Gerrit Wever
+372136010,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:49,1,5.3166694,51.6004513,Boxtel,Henny Kooren
+372130293,Common Darter,Sympetrum striolatum,2025-09-08,13:01,1,5.532095317095481,52.319266654287254,Zeewolde - Horsterwold,Rick 't Hart
+372131221,Moustached Darter,Sympetrum vulgatum,2025-09-08,13:08,1,5.532077310421071,52.31925240712684,Zeewolde - Horsterwold,Rick 't Hart
+372375971,Common Darter,Sympetrum striolatum,2025-09-09,16:51,2,3.556023562366989,51.480736749549735,Koudekerke,Erik Sanders
+372375964,Moustached Darter,Sympetrum vulgatum,2025-09-09,16:51,1,3.556023562366989,51.480736749549735,Koudekerke,Erik Sanders
+372144187,Ruddy Darter,Sympetrum sanguineum,2025-09-08,14:50,1,5.244769444444445,51.57124166666667,Kampina - Belversven,Charlotte de Jong
+372146325,Common Darter,Sympetrum striolatum,2025-09-08,14:08,1,5.679211139678955,50.81816101074219,Maastricht - Sint-Pietersberg Zuid,Dick Bekker
+372154439,Common Darter,Sympetrum striolatum,2025-09-08,16:04,1,6.543539088776527,52.91861293920634,Hooghalen,Hilly Kreuzen
+372167943,Common Darter,Sympetrum striolatum,2025-09-08,12:14,1,4.454243658401538,52.06887059029083,Zoetermeer - Buytenpark,Marianne Janssen
+372169610,Moustached Darter,Sympetrum vulgatum,2025-09-08,,1,5.928223729133606,52.56423745137946,IJsselmuiden,Tines vd Hul
+372175005,Common Darter,Sympetrum striolatum,2025-09-08,18:13,1,5.15818889771015,52.26556326792305,Bussum - Het Spiegel,AH
+372180233,Moustached Darter,Sympetrum vulgatum,2025-09-08,18:52,1,5.746038675726556,52.9401955776469,Legemeer & Golfbaan St Niek,Henny BB
+372193767,Common Darter,Sympetrum striolatum,2025-09-08,20:52,1,5.752127188927752,51.40629728131128,Asten,Pieter Heesakkers
+372373037,Common Darter,Sympetrum striolatum,2025-09-08,13:50,1,5.514133007296328,51.75342848432879,Oss - Ruwaard,Inge van den Heuvel
+372372964,Migrant Hawker,Aeshna mixta,2025-09-08,10:01,1,5.605499881224408,51.711827347464144,Maashorst - Telpost Brobbelbies noord,Inge van den Heuvel
+372352901,Common Darter,Sympetrum striolatum,2025-09-08,15:06,1,4.682125,52.603705,Heiloo,Nausikaä de Blaauw
+372362708,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,15:18,1,4.649181842803955,52.06279754638672,Waddinxveen - Gouwebos - Oostzijde,Ria en Sjaak
+372348696,Ruddy Darter,Sympetrum sanguineum,2025-09-09,17:22,1,5.175564950336867,51.55682338406509,Oisterwijk - Oude Hondsberg,Mart van Iersel
+372207959,Moustached Darter,Sympetrum vulgatum,2025-09-08,16:45,2,5.106795310974121,52.166358947753906,Maarssen - Polder Maarsseveen,Henk Veneman
+372343280,Southern Hawker,Aeshna cyanea,2025-09-09,16:10,1,4.175947,51.97532,Maasdijk - Staelduinse Bosch,Ben van Klink
+372339987,Moustached Darter,Sympetrum vulgatum,2025-09-08,16:30,1,6.647834,52.407692,Vriezenveen - Oosterweilanden,Gerrit Kamphuis
+372297295,Moustached Darter,Sympetrum vulgatum,2025-09-08,,3,5.107173,52.131406,Utrecht - Gagelpolder - West,Sonja & Lex
+372332905,Common Darter,Sympetrum striolatum,2025-09-09,17:57,1,4.332988333333334,52.1377555,Meijendel - Helmduinen,krijn
+372292610,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-08,,1,5.107172727584839,52.13140562036696,Utrecht - Gagelpolder - West,Sonja & Lex
+372289392,Ruddy Darter,Sympetrum sanguineum,2025-09-08,,1,5.113867521286011,52.13602211372601,Utrecht - Gagelpolder - West,Sonja & Lex
+372289452,Common Spreadwing,Lestes sponsa,2025-09-08,,1,5.113868,52.136022,Utrecht - Gagelpolder - West,Sonja & Lex
+372329618,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,16:24,1,4.5874981,52.30894899972222,Hillegom - Bollengebied Noord,robbert bons
+372200304,Common Darter,Sympetrum striolatum,2025-09-08,10:10,1,4.541066,52.33869,Amsterdamse Waterleidingduinen - Eiland van Rolvers,els harinck
+372206718,Common Darter,Sympetrum striolatum,2025-09-08,17:52,1,4.671001433962374,52.68892552171929,Schoorl - Schoorlse Duinen - Julianalaan,Robert
+372323389,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,19:21,1,5.275526378397984,51.66840183957393,Vught - Vughtse Gement,Leen.b
+372322223,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:02,1,4.660737751768964,52.51000382674573,Heemskerk,José M.R. Bakker
+372322216,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:09,1,4.660941093385394,52.51005318223949,Heemskerk,José M.R. Bakker
+372322219,Common Bluetail,Ischnura elegans,2025-09-08,14:03,3,4.660845485527551,52.50991686862224,Heemskerk,José M.R. Bakker
+372322218,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:59,1,4.660892055818864,52.5099979176624,Heemskerk,José M.R. Bakker
+372322169,Migrant Hawker,Aeshna mixta,2025-09-09,16:20,1,3.584461212158203,51.589442838712934,Oostkapelle - Oranjezon midden,Martin Krombeen
+372265811,Common Winter Damsel,Sympecma fusca,2025-09-09,15:49,1,4.564731716891401,51.79557396293851,Binnenmaas (gemeente tot 2019-01-01) ,Agnes Gouw
+372321868,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,15:35,2,4.564501,51.795318,Binnenmaas (gemeente tot 2019-01-01) ,Agnes Gouw
+372321799,Common Darter,Sympetrum striolatum,2025-09-09,15:34,1,4.417671202827478,52.11723968133706,Voorschoten - Ter Horst,Marianne Janssen
+372321723,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,15:13,1,4.415439604927087,52.11541081029763,Voorschoten - Ter Horst,Marianne Janssen
+372321567,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-09,14:18,1,5.771464705467224,51.81143103126607,Wijchen - Berendonck,T. van Gaal
+372320436,Southern Hawker,Aeshna cyanea,2025-09-09,14:59,1,5.028948605104233,51.56686514029182,Tilburg - Oude Warande,Cor Kuijstermans
+372320205,Common Bluet,Enallagma cyathigerum,2025-09-09,15:33,1,4.4311767,52.0672532,Zoetermeer - Nieuwe Driemanspolder - Zuid,Cas van de Giessen
+372319738,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:38,2,4.568439,51.793687,'s-Gravendeel - Middelvliet,Agnes Gouw
+372319256,Blue Emperor,Anax imperator,2025-09-09,14:05,1,4.40801096817328,52.02459983084355,Pijnacker - Polder van Biesland,Joop van den Berg
+372317025,Ruddy Darter,Sympetrum sanguineum,2025-09-08,15:15,1,5.332245,52.149098,Soest - Monnikenbos,Henny de Bruin
+372316988,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:00,2,5.332245,52.149098,Soest - Monnikenbos,Henny de Bruin
+372316853,Southern Hawker,Aeshna cyanea,2025-09-08,15:20,3,5.332245,52.149098,Soest - Monnikenbos,Henny de Bruin
+372316791,Ruddy Darter,Sympetrum sanguineum,2025-09-08,15:00,1,5.332245177560253,52.149098378245235,Soest - Monnikenbos,Henny de Bruin
+372316763,Common Darter,Sympetrum striolatum,2025-09-08,14:45,2,5.33379,52.147044,Soest - Monnikenbos,Henny de Bruin
+372316706,Common Darter,Sympetrum striolatum,2025-09-08,14:35,1,5.33379,52.147044,Soest - Monnikenbos,Henny de Bruin
+372316675,Common Darter,Sympetrum striolatum,2025-09-08,14:30,2,5.33379,52.147044,Soest - Monnikenbos,Henny de Bruin
+372316652,Common Darter,Sympetrum striolatum,2025-09-08,14:30,1,5.33379,52.147044,Soest - Monnikenbos,Henny de Bruin
+372316617,Common Darter,Sympetrum striolatum,2025-09-08,14:25,1,5.333790129952831,52.147044338749964,Soest - Monnikenbos,Henny de Bruin
+372316479,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:25,1,5.332339,52.149054,Soest - Monnikenbos,Henny de Bruin
+372316372,Migrant Hawker,Aeshna mixta,2025-09-09,18:05,1,6.077417373657227,52.50635528564453,Zwolle - Veerallee,Gerrit J. Gerritsen
+372316314,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:00,2,5.332338809967041,52.14905371668157,Soest - Monnikenbos,Henny de Bruin
+372316224,Common Darter,Sympetrum striolatum,2025-09-08,14:30,1,5.333933,52.146943,Soest - Monnikenbos,Henny de Bruin
+372315309,Migrant Hawker,Aeshna mixta,2025-09-08,20:00,1,4.372424009006516,51.63197536519271,Dinteloord,André Strootman
+372314917,Common Darter,Sympetrum striolatum,2025-09-08,11:17,1,4.309025,52.005579,'t Woudt - Woudse polder,Michel van Adrichem
+372314873,Migrant Hawker,Aeshna mixta,2025-09-09,13:03,5,4.301519393920898,51.7426643371582,Tiengemeten - Wildernis,Kees Mostert
+372314853,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-09,13:24,1,4.305807590484619,51.740928649902344,Tiengemeten - Wildernis,Kees Mostert
+372314761,Migrant Hawker,Aeshna mixta,2025-09-09,14:59,15,4.322199821472168,51.743709564208984,Tiengemeten - Gehucht,Kees Mostert
+372314036,Large Redeye,Erythromma najas,2025-09-08,09:27,1,5.703737,52.974971,Slingerakpolder,Bram Koese
+372313961,Migrant Hawker,Aeshna mixta,2025-09-08,18:47,1,5.956452369428007,51.686671759720355,Beugen - De Maasheggen,vanElst
+372312226,Common Winter Damsel,Sympecma fusca,2025-09-08,14:37,1,6.381121158337919,52.62420372694505,Wildenberg,Hennie Laarman
+372309835,Common Winter Damsel,Sympecma fusca,2025-09-09,14:52,1,3.918439,51.811789,Ouddorp - Kelderweg / Stelleweg e.o.,Aren Kievit
+372304271,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,13:13,1,4.056128978729248,51.89252853393555,Voornes Duin - Kreekpad e.o.,Noortje Buddingh
+372303984,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,18:08,1,4.487486,52.146813,Leiden ,Wouter Moerland
+372304444,Migrant Hawker,Aeshna mixta,2025-09-09,19:31,1,4.766683727502823,51.58960414417165,Breda - Centrum,Bob van Vree
+372305132,Brown Hawker,Aeshna grandis,2025-09-08,14:16,1,4.807493686676025,52.16791915893555,Nieuwkoop - Polder Nieuwkoop,Ferry van der Lans
+372304662,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,18:44,1,5.4116,52.169078,Waterwingebied Amersfoort,Marieke Klink
+372303986,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,18:32,1,4.7691931,52.2751683,Aalsmeer - Oosteinderweg,Christian Kooij
+372303813,Red-veined Darter,Sympetrum fonscolombii,2025-09-09,17:36,1,3.953840017318726,51.835594177246094,Oostdijk (ZH) - Oostduinen,Ferry van der Lans
+372302047,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,18:22,1,4.74705,52.576033333333335,Limmen - Limmerpolder,Roy
+372300963,Migrant Hawker,Aeshna mixta,2025-09-09,16:34,1,4.73525333404541,51.794517517089844,Dordrecht - Bovenpolder,Leo Marinissen
+372300961,Darter spec.,Sympetrum spec.,2025-09-09,16:34,2,4.735238552093506,51.79451370239258,Dordrecht - Bovenpolder,Leo Marinissen
+372300958,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,16:45,6,4.735281467437744,51.79166793823242,Dordrecht - De Hoven,Leo Marinissen
+372300954,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,16:48,1,4.734831809997559,51.790897369384766,Dordrecht - De Hoven,Leo Marinissen
+372300950,Migrant Hawker,Aeshna mixta,2025-09-09,16:53,1,4.732144832611084,51.79053497314453,Dordrecht - De Hoven,Leo Marinissen
+372300946,Migrant Hawker,Aeshna mixta,2025-09-09,16:57,1,4.728476524353027,51.79086685180664,Dordrecht - De Hoven,Leo Marinissen
+372300858,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-08,12:52,1,4.747822284698486,52.40275955200195,Amsterdam - Groene Stelling Brettenscheg,Frank Baars
+372300649,Common Darter,Sympetrum striolatum,2025-09-09,14:35,1,4.462082385434769,51.834213106849006,Barendrecht - Carnisse Grienden,jo polak
+372300162,Common Winter Damsel,Sympecma fusca,2025-09-09,18:45,1,5.824953353417427,51.914276123046875,Elst (GE) - Zuid,Rein
+372299821,Darter spec.,Sympetrum spec.,2025-09-09,15:24,1,4.689375799722223,51.77445529972222,Dordrecht - Hania's Polder,Zomer
+372290855,Darter spec.,Sympetrum spec.,2025-09-09,17:21,1,4.5951323,52.451882,IJmuiden,E. Viele
+372297868,Darter spec.,Sympetrum spec.,2025-09-09,18:25,1,4.3097733,52.108725,Meijendel,roel van marrewijk
+372297233,Common Darter,Sympetrum striolatum,2025-09-09,17:11,1,5.682516666666667,52.001380555555556,Bennekom,Thomas Churchman
+372297139,Common Darter,Sympetrum striolatum,2025-09-09,17:46,1,4.929226120370231,51.84287499649974,Schelluinen,Ton T
+372294587,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,17:53,1,4.4058491,52.0429913,Nootdorp,A. van Esch
+372294071,Common Winter Damsel,Sympecma fusca,2025-09-09,17:46,1,4.980245,51.594445,Tilburg - Reeshof - Dongezone,Annie Buster-Themme
+372293987,,Aeshnidae indet.,2025-09-09,17:46,1,4.2690287,52.0236279,Wateringen,gunslinger
+372293104,Common Darter,Sympetrum striolatum,2025-09-09,17:38,1,5.504873259051237,51.38190927803704,Aalst (NB) - Heezerheide,Michael Beuwer
+372175804,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:38,2,5.227897806247442,52.091696825866805,Zeist - Utrechtseweg,Wouter van der Ham
+372292134,Common Bluetail,Ischnura elegans,2025-09-08,11:33,1,4.84311926382361,51.84079535766711,Giessendam - Polder Binnentiendwegs,Kees van Reenen
+372291600,Migrant Hawker,Aeshna mixta,2025-09-09,16:14,7,5.320630073547363,51.65009689331055,Dommel - Sint-Michielsgestel tot Vught,David Tempelman
+372290868,Common Winter Damsel,Sympecma fusca,2025-09-09,17:23,1,3.8343,51.278413888888885,Sluiskil,Pieter Belo
+372289796,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,17:11,1,4.599561399722222,51.87508869972222,Ridderkerk,Waarneming Dio
+372289674,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,14:45,1,3.514327,51.497854,Biggekerke - Biggekerkse Bos,Niek Haak
+372289640,Common Darter,Sympetrum striolatum,2025-09-09,14:45,5,3.514327,51.497854,Biggekerke - Biggekerkse Bos,Niek Haak
+372289622,Migrant Hawker,Aeshna mixta,2025-09-08,,3,5.113868,52.136022,Utrecht - Gagelpolder - West,Sonja & Lex
+372289612,Ruddy Darter,Sympetrum sanguineum,2025-09-09,14:45,5,3.514327,51.497854,Biggekerke - Biggekerkse Bos,Niek Haak
+372289289,Common Darter,Sympetrum striolatum,2025-09-09,17:07,1,4.66199779510498,52.03984832763672,Waddinxveen - Polder Bloemendaal,Dyderick Bremmer
+372288923,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,09:58,1,4.663103333333334,52.76138,Petten - De Watersnip,Wim Kleefstra
+372288869,Common Darter,Sympetrum striolatum,2025-09-09,15:00,1,4.350630555555555,52.056955555555554,Den Haag - Zeerust,Vincent Smiet
+372288862,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,17:02,1,4.6988871,52.0062571,Gouda - De Korte Akkeren,Cornelis Domburg
+372288762,Brown Hawker,Aeshna grandis,2025-09-08,12:44,1,5.261750221252441,51.82987594604492,Waardenburg,Taric Schrader
+372288207,Red-veined Darter,Sympetrum fonscolombii,2025-09-09,14:52,1,3.615653,51.50382,Middelburg - Binnenstad,Frank Dekker
+372288143,Common Darter,Sympetrum striolatum,2025-09-09,15:14,2,4.514211416244507,51.9629995462779,Bergschenhoek - Lage Bergse Bos,Dajen
+372287642,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,16:49,1,4.524545,51.904175,Rotterdam - De Esch,Sznnttm
+372287618,Common Darter,Sympetrum striolatum,2025-09-09,16:50,1,4.524625,51.90418833333333,Rotterdam - De Esch,Sznnttm
+372287590,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,16:05,1,4.9094132,51.5391903,Gilze - Langereit e.o.,Sylvia van Duijnhoven
+372287568,Migrant Hawker,Aeshna mixta,2025-09-09,16:19,1,4.732621192932129,52.0186767578125,Gouda - Heemtuin Goudse Hout,Leen Schuilenburg
+372287448,Common Darter,Sympetrum striolatum,2025-09-09,13:48,1,3.615440726280212,51.50347688569963,Middelburg - Binnenstad,Frank Dekker
+372286688,Migrant Hawker,Aeshna mixta,2025-09-09,16:43,1,4.0186596,51.80954849972222,Stellendam - Stellebos,Eilander123
+372286135,Common Winter Damsel,Sympecma fusca,2025-09-09,12:50,1,5.652142399722223,53.2787711,Sint Annaparochie,Erik Komen
+372285987,Common Darter,Sympetrum striolatum,2025-09-08,17:17,1,6.110922166666667,53.10831116666667,Drachten - De Wiken,Dieuwke
+372285951,Common Darter,Sympetrum striolatum,2025-09-09,16:37,1,4.524661666666667,51.90395,Rotterdam - De Esch,Sznnttm
+372285799,Common Darter,Sympetrum striolatum,2025-09-08,15:25,1,6.462834119665786,52.71084858608381,Hoogeveen,Denis Bruins
+372133197,Migrant Hawker,Aeshna mixta,2025-09-08,12:34,1,5.092796087265015,52.20755736293464,Oud-Loosdrecht,Angela Eberhardt
+372146431,Common Winter Damsel,Sympecma fusca,2025-09-08,13:37,1,5.682740688323975,50.8180046081543,Maastricht - Sint-Pietersberg Zuid,Dick Bekker
+372151468,Southern Hawker,Aeshna cyanea,2025-09-08,14:36,1,5.583758333333334,51.455436666666664,Geldrop - Dierenrijk Europa,moosetank
+372258447,Ruddy Darter,Sympetrum sanguineum,2025-09-09,15:37,1,3.7338555,51.3283155,Braakman Noord - middengebied,yvakat
+372282537,Hairy Hawker,Brachytron pratense,2025-09-08,09:37,3,5.702326,52.972963,Slingerakpolder,Bram Koese
+372285191,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,15:26,1,4.897871666666667,51.73030833333333,Hank,Puck Ghijsen
+372284820,,Aeshnidae indet.,2025-09-08,10:18,1,5.703517,52.975219,Slingerakpolder,Bram Koese
+372160350,Common Darter,Sympetrum striolatum,2025-09-08,16:36,1,6.105420112609863,52.486572265625,Zwolle - Zuid,Piet Hollander
+372106859,Darter spec.,Sympetrum spec.,2025-09-08,09:12,1,5.4070833,51.582619299722225,Sint-Oedenrode - Olland,Pilod
+372282289,Migrant Hawker,Aeshna mixta,2025-09-09,,5,4.58581232,51.71209172,Strijensas - Sasseplaat,Arie van der Linden
+372281311,Southern Hawker,Aeshna cyanea,2025-09-09,16:17,1,5.660440399722223,50.8497696,Maastricht - Maastricht West,marian baars
+372277724,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:29,2,6.479619383680983,52.71117358157993,Hoogeveen - Zuiderpark,Denis Bruins
+372140815,Common Bluetail,Ischnura elegans,2025-09-08,14:33,1,4.831597200000033,51.739997,Brabantse Biesbosch - Gat van de Zuiderklip,Vincent
+372140865,Darter spec.,Sympetrum spec.,2025-09-08,14:33,1,5.5268039,52.0374053,Veenendaal,Floris Calandt
+372142945,Darter spec.,Sympetrum spec.,2025-09-08,14:44,1,6.451786801119856,52.63004983094621,De Wolden (gemeente) ,Ger Breider
+372148654,Moustached Darter,Sympetrum vulgatum,2025-09-08,13:56,1,4.563483872222222,52.44291282222222,Nationaal Park Zuid-Kennemerland - Duin en Kruidberg Midden Heerenduin,K Brederveld
+372275567,Southern Hawker,Aeshna cyanea,2025-09-09,16:04,1,5.720878333333333,51.38635,Someren,RvL
+372163333,Common Darter,Sympetrum striolatum,2025-09-08,15:16,1,5.421636581420898,51.371910095214844,Dommelen - Keersop en Gagelvelden,Peter De Meirsman
+372174346,Ruddy Darter,Sympetrum sanguineum,2025-09-08,16:39,1,5.5027592,51.5530014,Nijnsel - Vresselsche Bosch - Hazenputten,Eve van Kaathoven
+372274195,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,16:05,1,4.329057693481445,52.08726501464844,Den Haag - Haagsche Bos,A.Bennink
+372273882,Moustached Darter,Sympetrum vulgatum,2025-09-08,14:19,1,6.483723163473769,52.7110013342685,Hoogeveen - Zuiderpark,Denis Bruins
+372236564,Common Darter,Sympetrum striolatum,2025-09-09,12:37,1,3.6968876,51.6880448,Boswachterij Westerschouwen ,Mike De Brie
+372246293,Common Bluet,Enallagma cyathigerum,2025-09-09,14:20,1,4.3380485,52.1367967,Meijendel - Sparregat,Elisa Garavaglia
+372272431,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,11:55,1,4.4742421,52.1710189,Leiden - Bos van Bosman,dora
+372249180,Darter spec.,Sympetrum spec.,2025-09-09,14:50,1,4.3058888,52.1176154,Meijendel - Pompstation e.o.,Sjon
+372253806,Darter spec.,Sympetrum spec.,2025-09-08,14:33,1,5.8193511,51.80766609972222,Nijmegen - Hatert,Jan Spies
+372262309,Common Darter,Sympetrum striolatum,2025-09-09,15:44,1,4.334469727434472,52.13289495209196,Meijendel - Vallei Meijendel,Alexander
+372262063,Darter spec.,Sympetrum spec.,2025-09-09,15:43,1,4.334454324914863,52.13286703479447,Meijendel - Vallei Meijendel,Alexander
+372269374,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,15:57,1,4.4950593,51.9832025,Bergschenhoek,MicPeer
+372269078,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,15:56,1,3.7253856,51.3284307,Braakman Noord - natuurontwikkeling zuid,yvakat
+372266069,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,15:49,1,4.518888333333333,51.92171333333334,Rotterdam - Kralingen,Edificio von Beauville
+372264079,Migrant Hawker,Aeshna mixta,2025-09-09,15:47,1,4.163592544689458,51.90056063674436,Brielle,fungi_lady_16
+372258656,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,15:37,1,4.5827773,51.9744531,Rotterdam - Nesselande - Zuid,LvBB
+372258446,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,15:36,1,4.25692,52.07515,Den Haag - Bomen- en Bloemenbuurt,HansS
+372257866,Common Winter Damsel,Sympecma fusca,2025-09-09,15:36,1,3.7333733,51.3280291,Braakman Noord - middengebied,yvakat
+372253456,Common Darter,Sympetrum striolatum,2025-09-09,15:17,1,3.702401638031006,51.34209442138672,Biervliet - Beukelspolder,Dirk Verroken
+372253451,Migrant Hawker,Aeshna mixta,2025-09-09,15:18,1,3.702618889510632,51.34214214402181,Biervliet - Beukelspolder,Dirk Verroken
+372252874,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,13:05,1,3.714360594749451,51.30096385331888,Braakman Zuid,Rik Bak
+372251888,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:55,1,5.59927225112915,51.95420518615085,Rhenen - Grebbeberg,Adri Baks
+372251183,Western Willow Spreadwing,Chalcolestes viridis,2025-09-09,14:54,3,4.310662116496047,51.45610765038279,Woensdrecht - Mattemburgh west van A58,Teus Slagboom
+372251181,Migrant Hawker,Aeshna mixta,2025-09-09,14:52,5,4.310397888213885,51.45620172990246,Woensdrecht - Mattemburgh west van A58,Teus Slagboom
+372250488,Common Darter,Sympetrum striolatum,2025-09-09,11:00,1,3.690084288535218,51.6902110723174,Boswachterij Westerschouwen - Boompjesput e.o.,Leendert Visser
+372250063,Common Winter Damsel,Sympecma fusca,2025-09-09,11:20,1,3.692656011163308,51.69088851378942,Boswachterij Westerschouwen - Boompjesput e.o.,Leendert Visser
+372249868,Southern Hawker,Aeshna cyanea,2025-09-08,11:15,1,4.107719957828522,51.335514426198586,Graauw - Melopolder,Hans Vermeer
+372248521,Darter spec.,Sympetrum spec.,2025-09-09,14:40,1,4.4097836,51.9530121,Rotterdam - De Tempel,René Bentvelzen
+372154143,Migrant Hawker,Aeshna mixta,2025-09-08,13:05,1,6.334583759307861,51.923467051564266,Etten (GE),a. van bijsterveld
+372156075,Common Winter Damsel,Sympecma fusca,2025-09-08,14:49,1,6.289899,52.930748,Drents-Friese Wold - Aekingerzand (Kale Duinen) - Friesland,Dirk Haaijema
+372173497,Common Darter,Sympetrum striolatum,2025-09-08,18:07,1,4.928691666666666,52.37258666666666,Amsterdam - oostelijke eilanden,Marijn
+372200851,Damselfly unknown,Zygoptera indet.,2025-09-08,10:54,1,4.542053,52.338271,Amsterdamse Waterleidingduinen - Eiland van Rolvers,els harinck
+372213831,Migrant Hawker,Aeshna mixta,2025-09-09,07:36,1,5.4120639,52.8791221,Warns,Jan Bijsterbosch
+372223404,,Aeshnidae indet.,2025-09-09,10:12,1,3.599125,51.55233333333334,Serooskerke (WA) - dorp,Kees Musters
+372229401,Common Winter Damsel,Sympecma fusca,2025-09-09,11:14,1,4.426978517501138,52.22462377128961,Noordwijk - Willem v.d. Bergh (Stichting),Henk van der Meij
+372239544,Dragonfly unknown,Anisoptera indet.,2025-09-09,13:07,1,5.9271667,53.1405667,Alde Feanen - Krukkelân,Jan Jacob
+372243503,Dragonfly unknown,Anisoptera indet.,2025-09-09,13:53,1,3.599083333333333,51.552405,Serooskerke (WA) - dorp,Kees Musters
+372242205,Common Darter,Sympetrum striolatum,2025-09-08,15:30,5,6.689643859863281,52.78490763866094,Mepperdennen,Feiko Jilderda
+372241190,Blue Emperor,Anax imperator,2025-09-08,15:31,3,4.346140753692443,51.81144146979236,Nieuw Beijerland,Henk van Leenen
+372238201,Common Darter,Sympetrum striolatum,2025-09-09,12:52,1,3.913888888888889,51.45916666666667,'s-Gravenpolder,Niek Oele
+372237561,Common Winter Damsel,Sympecma fusca,2025-09-09,12:48,1,5.652029972222222,53.278697944444446,Sint Annaparochie,Jerre Wiersma
+372237066,Common Darter,Sympetrum striolatum,2025-09-08,12:18,1,5.377195835113525,52.18720245361328,Amersfoort - Hoogland,k vd burg
+372233980,Common Darter,Sympetrum striolatum,2025-09-08,14:23,1,5.983681297511794,50.95788824895227,Brunssum - Kattekoelen Visvijvers en Bos,Peter Bijlmakers
+372229325,Common Winter Damsel,Sympecma fusca,2025-09-09,11:14,1,4.426959644806074,52.224606909641345,Noordwijk - Willem v.d. Bergh (Stichting),Peter van Duijn
+372229192,Common Darter,Sympetrum striolatum,2025-09-08,23:59,1,4.789817905984819,53.10566010798117,Texel - Korverskooi ,Jarco Havermans
+372227783,Small Spreadwing,Lestes virens,2025-09-08,16:41,2,6.382455825805664,52.995828485400075,Fochteloërveen - Zuidoost - fietspad e.o.,Dick Bos
+372228527,Southern Hawker,Aeshna cyanea,2025-09-08,16:54,1,5.277179181575775,52.13386275045195,Soesterberg - Vliegbasis Soesterberg - Museumkwartier,Bert van 't Holt
+372228432,Ruddy Darter,Sympetrum sanguineum,2025-09-08,16:54,1,5.27729719877243,52.1338100659365,Soesterberg - Vliegbasis Soesterberg - Museumkwartier,Bert van 't Holt
+372228349,Small Spreadwing,Lestes virens,2025-09-08,16:54,3,5.27719,52.133833,Soesterberg - Vliegbasis Soesterberg - Museumkwartier,Bert van 't Holt
+372228260,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,16:54,5,5.27719,52.133833,Soesterberg - Vliegbasis Soesterberg - Museumkwartier,Bert van 't Holt
+372228038,Migrant Hawker,Aeshna mixta,2025-09-08,16:54,1,5.277189910411835,52.13383311541966,Soesterberg - Vliegbasis Soesterberg - Museumkwartier,Bert van 't Holt
+372227107,Small Spreadwing,Lestes virens,2025-09-08,16:28,3,6.384000778198242,52.996138439417756,Fochteloërveen - Zuidoost - fietspad e.o.,Dick Bos
+372226056,Moustached Darter,Sympetrum vulgatum,2025-09-08,16:05,1,6.721846461296082,53.13519255736981,Zuidlaardermeergebied - Leinwijk,Pashoen
+372225792,Migrant Hawker,Aeshna mixta,2025-09-08,16:20,1,6.38481616973877,52.996448391210606,Fochteloërveen - Zuidoost - fietspad e.o.,Dick Bos
+372225493,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,16:00,3,6.384000778198242,52.99624175692922,Fochteloërveen - Zuidoost - fietspad e.o.,Dick Bos
+372222576,Small Spreadwing,Lestes virens,2025-09-08,14:50,3,6.383193969726562,52.996089935302734,Fochteloërveen - Zuidoost - fietspad e.o.,Dick Bos
+372222572,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:45,2,6.384099960327148,52.99623489379883,Fochteloërveen - Zuidoost - fietspad e.o.,Dick Bos
+372222587,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:45,5,6.384515762329102,52.99631924490061,Fochteloërveen - Zuidoost - fietspad e.o.,Dick Bos
+372222599,Small Spreadwing,Lestes virens,2025-09-08,13:50,4,6.385488033294678,52.99686813354492,Fochteloërveen - Zuidoost - fietspad e.o.,Dick Bos
+372222565,Common Spreadwing,Lestes sponsa,2025-09-08,15:28,1,6.381370544433594,52.99576950073242,Fochteloërveen - Zuidoost - fietspad e.o.,Dick Bos
+372222561,Small Spreadwing,Lestes virens,2025-09-08,15:34,1,6.38332462310791,52.996131896972656,Fochteloërveen - Zuidoost - fietspad e.o.,Dick Bos
+372222433,Ruddy Darter,Sympetrum sanguineum,2025-09-08,14:38,1,6.383657932281494,52.99618148803711,Fochteloërveen - Zuidoost - fietspad e.o.,Dick Bos
+372152289,Common Darter,Sympetrum striolatum,2025-09-08,13:35,3,4.626807689666748,52.066925048828125,Bentwoud - Oost (Waddinxveen),Ria en Sjaak
+372220237,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:34,1,5.873571038246155,51.820697773538754,Nijmegen - Brakkenstein - Botanische tuin,Jan Jansen
+372220081,Common Darter,Sympetrum striolatum,2025-09-08,15:32,1,5.874173462325416,51.820856603817425,Nijmegen - Brakkenstein - Botanische tuin,Jan Jansen
+372219744,Small Spreadwing,Lestes virens,2025-09-08,13:51,1,4.856619293277618,51.61128989238917,Oosterhout (NB) - Boswachterij Dorst,Nick Janssen
+372218507,Common Winter Damsel,Sympecma fusca,2025-09-08,17:46,1,6.882849,52.222903,Enschede - Centrum,Peter van der Heijden
+372218433,Migrant Hawker,Aeshna mixta,2025-09-09,09:03,1,6.2803075,52.7918266,Uffelte,Wim Snoeken
+372186586,Common Winter Damsel,Sympecma fusca,2025-09-08,12:46,1,4.511940479060286,52.17626520874874,Leiden - Merenwijk ,Herman Berkhoudt
+372217810,Common Winter Damsel,Sympecma fusca,2025-09-08,13:49,1,4.856567112001358,51.61120893873546,Oosterhout (NB) - Boswachterij Dorst,Nick Janssen
+372217492,Brown Hawker,Aeshna grandis,2025-09-08,16:01,1,5.2334035,51.9176711,Beesd - Lage Veld,Jacco Leemans
+372217195,Common Winter Damsel,Sympecma fusca,2025-09-08,08:33,1,6.5653392,52.992963199722226,Assen - Stadskern,Michiel Elderenbosch
+372216301,Common Darter,Sympetrum striolatum,2025-09-08,14:22,1,5.875571,51.821082,Nijmegen - Hortus Nijmegen,Jan Jansen
+372216091,Southern Hawker,Aeshna cyanea,2025-09-09,08:22,1,5.770123600959778,53.20467173398825,Leeuwarden - Helicon & Businesspark,Richard W. de Jong
+372215603,Common Winter Damsel,Sympecma fusca,2025-09-08,14:11,1,5.874127864772163,51.821248869114434,Nijmegen - Brakkenstein - Botanische tuin,Jan Jansen
+372198644,Common Darter,Sympetrum striolatum,2025-09-08,13:29,1,6.00582,52.77414,Weerribben - Woldlakebos,Bas Dros
+372198762,Moustached Darter,Sympetrum vulgatum,2025-09-08,13:35,2,6.005455,52.774341,Weerribben - Woldlakebos,Bas Dros
+372199043,Moustached Darter,Sympetrum vulgatum,2025-09-08,14:26,1,6.000947,52.782114,Weerribben - Woldlakebos,Bas Dros
+372199926,Darter spec.,Sympetrum spec.,2025-09-08,12:56,1,4.541065692901611,52.33869015537301,Amsterdamse Waterleidingduinen - Eiland van Rolvers,els harinck
+372205914,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,16:04,1,5.479232668876648,52.15146643613622,Amersfoort - Stoutenburg Noord,Birgitta Unkel
+372206448,Small Spreadwing,Lestes virens,2025-09-08,18:20,1,5.25092077255249,52.18833923339844,Baarn - Stulpheide - Gentianenven,ERTprivate
+372208937,Darter spec.,Sympetrum spec.,2025-09-08,13:20,1,4.244046050869633,51.92730171363374,Maassluis,anita
+372159607,Blue Emperor,Anax imperator,2025-09-08,,1,4.519447088241577,51.61461570087003,Standdaarbuiten,Guido Theunis
+372211993,Migrant Hawker,Aeshna mixta,2025-09-08,16:31,1,6.0204438,51.8653407,Duffelt,Vincent Sanders
+372210346,Common Winter Damsel,Sympecma fusca,2025-09-08,16:38,1,5.920021533966064,51.066933388215595,Echt - Haeselaarsbroek,ellie & jos
+372210343,Common Winter Damsel,Sympecma fusca,2025-09-08,16:33,1,5.91956,51.067088,Echt - Haeselaarsbroek,ellie & jos
+372210241,Common Winter Damsel,Sympecma fusca,2025-09-08,16:05,1,5.919742584228516,51.06704126217517,Echt - Haeselaarsbroek,ellie & jos
+372209222,Common Winter Damsel,Sympecma fusca,2025-09-08,11:53,1,5.735783333333333,51.499655,Bakel,Anton Sijbers
+372209198,Common Bluetail,Ischnura elegans,2025-09-08,11:07,1,6.357217499722222,52.16076309972222,Lochem - Kijksteeg e.o.,Janneke
+372207976,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-08,15:38,1,5.101541996002197,52.16229248046875,Maarssen - Polder Maarsseveen,Henk Veneman
+372146390,Common Winter Damsel,Sympecma fusca,2025-09-08,13:49,1,5.680610179901123,50.81813049316406,Maastricht - Sint-Pietersberg Zuid,Dick Bekker
+372207073,Ruddy Darter,Sympetrum sanguineum,2025-09-08,15:50,1,4.69510555267334,51.7504997253418,Dordtse Biesbosch - De Elzen-Zuid,Dirk van den Eijkel
+372207071,Common Darter,Sympetrum striolatum,2025-09-08,15:50,1,4.69510555267334,51.7504997253418,Dordtse Biesbosch - De Elzen-Zuid,Dirk van den Eijkel
+372207068,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:55,1,4.694892406463623,51.75053024291992,Dordtse Biesbosch - De Elzen-Zuid,Dirk van den Eijkel
+372207064,Common Bluetail,Ischnura elegans,2025-09-08,16:01,1,4.694334506988525,51.7506103515625,Dordtse Biesbosch - De Elzen-Zuid,Dirk van den Eijkel
+372206766,Common Winter Damsel,Sympecma fusca,2025-09-08,14:47,1,4.400769223574315,52.14676513540016,Wassenaar - dorp,Marijn Prins
+372186956,Common Darter,Sympetrum striolatum,2025-09-08,14:02,2,4.485220312853926,52.179784007800954,Oegstgeest - Landgoed Oud-Poelgeest ,Herman Berkhoudt
+372205991,Migrant Hawker,Aeshna mixta,2025-09-08,11:31,1,5.092774629592896,52.20748832894039,Oud-Loosdrecht,Rosa Eberhardt
+372197008,Common Darter,Sympetrum striolatum,2025-09-08,15:20,1,6.159438133239746,51.50291442871094,Broekhuizenvorst - Uiterwaarden,Wim Heijligers
+372204099,Darter spec.,Sympetrum spec.,2025-09-08,13:29,1,5.899992,52.0115554,Arnhem - Burgers Zoo,Cas van de Giessen
+372204025,Migrant Hawker,Aeshna mixta,2025-09-08,15:10,1,6.158982217311859,51.5030922007994,Ooijen,Wim Heijligers
+372197014,Common Darter,Sympetrum striolatum,2025-09-08,15:13,1,6.15870189666748,51.503318786621094,Ooijen,Wim Heijligers
+372203859,Migrant Hawker,Aeshna mixta,2025-09-08,15:07,1,6.158805191516876,51.5032224294976,Ooijen,Wim Heijligers
+372203293,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,16:12,1,4.837455749511719,52.68936538696289,Heerhugowaard - Bedrijventerrein Zandhorst,P. Hovenkamp
+372201839,Blue Emperor,Anax imperator,2025-09-08,19:17,1,3.55623962580827,51.48080179711481,Koudekerke,Erik Sanders
+372201784,Common Darter,Sympetrum striolatum,2025-09-08,16:15,2,3.554273573247602,51.479795005739945,Koudekerke,Erik Sanders
+372201599,Migrant Hawker,Aeshna mixta,2025-09-08,11:18,1,3.556017770919209,51.4807412641639,Koudekerke,Erik Sanders
+372200786,Migrant Hawker,Aeshna mixta,2025-09-08,12:15,1,5.073520770899677,52.659732592509926,Hoorn - Blokweer,roy
+372200764,Common Darter,Sympetrum striolatum,2025-09-08,13:48,1,5.183165073394775,52.24932297524829,Hilversum - Westerheide - Aardjesberg,Conny Leijdekker-Winthorst
+372199314,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,16:07,3,5.387667,52.18004,Amersfoort - Park Schothorst,Tom van Eck
+372199311,Spotted Darter,Sympetrum depressiusculum,2025-09-08,14:32,1,6.000947,52.782114,Weerribben - Woldlakebos,Bas Dros
+372199170,Migrant Hawker,Aeshna mixta,2025-09-08,14:32,1,6.000947,52.782114,Weerribben - Woldlakebos,Bas Dros
+372199140,Ruddy Darter,Sympetrum sanguineum,2025-09-08,14:32,1,6.000947,52.782114,Weerribben - Woldlakebos,Bas Dros
+372199116,Spotted Darter,Sympetrum depressiusculum,2025-09-08,14:28,1,6.000947,52.782114,Weerribben - Woldlakebos,Bas Dros
+372199082,Moustached Darter,Sympetrum vulgatum,2025-09-08,14:26,1,6.000947,52.782114,Weerribben - Woldlakebos,Bas Dros
+372198918,Common Darter,Sympetrum striolatum,2025-09-08,16:24,1,5.367536,52.155853,Amersfoort - zusterpark Groene Spoor,Marieke Klink
+372198829,Moustached Darter,Sympetrum vulgatum,2025-09-08,13:43,1,6.005455,52.774341,Weerribben - Woldlakebos,Bas Dros
+372198682,Ruddy Darter,Sympetrum sanguineum,2025-09-08,13:32,1,6.005455255508423,52.77434111583688,Weerribben - Woldlakebos,Bas Dros
+372113894,Darter spec.,Sympetrum spec.,2025-09-08,10:35,1,4.871636666666666,53.08347783333333,Texel - Oosterend,Rebekah Lang
+372115364,Common Darter,Sympetrum striolatum,2025-09-08,10:50,1,4.643930755025975,52.060019919333534,Waddinxveen - Gouwebos - Westzijde,cyntb
+372198402,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:03,1,6.007597,52.773356,Weerribben - Woldlakebos,Bas Dros
+372121856,Moustached Darter,Sympetrum vulgatum,2025-09-08,11:45,1,4.906206199722223,52.05773719972222,Linschoten - Polder Schagen en den Engh,Marlene van den Bos
+372156588,Common Winter Damsel,Sympecma fusca,2025-09-08,15:51,1,6.660089015960693,53.08625793457031,Zuidlaren - Westlaren,Bert Schipper
+372158825,Common Darter,Sympetrum striolatum,2025-09-08,16:27,1,4.645969444444444,52.402525,Haarlem - Te Zaanenkwartier,Ivo Zandhuis
+372197266,Spotted Darter,Sympetrum depressiusculum,2025-09-08,14:02,1,6.000947222222222,52.78211388888889,Weerribben - Woldlakebos,Bas Dros
+372198313,Southern Darter,Sympetrum meridionale,2025-09-08,15:06,2,3.87086296081543,51.33143615722656,Terneuzen - Margarethapolder ,Marian Kiefer
+372160393,Darter spec.,Sympetrum spec.,2025-09-08,14:20,1,4.301777999722222,51.8452926,Spijkenisse - Mallebos,M. de Kreij - Wouterlood
+372198287,Southern Darter,Sympetrum meridionale,2025-09-08,15:39,1,3.871710777282715,51.33137130737305,Terneuzen - Margarethapolder ,Marian Kiefer
+372198254,Ruddy Darter,Sympetrum sanguineum,2025-09-08,15:59,1,3.869703531265259,51.3314208984375,Terneuzen - Margarethapolder ,Marian Kiefer
+372198239,Migrant Hawker,Aeshna mixta,2025-09-08,15:59,1,3.869703531265259,51.3314208984375,Terneuzen - Margarethapolder ,Marian Kiefer
+372198224,Southern Darter,Sympetrum meridionale,2025-09-08,16:35,1,3.865269899368286,51.33211898803711,Terneuzen - Margarethapolder ,Marian Kiefer
+372198221,Common Darter,Sympetrum striolatum,2025-09-08,16:40,1,3.865228176116943,51.331947326660156,Terneuzen - Margarethapolder ,Marian Kiefer
+372164311,Southern Darter,Sympetrum meridionale,2025-09-08,16:57,1,4.311455,51.83607166666667,Spijkenisse - Vogelenzang,petorie
+372164325,Common Darter,Sympetrum striolatum,2025-09-08,15:50,1,4.322215,51.924461,Vlaardingen - Broekpolder - De Ruigte,peter van kasteren
+372165489,Migrant Hawker,Aeshna mixta,2025-09-08,16:46,1,6.679264,53.117228,Midlaren - De Bloemert,Harrie Groeneveld
+372172338,Migrant Hawker,Aeshna mixta,2025-09-08,18:00,1,6.123952833333333,53.375,Anjum,klaas visser
+372175337,Migrant Hawker,Aeshna mixta,2025-09-08,18:16,1,3.815467947222222,51.54021504166666,Wolphaartsdijk - Jachthaven e.o.,Stefan Schipper
+372178650,Migrant Hawker,Aeshna mixta,2025-09-08,,4,5.284603358013555,51.67788343353242,Vught - Honderd Morgen,Sonja & Lex
+372184099,Darter spec.,Sympetrum spec.,2025-09-08,17:11,1,5.599177,52.676833,Urk - Urkerbos,H Walma
+372184398,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,19:28,1,4.443961111111111,52.173566666666666,Valkenburg (ZH),GeorgeSangster
+372185463,Southern Hawker,Aeshna cyanea,2025-09-08,14:44,1,5.488150119781494,51.587371826171875,Sint-Oedenrode - Schijndelsche Heide,marga verduin
+372189424,Banded Demoiselle,Calopteryx splendens,2025-09-08,13:36,1,5.423077,51.374763,Dommelen - Dommeldal,Peter De Meirsman
+372190350,Blue Emperor,Anax imperator,2025-09-08,18:42,1,5.296478748059599,52.70850399684801,Enkhuizen - Recreatieoord,Dennis de Heer
+372192074,Common Darter,Sympetrum striolatum,2025-09-08,14:44,2,4.321900717914104,51.702311434853925,Den Bommel - Poort van Flakkee,Daan van der Groef
+372192566,Migrant Hawker,Aeshna mixta,2025-09-08,15:36,1,4.178438184899278,51.41834205120784,Rilland - dorp,Rien Weststrate
+372197321,Siberian Winter Damsel,Sympecma paedisca,2025-09-08,15:11,1,6.007597222222222,52.773355555555554,Weerribben - Woldlakebos,Bas Dros
+372183979,Common Bluet,Enallagma cyathigerum,2025-09-08,19:26,1,6.7221834,51.9567666,Winterswijk - Woold,Ivantb
+372184825,Common Darter,Sympetrum striolatum,2025-09-08,12:52,1,4.474216666666667,52.16771111111111,Leiden - Naturalis e.o.,Lois
+372194028,Darter spec.,Sympetrum spec.,2025-09-08,11:56,1,5.305076837539673,52.04602437694107,Doorn - Hydepark ,Kees van Leeuwen
+372195408,Common Bluet,Enallagma cyathigerum,2025-09-08,,1,5.87397963,51.81971737,Nijmegen - Brakkenstein - Botanische tuin,Peter Hoppenbrouwers
+372195392,Southern Hawker,Aeshna cyanea,2025-09-08,,1,5.87397963,51.81971737,Nijmegen - Brakkenstein - Botanische tuin,Peter Hoppenbrouwers
+372194564,Ruddy Darter,Sympetrum sanguineum,2025-09-08,13:43,1,5.796365737915039,51.34884262084961,Asten - Groote Peel (NB),Aart van den Berg
+372194846,Southern Hawker,Aeshna cyanea,2025-09-08,15:14,1,4.933159442133578,52.38843678881706,Amsterdam - Vliegenbos,Sander Bos
+372194843,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:14,1,4.933167772661731,52.388434680212406,Amsterdam - Vliegenbos,Sander Bos
+372194131,Common Darter,Sympetrum striolatum,2025-09-08,16:07,1,5.0552,51.52511166666667,Goirle,Henk Eilander
+372193684,Migrant Hawker,Aeshna mixta,2025-09-08,19:26,1,6.558105945587158,52.41414260864258,Daarle - De Haar,Kevin Hams
+372193568,Migrant Hawker,Aeshna mixta,2025-09-08,19:40,1,6.520995140075684,52.407188415527344,Daarle - Piksen,Kevin Hams
+372192813,Southern Hawker,Aeshna cyanea,2025-09-08,16:01,1,5.651345,52.086665,Lunteren - Luntersche Buurtbosch,Bram van den Broek
+372192364,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,16:08,1,5.651315972222222,52.08664,Lunteren - Luntersche Buurtbosch,Bram van den Broek
+372191994,Migrant Hawker,Aeshna mixta,2025-09-08,17:21,1,5.280990600585938,51.63926357804378,Vught - De Baarzen,Jac Schepman
+372191683,Southern Hawker,Aeshna cyanea,2025-09-08,19:02,1,6.949004251516376,52.18545908113214,Aamsveen - N2000,Erik Foekens
+372190650,Migrant Hawker,Aeshna mixta,2025-09-08,12:36,2,4.341781139373779,52.03337478637695,Rijswijk (ZH) - Elsenburgerbos,Kees Mostert
+372163582,Common Darter,Sympetrum striolatum,2025-09-08,14:09,1,5.428236484527588,51.3715705871582,Dommelen - Dommeldal,Peter De Meirsman
+372190433,Small Spreadwing,Lestes virens,2025-09-08,17:26,11,5.902812,51.216938,Horn - Hornerheide,paul n.m. vossen
+372189980,Red-veined Darter,Sympetrum fonscolombii,2025-09-08,18:57,1,5.294917917307366,52.708986416172664,Enkhuizen - Recreatieoord,Dennis de Heer
+372190025,Common Darter,Sympetrum striolatum,2025-09-08,16:10,1,5.424449725002505,53.085446555113116,Wons,Eelco W.F. Brandenburg
+372189678,Common Darter,Sympetrum striolatum,2025-09-08,,2,5.864317,51.100571,Echt,John Roemen
+372189398,Common Darter,Sympetrum striolatum,2025-09-08,15:25,1,5.386055076383469,53.098079953891165,Afsluitdijk - Kop Afsluitdijk,Eelco W.F. Brandenburg
+372189342,Common Winter Damsel,Sympecma fusca,2025-09-08,20:12,1,5.426915868787106,51.36289967222283,Dommelen,percussion
+372189244,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,11:50,1,5.973482537863635,53.157360572565175,Garyp - Skepersloane,Harry Waltje
+372189089,Migrant Hawker,Aeshna mixta,2025-09-08,14:18,1,5.523659705067985,52.48374722264354,Lelystad - Natuurpark Lelystad,Ineke Vuuregge
+372188758,Common Darter,Sympetrum striolatum,2025-09-08,14:01,1,5.521685599233024,52.48575956107846,Lelystad - Natuurpark Lelystad,Ineke Vuuregge
+372188561,Ruddy Darter,Sympetrum sanguineum,2025-09-08,13:47,1,5.531985281850211,52.487060998153495,Lelystad - Natuurpark Lelystad,Ineke Vuuregge
+372188303,Migrant Hawker,Aeshna mixta,2025-09-08,13:34,1,5.532714842702262,52.48707145154929,Lelystad - Natuurpark Lelystad,Ineke Vuuregge
+372187940,Common Darter,Sympetrum striolatum,2025-09-08,12:22,1,5.0008036,51.4831626,Goirle - Regte Heide / Ooijevaarsnest (hele gebied),Wies Nijhuis
+372164340,Moustached Darter,Sympetrum vulgatum,2025-09-08,12:29,2,4.360971,52.143497,Meijendel - Bierlap,René Hobijn
+372165851,Migrant Hawker,Aeshna mixta,2025-09-08,15:00,5,3.515046,51.483622,Dishoek - Groot Vroon ,Niek Haak
+372187001,Migrant Hawker,Aeshna mixta,2025-09-08,15:59,1,4.681620597839355,51.92436218261719,Berkenwoude - Loetbos,Jannie Monhemius
+372185460,Migrant Hawker,Aeshna mixta,2025-09-08,14:45,1,5.488182067871094,51.587371826171875,Sint-Oedenrode - Schijndelsche Heide,marga verduin
+372186397,Common Darter,Sympetrum striolatum,2025-09-08,15:16,1,3.948204,51.831665,Ouddorp - Middelduinen,Ron Teunissen
+372185800,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:43,2,6.719010695815086,52.56578869712746,Radewijkerbeek - Middenin,Bert Stegeman
+372186296,Common Winter Damsel,Sympecma fusca,2025-09-08,14:59,1,3.948204,51.831665,Ouddorp - Middelduinen,Ron Teunissen
+372166380,Darter spec.,Sympetrum spec.,2025-09-08,17:17,1,5.233446666666667,52.1286805,Bosch en Duin,Marjolijn
+372167921,Common Darter,Sympetrum striolatum,2025-09-08,17:27,1,6.511725,53.224808333333335,Groningen - De Held,Marc 't Hart
+372185923,Common Winter Damsel,Sympecma fusca,2025-09-08,14:59,1,6.179238888888889,52.86422777777778,Wilhelminaoord - Dennenhof,Ale Eas
+372171024,Moustached Darter,Sympetrum vulgatum,2025-09-08,16:59,1,4.62095,52.393855,Overveen,Colette Klumper
+372185734,Common Winter Damsel,Sympecma fusca,2025-09-08,18:10,8,5.974634,52.824366,Oldemarkt - Oosterbroek,Robbert en Paula
+372185671,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,16:27,1,4.711234,52.08814,Boskoop - De Wijk,Ramon Verstraaten
+372185657,Siberian Winter Damsel,Sympecma paedisca,2025-09-08,18:10,8,5.974634,52.824366,Oldemarkt - Oosterbroek,Robbert en Paula
+372174113,Darter spec.,Sympetrum spec.,2025-09-08,18:09,1,5.344886666666667,52.0419805,Doorn,jcgr
+372175985,Moustached Darter,Sympetrum vulgatum,2025-09-08,18:19,1,4.938944444444445,51.90273333333333,Noordeloos,A.P
+372177224,Darter spec.,Sympetrum spec.,2025-09-08,15:15,1,5.441763333333333,52.1220805,Leusden - Schoolsteeg e.o.,Theo Klink
+372180805,Broad-bodied Chaser,Libellula depressa,2025-09-08,18:56,1,6.6999621,51.9764514,Winterswijk - Dorp,Wennema
+372183993,Migrant Hawker,Aeshna mixta,2025-09-08,09:58,1,5.287151634693146,51.7337321740423,'s-Hertogenbosch - Maaspoort,Titia van Heusden
+372164316,Southern Hawker,Aeshna cyanea,2025-09-08,16:00,1,4.464876728215536,52.137062134847746,Voorschoten - Noord-Hofland ,Ronald Bontrop
+372183175,Southern Hawker,Aeshna cyanea,2025-09-08,11:11,1,5.104005642572933,51.517303466796875,Hilvarenbeek - Beekse Bergen - Safaripark,May
+372182566,Migrant Hawker,Aeshna mixta,2025-09-08,13:07,1,4.52242374420166,52.18090057373047,Leiderdorp - Polder Boterhuis,Luuk Punt
+372182554,Migrant Hawker,Aeshna mixta,2025-09-08,13:18,1,4.528783798217773,52.178009033203125,Leiderdorp - Polder Boterhuis,Luuk Punt
+372182405,Common Darter,Sympetrum striolatum,2025-09-08,11:29,1,4.704516355400301,51.787876545980914,Dordrecht - Dubbeldam,Gerard Broens
+372181963,Migrant Hawker,Aeshna mixta,2025-09-08,18:02,1,6.082936143508258,52.95750163966134,Oudehorne,Karin Uilhoorn
+372181957,Common Winter Damsel,Sympecma fusca,2025-09-08,18:00,2,6.082534700202817,52.95767975247019,Oudehorne,Karin Uilhoorn
+372181927,Common Darter,Sympetrum striolatum,2025-09-08,17:52,5,6.081966524949373,52.95670317956522,Oudehorne,Karin Uilhoorn
+372181811,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,17:27,1,6.084659378981296,52.95679039326772,Kiekenberg & Tolheksbos,Karin Uilhoorn
+372181774,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,17:18,1,6.083451116733377,52.95623634927351,Kiekenberg & Tolheksbos,Karin Uilhoorn
+372181770,Common Winter Damsel,Sympecma fusca,2025-09-08,17:17,2,6.083356900155238,52.95617875801049,Kiekenberg & Tolheksbos,Karin Uilhoorn
+372181754,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,18:44,1,4.4407189,52.1277441,Voorschoten - algemeen,Erwin Beukenholdt
+372181057,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,,1,5.200255,51.670369,Vlijmen - Bosje Hooge Bank,Sonja & Lex
+372181052,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-08,,1,5.200255,51.670369,Vlijmen - Bosje Hooge Bank,Sonja & Lex
+372181019,Brown Hawker,Aeshna grandis,2025-09-08,,1,5.200255,51.670369,Vlijmen - Bosje Hooge Bank,Sonja & Lex
+372180438,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:56,1,6.591521666666667,53.199825,Groningen - Coendersborg,Rezi
+372180253,Migrant Hawker,Aeshna mixta,2025-09-08,18:52,1,5.779671346451321,51.712730247301884,Tongelaar,Gijs Looijen
+372178678,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-08,,1,5.284603,51.677883,Vught - Honderd Morgen,Sonja & Lex
+372179678,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:03,1,4.591586,51.8281616,Zwijndrecht - Kijfhoek - Develbos,marja
+372179612,Darter spec.,Sympetrum spec.,2025-09-08,15:30,1,5.132136111111111,52.11973888888889,Utrecht - De doordouwers,Ineke van Gelder
+372178953,Southern Hawker,Aeshna cyanea,2025-09-08,18:41,1,5.4063904,52.1798145,Amersfoort - Zielhorst,AFoorturier
+372178897,Common Bluetail,Ischnura elegans,2025-09-08,,2,5.284603,51.677883,Vught - Honderd Morgen,Sonja & Lex
+372178867,Common Bluet,Enallagma cyathigerum,2025-09-08,,1,5.284603,51.677883,Vught - Honderd Morgen,Sonja & Lex
+372178831,Common Darter,Sympetrum striolatum,2025-09-08,,16,5.284603,51.677883,Vught - Honderd Morgen,Sonja & Lex
+372178726,Moustached Darter,Sympetrum vulgatum,2025-09-08,,2,5.284603,51.677883,Vught - Honderd Morgen,Sonja & Lex
+372178394,Southern Hawker,Aeshna cyanea,2025-09-08,14:00,1,4.893162846674386,52.44805583426459,Oostzaan - Het Twiske - De Blokken,Bart van der Woude
+372178055,Banded Darter,Sympetrum pedemontanum,2025-09-08,14:03,1,6.219443321228027,52.50905990600586,Dalfsen - De Marshoek,Niek Otten
+372178036,Ruddy Darter,Sympetrum sanguineum,2025-09-08,13:30,1,4.895737767328683,52.449945569239475,Oostzaan - Het Twiske - De Blokken,Bart van der Woude
+372156598,Migrant Hawker,Aeshna mixta,2025-09-08,13:24,1,5.192363238008047,52.127281720148325,Bilthoven - De Leyen (bebouwde kom) ,Kees Greidanus
+372176839,Migrant Hawker,Aeshna mixta,2025-09-08,14:19,1,6.383504867553711,52.998207092285156,Fochteloërveen - Zuidoost - fietspad e.o.,Dick Bos
+372156579,Common Darter,Sympetrum striolatum,2025-09-08,13:21,1,5.192292570415778,52.127192197173166,Bilthoven - De Leyen (bebouwde kom) ,Kees Greidanus
+372176545,Migrant Hawker,Aeshna mixta,2025-09-08,14:35,1,3.702329881489276,51.3422860266191,Biervliet - Beukelspolder,Dirk Verroken
+372176462,Common Bluet,Enallagma cyathigerum,2025-09-08,13:34,2,6.385352611541748,52.996538793397775,Fochteloërveen - Zuidoost - fietspad e.o.,Dick Bos
+372174448,Migrant Hawker,Aeshna mixta,2025-09-08,15:27,1,5.429091453552246,51.40529895027584,A2 / A67 - Knooppunt De Hogt,johan meulensteen
+372175145,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:01,1,5.873857,51.820741,Nijmegen - Brakkenstein - Botanische tuin,Jan Jansen
+372174992,Southern Hawker,Aeshna cyanea,2025-09-08,14:01,1,5.873857,51.820741,Nijmegen - Brakkenstein - Botanische tuin,Jan Jansen
+372174903,Southern Hawker,Aeshna cyanea,2025-09-08,14:17,1,4.997142866888908,52.3270087563727,Diemen - Diemerbos,Lucas de By
+372174808,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:01,1,5.873856961661659,51.82074087993272,Nijmegen - Brakkenstein - Botanische tuin,Jan Jansen
+372173983,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,16:48,1,5.24418,51.573996,Kampina - Belversven,Jim Zonneveld
+372173405,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,17:25,12,6.013476133084623,53.24226199309899,Dantumadiel (gemeente) ,Wiebe Sjoerd van der Veen
+372173371,Migrant Hawker,Aeshna mixta,2025-09-08,18:06,1,5.93046,51.8280975,Beek (Ubbergen - Gld) - dorp,Erik Doekes
+372173112,Migrant Hawker,Aeshna mixta,2025-09-08,,7,6.094795,52.589826,Hasselt,Jeroen Bredenbeek
+372173045,Common Winter Damsel,Sympecma fusca,2025-09-08,,10,6.094794869277393,52.58982574154132,Hasselt,Jeroen Bredenbeek
+372172845,Common Darter,Sympetrum striolatum,2025-09-08,17:16,1,4.785533333333333,51.55010333333333,Breda - Koninklijke Visio,Jacco Wisman
+372158671,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,16:26,3,6.506341695785522,52.8677062881476,Beilen,Agnes Pel
+372172412,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,17:08,1,5.573988333333333,52.030875,Veenendaal,Jochie
+372172388,Migrant Hawker,Aeshna mixta,2025-09-08,18:00,1,6.123958333333333,53.374988333333334,Anjum,Christina
+372171384,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,17:37,1,6.162369,53.186181,Surhuisterveen,Idsynature
+372169680,Common Winter Damsel,Sympecma fusca,2025-09-08,,1,5.928224,52.564237,IJsselmuiden,Tines vd Hul
+372169507,Ruddy Darter,Sympetrum sanguineum,2025-09-08,14:58,1,5.0367208,51.570751,Tilburg - Wandelbos,Willeke
+372168087,Common Darter,Sympetrum striolatum,2025-09-08,15:33,1,6.374791145062773,52.6322554551116,Zuidwolde (DR) - Meeuwenveen,Metske van der Maar
+372167998,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:29,2,6.827902,52.242753,Waterharmonica Kristalbad,Dick Kuipers
+372167700,Common Darter,Sympetrum striolatum,2025-09-08,16:56,1,6.136465,52.885886972222224,Noordwolde (FR),Dick van Dijk
+372167510,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,17:26,1,4.4820111,52.261505399722225,Noordwijkerhout,Rozemarijn
+372167031,Common Darter,Sympetrum striolatum,2025-09-08,14:20,1,4.603969931667962,52.385805808722516,Overveen - Landgoed Vaart en Duin,koos
+372166613,Common Winter Damsel,Sympecma fusca,2025-09-08,13:41,1,5.232731945538148,51.96413755931799,Culemborg - Polder Redichem,Hans Kunstman
+372166387,Small Spreadwing,Lestes virens,2025-09-08,15:00,1,3.515046,51.483622,Dishoek - Groot Vroon ,Niek Haak
+372166384,Migrant Hawker,Aeshna mixta,2025-09-08,16:54,1,4.650295972824097,52.128281807202065,Alphen aan den Rijn - Weteringpad,Peter Broere
+372166179,Common Winter Damsel,Sympecma fusca,2025-09-08,17:18,1,5.9783403,51.9921481,Velp,Viviène
+372166180,Common Winter Damsel,Sympecma fusca,2025-09-08,13:39,1,5.231873813639822,51.964324282378755,Culemborg - Polder Redichem,Hans Kunstman
+372166161,,Anax spec.,2025-09-08,15:00,1,3.515046,51.483622,Dishoek - Groot Vroon ,Niek Haak
+372165752,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:00,5,3.515046,51.483622,Dishoek - Groot Vroon ,Niek Haak
+372166010,Ruddy Darter,Sympetrum sanguineum,2025-09-08,17:15,1,3.581546273390461,51.565683896863156,Oostkapelle - Walekotsweg / Noordweg,Janneke Willekes
+372165967,Blue Emperor,Anax imperator,2025-09-08,15:00,1,3.515046,51.483622,Dishoek - Groot Vroon ,Niek Haak
+372165897,Migrant Hawker,Aeshna mixta,2025-09-08,17:13,1,6.09995698928833,52.53919219970703,Zwolle - Aa-Landen,I.M. Ophoff
+372165893,Common Bluetail,Ischnura elegans,2025-09-08,15:00,1,3.515046,51.483622,Dishoek - Groot Vroon ,Niek Haak
+372165882,Common Darter,Sympetrum striolatum,2025-09-08,15:11,1,6.854138,52.98534,Gasselternijveen,Wilma van der Vliet
+372165861,Common Winter Damsel,Sympecma fusca,2025-09-08,14:44,1,4.267201,52.075981,Den Haag - Bomen- en Bloemenbuurt,Sjaak Krombeen
+372165768,Migrant Hawker,Aeshna mixta,2025-09-08,15:46,1,6.08787202835083,52.462318420410156,Hattem - Hoenwaard,Ronald Oost
+372165754,Migrant Hawker,Aeshna mixta,2025-09-08,15:47,1,6.087751388549805,52.46247100830078,Hattem - Hoenwaard,Ronald Oost
+372165749,Migrant Hawker,Aeshna mixta,2025-09-08,15:47,1,6.087738513946533,52.46263885498047,Hattem - Hoenwaard,Ronald Oost
+372165744,Migrant Hawker,Aeshna mixta,2025-09-08,15:47,1,6.087684154510498,52.462738037109375,Hattem - Hoenwaard,Ronald Oost
+372165740,Migrant Hawker,Aeshna mixta,2025-09-08,15:48,1,6.087677478790283,52.462772369384766,Hattem - Hoenwaard,Ronald Oost
+372165739,Migrant Hawker,Aeshna mixta,2025-09-08,15:48,1,6.087647914886475,52.46289825439453,Hattem - Hoenwaard,Ronald Oost
+372165733,Migrant Hawker,Aeshna mixta,2025-09-08,15:48,2,6.087639808654785,52.46289825439453,Hattem - Hoenwaard,Ronald Oost
+372165727,Common Bluetail,Ischnura elegans,2025-09-08,15:49,1,6.087584495544434,52.4630012512207,Hattem - Hoenwaard,Ronald Oost
+372165724,Common Bluetail,Ischnura elegans,2025-09-08,15:49,1,6.087638854980469,52.463104248046875,Hattem - Hoenwaard,Ronald Oost
+372165721,Common Bluetail,Ischnura elegans,2025-09-08,15:50,1,6.087422370910645,52.46326446533203,Hattem - Hoenwaard,Ronald Oost
+372165716,Migrant Spreadwing,Lestes barbarus,2025-09-08,15:00,5,3.515046,51.483622,Dishoek - Groot Vroon ,Niek Haak
+372165658,Ruddy Darter,Sympetrum sanguineum,2025-09-08,15:00,5,3.515046,51.483622,Dishoek - Groot Vroon ,Niek Haak
+372165619,Common Darter,Sympetrum striolatum,2025-09-08,15:00,25,3.515046,51.483622,Dishoek - Groot Vroon ,Niek Haak
+372165478,Migrant Spreadwing,Lestes barbarus,2025-09-08,15:00,1,3.515046,51.483622,Dishoek - Groot Vroon ,Niek Haak
+372165426,Common Winter Damsel,Sympecma fusca,2025-09-08,15:19,1,6.373503684735624,52.632034058908566,Zuidwolde (DR) - Meeuwenveen,Metske van der Maar
+372165235,Common Winter Damsel,Sympecma fusca,2025-09-08,15:16,1,6.37386846516165,52.63048425412038,Zuidwolde (DR) - Meeuwenveen,Metske van der Maar
+372164910,Moustached Darter,Sympetrum vulgatum,2025-09-08,13:07,1,5.234379084912234,51.96370038972871,Culemborg - Polder Redichem,Hans Kunstman
+372164661,Red-veined Darter,Sympetrum fonscolombii,2025-09-08,12:39,1,4.361014,52.141035,Meijendel - Bierlap,René Hobijn
+372164653,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:14,1,6.16133451461792,53.05991051180642,Wijnjeterperschar,Koert Scholten
+372163980,Common Winter Damsel,Sympecma fusca,2025-09-08,14:52,1,6.021796550034416,52.21354943477014,Apeldoorn,Gerrian Tacoma
+372164519,Brown Hawker,Aeshna grandis,2025-09-08,14:20,1,6.379640578961698,52.634091698088575,Zuidwolde (DR) - Meeuwenveen,Metske van der Maar
+372164478,Common Winter Damsel,Sympecma fusca,2025-09-08,14:34,1,6.379554748273222,52.63428703855093,Zuidwolde (DR) - Meeuwenveen,Metske van der Maar
+372164416,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:19,2,6.210156666666666,52.129508333333334,Zutphen - Emerpark,Ad van Elleswijk
+372164352,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:03,1,5.232480168331904,51.962435238425584,Culemborg - Polder Redichem,Hans Kunstman
+372164317,Migrant Hawker,Aeshna mixta,2025-09-08,14:21,1,6.379511832928983,52.63411774353394,Zuidwolde (DR) - Meeuwenveen,Metske van der Maar
+372164298,Migrant Hawker,Aeshna mixta,2025-09-08,14:44,1,4.46493628689631,52.13702702533965,Voorschoten - Noord-Hofland ,Ronald Bontrop
+372164292,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-08,14:35,2,6.078186413339619,51.17506021758682,Meinweg - N2000,Anja van Halbeek
+372164291,Migrant Hawker,Aeshna mixta,2025-09-08,14:34,1,6.078170510265479,51.17505673253712,Meinweg - N2000,Anja van Halbeek
+372164268,Ruddy Darter,Sympetrum sanguineum,2025-09-08,14:26,2,6.080182321905196,51.17388637279461,Meinweg - N2000,Anja van Halbeek
+372164163,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:10,1,4.360971450805664,52.14349705240012,Meijendel - Bierlap,René Hobijn
+372164154,Darter spec.,Sympetrum spec.,2025-09-08,16:41,1,5.712847222222222,52.22046111111111,Garderen - Wilde Kamp,Meindert Reus
+372164088,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,17:00,1,3.8243005,51.2291676,Westdorpe,Ute Wagner
+372164055,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,17:01,1,5.8118639,52.7545676,Emmeloord - Kuindervaart e.o.,Adri de Boer
+372164047,Darter spec.,Sympetrum spec.,2025-09-08,17:01,1,4.340122222222222,52.09008888888889,Den Haag - Bezuidenhout,Steven
+372164038,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:28,1,6.02045569920516,52.21369652468939,Apeldoorn - Woudhuis,Gerrian Tacoma
+372163989,Common Winter Damsel,Sympecma fusca,2025-09-08,14:55,1,6.021847425796616,52.213926727540766,Apeldoorn,Gerrian Tacoma
+372163976,Common Darter,Sympetrum striolatum,2025-09-08,12:09,2,4.360628128051758,52.14428099674827,Meijendel - Bierlap,René Hobijn
+372163948,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,17:00,1,4.27416,52.107305,Scheveningen - algemeen,Bettina J. Mulder
+372163927,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:17,1,6.379426,52.633909,Zuidwolde (DR) - Meeuwenveen,Metske van der Maar
+372163754,Common Darter,Sympetrum striolatum,2025-09-08,13:21,10,5.421144962310791,51.3753662109375,Dommelen - Dommeldal,Peter De Meirsman
+372163742,Small Spreadwing,Lestes virens,2025-09-08,14:15,2,6.379426002240507,52.6339093795368,Zuidwolde (DR) - Meeuwenveen,Metske van der Maar
+372163525,Migrant Hawker,Aeshna mixta,2025-09-08,14:21,1,5.433188438415527,51.371273040771484,Dommelen - Dommeldal,Peter De Meirsman
+372163111,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,16:56,1,5.0538268,52.0270313,IJsselstein,martin roland
+372162923,Common Darter,Sympetrum striolatum,2025-09-08,16:51,1,5.342684768506448,51.58549549647946,Boxtel,Cor Kievit
+372162878,Migrant Hawker,Aeshna mixta,2025-09-08,16:55,1,5.8898834,52.8368072,Rottige Meente,Aerjen  van den Akker
+372162470,Common Winter Damsel,Sympecma fusca,2025-09-08,13:54,1,6.160722970962524,53.06044184851585,Wijnjeterperschar,Koert Scholten
+372162401,Common Winter Damsel,Sympecma fusca,2025-09-08,13:51,1,6.16183876991272,53.05969390508634,Wijnjeterperschar,Koert Scholten
+372162091,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,11:53,1,5.326861666666667,51.680211666666665,'s-Hertogenbosch - Zuid,Roy Hurkens
+372161942,Common Darter,Sympetrum striolatum,2025-09-08,16:48,1,4.4688259,51.9065605,Rotterdam - het Park,Caroline de Vlaam
+372161823,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,16:47,1,6.161059899722223,53.18624129972222,Surhuisterveen,Reini Bosma
+372161678,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:52,1,4.699381699722222,52.6996077,Schoorl,Ans de Jager
+372161677,Common Darter,Sympetrum striolatum,2025-09-08,11:17,1,4.358654022216797,52.14473485281,Meijendel - Kleine Pan,René Hobijn
+372161322,Common Darter,Sympetrum striolatum,2025-09-08,11:01,1,4.357366561889648,52.14368140783315,Meijendel - Kleine Pan,René Hobijn
+372161038,Common Winter Damsel,Sympecma fusca,2025-09-08,11:30,1,4.592816233634949,52.39233587802555,Nationaal Park Zuid-Kennemerland - Pompstation Overveen,Ge van 't Hoff
+372160822,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,10:56,1,4.357237815856934,52.14337941586487,Meijendel - Kleine Pan,René Hobijn
+372160679,Ruddy Darter,Sympetrum sanguineum,2025-09-08,16:21,1,6.445427604627175,51.966934366970854,Varsseveld - Westendorp e.o.,Henk B
+372160464,Common Winter Damsel,Sympecma fusca,2025-09-08,10:40,1,4.353976249694824,52.14115303821474,Meijendel - Bierlap,René Hobijn
+372160286,Common Winter Damsel,Sympecma fusca,2025-09-08,10:17,2,4.348955,52.140428,Meijendel - Sparregat,René Hobijn
+372160339,Common Darter,Sympetrum striolatum,2025-09-08,10:56,3,4.024501,51.921898,Voorne - Westplaat,Paul Schrijvershof
+372160240,Common Darter,Sympetrum striolatum,2025-09-08,10:11,1,4.348955154418945,52.14042786148809,Meijendel - Sparregat,René Hobijn
+372160231,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,16:36,1,5.67512,53.015911116666665,Sneek - De Brekken,Janny Postma
+372159914,Moustached Darter,Sympetrum vulgatum,2025-09-08,14:57,3,5.187692642211914,52.265628814697266,Bussum,Veronica Smelt
+372158127,Red-veined Darter,Sympetrum fonscolombii,2025-09-08,12:25,2,3.98580002784729,51.933101654052734,Maasvlakte 2 - Zuidpunt,Paul Schrijvershof
+372159723,Common Darter,Sympetrum striolatum,2025-09-08,12:58,2,5.434432029724121,52.0263786315918,Leersum - Boswachterij Leersum,jan katsman
+372159716,Common Darter,Sympetrum striolatum,2025-09-08,13:06,1,5.434821605682373,52.03597640991211,Leersum - Leersumse Veld,jan katsman
+372159706,Common Darter,Sympetrum striolatum,2025-09-08,13:16,6,5.433720111846924,52.039154052734375,Leersum - Leersumse Veld,jan katsman
+372159698,Migrant Hawker,Aeshna mixta,2025-09-08,13:17,1,5.433720111846924,52.039154052734375,Leersum - Leersumse Veld,jan katsman
+372159691,Small Spreadwing,Lestes virens,2025-09-08,14:30,2,5.432888507843018,52.0394287109375,Leersum - Leersumse Veld,jan katsman
+372159684,Ruddy Darter,Sympetrum sanguineum,2025-09-08,14:31,1,5.432908058166504,52.03945541381836,Leersum - Leersumse Veld,jan katsman
+372159676,Common Bluet,Enallagma cyathigerum,2025-09-08,14:31,2,5.432859897613525,52.03947067260742,Leersum - Leersumse Veld,jan katsman
+372159672,Common Bluet,Enallagma cyathigerum,2025-09-08,14:33,3,5.432665824890137,52.03950119018555,Leersum - Leersumse Veld,jan katsman
+372159664,Migrant Hawker,Aeshna mixta,2025-09-08,14:33,1,5.432658195495605,52.03949737548828,Leersum - Leersumse Veld,jan katsman
+372159656,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:35,2,5.432561874389648,52.03953170776367,Leersum - Leersumse Veld,jan katsman
+372158131,Small Bluetail,Ischnura pumilio,2025-09-08,12:25,10,3.985749483108521,51.93316650390625,Maasvlakte 2 - Zuidpunt,Paul Schrijvershof
+372159640,Common Darter,Sympetrum striolatum,2025-09-08,16:32,1,5.433718204498291,52.01362991333008,Leersum,jan katsman
+372158121,Common Darter,Sympetrum striolatum,2025-09-08,12:31,10,3.985602855682373,51.93345260620117,Maasvlakte 2 - Zuidpunt,Paul Schrijvershof
+372158115,Common Darter,Sympetrum striolatum,2025-09-08,12:32,2,3.985420227050781,51.9338264465332,Maasvlakte 2 - Zuidpunt,Paul Schrijvershof
+372159451,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:08,1,5.066488981246948,52.14782261981815,Maarssen - Noordelijke Maarsseveense Plassen,M. van den Bruinhorst
+372158230,Ruddy Darter,Sympetrum sanguineum,2025-09-08,16:25,1,6.654333392544321,53.07113386182466,Drentsche Aa - Zeegse Duinen & Bos,Hans Roelevink
+372158229,Migrant Hawker,Aeshna mixta,2025-09-08,10:36,1,4.025581836700439,51.92222213745117,Voorne - Westplaat,Paul Schrijvershof
+372158217,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,16:24,1,6.162422,53.186158,Surhuisterveen,Idsynature
+372158213,Migrant Hawker,Aeshna mixta,2025-09-08,10:56,5,4.024501323699951,51.921897888183594,Voorne - Westplaat,Paul Schrijvershof
+372158158,Migrant Hawker,Aeshna mixta,2025-09-08,12:09,5,3.986076354980469,51.93259811401367,Maasvlakte 2 - Zuidpunt,Paul Schrijvershof
+372158118,Migrant Hawker,Aeshna mixta,2025-09-08,10:41,1,5.852736979722977,51.04075071904819,Nieuwstadt - Geleenbeek e.o.,Jos Defauwes
+372158038,Migrant Hawker,Aeshna mixta,2025-09-08,13:22,1,5.807124674320221,51.34424415684486,Asten - Groote Peel (NB),Jan Slaats
+372147819,Darter spec.,Sympetrum spec.,2025-09-08,15:16,1,4.7578307,53.0808142,Texel - Californiëbos,Kenan
+372151221,Ruddy Darter,Sympetrum sanguineum,2025-09-08,14:44,1,6.321328952916667,52.951283179444445,Appelscha - Aekinga,sjors
+372112585,Migrant Hawker,Aeshna mixta,2025-09-08,09:59,12,4.036997318267822,51.924781799316406,Voorne - Westplaat,Paul Schrijvershof
+372112578,Common Darter,Sympetrum striolatum,2025-09-08,09:59,2,4.036997318267822,51.924781799316406,Voorne - Westplaat,Paul Schrijvershof
+372157599,Small Spreadwing,Lestes virens,2025-09-08,15:06,1,5.661864280700684,51.40306101512005,Strabrechtse Heide,Jo van der Heijden
+372157493,Migrant Hawker,Aeshna mixta,2025-09-08,13:16,2,4.566854280870398,51.71009980373078,Strijensas - Oeverlanden Hollands Diep,Jan Benoist
+372157418,Migrant Hawker,Aeshna mixta,2025-09-08,12:42,5,4.560966670864525,51.71137802373158,Strijensas - Esscheplaat,Jan Benoist
+372157417,Migrant Hawker,Aeshna mixta,2025-09-08,13:00,3,4.562586810866045,51.709066713730046,Strijensas - Oeverlanden Hollands Diep,Jan Benoist
+372157416,Migrant Hawker,Aeshna mixta,2025-09-08,12:57,1,4.561901130865401,51.71001774373068,Strijensas - Esscheplaat,Jan Benoist
+372157318,Southern Hawker,Aeshna cyanea,2025-09-08,16:21,1,4.943157027771333,52.38988654088137,Amsterdam - Noord - Rietland,maayke
+372157148,Migrant Hawker,Aeshna mixta,2025-09-08,10:39,1,6.148909568786621,52.5221061706543,Zwolle - Berkum,Marco Hillenaar
+372157089,Southern Hawker,Aeshna cyanea,2025-09-08,11:06,1,6.148116588592529,52.5237922668457,Zwolle - Uiterwaarden Overijsselse Vecht,Marco Hillenaar
+372156797,Brown Hawker,Aeshna grandis,2025-09-08,13:23,1,6.27052640914917,52.496238708496094,Dalfsen - Millingen (OV),Marco Hillenaar
+372156760,Common Darter,Sympetrum striolatum,2025-09-08,11:19,1,5.848403871059418,51.362659963071565,Asten - Astensche Peel,Jan Slaats
+372156730,Banded Darter,Sympetrum pedemontanum,2025-09-08,14:02,1,6.219159126281738,52.509159088134766,Dalfsen - De Marshoek,Marco Hillenaar
+372156694,Common Winter Damsel,Sympecma fusca,2025-09-08,11:15,1,5.848618447780609,51.36251928459209,Asten - Astensche Peel,Jan Slaats
+372156645,Blue Featherleg,Platycnemis pennipes,2025-09-08,14:48,1,6.218361854553223,52.51689147949219,Dalfsen - Uiterwaarden Overijsselse Vecht,Marco Hillenaar
+372156583,Common Winter Damsel,Sympecma fusca,2025-09-08,15:24,1,6.292903,52.932275,Drents-Friese Wold - Aekingerzand (Kale Duinen) - Friesland,Dirk Haaijema
+372156551,Common Darter,Sympetrum striolatum,2025-09-08,12:44,1,5.189781723630716,52.12932351543632,Bilthoven - De Leyen (bebouwde kom) ,Kees Greidanus
+372156357,Migrant Hawker,Aeshna mixta,2025-09-08,11:45,1,5.148128986358643,53.29429244995117,Vlieland - Richel (eiland),Gijs Bouwmeester
+372156311,Migrant Hawker,Aeshna mixta,2025-09-08,12:12,1,5.142133235931396,53.295387268066406,Vlieland - Richel (eiland),Gijs Bouwmeester
+372155873,Darter spec.,Sympetrum spec.,2025-09-08,,2,4.71758235602465,51.8396186642994,Alblasserbos - Papendrecht,Jans Berg
+372155646,Darter spec.,Sympetrum spec.,2025-09-08,16:12,1,5.7829216,52.9616422,Joure,m.besseling
+372155163,Common Darter,Sympetrum striolatum,2025-09-08,16:08,1,4.3431,51.81008666666666,Nieuw Beijerland,Henk van Leenen
+372151153,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:49,1,6.291818618774414,52.2264062039595,Harfsen - Landgoed Dorth,Jan Dijkstra
+372154649,Common Darter,Sympetrum striolatum,2025-09-08,13:13,1,5.651993751525879,51.40409173381292,Strabrechtse Heide - Beuven,Jo van der Heijden
+372154321,Common Bluetail,Ischnura elegans,2025-09-08,,1,4.723198901701835,51.840933591791746,Alblasserbos - Papendrecht,Jans Berg
+372154273,Blue Emperor,Anax imperator,2025-09-08,11:09,1,3.757557830054526,51.68464609370316,Schouwen-Duiveland (gemeente),Martin Benard
+372154272,Common Darter,Sympetrum striolatum,2025-09-08,10:52,1,3.763137610059763,51.678681273699446,Haamstede - Koudekerksche Inlaag ,Martin Benard
+372154270,Migrant Hawker,Aeshna mixta,2025-09-08,10:49,2,3.758091573828246,51.68108044072561,Haamstede - Polder Burgh- en Westland Midden,Martin Benard
+372154205,Ruddy Darter,Sympetrum sanguineum,2025-09-08,,1,4.723263274718192,51.84098330759208,Alblasserbos - Papendrecht,Jans Berg
+372154067,Damselfly unknown,Zygoptera indet.,2025-09-08,16:02,1,5.13503026881822,52.05605658781389,Utrecht - Lunetten - Park de Koppel,Waterdiertjes
+372154029,Dragonfly unknown,Anisoptera indet.,2025-09-08,16:02,1,5.885752640923641,51.83699480192685,Stuwwal - Hunnerberg,Kor Goutbeek
+372153831,Common Winter Damsel,Sympecma fusca,2025-09-08,15:04,1,5.2091636,52.1177842,Bilthoven - Noord-Houdringe,Menko Vlaardingerbroek
+372153793,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:34,1,5.2117499,52.1203313,Bilthoven - Noord-Houdringe,Menko Vlaardingerbroek
+372153786,Common Winter Damsel,Sympecma fusca,2025-09-08,14:13,2,5.2183025,52.1234234,Bilthoven - Noord-Houdringe,Menko Vlaardingerbroek
+372153667,Ruddy Darter,Sympetrum sanguineum,2025-09-08,15:59,1,4.0692945,51.90154166666667,Oostvoorne - Heemtuin Tenellaplas,Corry
+372153612,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-08,16:00,1,5.2502939,51.5703029,Kampina - Belversven,Joep Schipper
+372153468,Moustached Darter,Sympetrum vulgatum,2025-09-08,15:59,1,6.01353398315472,52.782536877384764,Weerribben - Woldlakebos,Henk Snel
+372153070,Migrant Hawker,Aeshna mixta,2025-09-08,15:56,1,6.810894,52.2859946,Hengelo (OV),Age Jellema
+372152998,Common Darter,Sympetrum striolatum,2025-09-08,15:56,1,4.6454304,52.4383218,Santpoort-Noord,tdn
+372152633,Moustached Darter,Sympetrum vulgatum,2025-09-08,13:23,1,5.728804588317871,51.752437591552734,Grave - De Zittert,Arend Vermaat
+372152627,Small Red Damselfly,Ceriagrion tenellum,2025-09-08,13:23,1,5.728804588317871,51.752437591552734,Grave - De Zittert,Arend Vermaat
+372152616,Migrant Hawker,Aeshna mixta,2025-09-08,13:38,1,5.709482207894325,51.761456976789304,Velp - De Bronkhorst,Arend Vermaat
+372152461,Banded Darter,Sympetrum pedemontanum,2025-09-08,15:35,1,5.703972339630127,51.756011962890625,Velp Noord,Arend Vermaat
+372152267,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:39,1,4.626789569854736,52.06694793701172,Bentwoud - Oost (Waddinxveen),Ria en Sjaak
+372152231,Common Darter,Sympetrum striolatum,2025-09-08,15:51,1,5.263335476445344,52.18382751566515,Soest,Harm Jan Luth
+372152064,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-08,13:27,1,4.277807213366032,51.96122419282141,De Lier - Kralingerpolder,Roel Baaima
+372151641,Common Darter,Sympetrum striolatum,2025-09-08,15:46,1,5.263294402710835,52.18382541091792,Soest,Harm Jan Luth
+372151642,Moustached Darter,Sympetrum vulgatum,2025-09-08,12:00,8,4.475534,52.278609,Noordwijk - Noordduinen - Aardbeidel,Peter de Knijff
+372151613,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:00,13,4.475534,52.278609,Noordwijk - Noordduinen - Aardbeidel,Peter de Knijff
+372151582,Common Winter Damsel,Sympecma fusca,2025-09-08,12:00,7,4.475534,52.278609,Noordwijk - Noordduinen - Aardbeidel,Peter de Knijff
+372151522,Blue Emperor,Anax imperator,2025-09-08,12:00,1,4.475534,52.278609,Noordwijk - Noordduinen - Aardbeidel,Peter de Knijff
+372146541,Common Darter,Sympetrum striolatum,2025-09-08,13:18,1,5.683404922485352,50.81756591796875,Maastricht - Sint-Pietersberg Zuid,Dick Bekker
+372146535,Common Darter,Sympetrum striolatum,2025-09-08,13:19,1,5.683386325836182,50.81751251220703,Maastricht - Sint-Pietersberg Zuid,Dick Bekker
+372151345,Darter spec.,Sympetrum spec.,2025-09-08,15:43,1,5.364044599722222,51.504250399722224,Best,JolandaR
+372146523,Common Darter,Sympetrum striolatum,2025-09-08,13:23,1,5.683382987976074,50.81742477416992,Maastricht - Sint-Pietersberg Zuid,Dick Bekker
+372150998,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:41,1,4.432183094326809,52.18090858780982,Valkenburg (ZH),lvanderlinde
+372150878,Common Darter,Sympetrum striolatum,2025-09-08,13:31,1,6.294252980346755,52.22364572095714,Harfsen - Landgoed Dorth,Jan Dijkstra
+372150752,Ruddy Darter,Sympetrum sanguineum,2025-09-08,15:38,1,5.133333333333334,51.63892,Udenhout - De Brand,Greetje Huitzing-Jager
+372148372,Common Darter,Sympetrum striolatum,2025-09-08,13:03,1,4.553881287574768,51.97222352895076,Rotterdam - Nessebos,Sjoerd Bode
+372137579,Ruddy Darter,Sympetrum sanguineum,2025-09-08,14:06,1,5.272173682009225,51.39952884949957,Hoogeloon,hein waterschoot
+372147553,Common Darter,Sympetrum striolatum,2025-09-08,13:11,5,4.55232560634613,51.97008202281772,Rotterdam - Nessebos,Sjoerd Bode
+372150152,Migrant Hawker,Aeshna mixta,2025-09-08,15:33,1,5.027181,52.172461,Breukelen - Kievitsbuurt,Nicole & Max Hof van Gunterstein
+372149890,Common Darter,Sympetrum striolatum,2025-09-08,15:31,1,5.263276307951294,52.183856942070136,Soest,Harm Jan Luth
+372149801,Migrant Hawker,Aeshna mixta,2025-09-08,11:35,2,4.472663354899851,52.017143412505725,Berkel en Rodenrijs - Voorafsche Polder,Trudy Vloedgraven
+372149489,Migrant Hawker,Aeshna mixta,2025-09-08,15:28,1,5.979855,53.1013,De Veenhoop - Petgatten de Feanhoop,H. v.d. Meulen
+372149473,Migrant Hawker,Aeshna mixta,2025-09-08,,15,4.61864255,51.79817754,'s-Gravendeel - Groot Koninkrijk,Arie van der Linden
+372149034,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:26,1,5.6150833,51.587742,Erp - De Laren,betsie
+372148916,Migrant Hawker,Aeshna mixta,2025-09-08,13:28,1,4.565407758333333,52.44695555,Nationaal Park Zuid-Kennemerland - Duin en Kruidberg Midden Heerenduin,K Brederveld
+372148878,Ruddy Darter,Sympetrum sanguineum,2025-09-08,15:24,1,5.99618566033314,51.32258610604393,Helden,Hans Meijer
+372148485,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:20,1,5.947275,52.327153333333335,Emst - Langeweg,John van Breeden
+372148347,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:20,1,6.1327218,52.8097337,Steenwijk - De Bult,steenwijk
+372148258,Darter spec.,Sympetrum spec.,2025-09-08,15:19,1,4.798968078206764,52.337044969368975,Amsterdam - Osdorp,Madelon
+372148242,Ruddy Darter,Sympetrum sanguineum,2025-09-08,13:57,1,4.741045,51.614462,Breda - Haagse Beemden - Landgoederenzone,Ger Duijf
+372147794,Southern Hawker,Aeshna cyanea,2025-09-08,15:15,1,5.895020699722222,52.04628989972222,Arnhem - Vrijland Veteranen Landgoed,Antoine
+372147410,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:14,1,5.959525957688867,51.99035675049248,Velp - Landgoed Larenstein,Turteles
+372147245,Common Winter Damsel,Sympecma fusca,2025-09-08,15:12,1,5.972766666666667,52.01011111111111,Rozendaal - Kleiberglaan e.o.,Nora Kuiper
+372146988,Siberian Winter Damsel,Sympecma paedisca,2025-09-08,15:11,1,6.007597222222222,52.773355555555554,Weerribben - Woldlakebos,Rixt
+372146981,Red-veined Darter,Sympetrum fonscolombii,2025-09-08,,1,4.404744400000027,52.1929465,Berkheide k XIII,Johan Mees
+372146939,Moustached Darter,Sympetrum vulgatum,2025-09-08,14:39,1,4.360303759781715,51.43810791109871,Huijbergen - Kooiheide e.o.,Teus Slagboom
+372146452,Common Bluetail,Ischnura elegans,2025-09-08,15:08,1,4.704998988681035,52.084616275570205,Boskoop - De Wijk,natasbosswoman
+372146428,Common Darter,Sympetrum striolatum,2025-09-08,15:08,1,5.424277777777778,52.161633333333334,Amersfoort - Stoutenburg Noord,Essenhof
+372146405,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:08,1,4.495195248892363,51.88992213459491,Rotterdam - Bloemhof,Jeroen
+372146166,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,15:06,1,4.815036666666667,52.67213,Heerhugowaard - Westdijk e.o.,Claudia D.
+372145813,Blue Featherleg,Platycnemis pennipes,2025-09-08,11:17,1,5.4345017,52.0974353,Woudenberg - Ekris e.o.,Bas
+372145052,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:58,1,5.5284584,52.0275676,Veenendaal - West,Floris Calandt
+372144915,Common Darter,Sympetrum striolatum,2025-09-08,14:58,1,4.965576669251947,51.838531494140625,Gorinchem - Haarwijk,Floris
+372144700,Southern Hawker,Aeshna cyanea,2025-09-08,14:56,1,4.2997052,51.844908799722226,Spijkenisse - Mallebos,M. de Kreij - Wouterlood
+372144184,Migrant Hawker,Aeshna mixta,2025-09-08,14:53,1,6.004819759692829,52.777822789887445,Weerribben - Woldlakebos,Henk Snel
+372143800,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:51,1,4.429007450288475,52.2236665375757,Noordwijk - Willem v.d. Bergh (Stichting),Henk van der Meij
+372143568,Moustached Darter,Sympetrum vulgatum,2025-09-08,13:49,1,5.977891666666666,52.51779166666667,Zalk - De Welle,restauratie atelier niemeijer
+372143555,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:51,1,4.980297,52.476975,Purmerend - Purmerbos,Jose de Kleijn
+372141220,Blue Emperor,Anax imperator,2025-09-08,14:13,1,5.406901799722222,52.13877899972222,Heiligenbergerbeek - Amersfoort ,Katrijn
+372143419,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:49,1,5.284986688105671,51.72978171201081,'s-Hertogenbosch - Maaspoort,carla
+372143408,Moustached Darter,Sympetrum vulgatum,2025-09-08,14:45,1,6.1031763,52.5907537,Hasselt,KarinB
+372143041,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:13,1,4.559159374929663,52.203472706135734,Rijpwetering - Polder Waterloos,M.A. Nieuwenhuizen
+372142984,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:32,1,5.150962352752686,52.094390869140625,Utrecht - Park Bloeyendael,Sean van der Steeg
+372142235,Spotted Darter,Sympetrum depressiusculum,2025-09-08,13:11,1,5.974738,52.82426,Oldemarkt,Robbert en Paula
+372141919,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:36,2,6.323129412774733,52.027218153618364,Zelhem - Velswijk e.o.,TR
+372141337,Common Darter,Sympetrum striolatum,2025-09-08,14:02,1,4.786809682846069,51.55018837311899,Breda - Koninklijke Visio,Jacco Wisman
+372107397,Darter spec.,Sympetrum spec.,2025-09-08,09:18,1,4.6536537,52.1440854,Alphen aan den Rijn - Ridderveld,AlexvanO
+372115161,Darter spec.,Sympetrum spec.,2025-09-08,10:47,1,4.4207817,52.1048368,Leidschendam - Duivenvoordse-Veenzijdse Polder,Th. van der Krogt
+372115353,Darter spec.,Sympetrum spec.,2025-09-08,10:50,1,4.6438516,52.0600867,Waddinxveen - Gouwebos - Westzijde,Mariska
+372141081,Moustached Darter,Sympetrum vulgatum,2025-09-08,14:35,1,5.5269135,52.0374006,Veenendaal,Floris Calandt
+372116928,Darter spec.,Sympetrum spec.,2025-09-08,11:06,1,4.5967436,51.9811582,Nieuwerkerk aan den IJssel - De Hooge Veenen,Ton
+372119623,Common Darter,Sympetrum striolatum,2025-09-08,11:29,1,4.4141167,51.8090228,"Polder Oud-Beijerland, Moerkerken, Cromstrijen en de Group",Arne van der Ree
+372126024,Common Darter,Sympetrum striolatum,2025-09-08,12:24,1,5.272713888888889,52.061302777777776,Driebergen-Rijsenburg,Rik
+372140937,Common Winter Damsel,Sympecma fusca,2025-09-08,13:17,3,5.974571,52.824177,Oldemarkt,Robbert en Paula
+372140885,Darter spec.,Sympetrum spec.,2025-09-08,14:33,1,4.6290348,52.5439472,Noordhollands Duinreservaat - De Brabantse Landbouw,Mirjam Rodenburg
+372132496,Darter spec.,Sympetrum spec.,2025-09-08,13:20,1,4.244046050869633,51.92730171363374,Maassluis,anita
+372134121,Darter spec.,Sympetrum spec.,2025-09-08,13:32,1,5.863521666666667,50.96023,Puth,Mil van Helden
+372136031,Darter spec.,Sympetrum spec.,2025-09-08,13:49,1,5.4803356,52.5194829,Lelystad - Bastion / Lelycentre,matthijsmatthew
+372140703,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:26,1,4.504494,52.151373,Leiden ,MBW van Graven
+372137182,Common Darter,Sympetrum striolatum,2025-09-08,12:48,1,4.766338333333334,51.814725,Sliedrechtse Biesbosch - Merwelanden,Henny Koster
+372137491,Common Darter,Sympetrum striolatum,2025-09-08,14:05,1,4.4671432,51.8832723,Rotterdam - Wielewaal,Thanasis Moraitis
+372140604,Ruddy Darter,Sympetrum sanguineum,2025-09-08,14:31,1,6.000627777777778,52.782022222222224,Weerribben - Woldlakebos,Rixt
+372140376,Moustached Darter,Sympetrum vulgatum,2025-09-08,14:28,1,6.000919444444444,52.78199444444444,Weerribben - Woldlakebos,Rixt
+372139827,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:24,1,5.8488653,53.189644,Leeuwarden - Froskepôlle,jay.kzr
+372139745,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:22,1,5.834929888888889,53.18908308333333,Leeuwarden - Aldlân-Oost,koen
+372139429,Migrant Hawker,Aeshna mixta,2025-09-08,14:21,1,5.8087613,52.7486898,Emmeloord - Kuindervaart e.o.,Adri de Boer
+372139316,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:20,1,5.471341666666667,52.07396111111112,Valleikanaal - Woudenberg,Wanda Floor-Zwart
+372139019,Common Darter,Sympetrum striolatum,2025-09-08,11:13,1,4.7683448,52.0823522,Bodegraven - Noordzijderpolder,Wilm@
+372138856,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:15,1,6.089704278862186,52.54574169409731,Zwolle - Westerveldse Bos,Han van Asten
+372138673,Common Darter,Sympetrum striolatum,2025-09-08,14:12,1,5.916736666666667,50.93655,Amstenrade,john
+372138390,Migrant Hawker,Aeshna mixta,2025-09-08,09:21,3,3.764122277498245,51.6896101573439,Haamstede - Polder Burgh- en Westland Oost,Maarten Sluijter
+372138104,Banded Demoiselle,Calopteryx splendens,2025-09-08,13:44,1,5.659322225677222,51.50447798429016,Aarle-Rixtel,Daan van Hoof
+372138090,Common Bluetail,Ischnura elegans,2025-09-08,13:24,1,5.658264660001741,51.50604450002815,Aarle-Rixtel,Daan van Hoof
+372138079,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:59,5,4.4057538,51.8650246,Poortugaal - Polder Zwaardijk,Jeroen van Soolingen
+372138026,Common Darter,Sympetrum striolatum,2025-09-08,12:56,1,5.657051822718291,51.50476781093365,Aarle-Rixtel,Daan van Hoof
+372137963,Ruddy Darter,Sympetrum sanguineum,2025-09-08,12:23,1,5.658436589082398,51.49890404922797,Helmond - Bundertjes,Daan van Hoof
+372137942,Common Darter,Sympetrum striolatum,2025-09-08,14:09,1,5.656737999722223,51.9843496,Wageningen - Droevendaalsesteeg,Henri
+372137940,Migrant Hawker,Aeshna mixta,2025-09-08,12:10,1,5.659792006965125,51.49229125975023,Helmond - Bundertjes,Daan van Hoof
+372137881,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:09,1,5.120153972524387,52.1052208050024,Utrecht - Tuinwijk,Maai
+372137872,Small Spreadwing,Lestes virens,2025-09-08,14:08,1,6.283266666666667,52.21543833333333,Kring van Dorth,MVO
+372137474,Blue Featherleg,Platycnemis pennipes,2025-09-08,14:04,1,5.472988888888889,52.073011111111114,Scherpenzeel - Landgoed Lambalgen,Wanda Floor-Zwart
+372137410,Spotted Darter,Sympetrum depressiusculum,2025-09-08,14:02,1,6.000947222222222,52.78211388888889,Weerribben - Woldlakebos,Rixt
+372137353,Common Darter,Sympetrum striolatum,2025-09-08,12:57,1,4.389934062957764,52.16597366333008,Lentevreugd,M Goldenberg
+372137357,Azure Bluet,Coenagrion puella,2025-09-08,12:56,1,4.389936447143555,52.16597366333008,Lentevreugd,M Goldenberg
+372137347,Brown Hawker,Aeshna grandis,2025-09-08,12:57,1,4.389934062957764,52.16597366333008,Lentevreugd,M Goldenberg
+372137334,Migrant Hawker,Aeshna mixta,2025-09-08,13:45,1,4.399452686309814,52.18064498901367,Berkheide k VII A,M Goldenberg
+372137221,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,14:01,1,4.340805,52.133336166666666,Meijendel,J.Krogt
+372137200,Southern Hawker,Aeshna cyanea,2025-09-08,13:51,1,5.279177,52.048261,Driebergen-Rijsenburg,Maris de Boer
+372137197,Common Winter Damsel,Sympecma fusca,2025-09-08,13:51,1,5.2261954,51.9844488,Schalkwijk - Polder Blokhoven,Hans Kunstman
+372137099,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:35,1,5.9856177,51.9505135,Westervoort,Maarten Oosterbroek
+372136898,Migrant Hawker,Aeshna mixta,2025-09-08,13:55,1,6.269311666666667,52.182566666666666,Gorssel - De Huurne,Gerrit Wever
+372136778,Darter spec.,Sympetrum spec.,2025-09-08,13:57,1,5.2102411,52.2149322,Hilversum - Monnikenberg en Heideheuvel,Matthijs Beekhoven
+372136708,Common Darter,Sympetrum striolatum,2025-09-08,13:56,1,4.487486923180238,52.16698326919117,Leiden - Maredijkbuurt,Jan Hengstmengel
+372136585,Darter spec.,Sympetrum spec.,2025-09-08,13:55,1,5.7622814,50.8053486,Eckelrade e.o.,Guy
+372136561,,Aeshnidae indet.,2025-09-08,13:53,1,5.874678050524912,50.917753919561264,Nuth - Nierhoven / Kamp Waterloo,Richard
+372136530,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,11:00,1,4.278589,52.107229,Scheveningen - algemeen,rob van beets
+372136514,,Aeshnidae indet.,2025-09-08,13:53,1,5.874678050524912,50.917753919561264,Nuth - Nierhoven / Kamp Waterloo,Richard
+372135954,Common Darter,Sympetrum striolatum,2025-09-08,12:58,1,5.067605018615723,52.517093658447266,Edam - Fort,René Beekvelt
+372136395,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,11:29,1,4.704436642201813,51.78787496762159,Dordrecht - Dubbeldam,Gerard Broens
+372135935,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:01,1,5.06763219833374,52.51710891723633,Edam - Fort,René Beekvelt
+372136292,Darter spec.,Sympetrum spec.,2025-09-08,13:52,1,6.106294140760602,52.51198877824382,Zwolle - Wipstrik,Timaltena1
+372136125,Common Darter,Sympetrum striolatum,2025-09-08,13:20,1,5.067121983019206,52.51695499944448,Edam - Fort,René Beekvelt
+372135788,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:17,1,5.897681,51.984321,Arnhem - Centrum (01),Hans van den Bos
+372135756,Common Winter Damsel,Sympecma fusca,2025-09-08,13:17,1,5.897681,51.984321,Arnhem - Centrum (01),Hans van den Bos
+372135748,Common Winter Damsel,Sympecma fusca,2025-09-08,13:13,2,5.066757202548501,52.51706954977394,Edam - Fort,René Beekvelt
+372130991,Common Darter,Sympetrum striolatum,2025-09-08,11:46,1,3.670213333280037,51.35197167014677,Biervliet - Helenapolder,Dirk Verroken
+372130990,Common Darter,Sympetrum striolatum,2025-09-08,11:24,1,3.660866953369811,51.351213826020214,Hoofdplaat - Wilhelminapolder oost,Dirk Verroken
+372135651,Common Darter,Sympetrum striolatum,2025-09-08,10:38,1,4.5059,52.325221666666664,Amsterdamse Waterleidingduinen,MirandaWandelt
+372135307,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:44,1,6.002441528457009,52.879073468741204,Wolvega,alie machiela
+372134868,Common Darter,Sympetrum striolatum,2025-09-08,13:39,1,6.0993756,51.583383,Reindersmeer,Judith
+372134723,Ruddy Darter,Sympetrum sanguineum,2025-09-08,13:38,1,6.002908138256821,52.77652454682659,Weerribben - Woldlakebos,Henk Snel
+372134547,Ruddy Darter,Sympetrum sanguineum,2025-09-08,12:19,1,5.491407887964368,52.077530770864264,Scherpenzeel (GE),Cora Boesenach
+372134550,Darter spec.,Sympetrum spec.,2025-09-08,13:36,1,5.2594319,52.3011964,Huizen - Bovenmaat,Marijke
+372134410,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:35,1,4.364249977482704,52.002553407626515,Delft - TU-wijk,marjan
+372134278,Common Darter,Sympetrum striolatum,2025-09-08,13:34,1,4.240391760550013,52.07691689623483,Den Haag - Vogelwijk,ruud wielinga
+372134203,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:32,1,5.8374648,53.2165662,Leeuwarden - Camminghaburen,Sander Bloemink
+372134200,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:06,3,6.691089570522308,52.507856200722095,Balderhaar - Zandwinning,Bert Stegeman
+372133753,Moustached Darter,Sympetrum vulgatum,2025-09-08,13:31,1,5.658608675949023,51.50580984978012,Aarle-Rixtel,Daan van Hoof
+372133742,Common Winter Damsel,Sympecma fusca,2025-09-08,10:38,1,4.959649085867568,52.49380276847067,Purmerend - Gors,Frank Reurs
+372133019,Ruddy Darter,Sympetrum sanguineum,2025-09-08,11:52,1,5.092828,52.207663,Oud-Loosdrecht,Angela Eberhardt
+372132828,Common Bluet,Enallagma cyathigerum,2025-09-08,13:23,1,6.093042,51.5850379,Reindersmeer,Judith
+372132730,Common Darter,Sympetrum striolatum,2025-09-08,13:22,1,5.885871666666667,51.81701666666667,Heilig Landstichting dorp,Wijnen
+372132694,Common Darter,Sympetrum striolatum,2025-09-08,13:09,1,5.958631038665771,51.991031646728516,Velp - Landgoed Larenstein,Rense Nieuwenhuis
+372132530,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:07,1,5.799122333526611,51.75697326660156,Overasselt - Vogelzang,Pim Lemmers
+372132370,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:19,1,4.812011666666667,52.38635333333333,Amsterdam - Geuzenveld-Slotermeer,Peter Siegel
+372132243,Migrant Hawker,Aeshna mixta,2025-09-08,13:18,1,5.6284641,53.4563916,Ameland - Korte Duinen,hr J.F.M. Dieker
+372132186,Common Darter,Sympetrum striolatum,2025-09-08,12:40,5,3.587763011455536,51.491470295622904,Middelburg - Ter Hooge,Niek Haak
+372132050,Migrant Hawker,Aeshna mixta,2025-09-08,12:26,1,3.585784,51.490572,Middelburg - Ter Hooge,Niek Haak
+372131841,Migrant Hawker,Aeshna mixta,2025-09-08,12:20,1,3.589232861995697,51.488661223921305,Middelburg - Ter Hooge,Niek Haak
+372131926,Common Darter,Sympetrum striolatum,2025-09-08,12:26,5,3.585783541202545,51.49057181232366,Middelburg - Ter Hooge,Niek Haak
+372131905,Darter spec.,Sympetrum spec.,2025-09-08,13:14,1,4.2559917,52.07296,Den Haag - Bomen- en Bloemenbuurt,Elllen
+372131780,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:30,1,3.58728,51.490689,Middelburg - Ter Hooge,Niek Haak
+372131741,Common Darter,Sympetrum striolatum,2025-09-08,12:31,3,3.58728,51.490689,Middelburg - Ter Hooge,Niek Haak
+372131707,Migrant Hawker,Aeshna mixta,2025-09-08,12:32,1,3.587280213832855,51.49068871635722,Middelburg - Ter Hooge,Niek Haak
+372131679,Migrant Hawker,Aeshna mixta,2025-09-08,13:13,1,5.6284487,53.4563696,Ameland - Korte Duinen,hr J.F.M. Dieker
+372131624,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:12,1,5.9778567,52.2212069,Apeldoorn - Sluisoord,Huub Slingerland
+372131291,Common Bluetail,Ischnura elegans,2025-09-08,12:58,1,4.363995499722222,51.834535799722225,Spijkenisse - Maaswijk e.o.,Marry
+372131240,Darter spec.,Sympetrum spec.,2025-09-08,12:15,1,4.374278,52.080922,Voorburg - Essesteijn,Olaf Duin
+372131176,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,13:08,1,5.295271054303202,51.840120668526176,Neerijnen - Hooge Tieflaar,monique welle
+372130867,Common Darter,Sympetrum striolatum,2025-09-08,10:05,1,3.672374999949249,51.35814000348428,Hoofdplaat - Plaskreek zuid / Kromme Watergang ,Dirk Verroken
+372130570,Common Darter,Sympetrum striolatum,2025-09-08,13:02,2,5.996185779513326,51.32257668208931,Helden,Hans Meijer
+372130544,Moustached Darter,Sympetrum vulgatum,2025-09-08,13:03,1,5.532042643483869,52.31928684323518,Zeewolde - Horsterwold,Rick 't Hart
+372130474,Common Darter,Sympetrum striolatum,2025-09-08,13:03,1,5.658331985252022,51.50537181331197,Aarle-Rixtel,Daan van Hoof
+372112381,Spotted Darter,Sympetrum depressiusculum,2025-09-08,10:17,1,5.99752676848076,52.78417734546985,Weerribben - Woldlakebos,Henk Snel
+372112528,Spotted Darter,Sympetrum depressiusculum,2025-09-08,10:19,1,5.997508333333333,52.78418,Weerribben - Woldlakebos,Ellen van Knippenberg
+372114959,Common Darter,Sympetrum striolatum,2025-09-08,10:45,1,4.344385499722222,51.4590486,Woensdrecht - Woensdrechtsche Heide,Ari
+372116950,Darter spec.,Sympetrum spec.,2025-09-08,11:06,1,4.643357829805256,52.059395765679575,Waddinxveen - Gouwebos - Westzijde,cyntb
+372119444,Southern Hawker,Aeshna cyanea,2025-09-08,10:13,1,5.690470574173477,51.966911401403564,Wageningen - Arboretum Belmonte,Jasper Lamers
+372122290,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,11:49,1,5.310393599463175,51.72333959235233,'s-Hertogenbosch - Maaspoort,Jan de Louw
+372130139,Common Winter Damsel,Sympecma fusca,2025-09-08,12:55,1,5.187524,52.227702,Hilversum,Robert Bekenkamp
+372130074,Common Darter,Sympetrum striolatum,2025-09-08,12:57,1,4.604545,52.34211333333333,Heemstede,Marjolein Hijl
+372130017,Black-tailed Skimmer,Orthetrum cancellatum,2025-09-08,12:32,2,6.162273371597903,51.53022295334519,De Hamert - Looierheide - Westmeerven,Robert Ketelaar
+372130013,Small Spreadwing,Lestes virens,2025-09-08,12:30,1,6.162619208922761,51.53030103077323,De Hamert - Looierheide - Westmeerven,Robert Ketelaar
+372130007,Red-veined Darter,Sympetrum fonscolombii,2025-09-08,12:28,2,6.163615435799695,51.53046031870233,De Hamert - Looierheide - Westmeerven,Robert Ketelaar
+372129984,Common Bluet,Enallagma cyathigerum,2025-09-08,12:27,2,6.164072095615733,51.53055245304957,De Hamert - Looierheide - Westmeerven,Robert Ketelaar
+372129956,Blue Emperor,Anax imperator,2025-09-08,12:23,1,6.163778000210011,51.53051827556959,De Hamert - Looierheide - Westmeerven,Robert Ketelaar
+372129766,Common Darter,Sympetrum striolatum,2025-09-08,12:56,1,6.002158333333333,52.776955,Weerribben - Woldlakebos,Ellen van Knippenberg
+372129562,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:55,1,5.225067742229365,52.056710027405416,Kromme Rijn - Odijk,Diederick Meinen
+372129275,Common Darter,Sympetrum striolatum,2025-09-08,12:47,1,4.713011254640545,52.82492963381594,Zijpe - Uitlandsche Polder,bernard lucas
+372128621,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:45,1,4.6807102,52.3470842,Vijfhuizen,Anne
+372128244,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,11:56,1,4.874205112457275,51.59435272216797,Oosterhout (NB) - Boswachterij Dorst,Raymond van Breemen
+372128242,Common Darter,Sympetrum striolatum,2025-09-08,11:57,1,4.87427282333374,51.594451904296875,Oosterhout (NB) - Boswachterij Dorst,Raymond van Breemen
+372128208,Common Darter,Sympetrum striolatum,2025-09-08,12:14,3,4.885482788085938,51.592403411865234,Oosterhout (NB) - Boswachterij Dorst,Raymond van Breemen
+372128198,Ruddy Darter,Sympetrum sanguineum,2025-09-08,12:24,1,4.882058143615723,51.59474182128906,Oosterhout (NB) - Boswachterij Dorst,Raymond van Breemen
+372128167,Migrant Hawker,Aeshna mixta,2025-09-08,12:35,10,4.87532377243042,51.59672164916992,Oosterhout (NB) - Boswachterij Dorst,Raymond van Breemen
+372127919,Common Darter,Sympetrum striolatum,2025-09-08,12:36,1,5.79553472995841,51.78128169319262,Hatertse Vennen - Schatkuil,Ri-ja Meuleman
+372127769,Ruddy Darter,Sympetrum sanguineum,2025-09-08,11:33,1,4.878993,52.449545,Oostzaan - Het Twiske - Twiske Zuidwest,Joppe en Josien
+372127704,Common Darter,Sympetrum striolatum,2025-09-08,12:37,1,5.303861666666666,52.29987166666667,A27 - Huizen - Stichtse Brug (NH),Hansp
+372127627,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:36,1,4.5705551,51.9440652,Rotterdam - Oosterflank,David
+372127536,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,11:39,1,4.881148,52.44939,Oostzaan - Het Twiske - Twiske Zuidwest,Joppe en Josien
+372127360,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:34,1,4.325518593020601,52.09989479620558,Den Haag - Clingendael / Oosterbeek,Han D.  Feenstra
+372126846,Common Darter,Sympetrum striolatum,2025-09-08,12:30,1,4.6626954,52.6672117,Noordhollands Duinreservaat - Bouwvlak,Tom van Keulen
+372126627,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:29,1,5.3933448,52.1921409,Amersfoort - Kattenbroek,Mattie van Rooijen
+372126409,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:27,1,5.3929648,52.1921471,Amersfoort - Kattenbroek,Mattie van Rooijen
+372126050,Moustached Darter,Sympetrum vulgatum,2025-09-08,11:33,1,4.68929325016521,52.82748817349601,Zwanenwater - Zuidduinen,bernard lucas
+372125587,Southern Hawker,Aeshna cyanea,2025-09-08,12:20,1,5.8208859,51.323338499722226,Ospel -  Oude Dijk e.o.,Folkert Bakker
+372125117,Siberian Winter Damsel,Sympecma paedisca,2025-09-08,12:15,1,5.999592194586818,52.779346085610555,Weerribben - Woldlakebos,Henk Snel
+372124823,Common Darter,Sympetrum striolatum,2025-09-08,12:11,1,4.436569586621738,52.12439621265869,Voorschoten - algemeen,Aat
+372124725,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,12:09,1,5.4104997,52.2100452,Amersfoort - Vathorst West,Jesse Houwing
+372124594,Siberian Winter Damsel,Sympecma paedisca,2025-09-08,12:09,1,5.999583333333334,52.77934666666667,Weerribben - Woldlakebos,Ellen van Knippenberg
+372124510,Migrant Hawker,Aeshna mixta,2025-09-08,09:32,1,6.993280999722223,53.05101069972222,Alteveer (GR),Claudia Vos
+372124302,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,10:16,1,5.410491666666667,52.20999444444445,Amersfoort - Vathorst West,Jesse Houwing
+372124299,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,10:09,1,5.410586111111112,52.21013333333334,Amersfoort - Vathorst West,Jesse Houwing
+372123748,Ruddy Darter,Sympetrum sanguineum,2025-09-08,12:02,1,5.2470862,52.072071999722226,Zeist - Schoonoord en de Bunsing,Pingu
+372123222,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,11:58,1,5.253806302506474,52.044195568948254,Driebergen-Rijsenburg - Rijsenburgselaan,Arno
+372122600,Southern Hawker,Aeshna cyanea,2025-09-08,11:53,1,4.9455794,51.9608415,Tienhoven aan de Lek,sharon
+372122510,Southern Hawker,Aeshna cyanea,2025-09-08,11:52,1,4.9455861,51.9607686,Tienhoven aan de Lek,sharon
+372122311,Common Darter,Sympetrum striolatum,2025-09-08,11:47,1,4.556989234406501,52.1668992712397,Leiderdorp - Ghoybos,Douwe
+372122289,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,11:51,1,5.321087475469514,52.01220703125,Langbroek - Cotherweg,Jan van Zetten
+372121437,Migrant Hawker,Aeshna mixta,2025-09-08,,8,5.191941,52.144019,Bilthoven - Ridderoordse Bossen,Sonja & Lex
+372121164,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,11:40,1,4.800334,52.7892783,Schagen - Centrum,De natuur vriend
+372121089,Common Darter,Sympetrum striolatum,2025-09-08,11:33,1,4.739150399722222,52.06199519972222,Reeuwijk - Reeuwijkse Hout,Jan Hogeling
+372120725,Damselfly unknown,Zygoptera indet.,2025-09-08,11:24,1,5.23157006795654,52.752285351192626,Andijk - PWN Life Watersource-project,TIM-LWS
+372120084,Common Winter Damsel,Sympecma fusca,2025-09-08,11:33,1,4.818536,51.6080349,Teteringen,Kim Bosma
+372119826,Southern Hawker,Aeshna cyanea,2025-09-08,11:31,1,5.010171465539881,52.61895751953125,Scharwoude - Suyderbraeck,ArtaMatrA
+372118911,Ruddy Darter,Sympetrum sanguineum,2025-09-08,10:32,1,4.064189085902541,51.904099816781695,Oostvoorne - Gamandervallei,Kevin Varekamp
+372118500,Darter spec.,Sympetrum spec.,2025-09-08,11:18,1,4.6831553,52.3574968,Vijfhuizen - Kromme Spieringweg e.o.,eendenkooi
+372118300,Darter spec.,Sympetrum spec.,2025-09-08,11:16,1,5.301096690823604,51.73038225625835,'s-Hertogenbosch - Maaspoort,Piet
+372118273,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,11:18,1,4.0742928,51.8482135,Voornes Duin - Quackjeswater e.o.,yvakat
+372117914,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,11:13,1,4.5517658,51.9562218,Rotterdam - Ommoord,P.N. Bak
+372117347,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,10:59,1,4.4039485,51.977788699722225,Ackerdijksche Plassen e.o.,Fred
+372117204,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,10:59,1,4.403907799722223,51.9778377,Ackerdijksche Plassen e.o.,Irene
+372115907,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,10:55,1,4.6438619,52.0598471,Waddinxveen - Gouwebos - Westzijde,Mariska
+372115798,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,10:54,1,4.643882140521559,52.05983501398228,Waddinxveen - Gouwebos - Westzijde,cyntb
+372115756,Western Willow Spreadwing,Chalcolestes viridis,2025-09-08,10:53,1,4.643898,52.0598631,Waddinxveen - Gouwebos - Westzijde,Mariska
+372115189,Darter spec.,Sympetrum spec.,2025-09-08,10:48,1,4.5528794,52.1658087,Leiderdorp - Ghoybos,Douwe
+372112975,Spotted Darter,Sympetrum depressiusculum,2025-09-08,10:24,1,5.997413649564732,52.7839117701807,Weerribben - Woldlakebos,Henk Snel
+372112635,Common Darter,Sympetrum striolatum,2025-09-08,10:20,1,4.668466890166895,51.88221612250388,Nieuw-Lekkerland,aardhommel
+372112244,Southern Hawker,Aeshna cyanea,2025-09-08,10:15,1,6.0181167,51.6150967,Groeningen - Zoetepasweiden,Rolf Boersma
+372110047,Southern Hawker,Aeshna cyanea,2025-09-08,09:52,1,5.007206,52.172736,Breukelen - Polder Breukelen-Proosdij,Nicole & Max Hof van Gunterstein
+372102486,Migrant Hawker,Aeshna mixta,2025-09-08,08:24,1,5.2405461,52.0853939,Zeist - Centrum Carré,Martha Bruning-Camphuijsen

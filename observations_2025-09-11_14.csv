@@ -1,0 +1,542 @@
+id,common_name,scientific_name,date,time,count,longitude,latitude,location,observer
+372655327,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,22:45,1,4.986231923103333,52.503128486283345,Purmerend - Purmer-Noord,Jose de Kleijn
+372654969,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,20:49,1,6.753789901733398,52.297359466552734,Borne,Ruben Bos
+372649918,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,10:35,1,6.27556037902832,52.15073776245117,Almen - Groot Besselink e.o.,Michel Klemann
+372649908,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,10:39,2,6.279342651367188,52.15095520019531,Almen - Groot Besselink e.o.,Michel Klemann
+372645921,Field Cricket,Gryllus campestris,2025-09-11,11:36,1,5.660268031060696,51.39945143418525,Strabrechtse Heide - Starven,Mans de Wild
+372644066,Meadow Grasshopper,Pseudochorthippus parallelus,2025-09-11,14:35,1,6.560186666666667,52.019108333333335,Lievelde - Koolmansdijk e.o.,Thomas Steverink
+372604401,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,21:40,1,5.485728621180712,52.494954863960416,Lelystad - Waterwijk,Frank Böinck
+372554750,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,14:38,1,5.2428818,52.2964462,Huizen - Huizermaat,Jurrien Uiterwijk
+372554830,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,14:39,1,5.242882,52.2963783,Huizen - Huizermaat,Jurrien Uiterwijk
+372629274,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-11,14:00,1,5.1550899,52.2560233,Hilversum - Spanderswoud,Benthe
+372627295,,Meconema spec.,2025-09-12,09:11,1,6.224409083333334,52.48600005555556,Dalfsen - Hoonhorst,Drifloon
+372592814,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,15:58,1,3.916234,51.811423,Ouddorp - Kelderweg / Stelleweg e.o.,Aren Kievit
+372593946,Lesser Marsh Grasshopper,Chorthippus albomarginatus,2025-09-12,17:06,1,6.113108396530151,51.521147706192835,Blitterswijck - Boltweg e.o.,Clemens Geraths
+372603592,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,12:58,1,6.239841499722222,52.44937519972222,Heino - 't Moer,Petra Veltmaat
+372617402,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,12:00,1,6.152258,51.919338,Didam - Gat van Roelofs e.o.,André Hertog
+372622510,Field Grasshopper,Chorthippus brunneus,2025-09-12,18:51,1,6.467325308076397,52.72854204656494,Hoogeveen - West,Willy Ronkes
+372596256,Field Grasshopper,Chorthippus brunneus,2025-09-12,17:18,1,6.112979650497437,51.52138135712038,Blitterswijck - Boltweg e.o.,Clemens Geraths
+372618391,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,14:30,2,6.547540426254272,52.50721006978328,Ommen - Natuurgebied Beerze - Het Beerzerveld,Waldo van Zuijlen
+372616025,Sickle-bearing Bush-cricket,Phaneroptera falcata,2025-09-12,17:43,1,6.466837146035687,52.72885155312577,Hoogeveen - West,Willy Ronkes
+372615621,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,22:07,4,3.725590467453003,51.70545959472656,Haamstede - noord,Bart Hoeymans
+372615609,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,22:08,4,3.725555419921875,51.704872131347656,Haamstede - noord,Bart Hoeymans
+372528682,Mediterranean Katydid,Phaneroptera nana,2025-09-12,11:04,1,5.987895,51.860258,Duffelt - Kekerdomse Waard,Ben Selten
+372529330,European Tree cricket,Oecanthus pellucens,2025-09-12,11:13,1,5.987841,51.860228,Duffelt - Kekerdomse Waard,Eric vd Brugge
+372529315,European Tree cricket,Oecanthus pellucens,2025-09-12,11:13,1,5.98782,51.860255,Duffelt - Kekerdomse Waard,Ben Selten
+372610260,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,14:31,1,6.095798492169706,51.59645998983206,Bergerheide - Noord,Twan Martens
+372604500,,Tetrix spec.,2025-09-11,12:58,1,5.33773,51.595845,Boxtel,Josee van Oers
+372533984,Long-winged Cone-head,Conocephalus fuscus,2025-09-12,10:19,1,5.528893768787384,52.03833971924223,Veenendaal - De Turfweide,John Bouwmans
+372538664,Short-horned Grasshopper spec.,Gomphocerinae indet.,2025-09-12,12:31,1,5.664247056109659,52.016570779944196,Ede - Aeres MBO,Marley
+372539046,Long-winged Cone-head,Conocephalus fuscus,2025-09-12,11:13,1,5.5288,52.038244,Veenendaal - De Turfweide,John Bouwmans
+372539166,Roesel's Bush-cricket,Roeseliana roeselii,2025-09-12,12:34,1,5.6641766,52.0170711,Ede - Zuid,Vanessa Cafferata
+372539430,Roesel's Bush-cricket,Roeseliana roeselii,2025-09-12,12:36,1,5.663717016582996,52.01687214435266,Ede - Zuid,Marley
+372542569,Sickle-bearing Bush-cricket,Phaneroptera falcata,2025-09-12,12:59,1,6.4828915,52.497430899722225,Ommen - Landgoed Junne - Junnerveld,Mark Zekhuis
+372545839,Lesser Marsh Grasshopper,Chorthippus albomarginatus,2025-09-12,13:19,1,5.1340513,52.2819569,Naarden - Keverdijkse Overscheense Polder,Rick Middelbos
+372550512,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,13:57,1,3.871494444444445,51.751847222222224,Brouwersdam - Grevelingen - Kabbelaarsbank,Herbert Quist
+372550779,Bog Bush-cricket,Metrioptera brachyptera,2025-09-12,14:00,1,4.5974668,51.4849167,Schijf - Witte Moeren e.o.,Rick Dekker
+372550819,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,14:00,1,6.222531331773239,52.485398068897034,Dalfsen - Hoonhorst,Mariejan wesseldijk
+372552312,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,14:14,1,6.224037676547972,52.1474929525331,Zutphen - Noordveen,marian aalderink
+372554245,Long-winged Cone-head,Conocephalus fuscus,2025-09-12,14:33,1,6.1534008,52.2479012,Deventer - Bolwerksplas,Emile Zwiggelaar
+372554883,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,14:38,1,6.866964341479624,53.09674703742955,Veendam - Zeestratenwijk,jannos
+372555929,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,14:49,1,6.114222255258647,52.23067339004909,Twello,Irene58
+372556653,Long-winged Cone-head,Conocephalus fuscus,2025-09-12,13:34,1,6.008398532867432,50.761478424072266,Vaals - Eschberg,Dick Bekker
+372557435,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,12:56,2,5.283258,52.075586,Zeist - Heidestein,F T van Binsbergen
+372557827,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,15:03,1,4.785956972222222,53.003933,Texel - 't Horntje,Tim Oortwijn
+372558479,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,10:03,1,5.8117555,53.0043506,Snikzwaagsterpolder,Durk Jelle
+372576133,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,17:21,1,6.625583333333333,53.172403333333335,Haren (GR) - Oosterhaar,Tim Huizinga
+372577988,Long-winged Cone-head,Conocephalus fuscus,2025-09-12,16:25,1,5.53900594371097,51.41705479213568,Geldrop - Gijzenrooi-Oost,Rob Brinkhof
+372578000,Long-winged Cone-head,Conocephalus fuscus,2025-09-12,16:28,1,5.538953226064834,51.41709911176135,Geldrop - Gijzenrooi-Oost,Rob Brinkhof
+372578306,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,13:34,1,6.026684999778809,52.02296636742566,Veluwezoom - Herikhuizerveld,Natuurliefhebber
+372578781,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,17:42,1,5.524640083312988,52.02706527709961,Veenendaal - West,Theo Hattink
+372580106,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,14:31,1,6.026313781821955,52.027973732368814,Veluwezoom - Herikhuizerveld,Natuurliefhebber
+372580783,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,14:35,1,6.015833973988265,52.03375293167822,Veluwezoom - Herikhuizerveld,Natuurliefhebber
+372583687,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,18:29,1,4.175697517933698,51.90458982041353,Brielle,Janet
+372590543,Slender Ground-hopper,Tetrix subulata,2025-09-12,19:50,1,6.65722131729126,53.03551032459972,Drentsche Aa - Gasterensche Diep (NP),Ben Schoon
+372590546,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,13:32,1,5.607458333333334,51.68616333333333,Maashorst - Slabroekse heide,Irene
+372591036,Long-winged Cone-head,Conocephalus fuscus,2025-09-12,14:53,1,5.773595,51.719432,Tongelaar,Louis Geraets
+372592163,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,15:39,1,5.629194974899292,52.3619750785697,Harderwijk - Lorentzhaven e.o.,Eduard van Wilgenburg
+372592433,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,15:54,1,5.631281733512878,52.36275036658766,Harderwijk - Lorentzhaven e.o.,Eduard van Wilgenburg
+372606165,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,10:12,1,4.891834499986135,51.41519828069837,Baarle-Nassau - Merkske - De Broskens,Danny Pinxteren
+372598445,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,21:43,1,5.4996197,52.52016689972222,Lelystad - Sportpark / Stadscamping,Pascal Walhof
+372600562,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,22:13,1,5.6460462,50.8370264,Maastricht - Maastricht West,lissa524
+372600985,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,20:51,1,4.632978,51.846069,Hendrik-Ido-Ambacht,Kees Verboom
+372603416,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,22:56,1,5.474275111111111,51.45277402777778,Eindhoven,Sylvester
+372604966,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,14:39,1,5.440403334796429,51.80062084142642,Lith,Noud van den Berg
+372604960,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,14:13,1,5.890272,52.5577,Kampen - Hagenbroek,Klaas van der sluis
+372604346,,Tetrix spec.,2025-09-12,13:24,1,5.832163095474243,51.845264923620825,Nijmegen - Hees - Voedselbos Novio,T. van Gaal
+372604147,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,18:12,1,5.652968977190994,51.97961926964378,Wageningen - Noordwest,Ivo Lustenhouwer
+372604045,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,23:11,1,5.36978989629854,52.18483774845506,Amersfoort - Hoogland,Elsbeth
+372603636,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-12,12:53,1,5.864271666666666,51.813195,Nijmegen - Brakkenstein,marieke shrimpino
+372603609,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,13:15,1,6.240999250132063,52.44966460606284,Heino - 't Moer,Petra Veltmaat
+372602459,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,22:45,1,6.739747423855177,52.29352837975524,Borne,"van den Berg, Jos"
+372601647,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,21:33,1,4.4982662,52.1816536,Leiden - Voedselbos Okkerheide,Johannes Müller
+372593742,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,16:19,1,5.915257930755615,51.82874298095703,"Stuwwal - Boterberg, Stollenberg",Pieter Bruijsten
+372598769,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,13:41,1,4.473377466201782,51.88207757983931,Rotterdam - Zuiderpark,Irene
+372597814,Mole cricket,Gryllotalpa gryllotalpa,2025-09-11,11:25,1,6.667347,52.482229,Engbertsdijksvenen - Hoogveenkern,A&E
+372596863,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,20:59,1,3.702365085482597,51.34237021971981,Biervliet - Beukelspolder,Dirk Verroken
+372596532,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,14:48,1,5.267102122306824,51.8335912569802,Waardenburg - Kasteel Waardenburg e.o.,Rutger Warrink
+372596282,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,08:56,1,6.053777754350449,51.90983739608722,Rosandse Polder,Simeon Klompmaker
+372596209,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,17:26,1,4.327417,51.935517,Vlaardingen - Broekpolder,Dio
+372595902,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,13:49,1,4.514171183109283,52.20479525170046,Warmond - Huys te Warmond,edwin jongeleen
+372595394,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,15:21,1,5.082373023033142,51.38655450006075,Hooge Mierde - Wellenseindse Heide - Moerbleek,Jos Vroegrijk
+372595268,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,14:30,1,5.377025,52.120137,Leusden - Het Vogelwater,Louis Dederen
+372595197,Dark Bush-cricket,Pholidoptera griseoaptera,2025-09-12,14:38,1,5.2674400806427,51.83496251173823,Waardenburg - Kasteel Waardenburg e.o.,Rutger Warrink
+372594930,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,14:37,1,5.377025,52.120137,Leusden - Het Vogelwater,Louis Dederen
+372593768,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,13:43,1,5.04645824432373,52.90194582006119,Wierholt,Ada&Johan van der Vegt
+372593338,Dark Bush-cricket,Pholidoptera griseoaptera,2025-09-12,20:34,1,5.6071627,51.953481,Rhenen - Grebbeberg - Onderlangs,Yarno Kastelein
+372592887,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,14:31,1,5.377025,52.120137,Leusden - Het Vogelwater,Louis Dederen
+372591994,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,13:04,3,5.694031238555908,50.81623458862305,Maastricht - Sint-Pietersberg Zuid,Floris Brekelmans
+372582004,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,16:19,1,5.915198922157288,51.82867341212338,"Stuwwal - Boterberg, Stollenberg",Harm Alberts
+372590918,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,19:56,1,4.5622311,52.2551877,Lisse,George
+372590825,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,18:58,1,4.618649099722223,51.871391199722225,Ridderkerk,jaap
+372590416,Common Ground-hopper,Tetrix undulata,2025-09-12,19:45,1,6.656856536865234,53.03553613044403,Drentsche Aa - Gasterensche Diep (NP),Ben Schoon
+372590076,Long-winged Cone-head,Conocephalus fuscus,2025-09-12,18:33,1,6.4510498046875,52.45207977294922,Hellendoorn - Egede,Kevin Hams
+372590065,Long-winged Cone-head,Conocephalus fuscus,2025-09-12,18:37,1,6.451296329498291,52.44916534423828,Hellendoorn - Egede,Kevin Hams
+372590029,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,19:42,1,6.45103931427002,52.45331573486328,Hellendoorn - Egede,Kevin Hams
+372589656,Mediterranean Katydid,Phaneroptera nana,2025-09-12,09:48,1,6.051709484995805,51.3631240924887,Maasbree,sjaak gubbels
+372589325,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,19:34,1,5.74010127195689,50.805772170065204,Savelsbos - Schone Grub,Biena Maas
+372589228,Short-horned Grasshopper spec.,Gomphocerinae indet.,2025-09-12,19:31,1,6.103724906765968,52.14559579968223,Empe - Hontsveld,Pieter
+372589047,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,19:29,1,5.080619444444444,52.115005555555555,Utrecht - Zuilen,Jur Brauers
+372588296,Meadow Grasshopper,Pseudochorthippus parallelus,2025-09-12,12:45,2,5.98883,50.941815,Brunssum - Industriegebied Hendrik,Jolanda van der Zijden
+372587996,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,17:08,1,5.550801381468773,51.62664817081744,Veghel - De Donken,pieter van breugel
+372587957,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,11:28,1,5.989372,50.939523,Brunssum - Industriegebied Hendrik,Jolanda van der Zijden
+372551734,Field Grasshopper,Chorthippus brunneus,2025-09-12,13:18,1,5.26748,51.83387833333333,Waardenburg - Kasteel Waardenburg e.o.,Sil
+372587951,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,19:16,1,6.64747953414917,53.035007107548765,Taarlo - De Heest,Ben Schoon
+372559235,Field Grasshopper,Chorthippus brunneus,2025-09-12,13:54,1,5.979003333333333,50.926125,Brunssummerheide - N2000,D
+372562819,Field Grasshopper,Chorthippus brunneus,2025-09-12,15:45,1,5.3297819,51.7144491,'s-Hertogenbosch - Noord,Judith
+372566058,Field Grasshopper,Chorthippus brunneus,2025-09-12,,1,5.204439252235261,52.1099606373549,Bilthoven - Beerschoten,Daan van Werven
+372572998,Field Grasshopper,Chorthippus brunneus,2025-09-12,16:55,1,4.622863,51.8330167,Hendrik-Ido-Ambacht,Rick Dekker
+372573592,Field Grasshopper,Chorthippus brunneus,2025-09-12,15:08,1,5.933572053909302,51.655409058480686,Boxmeer,vanElst
+372587839,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,11:09,1,5.989195060756174,50.9394758055476,Brunssum - Industriegebied Hendrik,Jolanda van der Zijden
+372587282,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,19:08,1,4.586841666666666,51.63778333333333,Zevenbergen - dorp,A.P.J. Bergmans
+372587211,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,10:14,7,5.987951,50.940416,Brunssum - Industriegebied Hendrik,Jolanda van der Zijden
+372587181,Long-winged Cone-head,Conocephalus fuscus,2025-09-12,19:06,1,6.645162105560303,53.03469743259847,Taarlo - De Heest,Ben Schoon
+372587121,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,18:25,1,6.784125,52.92827166666667,Borger - Haarakkers,petra
+372586889,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,13:04,1,5.015207,51.500762,Riel - Riels Laag - zuid,Jan Buijs
+372584826,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,16:08,1,5.604203224182129,51.71336364746094,Maashorst - Brobbelbies,E. Roumen
+372584318,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,18:35,1,4.60784329131267,51.93217712711842,Capelle aan den IJssel - Rivierenwijk,Sandy
+372584099,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,18:34,1,5.0125125,52.1108552,Vleuten,Ardiola
+372583917,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,14:50,3,5.994410514831543,50.92801284790039,Brunssummerheide - N2000,Christiaan de Vries
+372582637,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,15:46,1,6.196293830871582,52.264015197753906,Deventer - Brinkgreven e.o.,Tim Duchatteau
+372581911,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,15:22,1,5.640830555555555,51.97571388888889,Wageningen - Oordensteeg,Anne
+372580895,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,12:22,1,6.522073268890381,52.320465087890625,Rijssen,Kevin Hams
+372580892,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,12:23,1,6.521133899688721,52.320186614990234,Rijssen,Kevin Hams
+372580888,Field Grasshopper,Chorthippus brunneus,2025-09-11,12:24,1,6.523009777069092,52.32113265991211,Rijssen,Kevin Hams
+372580881,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,12:24,1,6.523069381713867,52.32121276855469,Rijssen,Kevin Hams
+372580879,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,12:25,1,6.524269580841064,52.32154083251953,Rijssen,Kevin Hams
+372580874,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,12:25,1,6.524521827697754,52.32157516479492,Rijssen,Kevin Hams
+372580869,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,12:26,1,6.525392532348633,52.321563720703125,Rijssen,Kevin Hams
+372580865,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,12:26,1,6.525475978851318,52.32160568237305,Rijssen,Kevin Hams
+372580860,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,12:26,3,6.52595329284668,52.32168197631836,Rijssen,Kevin Hams
+372580397,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,10:36,1,5.237463888888889,51.68931666666666,'s-Hertogenbosch - Moerputten - Natuurontwikkeling,Jan van Mil
+372580270,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,17:53,1,5.292729266291895,51.30727110292096,Bergeijk - Weebosch e.o.,Leoni
+372579966,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-12,14:05,1,6.026311397563404,52.026814838863,Veluwezoom - Herikhuizerveld,Natuurliefhebber
+372579153,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,13:44,1,6.026294946605049,52.026382814266334,Veluwezoom - Herikhuizerveld,Natuurliefhebber
+372578601,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,17:42,1,6.003350163150952,51.8555908203125,"Duffelt - Leuth - kleiputten, visvijvers",Myriam Crijns
+372577293,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,17:31,1,5.128262015064739,52.14934238237515,Westbroek,Y. Mathot
+372576394,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,17:24,1,6.313233333333334,52.103438833333335,Vorden,Adri Groot Nuelend
+372576104,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,17:14,1,5.668894444444445,52.02790833333333,Ede - Zuid,Berry
+372570550,Long-winged Cone-head,Conocephalus fuscus,2025-09-12,12:53,1,5.842242240905762,53.44906234741211,Ameland - Kooiduinen,Edwin De Weerd
+372574304,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,13:46,1,4.612077176570892,52.417281190998146,Nationaal Park Zuid-Kennemerland - Caprera,Ge van 't Hoff
+372574186,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,15:15,1000,4.705688953399658,52.667175084860006,Bergen (NH),Thijs de Graaf
+372573908,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,16:53,1,6.042713833333333,51.43752,Hegelsom,Jeroen Verberkt
+372573528,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,16:59,1,5.677828286111112,51.98358383611111,Wageningen - Oude Diedenweg e.o.,Jetske de Boer
+372551036,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,14:00,1,6.093333333333334,51.56985,Bosscherheide,Bellwill
+372557373,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,14:46,1,6.00895,51.659686666666666,Heijen - Zwarte Heide/ Lange Ven,Guus Hermsen
+372572806,European Tree cricket,Oecanthus pellucens,2025-09-11,21:53,1,5.986343175172806,51.91227778302676,Angeren - Angerense Buitenpolder,Jeroen Brandjes
+372571597,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,16:44,1,6.3757808,53.0214969,Veenhuizen (DR) - Buitengebied,jacco steendam
+372570752,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,16:19,1,6.086465399722222,53.1014216,Drachten - De Singels,Jinthe
+372570259,Wood cricket,Nemobius sylvestris,2025-09-12,14:32,3,6.189733310430728,51.469006031959026,Arcen - Landgoed Kasteel,Sjors de Kort
+372570185,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,16:36,1,6.8673552,52.3537834,Weerselo,Linda
+372569722,Bow-winged grasshopper,Chorthippus biguttulus,2025-09-12,12:08,1,4.306557178497314,51.740177154541016,Tiengemeten - Wildernis,Ferry van der Lans
+372569590,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,14:58,1,6.519360300159565,52.37734200903436,Nijverdal - Wierdense Veld - Huurnerveld,Robert Ketelaar
+372569587,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,14:37,1,6.52296509327449,52.37837785027738,Nijverdal - Wierdense Veld - Huurnerveld,Robert Ketelaar
+372569584,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,14:25,1,6.526344018063067,52.37950495914777,Nijverdal - Wierdense Veld - Huurnerveld,Robert Ketelaar
+372568921,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,16:27,1,6.1050255,51.4190199,Venlo - Venrayseweg e.o.,henk den mulder
+372567338,Wood cricket,Nemobius sylvestris,2025-09-12,15:09,1,5.95958423614502,51.567604064941406,Overloonse Duinen,Jan Albers
+372567289,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,16:16,1,5.119581230528497,52.064382078698195,Utrecht - Hoograven - Zuid,Susan Sollie
+372567083,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,16:14,1,6.870955590911768,53.35415547585313,Holwierde - Buitengebied Zuid,robbie
+372567025,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,16:13,1,4.519245252257746,51.500276579683955,Rucphensche Bosschen - Nederheide e.o.,Edwin
+372566180,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,16:08,1,6.789685897535448,52.2854305431737,Hengelo (OV),Heidi Stienstra
+372566123,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,16:07,1,4.6171278,52.3958325,Bloemendaal (gemeente) ,roosje
+372565793,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,14:52,1,4.800792699722222,52.873421,Anna Paulowna - Gelderse Buurt,Wendy
+372565773,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,16:04,1,4.655081199722223,52.026549099722224,Waddinxveen - Bedrijventerrein Coenecoop,Cor Doornekamp
+372565635,Short-winged Cone-head,Conocephalus dorsalis,2025-09-12,16:03,1,4.4089564,52.0293246,Pijnacker - Bieslandse Bos,David van Megen
+372565514,Short-winged Cone-head,Conocephalus dorsalis,2025-09-12,16:02,1,4.4090093,52.0291367,Pijnacker - Bieslandse Bos,David van Megen
+372565481,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,16:01,1,6.5263983,52.1683965,Gelselaar,Daniel
+372565127,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,15:59,1,5.207535624504089,52.22796042437966,Laren (NH) - Laarder Wasmeer,Nico Cuppen
+372565088,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,13:54,1,5.934147834341275,52.34165202302301,Epe - Wissel en Waayenberg,Ruud Overes
+372564972,Common Ground-hopper,Tetrix undulata,2025-09-12,13:33,1,5.934181809207075,52.341697792780394,Epe - Wissel en Waayenberg,Ruud Overes
+372564658,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,14:31,1,5.660663,52.060433,Ede - Edese Bos,D. van Nieuwamerongen
+372564502,Field Cricket,Gryllus campestris,2025-09-12,15:56,1,4.553633513010977,51.52415702073192,Rucphensche Bosschen,marinkzy
+372563945,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,15:54,1,5.43242,52.081497166666665,Woudenberg,Rosalinde Donker
+372563934,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,15:54,1,5.43242,52.081497166666665,Woudenberg,Rosalinde Donker
+372563619,Dark Bush-cricket,Pholidoptera griseoaptera,2025-09-12,13:50,1,5.960639953613281,51.921974182128906,Angeren - Angerense Buitenpolder,Jaap Bouwman
+372563615,Cepero’s Ground-hopper,Tetrix ceperoi,2025-09-12,13:52,2,5.96058464050293,51.922088623046875,Angeren - Angerense Buitenpolder,Jaap Bouwman
+372563392,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,12:11,1,6.949299812316895,52.82109832763672,Emmen - Natuurstrook langs N391,Chris Heideveld
+372563271,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,14:08,1,6.643305299722222,51.9767395,Winterswijk - Korenburger en Corlesche Veen,Isa Kleinmeulman
+372562631,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,15:43,1,6.137991666666666,53.25915833333333,Buitenpost,Reintjedevos
+372562491,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,15:45,1,6.098222052684145,52.24643935454287,Twello - Kruisvoorderweg e.o.,Lois Tonen
+372562398,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,12:30,1,3.999826565268449,51.83424536207134,Kwade Hoek - midden - zuid,A. van Steensel
+372562353,Long-winged Cone-head,Conocephalus fuscus,2025-09-12,12:39,1,5.351391666666666,51.40025,Knegsel e.o.,odette
+372562092,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,15:41,1,5.509513888888889,51.49076111111111,Eindhoven - Bokt,Bas S.H.T. Michielsen
+372561850,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,15:39,1,6.1400413,52.1587017,Empe,ed steenbergen
+372561636,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,15:38,1,6.206502437591553,52.198890686035156,Gorssel,Else Heijink
+372556643,Dark Bush-cricket,Pholidoptera griseoaptera,2025-09-12,13:39,1,6.00814151763916,50.76171875,Vaals - Eschberg,Dick Bekker
+372561364,Mole cricket,Gryllotalpa gryllotalpa,2025-09-11,12:44,1,5.826577,51.34493,Asten - Groote Peel (NB),Jan Slaats
+372561312,Mole cricket,Gryllotalpa gryllotalpa,2025-09-11,12:43,1,5.82647,51.344863,Asten - Groote Peel (NB),Jan Slaats
+372561229,Mole cricket,Gryllotalpa gryllotalpa,2025-09-11,12:27,1,5.812236964702606,51.34175107219115,Ospel - Groote Peel,Jan Slaats
+372561083,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-12,11:17,1,6.797146797180176,52.96426610862287,Drouwenerzand - Bosgebied,Wilma van der Vliet
+372560981,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,12:50,1,5.841543316710158,51.623845695416435,Sint Anthonis - Ullingse Bergen,M. Coenders
+372561027,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,15:33,1,4.266520450135807,52.07663773806863,Den Haag - Bomen- en Bloemenbuurt,Gerben
+372556656,Dark Bush-cricket,Pholidoptera griseoaptera,2025-09-12,13:32,1,6.008439540863037,50.76148986816406,Vaals - Eschberg,Dick Bekker
+372556659,Dark Bush-cricket,Pholidoptera griseoaptera,2025-09-12,13:32,1,6.008439540863037,50.76148986816406,Vaals - Eschberg,Dick Bekker
+372560949,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,15:33,1,6.7037641,51.9684586,Winterswijk - Dorp,Daniël
+372560456,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,15:28,1,5.757695467400569,51.79423654694077,Alverna - buitengebied Oost,Pim
+372560305,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,15:27,1,5.023002,52.3330135,Muiden - Muidertrekvaart,Chris
+372560075,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,11:46,1,5.974903583526611,50.83122634887695,Simpelveld - spoorwegemplacement,Henk Gazan
+372560068,Large Golden Grasshopper,Chrysochraon dispar,2025-09-12,15:24,1,4.6396392,51.862552299722225,Ridderkerk - Crezéepolder e.o.,Laurens van der Wind
+372559592,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,15:21,1,6.0223258,50.7734095,Vaals,KWB
+372559301,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,14:01,1,5.405006,52.175319,Amersfoort - De Hoef,Marieke Klink
+372556766,Dark Bush-cricket,Pholidoptera griseoaptera,2025-09-12,12:21,1,5.872585296630859,50.77238464355469,Heijenrath,Dick Bekker
+372556795,Dark Bush-cricket,Pholidoptera griseoaptera,2025-09-12,11:59,1,5.872626304626465,50.77242660522461,Heijenrath,Dick Bekker
+372558923,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-12,14:27,1,4.694360733032227,52.82274627685547,Zwanenwater,Raes Ingrid
+372558710,Cepero’s Ground-hopper,Tetrix ceperoi,2025-09-12,15:12,1,5.999828,51.866212,Duffelt - Millingerwaard,Eric vd Brugge
+372558654,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-12,14:27,1,4.694445133209229,52.822723388671875,Zwanenwater,Thomas Moorthamer
+372556848,Dark Bush-cricket,Pholidoptera griseoaptera,2025-09-12,11:36,1,5.871999740600586,50.772369384765625,Heijenrath,Dick Bekker
+372558506,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,15:09,1,4.551521,51.9113536,Capelle aan den IJssel,MirteManon
+372558317,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,15:08,1,6.06786052607004,53.196061930074634,Skûlenboarch,Ria
+372558303,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,15:02,1,4.8748,52.37831333333333,Amsterdam - Westerpark (Stadsdeel),prof. Zonnebloem
+372558097,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,15:06,1,5.5447333,51.8064283,Macharen,RoberTo
+372557640,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,12:15,1,5.262762308120728,52.0724850335721,Zeist - Kerckebosch,F T van Binsbergen
+372557548,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,13:47,1,5.6720908,51.965460999722225,Wageningen - Binnenstad,Bloemenmeisje
+372557479,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,15:00,1,5.788974,52.093147,Otterlo - De Zanding,Fer Schipper
+372557202,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,14:57,1,6.0933542,52.05024149972222,Dieren,Bob van Bommel
+372556274,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,14:50,1,5.485016666666667,51.39312,Aalst (NB) - Ekenrooi,MauriceD
+372555554,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,12:29,2,4.356249007683525,51.35906265156886,Putte - Wildernissen ,Ton Bakker
+372549810,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,13:51,1,5.271707896888529,51.40066142696896,Hoogeloon,hein waterschoot
+372555370,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,14:45,1,5.662401948888429,51.99782953433019,Bennekom - De Kraats en Nergena,Hugo
+372555184,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,14:43,1,6.236844509730872,53.06321022073864,Duurswouderheide,Jesse Obdeijn
+372552216,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,14:14,1,5.2726027,51.4005947,Hoogeloon - Heieind e.o.,hein waterschoot
+372554806,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,14:38,1,6.2208319,53.3857302,Lauwersmeer - Recreatiepark Suyderoogh,Magda de Jong
+372554787,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,14:38,1,6.0164252,52.0265024,Veluwezoom - Herikhuizerveld,Antoine
+372553929,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,14:29,1,4.5608845237677,51.91992039754351,Capelle aan den IJssel (gemeente) ,user 152730
+372553437,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,14:24,1,4.5629586,51.9693893,Rotterdam - Nieuw Verlaat,Jay Sta
+372553199,Field Cricket,Gryllus campestris,2025-09-12,14:21,1,5.851188333333333,52.121747166666665,Hoge Veluwe - Ingang Hoenderloo,Conny Keijzer
+372553138,Field Cricket,Gryllus campestris,2025-09-12,14:21,1,5.851188333333333,52.121747166666665,Hoge Veluwe - Ingang Hoenderloo,Conny Keijzer
+372553061,Field Cricket,Gryllus campestris,2025-09-12,14:20,1,5.851241997283049,52.12174379759621,Hoge Veluwe - Ingang Hoenderloo,Co
+372551816,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,14:00,1,6.503761111111111,52.70860833333334,Hoogeveen - Buitenvaart,Emmy
+372508445,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,22:11,1,5.780973672735854,52.383572797952496,Nunspeet,André Jansen
+372551153,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,11:59,1,6.522795673049509,52.3813425361341,Nijverdal - Wierdense Veld - Huurnerveld,Robert Ketelaar
+372550888,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,13:58,1,5.98227,53.10194716666667,De Veenhoop - Petgatten de Feanhoop,M. Houtsma
+372550471,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,13:57,1,5.2775758,52.7112513,Enkhuizen,JoyceH
+372550373,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,13:42,1,4.782525387326955,52.21198006897911,Zevenhoven - Polder Zevenhoven,Menno Schilthuizen Taxon Expeditions Stichting Taxon Foundation
+372550219,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,13:06,1,5.98097,53.10281116666667,De Veenhoop - Petgatten de Feanhoop,M. Houtsma
+372550012,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,13:53,1,6.5225961,53.3611345,Baflo,Lisanne
+372549607,Long-winged Cone-head,Conocephalus fuscus,2025-09-12,11:16,1,4.781691103885382,52.21148056672659,Zevenhoven - Polder Zevenhoven,J.T. Smit
+372549459,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,13:47,1,5.408513162663516,51.6773867517538,Berlicum,Jan
+372549262,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,13:45,1,5.4085880766653,51.67739005329731,Berlicum,Jan
+372528105,Field Grasshopper,Chorthippus brunneus,2025-09-12,10:59,1,5.6776927,52.10337,Wekerom - Wekeromse Zand,Bram W.H. de Vries
+372532043,Field Grasshopper,Chorthippus brunneus,2025-09-12,11:41,1,5.987404,51.860957,Duffelt - Kekerdomse Waard,Ben Selten
+372538170,Field Grasshopper,Chorthippus brunneus,2025-09-12,12:27,1,5.6640283,52.0170703,Ede - Zuid,Sebastiaan Abdoelgafoer
+372548447,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,11:35,3,5.772111415863037,51.79843521118164,Hatertse Vennen - Munnekeveld,Hans Hollander
+372548074,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,13:11,1,4.728678333333333,51.611916666666666,Breda - Haagse Beemden (woonwijk),Steven
+372547842,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,13:32,1,6.6674209,51.988123,Winterswijk - Meddosche Veen,Dodo Daan
+372547199,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,13:27,1,4.493932130011087,52.23144126640502,Voorhout - Polder Boekhorst,Ron van Ispelen
+372547194,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,13:26,1,4.764848416267393,52.359445198796266,Amsterdam - Lutkemeerpolder,Xander van der Sar
+372546848,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,13:25,1,5.8674493,50.8405846,Schin op Geul - Keutenberg,Peter Betlem
+372542958,Common Ground-hopper,Tetrix undulata,2025-09-12,13:02,1,7.1791316,53.1188501,Bellingwolde,guido
+372541835,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,12:17,1,4.433960899722223,52.01469279972222,Pijnacker - Zuid,truus van der hulst
+372541043,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,12:44,1,5.1415851,52.084902399722225,Utrecht - Oost (wijk),Marleen Peeters
+372540239,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,12:42,1,5.740747880195957,52.039079200524874,Ede - Vlinderdas,ReneeBaris
+372540094,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,12:39,1,5.663969697423608,52.01707787819771,Ede - Zuid,mila klarenbeek
+372539878,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,12:39,1,5.6640155,52.0170621,Ede - Zuid,Vanessa Cafferata
+372539743,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,21:56,1,4.745066127644748,51.587248960924626,Breda - Westerpark,Jurriën de Vries
+372539734,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,12:38,1,5.6639405,52.0170346,Ede - Zuid,joris
+372539602,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,12:37,1,5.6639413,52.0170362,Ede - Zuid,joris
+372539282,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,12:35,1,5.663928870647949,52.01706490629106,Ede - Zuid,Toon
+372539278,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,12:35,1,5.663924,52.0170774,Ede - Zuid,luuk
+372539274,Roesel's Bush-cricket,Roeseliana roeselii,2025-09-12,12:35,1,5.6641739,52.0170429,Ede - Zuid,joris
+372539263,Roesel's Bush-cricket,Roeseliana roeselii,2025-09-12,12:34,1,5.6641757,52.0170702,Ede - Zuid,Vanessa Cafferata
+372539256,Roesel's Bush-cricket,Roeseliana roeselii,2025-09-12,12:35,1,5.664200470705555,52.01707715014328,Ede - Zuid,Marley
+372539181,Roesel's Bush-cricket,Roeseliana roeselii,2025-09-12,12:34,1,5.664145580642164,52.01708614756935,Ede - Zuid,Toon
+372539171,Long-winged Cone-head,Conocephalus fuscus,2025-09-12,12:34,1,5.6641482,52.0171404,Ede - Zuid,luuk
+372538868,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,12:31,1,4.486975,52.04399166666666,Zoetermeer - Rokkeveen,puttetjes
+372538242,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,12:28,1,5.6639751,52.017067,Ede - Zuid,Madelief de Groot
+372537178,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,12:22,1,3.903285210147109,51.290083360158874,Zaamslag - Capellepolder,Rico
+372536831,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,12:19,1,5.664030667399675,52.017059326171875,Ede - Zuid,Jurre
+372536747,Short-horned Grasshopper spec.,Gomphocerinae indet.,2025-09-12,12:19,1,5.663933269684821,52.016998291015625,Ede - Zuid,Jurre
+372535572,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,12:02,1,5.430119,52.192551,Amersfoort - Vathorst / Hooglanderveen,Marcel de Vries
+372535311,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,12:11,1,5.7684897,53.2076538,Leeuwarden - Westeinde,Siska Alkema
+372534989,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-12,12:08,1,5.9895808,52.0292563,Veluwezoom - Rozendaalse Zand,Antoine
+372534458,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,12:02,1,5.092597166666667,52.0227805,Nieuwegein,H. Konings
+372533736,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,11:46,1,5.561861099722222,51.7097952,Nistelrode,CQUKOO
+372532613,Slender Ground-hopper,Tetrix subulata,2025-09-12,11:44,1,5.987392,51.860953,Duffelt - Kekerdomse Waard,Eric vd Brugge
+372532550,Slender Ground-hopper,Tetrix subulata,2025-09-12,11:45,1,5.987359,51.860979,Duffelt - Kekerdomse Waard,Ben Selten
+372532131,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,11:42,1,4.9664516,52.5531484,Beemster (gemeente tot 2022) ,Manda de Jong
+372531847,Bow-winged grasshopper,Chorthippus biguttulus,2025-09-12,11:39,1,5.987325,51.860926,Duffelt - Kekerdomse Waard,Eric vd Brugge
+372531964,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,11:40,1,5.9534456,51.88366669972222,Gendt - Zandvoort,Peter van Rijnsbergen
+372531842,,Tetrix spec.,2025-09-12,11:11,1,5.668241666666667,52.00139166666666,Bennekom,J J Pape
+372531166,Long-horned Groundhopper,Tetrix tenuicornis,2025-09-12,11:29,1,5.987518,51.86067,Duffelt - Kekerdomse Waard,Ben Selten
+372531097,Long-horned Groundhopper,Tetrix tenuicornis,2025-09-12,11:29,1,5.987536,51.860648,Duffelt - Kekerdomse Waard,Eric vd Brugge
+372531014,,Tetrix spec.,2025-09-12,11:29,1,5.98749,51.860657,Duffelt - Kekerdomse Waard,Ben Selten
+372530059,Steppe grasshopper,Chorthippus dorsatus,2025-09-12,11:20,1,5.987507,51.860383,Duffelt - Kekerdomse Waard,Eric vd Brugge
+372530001,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,11:22,1,6.05077,51.1495633,Herkenbosch - Herkenboscher Ohe,Christina
+372529996,Steppe grasshopper,Chorthippus dorsatus,2025-09-12,11:20,1,5.987601,51.860426,Duffelt - Kekerdomse Waard,Ben Selten
+372529467,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,11:15,1,4.278275891865705,52.08801174177713,Den Haag - Geuzen- en Statenkwartier,Han Jordaan
+372529441,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,11:14,1,6.073298509800975,52.45686550423815,Hattem - Het Achterveen,C. Leeuwis- de Vries
+372529010,Steppe grasshopper,Chorthippus dorsatus,2025-09-12,10:54,1,5.987727,51.860397,Duffelt - Kekerdomse Waard,Ben Selten
+372528797,Bow-winged grasshopper,Chorthippus biguttulus,2025-09-12,10:57,1,5.987779,51.860323,Duffelt - Kekerdomse Waard,Ben Selten
+372528131,Mediterranean Katydid,Phaneroptera nana,2025-09-12,11:00,1,5.987893,51.860272,Duffelt - Kekerdomse Waard,Eric vd Brugge
+372528237,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-12,11:02,1,5.677473599722222,52.10339199972223,Wekerom - Wekeromse Zand,Bram W.H. de Vries
+372528129,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,11:01,1,5.461638568104155,51.4155948637706,Eindhoven - Klotputten,Tess
+372522594,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,09:51,1,5.750378026286391,52.09545782124594,Hoeve Boer en Bleek,Thijs Prangsma
+372523841,Dark Bush-cricket,Pholidoptera griseoaptera,2025-09-12,10:08,1,5.857578333333334,50.94562166666667,Schinnen (gemeente tot 2019-01-01) ,joost van koppen
+372524313,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,12:55,1,5.800862788892118,50.86867606558945,Geuldal - Sint Gerlach,Erik Macco
+372524921,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,10:24,1,6.111688833333333,53.21452166666667,Drogeham - Hamstermieden,Sander
+372525841,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,10:34,1,5.46151640345269,51.415698558208824,Eindhoven - Klotputten,Tess
+372526944,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,10:44,1,5.461649144541802,51.415829165394776,Eindhoven - Klotputten,Ralph Knobbout
+372527025,Mole cricket,Gryllotalpa gryllotalpa,2025-09-12,10:45,1,4.9593566,52.0111653,Benschop - Polder Benschop,Ariena Brinkman
+372527120,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,10:46,1,5.461875899722222,51.41589199972222,Eindhoven - Klotputten,Eline Oomen
+372527290,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,10:49,1,5.461675,51.415795,Eindhoven - Klotputten,Ralph Knobbout
+372527322,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,10:50,1,6.603850099722222,53.18475329972222,Haren (GR),GeertR
+372527331,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,10:50,1,4.7956673895826,51.77644777037445,Brabantse Biesbosch - Noordwaard - Polder de Kroon,Rimco
+372527370,Large Marsh Grasshopper,Stethophyma grossum,2025-09-12,10:51,1,5.461700605043895,51.41579763321774,Eindhoven - Klotputten,Tess
+372526429,Short-horned Grasshopper spec.,Gomphocerinae indet.,2025-09-12,10:40,1,5.023928330906801,52.29873335800098,Weesp - Aetsveldsche Polder (NH),wzimmerman
+372525242,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,13:50,1,5.798277,50.867884,Geuldal - Sint Gerlach,Erik Macco
+372524052,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,10:13,1,4.6493775,52.6000079,Noordhollands Duinreservaat - Westert,Piet Singer
+372524042,Biguttulus-group,Chorthippus biguttulus-group,2025-09-12,10:13,1,5.876636666666666,52.28048,Vaassen - Kroondomein,Tim Tabak
+372524006,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,10:12,1,4.460397972222222,52.122838,Leidschendam - Vlietland - Spekpolder,Victoria
+372523512,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,12:05,1,6.083006858825684,52.14255142211914,Brummen - Empese en Tondense heide,Kees Mostert
+372523474,Large Marsh Grasshopper,Stethophyma grossum,2025-09-11,12:27,1,6.083395004272461,52.13990783691406,Brummen - Empese en Tondense heide,Kees Mostert
+372523446,Field Grasshopper,Chorthippus brunneus,2025-09-11,12:46,1,6.08379077911377,52.13763427734375,Brummen - Empese en Tondense heide,Kees Mostert
+372523401,Large Marsh Grasshopper,Stethophyma grossum,2025-09-11,13:23,1,6.087728023529053,52.135650634765625,Brummen - Empese en Tondense heide,Kees Mostert
+372523206,Cepero’s Ground-hopper,Tetrix ceperoi,2025-09-11,20:42,1,6.124056999722222,52.121748699722225,Brummen - Landgoed Voorstonden,Kees Mostert
+372523203,Cepero’s Ground-hopper,Tetrix ceperoi,2025-09-11,20:42,1,6.1240278,52.121724999722225,Brummen - Landgoed Voorstonden,Kees Mostert
+372523032,Common Ground-hopper,Tetrix undulata,2025-09-12,09:59,1,6.506816899722223,52.49920529972222,Ommen - Landgoed Junne - Junnerveld,Mark Zekhuis
+372487735,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,08:22,1,5.389888286590576,51.408298029955475,Veldhoven,Peter vd Ha
+372522501,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,09:49,1,5.6663053,51.9795278,Wageningen - Tarthorst / Roghorst,Eva
+372522289,Roesel's Bush-cricket,Roeseliana roeselii,2025-09-12,09:11,1,3.711884999988098,51.342101670141055,Biervliet - Paulinapolder,Dirk Verroken
+372522288,Roesel's Bush-cricket,Roeseliana roeselii,2025-09-12,09:09,1,3.712343333321866,51.34169833680739,Biervliet - Paulinapolder,Dirk Verroken
+372521999,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,09:42,1,5.5097079,51.9499074,Lienden - Molenstraat,rick
+372503336,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,14:09,1,5.617865324020386,51.94330983060901,Rhenen - Blauwe Kamer - Gelderland,Adri Baks
+372511773,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,13:52,1,5.555898249149323,52.05042703430699,Renswoude - Schalm e.o.,Reinier Gillissen
+372511977,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,16:04,1,5.953676532977028,51.77809751585065,Groesbeek - Bedrijventerrein,Frank Spikmans
+372521275,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,09:24,1,5.9150279,52.9470763,Heerenveen - De Greiden,Teun Veldman
+372520985,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,09:25,1,5.6701005,51.25389369972222,Weert - Princenweg e.o.,Hetty
+372520120,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,08:29,1,7.035763333333334,53.14811,Winschoten - Zeeheldenbuurt,Kobus
+372517240,Great Green Bush-cricket,Tettigonia viridissima,2025-09-12,07:55,1,6.357186,53.0474734,Haule - Koudenburg e.o.,Berna
+372515910,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,07:02,1,5.3703734,51.359203,Riethoven - Walik,Janine
+372515666,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,14:30,1,5.845849,53.16905297222222,Hempensermeerpolder,Johanna
+372515626,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,05:57,1,5.054236315190792,53.30152498888034,Vlieland - Duinkersoord,Ico Hoogendoorn
+372515625,Southern Oak Bush-cricket,Meconema meridionale,2025-09-12,05:57,1,5.054236315190792,53.30152498888034,Vlieland - Duinkersoord,Ico Hoogendoorn
+372496893,,Eupholidoptera spec.,2025-09-11,01:49,6,4.466501623392105,51.95656171310844,Rotterdam - Schiebroek,Nieck Alderliesten
+372496891,,Eupholidoptera spec.,2025-09-11,01:49,3,4.466850645840168,51.95659725119037,Rotterdam - Schiebroek,Nieck Alderliesten
+372512588,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-12,00:06,1,5.6723932,51.9816774,Wageningen - Campus,Pieterdejel
+372451911,Short-winged Cone-head,Conocephalus dorsalis,2025-09-11,12:17,1,5.922238888888889,52.910447222222224,Rotstergaasterwallen,Merel Niemeijer
+372454228,Sickle-bearing Bush-cricket,Phaneroptera falcata,2025-09-11,12:36,1,6.013577938079834,52.02672576904297,Veluwezoom - Herikhuizerveld,Sverre Pijpker
+372456832,Large Golden Grasshopper,Chrysochraon dispar,2025-09-11,12:56,1,5.192431916666667,51.32358169444445,Reusel - Peelsche Heide,schaapherder Tanja
+372457891,Short-horned Grasshopper spec.,Gomphocerinae indet.,2025-09-11,13:00,1,4.472516838560645,52.16484437656841,Leiden - Naturalis,Waarnemeremiel
+372459562,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,13:19,1,6.035711166666666,51.48426333333333,Horst - Castenrayse Vennen,Dennis
+372460937,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,13:31,1,6.035036166666667,51.484986666666664,Horst - Castenrayse Vennen,Dennis
+372467201,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,11:38,1,5.193904152324821,52.104064752632716,Bilthoven - Houdringe,Kees Greidanus
+372494210,Oak Bush-cricket,Meconema thalassinum,2025-09-11,19:07,1,6.6439836,52.1060299,Eibergen,Stephan212
+372494937,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,11:23,1,6.603705883026123,53.23578186628183,Groningen - Kardinge,Ton Bot
+372495273,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,19:21,1,5.421918599722223,52.15284359972222,Leusden - De Schammer,Floris Jansen
+372498121,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,16:08,1,6.333645,52.99726166666667,Fochteloo,Anne Westerhof 
+372505856,Slender Ground-hopper,Tetrix subulata,2025-09-11,19:17,1,6.059802833333333,51.436405,Horst - 't Ham,Frank-Hagens
+372507392,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,21:08,1,3.58021879196167,51.345340728759766,Schoondijke - Statendijk / Molentje,Harm Hofman
+372511090,Slender Ground-hopper,Tetrix subulata,2025-09-11,14:26,1,6.046423137231614,51.93771136228208,Duiven - Helhoek,Simeon Klompmaker
+372511169,,Meconema spec.,2025-09-11,23:11,1,5.686676174040792,51.24482940659802,Weert,Blanche Helena Madeleyn
+372511448,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,23:05,1,5.185311666666666,52.26542833333333,Bussum,Laurens
+372511132,Bow-winged grasshopper,Chorthippus biguttulus,2025-09-11,,1,5.252838,51.820394,Neerijnen - Rijswaard,Peter Hoppenbrouwers
+372511125,Meadow Grasshopper,Pseudochorthippus parallelus,2025-09-11,,1,5.252838134765625,51.82039436967609,Neerijnen - Rijswaard,Peter Hoppenbrouwers
+372511009,Short-winged Cone-head,Conocephalus dorsalis,2025-09-11,14:26,1,6.046407,51.9377,Duiven - Helhoek,Simeon Klompmaker
+372510445,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,22:52,1,4.671948105555556,51.883886419444444,Nieuw-Lekkerland,Rick Dekker
+372510410,Oak Bush-cricket,Meconema thalassinum,2025-09-11,21:29,1,5.056826114654541,53.30022430419922,Vlieland - Vuurboetsduin,Ico Hoogendoorn
+372510174,House cricket,Acheta domesticus,2025-09-11,22:46,1,6.127475,52.182921666666665,Voorst - Appensche Bosch,Wilko
+372510163,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,22:37,1,5.524644374847412,52.027069091796875,Veenendaal - West,Theo Hattink
+372509845,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-11,13:01,1,6.501582534989809,52.26557645485947,Borkeld - N2000,Rick Ruis
+372509045,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,22:21,1,4.4981078,52.1813352,Leiden - Voedselbos Okkerheide,Johannes Müller
+372508182,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,13:00,1,3.982274383306503,51.83819657318213,Kwade Hoek - west,Plons 68
+372508137,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,22:04,1,5.820708219444445,51.323261736111114,Ospel -  Oude Dijk e.o.,Folkert Bakker
+372507991,Bow-winged grasshopper,Chorthippus biguttulus,2025-09-11,12:51,1,5.981344405226992,52.0873769930884,Loenen (Gld.) - Loenermark - 't Keizand,Robbert en Paula
+372507974,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,22:01,1,6.0854721,51.4210751,Horst - Californië e.o.,henk den mulder
+372507936,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,12:54,1,5.981602,52.087303,Loenen (Gld.) - Loenermark - 't Keizand,Robbert en Paula
+372507927,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,12:54,1,5.982045,52.087154,Loenen (Gld.) - Loenermark - 't Keizand,Robbert en Paula
+372507385,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,21:12,1,3.577874898910522,51.34455108642578,Schoondijke - Statendijk / Molentje,Harm Hofman
+372504626,Cepero’s Ground-hopper,Tetrix ceperoi,2025-09-11,20:51,1,6.1240396,52.1216704,Brummen - Landgoed Voorstonden,Bart Dijkstra
+372503948,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,21:21,1,5.007483,51.55442808333333,Tilburg - Vredelust / Heidepark,Sylvester
+372503769,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,20:39,1,4.3959925,52.0456348,Nootdorp,Jeroen van Soolingen
+372463573,Field Grasshopper,Chorthippus brunneus,2025-09-11,13:46,1,5.859585247222222,53.20562789166667,Leeuwarden - Nieuwe Wielen,Ilse de Wit
+372468698,Field Grasshopper,Chorthippus brunneus,2025-09-11,11:08,1,5.641571666666667,51.96999666666667,Wageningen - Kortenoord,Diederik Leutscher
+372472391,Field Grasshopper,Chorthippus brunneus,2025-09-11,14:34,1,5.983892,53.19636,Burgum,Klaas Vonk
+372466013,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,14:20,1,5.848286608333333,51.98405326388889,Oosterbeek,Caroline
+372468436,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,14:44,1,6.113091666666667,52.475375,Zwolle - Zuid,B.P. den Herder
+372468671,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,14:04,1,5.8644312,51.8133542,Nijmegen - Brakkenstein,marieke shrimpino
+372468725,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,11:08,1,5.641545,51.970013333333334,Wageningen - Kortenoord,Diederik Leutscher
+372468726,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,14:04,1,5.8644312,51.8133542,Nijmegen - Brakkenstein,marieke shrimpino
+372498320,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,13:21,1,5.998534,52.090214,Loenen (Gld.) - Loenermark,Robbert en Paula
+372500459,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,19:07,1,5.778985023498535,53.44791030883789,Ameland - Vleijenplasjes,Edwin De Weerd
+372500364,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,19:29,1,5.153489112854004,52.218028029921534,Hilversum - Zuid,Feiko Prins
+372499586,Wood cricket,Nemobius sylvestris,2025-09-11,14:19,1,6.068587303161621,51.60328674316406,Nieuw-Bergen - Gemeenteheide,Linda Veeman
+372498588,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-11,13:07,1,5.990404907279299,52.08738067708746,Loenen (Gld.) - Loenermark,Robbert en Paula
+372498163,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,13:23,1,6.000349,52.090515,Loenen (Gld.) - Loenermark,Robbert en Paula
+372497454,Large Marsh Grasshopper,Stethophyma grossum,2025-09-11,18:04,1,5.8063381,50.8578561,Vilt e.o.,Sil
+372495383,Meadow Grasshopper,Pseudochorthippus parallelus,2025-09-11,19:24,1,5.894288333333334,50.91661333333333,Nuth - Hellebroeker Beemden,Winnubst
+372494370,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,19:09,1,6.6325282,52.8090341,Balingerveld,Jeffrey Aardema
+372448571,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,11:38,1,5.9926686,51.990202699722225,Velp - Biljoen,Ryon
+372447294,Lesser Marsh Grasshopper,Chorthippus albomarginatus,2025-09-11,11:41,1,4.787789,53.115831,Texel - De Nederlanden,Bart ter Beek
+372492710,Dark Bush-cricket,Pholidoptera griseoaptera,2025-09-11,18:47,1,5.6750305,51.9660501,Wageningen - Veluvia Hamelakkers,Marnix Van den Maegdenbergh
+372446301,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,10:06,1,6.519663333333334,52.9854,Assen - Baggelhuizerplas e.o.,bibi1959
+372442317,Lesser Marsh Grasshopper,Chorthippus albomarginatus,2025-09-11,10:56,1,4.8132853,53.130180799722226,Texel - De Slufter,De Clippeleir
+372437590,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,10:04,1,3.706615,51.306915,Biervliet - Angelinapolder e.o.,Marc Bonamie
+372435407,Slender Ground-hopper,Tetrix subulata,2025-09-11,09:38,1,5.328069750428642,51.706814647145634,'s-Hertogenbosch - De Herven,M. de Koning
+372492599,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,18:45,1,4.8459016,52.554588,De Rijp,Jip Postma
+372461179,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,13:34,1,5.271327,51.4003602,Hoogeloon,hein waterschoot
+372462016,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,13:42,1,6.391683333333333,52.62415,Wildenberg,Radboud Echten
+372463583,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,13:59,1,5.646463299722222,51.40264429972222,Strabrechtse Heide - Beuven,Eline Oomen
+372463878,Slender Ground-hopper,Tetrix subulata,2025-09-11,14:01,1,5.325391666666667,52.314188333333334,Almere - Stichtsekant,Laurens
+372467490,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,14:35,1,6.6736015,52.9678839,Nooitgedacht - Hof van Saksen,Marloes School
+372469480,Slender Ground-hopper,Tetrix subulata,2025-09-11,14:54,1,6.092691666666666,52.19325833333333,Wilp - Bussloo,M. Hen
+372472119,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,14:38,1,5.696453333333333,52.807003333333334,Rutten,charlottevdhulst
+372472457,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,15:23,1,4.8480587,53.0388059,Texel - Oudeschild,Ewoud
+372474503,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,15:35,1,6.094306111335754,52.541323806509894,Zwolle - Aa-Landen,corien bruins slot
+372475115,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,15:47,1,7.1779799,53.1185654,Bellingwolde,SanderZ
+372475987,Sickle-bearing Bush-cricket,Phaneroptera falcata,2025-09-11,11:26,1,5.556507110595703,51.5409703914304,Mariahout - Gemeentebossen Lieshout,Will van Berkel
+372477303,Common Ground-hopper,Tetrix undulata,2025-09-11,16:07,1,5.718746666666666,51.976663333333335,Renkum - Ommuurde Tuin,ecopeppie
+372478386,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,11:35,1,5.135497,51.633013,Udenhout - De Brand - Nieuwe Tiend Noord,Alex van Iersel
+372478560,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,16:18,1,6.357737262370206,52.080026113179386,Vorden - Linde e.o.,sieteke faber
+372478885,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,16:21,1,5.99595,52.36660333333333,Epe - Norel e.o.,essiw
+372481726,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,16:51,1,6.063930555555555,53.14106944444445,Opeinde,StephanBerger
+372492220,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,18:39,1,4.277061666666667,51.74999666666667,Tiengemeten - Blanke Slikken,Erik van Well
+372482834,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,17:03,1,6.0883554,52.5254239,Zwolle - Holtenbroek,Mirjam Dijksterhuis
+372483643,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,11:15,1,5.38117915391922,52.03170259615076,Doorn - Kaapse Bossen,Chris Achterberg
+372483654,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,17:10,1,5.283333333333333,52.0509195,Driebergen-Rijsenburg,respirando
+372485869,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,13:22,1,5.930008333333333,52.0794055,Hoenderloo - Deelerwoud - Zuid,Levi
+372491407,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,18:27,1,6.054566,53.3766593,Oosternijkerk,Luut de Zee
+372490904,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,18:22,1,5.675516499722223,51.9793378,Wageningen - Bovenbuurt,Madelief
+372489582,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,18:08,1,5.3366561,51.3935237,Knegsel - Wolfhoeksche Heide,Dion van bommel
+372488582,Bordeaux Cricket,Eumodicogryllus bordigalensis,2025-09-11,16:34,1,4.579977035522461,51.8419075012207,Ridderkerk - Waalbos,Cornelis Fokker
+372463061,European Tree cricket,Oecanthus pellucens,2025-09-11,12:55,1,5.190354824066162,51.67254638671875,Drunen - De Ritskampen,Titia van Heusden
+372450988,,Ephippiger diurnus,2025-09-11,12:06,6,6.0162424,52.0333984,Veluwezoom - Herikhuizerveld,Sverre Pijpker
+372485291,Field Cricket,Gryllus campestris,2025-09-11,11:36,1,5.660268031060696,51.39945143418525,Strabrechtse Heide - Starven,Nieck Roodenburg
+372485080,Large Marsh Grasshopper,Stethophyma grossum,2025-09-11,12:23,1,6.144978906965019,51.44279567995276,Grubbenvorst - Kaldenbroek,Sjors de Kort
+372484401,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,17:18,1,5.376081,51.4109888,Veldhoven - Zittard / Schoot e.o.,NvanBommel
+372483955,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,17:05,1,4.714067,52.030256,Gouda - Plaswijck,Martien Prins
+372483820,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,17:12,1,6.3541567,53.169988,Tolbert,Carla van der veen
+372481529,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,15:31,1,6.340141296386719,53.334617818951,Houwerzijl,Ton Baardolf
+372480719,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,16:41,1,5.01832282762418,52.31221642923541,Driemond - Volkstuincomplex Linnaeus en Frankendael,Kees de Pater
+372479878,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,07:24,1,4.646383166182204,52.41901848842916,Haarlem - Delftwijk,dick kortekaas
+372476572,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,12:20,1,4.064674854278564,51.91642379760742,Oostvoorne - Oostvoornse Meer - Parnassiavlak,Noortje Buddingh
+372477203,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,15:57,1,4.785511493682861,53.11965566247523,Texel - Binnenmuy,Patricia Doornkamp
+372477152,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-11,15:57,1,4.78559327109906,53.119802898602835,Texel - Binnenmuy,Patricia Doornkamp
+372477054,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-11,12:35,1,5.616271,51.41286397222222,Strabrechtse Heide & Beuven - N2000 (B),Mariska Piek
+372477045,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,15:47,1,6.664769899722223,52.1018996,Eibergen,Ronald Oortwijn
+372474941,Slender Ground-hopper,Tetrix subulata,2025-09-11,14:53,1,4.334689020979567,52.00123219107862,Den Hoorn (ZH),Sander Elzerman
+372474498,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,15:35,1,6.094515323638916,52.5412520296815,Zwolle - Aa-Landen,Warner Bruins Slot
+372473723,Field Grasshopper,Chorthippus brunneus,2025-09-11,14:58,1,6.6253334,52.5765765,Hardenberg,Robert Brunink
+372473720,Field Grasshopper,Chorthippus brunneus,2025-09-11,14:57,1,6.6249604,52.5765623,Hardenberg,Robert Brunink
+372473411,Field Grasshopper,Chorthippus brunneus,2025-09-11,13:27,1,6.548711286846576,52.97470117886073,Assen - De Boskamp & Haarweg e.o.,Karin Uilhoorn
+372473267,Bow-winged grasshopper,Chorthippus biguttulus,2025-09-11,13:05,1,6.547842258593578,52.977890241940486,Assen - De Boskamp & Haarweg e.o.,Karin Uilhoorn
+372473260,Common Green Grasshopper,Omocestus viridulus,2025-09-11,13:03,1,6.547458199790257,52.97804296021627,Assen - De Boskamp & Haarweg e.o.,Karin Uilhoorn
+372472620,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,15:23,1,6.629717399722223,53.13793929972222,Glimmen,Frouke Leemhuis
+372472356,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-11,15:22,1,6.067235799722222,51.611055899722224,Nieuw-Bergen - Eendenmeer,Linda Veeman
+372472105,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,14:05,1,6.1269305,51.55810833333334,Wellsche Heide - Galgenberg,Gerarda
+372471603,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,13:20,1,4.38778281211853,52.040836525573546,Nootdorp,Teis Ruder
+372470961,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,15:12,1,4.7386941,52.6510825,Alkmaar - Rak - Noord,Daan
+372470170,Bow-winged grasshopper,Chorthippus biguttulus,2025-09-11,15:03,1,4.056012736717435,51.273483762085505,Hulst - bebossing zuid,Elfi Vanden Berghe
+372469910,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,15:00,1,5.011045644139709,52.09957956566508,Vleuten,Anne Heinsbroek
+372469764,Dark Bush-cricket,Pholidoptera griseoaptera,2025-09-11,14:22,1,7.028034210205078,52.262577056884766,Losser - De Zandbergen,Ruben Bos
+372468116,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,14:33,1,5.901763333333333,52.07298333333333,Hoenderloo - Deelerwoud - Zuid,Levi
+372467430,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,14:23,1,6.501096666666666,53.139152833333334,Peize - De Streek,Nolda Schoots
+372467326,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,12:14,1,5.191731455237182,52.103619499681294,Bilthoven - Houdringe,Kees Greidanus
+372467294,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,12:09,1,5.191894111863388,52.103450556967964,Bilthoven - Houdringe,Kees Greidanus
+372467259,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,12:00,1,5.192687334304075,52.103289030507554,Bilthoven - Houdringe,Kees Greidanus
+372467070,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,10:45,1,5.193800773136269,52.106171019328976,Bilthoven - Houdringe,Kees Greidanus
+372467023,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,14:30,1,5.901921666666667,52.0729555,Hoenderloo - Deelerwoud - Zuid,Levi
+372466746,Bow-winged grasshopper,Chorthippus biguttulus,2025-09-11,14:28,1,6.093423366546631,52.14483642578125,Brummen - Empese en Tondense heide,Bart Dijkstra
+372466363,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,14:23,1,5.9028085,52.0731504,Hoenderloo - Deelerwoud - Zuid,Joeps
+372444083,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,11:11,1,3.930682,51.6906629,Noordgouwe - Polder Noordgouwe west,Tom Booij
+372465116,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,11:52,5,6.188413333333333,51.444271666666666,Arcen - Ravenvennen,sjaak gubbels
+372464633,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,13:08,1,6.642966341175047,52.06174367080907,Eibergen - Kerkdijk e.o.,Floris Kouters
+372464499,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,12:55,1,5.53626909110459,53.05516919962351,Bolsward - Laad en Zaad,Eelco W.F. Brandenburg
+372464379,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,14:08,1,5.2124552,51.5820086,Oisterwijk,Paul van Kerkhoven
+372464008,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,14:04,1,5.5042135,52.3191519,Zeewolde - Horsterwold,Asw
+372462885,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,13:46,1,6.250261666666667,53.05592216666667,Duurswouderheide,Martin Manson
+372462882,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,13:52,1,4.484513590844895,52.191986083984375,Oegstgeest - Haaswijk,anne
+372462786,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,13:51,1,4.484549823687525,52.19201054851046,Oegstgeest - Haaswijk,Annamaria van Roosmalen
+372462726,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,13:50,1,6.388025,52.35618,Haarle - Molenweg,GJH
+372457818,Field Grasshopper,Chorthippus brunneus,2025-09-11,13:03,1,4.3957041,51.6775984,Heijningen - Fort Sabina ,Jeanne Zandbergen
+372462476,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,13:48,1,4.8204915,52.4989396,Wormer,Kees Floris
+372462344,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,13:45,1,6.6253656,52.0981833,Eibergen - Olde Eibergen e.o.,kilian
+372461904,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,13:42,1,6.8728298,53.1322079,Muntendam,Mara
+372461198,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,13:34,1,5.409728667665591,52.118993158799206,Leusden,ivonne oldenburger
+372442440,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,10:39,1,6.6019728,52.5669402,Hardenberg - Heemse,Emperor79
+372453933,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,12:35,1,5.922072222222223,52.91058888888889,Rotstergaasterwallen,Merel Niemeijer
+372455455,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,12:50,1,4.5043176,52.2144849,Teylingen (gemeente) ,Johan
+372459586,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,13:19,1,5.2027314,52.255783,Laren (NH) - Westerheide,Yael Mazo
+372461066,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,12:14,3,5.67333,51.966331,Wageningen - Veluvia Hamelakkers,Dick Belgers
+372460525,Large Marsh Grasshopper,Stethophyma grossum,2025-09-11,13:28,1,6.0354555,51.4846,Horst - Castenrayse Vennen,Dennis
+372460320,Slender Ground-hopper,Tetrix subulata,2025-09-11,13:26,1,4.85561,52.3234665,Amsterdamse Bos - Kleine Kinderbad,vivek
+372460257,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,10:08,1,6.46425686096336,52.718386178094555,A28 - Hoogeveen,Willy Ronkes
+372460070,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-11,12:59,1,4.791608333333333,53.126236166666665,Texel - De Muy,SarahSch
+372459522,Wood cricket,Nemobius sylvestris,2025-09-11,13:18,1,5.953971666666667,51.250595,Nunhem - Sint Ursula,Pieter de Hoop
+372459314,Large Marsh Grasshopper,Stethophyma grossum,2025-09-11,12:44,1,6.08366269245782,52.13806866046226,Brummen - Empese en Tondense heide,Gerard de Jong
+372458593,Large Marsh Grasshopper,Stethophyma grossum,2025-09-11,12:19,1,5.8740103,51.820891,Nijmegen - Brakkenstein - Botanische tuin,Ingrid Hoovers
+372457274,,Ephippiger diurnus,2025-09-11,12:54,9,6.018694877624512,52.028907775878906,Veluwezoom - Herikhuizerveld,Sverre Pijpker
+372456035,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,12:52,1,5.6167933,51.6616161,Uden - Hoevenseveld,Wim
+372455713,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-11,12:50,1,6.390745,52.62398666666667,Wildenberg,Radboud Echten
+372455489,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,12:50,1,5.9109111,51.8251648,Berg en Dal - bebouwing,Jos
+372454213,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,12:38,1,4.787863333333333,53.121452833333336,Texel - Binnenmuy,SarahSch
+372454016,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,12:36,1,4.6192581,51.9741105,Nieuwerkerk aan den IJssel - Kruidenwijk,Marja van der Wel
+372453986,Biguttulus-group,Chorthippus biguttulus-group,2025-09-11,12:35,1,5.922083333333334,52.910580555555555,Rotstergaasterwallen,Merel Niemeijer
+372453926,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-11,12:35,1,5.616286927777778,51.41289139722222,Strabrechtse Heide & Beuven - N2000 (B),Ronald Nijman
+372453658,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,12:32,1,6.679478333333334,53.40587166666667,Uithuizen - Centrum,NoortjeK
+372453349,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,12:30,1,4.7707515,53.009523,Texel - Prins Hendrik Polder - zuidwest,IvdH
+372453312,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,11:49,1,6.516753194444444,52.70283125,Hoogeveen (gemeente) ,Carina van der Sleen
+372452949,Common Green Grasshopper,Omocestus viridulus,2025-09-11,12:26,1,5.904702777777779,52.33191666666667,Tongeren - Tongerense Heide,Dinand van Dalfsen
+372452560,Large Marsh Grasshopper,Stethophyma grossum,2025-09-11,12:23,1,5.922117,52.9106019,Rotstergaasterwallen,Merel Niemeijer
+372452249,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,12:20,1,5.9978727,53.0684752,Nij Beets,Obsidentify1!
+372451828,Long-winged Cone-head,Conocephalus fuscus,2025-09-11,10:34,1,5.750528333333333,50.810505,Eckelrade e.o.,joost van koppen
+372451192,Common Ground-hopper,Tetrix undulata,2025-09-11,12:13,1,6.034777833333333,52.96008,Bontebok,Valentijn Serge van Bergen
+372451208,,Tetrix spec.,2025-09-11,12:14,1,5.417716666666667,52.03344722222222,Leersum - Leersumse Veld,Wanda Floor-Zwart
+372450519,Bow-winged grasshopper,Chorthippus biguttulus,2025-09-11,12:07,1,5.417741666666667,52.03338055555555,Leersum - Leersumse Veld,Wanda Floor-Zwart
+372450507,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,12:07,1,4.864102777777777,52.747344444444444,'t Veld - W.O.L.-polder,Gerard Visser
+372450479,Common Ground-hopper,Tetrix undulata,2025-09-11,12:07,1,5.417727777777778,52.033375,Leersum - Leersumse Veld,Wanda Floor-Zwart
+372450195,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-11,12:06,1,4.5208155,52.295856,Amsterdamse Waterleidingduinen - Sasbergen,Hans van der Meulen
+372449719,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,11:50,1,5.370825,52.047697,Doorn - Kaapse Bossen,Yakibah
+372449436,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,11:59,1,5.625416666666667,51.40727222222222,Strabrechtse Heide & Beuven - N2000 (B),Anica
+372449102,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,11:58,1,5.625295,51.407275,Strabrechtse Heide & Beuven - N2000 (B),Jade Delahaye
+372448147,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,11:50,1,5.311770852176592,52.051315458061175,Maarn - Maarnsche Berg,Jan Daemen
+372447911,Mole cricket,Gryllotalpa gryllotalpa,2025-09-11,11:49,1,4.863056060647789,52.07699173125196,Woerden - Molenvliet,jansmallenbroek
+372447564,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,11:44,1,5.7134849,51.388326399722224,Someren,Janneke
+372447409,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-11,11:42,1,6.022247799722222,52.02920509972222,Veluwezoom - Herikhuizerveld,Sverre Pijpker
+372446749,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,11:36,1,6.522671452532837,53.17407047804643,De Onlanden - Eelderdiep,SuperTinus
+372446586,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,11:34,1,6.1383988,52.5193714,Zwolle - Herfte,Dinie
+372445947,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,11:26,1,5.847401999722222,53.2114234,Leeuwarden - Camminghaburen,a.de vries
+372445609,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,11:24,1,5.8473794,53.211426,Leeuwarden - Camminghaburen,a.de vries
+372445569,Cepero’s Ground-hopper,Tetrix ceperoi,2025-09-11,11:22,1,4.6977088,52.092204099722224,Boskoop - Vereenigde Polder,melitta
+372444638,Mottled Grasshopper,Myrmeleotettix maculatus,2025-09-11,11:13,1,5.91745,52.333172222222224,Tongeren - Tongerense Heide,Dinand van Dalfsen
+372443791,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,11:07,1,4.569736111111111,52.34448611111112,Amsterdamse Waterleidingduinen - Naaldenbos,Babs Dohmen
+372442666,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,10:59,1,5.823067598642664,51.382194625173234,Asten - Buizerdweg e.o.,Silouan
+372442530,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,10:59,1,6.6016687,52.5665672,Hardenberg - Heemse,Emperor79
+372442020,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,10:52,1,4.775241666666666,52.62991666666667,Oudorp (NH),Jeroen Scheepers
+372441788,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,10:48,1,5.5107147,52.3429528,Zeewolde,Esmop
+372441233,Meadow Grasshopper,Pseudochorthippus parallelus,2025-09-11,10:41,1,5.958879233246689,51.990366019066826,Velp - Landgoed Larenstein,SambaMike
+372440863,Meadow Grasshopper,Pseudochorthippus parallelus,2025-09-11,10:38,1,5.958935695594287,51.99047377594459,Velp - Landgoed Larenstein,SambaMike
+372439780,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,10:28,1,5.7259279,50.839888299722226,Maastricht - Heer,Jan Hurkens
+372439746,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,10:28,1,5.485728621180712,52.494954863960416,Lelystad - Waterwijk,Frank Böinck
+372438307,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,10:13,1,4.6692136,52.3047617,Hoofddorp - Pax,Steven van Hell
+372438116,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,10:11,1,5.354770420373032,51.9993929424661,Langbroek - Landgoed Sandenburg,Manja
+372436972,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,09:59,1,4.4719133,52.2926875,Noordwijk - Noordduinen - De Blink,Moos
+372436661,Blue-winged Grasshopper,Oedipoda caerulescens,2025-09-11,09:55,1,4.64966,52.564868,Noordhollands Duinreservaat - Krochtveld,Tom Valkering
+372435914,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,09:46,1,5.866946,50.8084411,Gulpen - Osebosch,J. Reekers
+372430418,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,07:57,1,5.731563180396968,51.798616513630776,Wijchen zuid,R/\Y
+372429413,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,07:27,1,4.997791154314761,51.679323264445806,Waalwijk - Binnenpolder van Capelle - oost,XX10tje
+372429412,Great Green Bush-cricket,Tettigonia viridissima,2025-09-11,07:27,1,4.997722683389251,51.679229736328125,Waalwijk - Binnenpolder van Capelle - oost,Petra
+372428060,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,06:12,1,5.696944444444445,52.45500277777778,Biddinghuizen,Thomas-Jan
+372426420,Mediterranean Katydid,Phaneroptera nana,2025-09-11,00:21,1,4.56680489,51.83139801,Heerjansdam - Polder het Buitenland,Daan van Braak
+372427058,Southern Oak Bush-cricket,Meconema meridionale,2025-09-11,01:17,1,5.233636872675723,52.38874428695254,Almere - Waterwijk,Huib Leenders
+372426626,Speckled Bush-cricket,Leptophyes punctatissima,2025-09-11,00:06,1,6.296659,52.39645396388889,Raalte,Benny Koerhuis
+372426504,House cricket,Acheta domesticus,2025-09-11,00:26,1,6.12029517453808,51.33053713080335,Steyl,Ar
